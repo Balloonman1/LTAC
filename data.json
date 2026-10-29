@@ -1,0 +1,2405 @@
+[
+ {
+  "name": "Seattle",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "City special hotel-motel tax not imposed; 7% King County convention and trade center tax inside Seattle; 2.3% STIA fee at 71 downtown hotels",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "No city LTAC grant program found; Seattle lodging taxes go to the Washington State Convention Center and the STIA fee goes to Visit Seattle marketing.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Bellevue",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "5.5% city transient occupancy tax (grandfathered) plus $2.50/night TPA fee",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/Econ%20Dev%202021-2022%20Adopted%20Budget.pdf",
+  "contact": null,
+  "notes": "100% of Bellevue's lodging tax passes to the Bellevue Convention Center Authority (Meydenbauer Center) under an agreement running to 2034, so there is no open LTAC application.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "SeaTac",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "1% lodging tax (per city application)",
+  "has_ltac_grants": true,
+  "cycle": "biennial",
+  "deadline": "2026-05-29",
+  "funding_year": "2027-2028",
+  "deadline_pattern": "Around May 31 of the second year of each biennial budget; off-cycle requests due 10 days before a regular Hotel Motel Advisory Committee meeting (2nd Wednesday)",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.seatacwa.gov/government/city-departments/legal/city-clerk/citizen-advisory-committees/hotel-motel-tax-advisory-committee",
+  "contact": "Maria Langbauer, Senior Economic Development Strategist, mlangbauer@seatacwa.gov",
+  "notes": "Only municipalities, PFDs and 501(c)(3)/(c)(6) nonprofits are eligible; reimbursement-based; the special hotel/motel tax brought in about $2.06M in 2025.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Mohamed Egal",
+    "role": "Chair",
+    "affiliation": "Mayor, City of SeaTac",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jeffrey Bauknecht",
+    "role": null,
+    "affiliation": "Museum of Flight",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jamie Stenson",
+    "role": null,
+    "affiliation": "SeaTac BMX",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Luanne Coachman",
+    "role": null,
+    "affiliation": "Highline Garden",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Byron Pihuave",
+    "role": "Lodging representative",
+    "affiliation": "Cedarbrook Lodge (seat listed vacant on March 11, 2026 agenda)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Mollie Mad",
+    "role": "Lodging representative",
+    "affiliation": "BMI Hospitality",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.seatacwa.gov/home/showpublisheddocument/40868/639086662753470000",
+  "members_as_of": "2026-02-11",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "Hotel Motel Advisory Committee reviews applications at its regular monthly meetings; off-cycle requests are heard at the meeting following the 10-day submission cutoff; whether applicants present is not stated",
+   "format": null
+  },
+  "meeting_schedule": "Second Wednesday of each month, 3:00 pm, SeaTac City Hall"
+ },
+ {
+  "name": "Spokane",
+  "type": "city",
+  "county": "Spokane",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "semiannual",
+  "deadline": "2026-03-31",
+  "funding_year": "July 2026 - June 2027 events",
+  "deadline_pattern": "Two rounds per year: late March (events July-June) and early-mid October (2025 round due Oct 10 for January-June events)",
+  "typical_open": "March 1 for the spring round; mid-September for the fall round",
+  "annual_pool": null,
+  "url": "https://my.spokanecity.org/bcc/committees/tourism-and-cultural-investment-committee/",
+  "contact": "Council Member Zack Zappone (chair), taciapp@spokanecity.org",
+  "notes": "Run as Tourism and Cultural Investment (TACI) grants through the Neighborly portal; nonprofits, for-profits and public agencies can apply, up to $10,000 per organization.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Zack Zappone",
+    "role": "Chair",
+    "affiliation": "Spokane City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Rose Noble",
+    "role": "Activity representative",
+    "affiliation": "Tourism Representative",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Ginger Ewing",
+    "role": "Activity representative",
+    "affiliation": "Tourism Representative",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Rowena Pineda",
+    "role": "Activity representative",
+    "affiliation": "Tourism Representative",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jon Erickson",
+    "role": "Lodging representative",
+    "affiliation": "Hotel/Motel Representative",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Cami Aguayo",
+    "role": "Lodging representative",
+    "affiliation": "Hotel/Motel Representative",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Matt Jensen",
+    "role": "Lodging representative",
+    "affiliation": "Hotel/Motel Representative",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://my.spokanecity.org/bcc/committees/tourism-and-cultural-investment-committee/",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "TACI committee reviews written applications submitted through the Neighborly portal after each deadline and notifies awards about 4 weeks later (April 27, 2026 for the March round); no applicant presentation is described",
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Tacoma",
+  "type": "city",
+  "county": "Pierce",
+  "tax_rate": "2% special hotel/motel tax; 5% at properties with 26+ rooms (includes 3% convention center tax)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "No City of Tacoma LTAC application found; Tacoma is not in the Pierce County LTAC grant program, and the city's Special Events Funding ($90K, due Oct 21, 2025 for 2026) is paid from venue food-and-beverage tax, not lodging tax.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Vancouver",
+  "type": "city",
+  "county": "Clark",
+  "tax_rate": "4% lodging tax (plus $2/night TPA fee)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-20",
+  "funding_year": "2027",
+  "deadline_pattern": "Around September 20 each year for the following calendar year; LTAC reviews in Oct-Nov, Council approves in December",
+  "typical_open": "Early August",
+  "annual_pool": null,
+  "url": "https://www.cityofvancouver.us/economic-prosperity-and-housing/lodging-tax-grant-program/",
+  "contact": "Andrew Westlund, Economic Development Management Analyst, andrew.westlund@cityofvancouver.us",
+  "notes": "Four grant types (Cultural Enrichment up to about $5K, Large Event/Festival for 2,500+ attendees, Tourism Program/Facilities, Tourism Organization Operating); requires a 501(c)(3)/(c)(6) host or fiscal sponsor.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Kim Harless",
+    "role": "Chair",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Steve Bowers",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Temple Lentz",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Janet Kenefsky",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jennifer Kenney",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Christie Rust",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Terry Goldman",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Ryan Hart",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Carla Rise",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.cityofvancouver.us/wp-content/uploads/2024/01/Final-LTAC-Minutes-24-02-14-Signed.pdf",
+  "members_as_of": "2024-02-14",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "LTAC reviews applications in October and November, about 3 to 8 weeks after the September 20 deadline, and sends recommendations to City Council in December; applicant presentations are not described",
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Redmond",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "1% lodging tax",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-08-10",
+  "funding_year": "2027",
+  "deadline_pattern": "Early-to-mid August each year for the following calendar year (2027 cycle due Aug 10 at 5 p.m.)",
+  "typical_open": "Late July (July 20 for the 2027 cycle)",
+  "annual_pool": null,
+  "url": "https://www.redmond.gov/650/Tourism-Grants",
+  "contact": "Jackie Lalor, Economic Development & Tourism Program Administrator, 425-556-2209",
+  "notes": "Open to public or private organizations; grants may not exceed 50% of project cost and must attract overnight visitors.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Vanessa Kritzer",
+    "role": "Chair",
+    "affiliation": "Redmond City Council (Council Chair)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "George Manojlovic",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kim Saunderson",
+    "role": null,
+    "affiliation": "Also a BRTPA member",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Latha Sambamurti",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Nancy Heard",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Nate Moore",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Rashed Kanaan",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.redmond.gov/AgendaCenter/ViewFile/Minutes/_06022026-1498",
+  "members_as_of": "2026-06-02",
+  "presentation": {
+   "required": false,
+   "date": "2026-09-01",
+   "pattern": "Staff score written applications and LTAC adopts funding recommendations at a meeting about 3 weeks after the August deadline (Sept 1, 2026; Aug 26, 2025); agendas list no invited applicants",
+   "format": "written only"
+  },
+  "meeting_schedule": "Roughly quarterly on a Tuesday afternoon at Redmond City Hall with a call-in option (2026: Feb 24, Apr 27, Jun 2, Sep 1)"
+ },
+ {
+  "name": "Kirkland",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "1% lodging tax",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-06-01",
+  "funding_year": "2026",
+  "deadline_pattern": "Varies year to year; 2026 grants were due June 1, 2026 and earlier cycles were due in late July (2024) and August (2025)",
+  "typical_open": "Spring (application open by April 14, 2026)",
+  "annual_pool": "$110K (2026 awards)",
+  "url": "https://www.kirklandwa.gov/Government/City-Managers-Office/Tourism-Program/Tourism-Events-Grant-Funding",
+  "contact": "Jen Davis Hayes, Economic Development Manager, jdavishayes@kirklandwa.gov, 425-587-3038; tourism@kirklandwa.gov",
+  "notes": "Run by the Tourism Development Committee for events that draw visitors from 50+ miles; the city page says the 2027 application period is closed, but the 2027 due date is not posted.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": "2026-07-02",
+   "pattern": "Tourism Development Committee reviews applications at its monthly meeting roughly a month after the deadline (July 2, 2026 for the June 1 deadline); applicant presentations are not described",
+   "format": null
+  },
+  "meeting_schedule": "First Thursday of the month (2026: Feb 5, Mar 5, Apr 2, May 7, Jul 2, Aug 6)"
+ },
+ {
+  "name": "Everett",
+  "type": "city",
+  "county": "Snohomish",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2025-12-15",
+  "funding_year": "2026",
+  "deadline_pattern": "Mid-December for the following calendar year; awards announced by end of January",
+  "typical_open": "Early November",
+  "annual_pool": "$200K",
+  "url": "https://everettwa.gov/LTAC",
+  "contact": "Tyler Chism, Placemaking Program Manager, tchism@everettwa.gov, 425-257-7107",
+  "notes": "Nonprofits and public agencies can apply, and for-profits can join through a nonprofit or public sponsor; operations are prioritized and marketing-only requests go to the Snohomish County TPA.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": "2026-02-12",
+   "pattern": "Written applications submitted through Euna are scored by LTAC in January, with awards announced by end of January; no interviews or presentations",
+   "format": "written only"
+  },
+  "meeting_schedule": "As needed; the 2026 LTAC meeting was February 12, 2026 at 2 pm"
+ },
+ {
+  "name": "Tukwila",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "1% lodging tax",
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "Rolling; due by noon on the second Thursday of a month for that month's LTAC meeting (fourth Tuesday, 1 p.m.)",
+  "typical_open": "Year-round",
+  "annual_pool": null,
+  "url": "https://www.tukwilawa.gov/?p=8332",
+  "contact": "Brandon Miles, Business Relations Manager, Brandon.Miles@tukwilawa.gov, 206-431-3684",
+  "notes": "Only government entities and nonprofits are eligible, and applications need visitor projections; contracts over $40K need City Council approval.",
+  "confidence": "high",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "Applications received by noon on the second Thursday are reviewed at that month's LTAC meeting on the fourth Tuesday; whether applicants present is not stated",
+   "format": null
+  },
+  "meeting_schedule": "Fourth Tuesday of each month, 1:00 pm, rotating City locations"
+ },
+ {
+  "name": "Renton",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "1%",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-11-06",
+  "funding_year": "2027",
+  "deadline_pattern": "Late October to early November each year for the following calendar year (2026 cycle was due 2025-10-24, 4:30 p.m.)",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.rentonwa.gov/Government/Departments-and-Offices/Community-and-Economic-Development/Economic-Development/LTAC",
+  "contact": "Jessie Kotarski, Economic Development Manager, jkotarski@rentonwa.gov, 425-430-7271",
+  "notes": "Nonprofits and municipal bodies only (IRS letter, Renton business license and $1M/$2M insurance naming the City required); reimbursement-based, project completed in the same calendar year, 25% match scored.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "James Alberson Jr.",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Cathy Martinez",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Menka Soni",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.rentonwa.gov/Government/Boards-Committees-Commissions/MembersVacancies",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "LTAC evaluates applications after the early-November deadline and sends recommendations to Council; no applicant presentation step is described",
+   "format": null
+  },
+  "meeting_schedule": "Scheduled as needed"
+ },
+ {
+  "name": "Lynnwood",
+  "type": "city",
+  "county": "Snohomish",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.lynnwoodwa.gov/Government/Boards-and-Commissions/Tourism-Advisory-Committee",
+  "contact": "Ryan Bush, 425-670-5046",
+  "notes": "No public outside-organization grant application found; lodging tax is advised by the city's Tourism Advisory Committee and supports city tourism programs and the Lynnwood Event Center (PFD), so confirm with staff.",
+  "confidence": "low",
+  "members": [
+   {
+    "name": "Isabel Mata",
+    "role": "Position 1",
+    "affiliation": "Lynnwood City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Chip Peterson",
+    "role": "Position 2",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Emily Sorenson",
+    "role": "Position 3",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Janet Pope",
+    "role": "Position 4",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Frank Percival",
+    "role": "Position 5",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Anthony Angel",
+    "role": "Position 6",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jerry Irwin",
+    "role": "Position 7",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.lynnwoodwa.gov/Government/Boards-and-Commissions/Tourism-Advisory-Committee",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Federal Way",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "1%",
+  "has_ltac_grants": true,
+  "cycle": "semiannual",
+  "deadline": "2026-08-11",
+  "funding_year": "2026-2027 (second round, Council approval early November)",
+  "deadline_pattern": "Two rounds per year: February 10 (Council approval early May) and August 11 (Council approval early November), 5:00 p.m.",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.federalwaywa.gov/page/lodging-tax-advisory-committee",
+  "contact": "Julianna La Brake, Economic Development, EconomicDevelopment@federalwaywa.gov, (253) 835-2408",
+  "notes": "Tourism Enhancement Grant runs twice a year (cycle field set to annual) for events and non-event tourism programs; reimbursement-based, with interviews before the LTAC; the official page lists dates without years.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Lydia Assefa-Dawson",
+    "role": "Chair",
+    "affiliation": "Federal Way City Council (Position 1)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Chris Jordan",
+    "role": "Activity representative",
+    "affiliation": "King County Aquatic Center (Position 2)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kristin Wells",
+    "role": "Lodging representative",
+    "affiliation": "Courtyard by Marriott (Position 3)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Stacia Winters",
+    "role": "Activity representative",
+    "affiliation": "Federal Way Performing Arts & Events Center (Position 4)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Harrington Griffin",
+    "role": "Lodging representative",
+    "affiliation": "Hilton (Position 5)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Janie Bube",
+    "role": "Activity representative",
+    "affiliation": "Pacific Bonsai Museum (Position 6)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Juliana Bliss",
+    "role": "Lodging representative",
+    "affiliation": "Holiday Inn Express & Staybridge Suites (Position 7)",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.federalwaywa.gov/content/Lodging-committee",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": true,
+   "date": "2026-09-08",
+   "pattern": "Applicants submit a presentation about two weeks after the deadline (Feb 24 / Aug 25) and are interviewed by the LTAC about four weeks after the deadline (Mar 10 / Sep 8, 2:00 p.m.); LTAC decides about five weeks later (Apr 14 / Oct 13)",
+   "format": "in person"
+  },
+  "meeting_schedule": "Regular meetings at City Hall, Hylebos Conference Room, 2:00-4:00 p.m. (next listed 2026-12-08); recurrence not published"
+ },
+ {
+  "name": "Kent",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "1%",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "Historically September 1-30 for the following calendar year (2018 cycle for 2019 funding)",
+  "typical_open": "September 1 (historical)",
+  "annual_pool": "$500K (2019 awards; $200K in 2022)",
+  "url": "https://www.kentwa.gov/government/boards-commissions-task-forces/lodging-tax-advisory-committee",
+  "contact": "Michelle Wilmot, Economic Development Manager, mwilmot@KentWA.gov, 253-856-5709 (2018 listing, verify)",
+  "notes": "Business and leisure tourism promotion grants; applicants were nonprofits, CVBs, PFDs, DMOs, chambers and municipalities; no current-cycle page could be reached, so dates and contact need confirmation.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Biannually or as needed (2019 listing)"
+ },
+ {
+  "name": "Bothell",
+  "type": "city",
+  "county": "King",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "No open grant program found; about $425K/yr in lodging tax mostly funds a Street Sense destination marketing contract (6-month extension approved September 2026), and the LTAC has discussed funding targeted events for 2027-2028.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Monthly (per March 2026 LTAC minutes); met 2026-03-17, 2026-06-16, 2026-09-15"
+ },
+ {
+  "name": "Issaquah",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "1%",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-07-12",
+  "funding_year": "Projects August 2026 to April 2027",
+  "deadline_pattern": "Annual call, with a second 2026 round released June 10 and due July 12; future rounds not yet posted",
+  "typical_open": "June (2026 second round)",
+  "annual_pool": null,
+  "url": "https://www.issaquahwa.gov/FormCenter/Grants-12/Lodging-Tax-Advisory-Committee-20267-Fun-348",
+  "contact": "Economic Development (Jack Pedlow), ED@issaquahwa.gov, 425-837-3000",
+  "notes": "Issaquah businesses and nonprofits only; requests up to $55,000, reimbursement-only; must coordinate with Issaquah hotels and draw visitors from 50+ miles.",
+  "confidence": "high",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation at application; LTAC reviews in late July about two weeks after the deadline, but grant recipients must present to the LTAC at a later meeting",
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Spokane Valley",
+  "type": "city",
+  "county": "Spokane",
+  "tax_rate": "2% basic + 1.3% special",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-10-30",
+  "funding_year": "2027",
+  "deadline_pattern": "Late October each year (4:00 p.m.) for the following calendar year",
+  "typical_open": "Late September (opened 2026-09-28)",
+  "annual_pool": "$250K (anticipated 2027)",
+  "url": "https://www.spokanevalleywa.gov/813/Lodging-Tax-Grants",
+  "contact": "Sarah Farr, Accounting and Finance Program Manager, sfarr@SpokaneValleyWA.gov, 509-720-5041",
+  "notes": "For-profit and nonprofit applicants are eligible; the 1.3% capital portion is limited to municipalities and PFDs; the online application cannot be saved, so prepare the eight required PDFs first.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "https://spokanevalleywa.gov/200/Lodging-Tax-Advisory-Committee-LTAC",
+  "members_as_of": null,
+  "presentation": {
+   "required": true,
+   "date": "2026-11-18",
+   "pattern": "Each applicant gives a brief presentation at the LTAC meeting about three weeks after the late-October deadline",
+   "format": null
+  },
+  "meeting_schedule": "Not published; LTAC meets after the grant deadline (2026-11-18 for the 2027 cycle)"
+ },
+ {
+  "name": "Kennewick",
+  "type": "city",
+  "county": "Benton",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-30",
+  "funding_year": "2027",
+  "deadline_pattern": "September 30 each year (4:00 p.m.) for the following calendar year",
+  "typical_open": "September 1",
+  "annual_pool": null,
+  "url": "https://www.go2kennewick.com/1574/Lodging-Tax-Advisory-Committee",
+  "contact": "Senior Accounting Specialist (staff liaison), Kennewick City Hall, 509-585-4200",
+  "notes": "2027 window is closed; LTAC reviewed 2026-10-22 and Council decides 2026-11-18; Visit Tri-Cities is a major recipient.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Jim Millbauer",
+    "role": "Chair",
+    "affiliation": "Kennewick City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Loren Anderson",
+    "role": "Alternate (elected official)",
+    "affiliation": "Kennewick City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Corey Pearson",
+    "role": "Activity representative",
+    "affiliation": "VenuWorks (Executive Director)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Gretchen Guerrero",
+    "role": "Activity representative",
+    "affiliation": "Visit Tri-Cities (Vice President)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Michael Garza",
+    "role": "Lodging representative",
+    "affiliation": "Holiday Garden Inn Kennewick",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Heather Bennett",
+    "role": "Lodging representative",
+    "affiliation": "Comfort Suites",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.go2kennewick.com/1574/Lodging-Tax-Advisory-Committee",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": null,
+   "date": "2026-10-22",
+   "pattern": "LTAC discusses and votes on each application in a public session about three weeks after the September 30 deadline; applicant presentations not described",
+   "format": null
+  },
+  "meeting_schedule": "Once or twice each fall, dates posted on the public meetings portal"
+ },
+ {
+  "name": "Richland",
+  "type": "city",
+  "county": "Benton",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2025-10-10",
+  "funding_year": "2026",
+  "deadline_pattern": "Early to mid-October for the following calendar year",
+  "typical_open": "Late September to early October",
+  "annual_pool": null,
+  "url": "https://www.richlandbusiness.com/lodgingtax",
+  "contact": "Mandy Wallner, Economic Development Manager (LTAC staff liaison); Economic Development Office 509-942-7725",
+  "notes": "Reimbursement-based grants covering up to 30% of a project's total cash expenses; the 2027 deadline was not yet published and applications were expected to open between July and October 2026.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Pat Holten",
+    "role": "Chair",
+    "affiliation": "Richland City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Douglas Sako",
+    "role": "Member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Todd Nelson",
+    "role": "Member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Hector Cruz",
+    "role": "Member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Lacey Stephens",
+    "role": "Member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.richlandwa.gov/government/advisory-boards-commissions-and-committees/lodging-tax-advisory-committee",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Pasco",
+  "type": "city",
+  "county": "Franklin",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-07-31",
+  "funding_year": "2027",
+  "deadline_pattern": "July 1-31 each year (30-day window) for the following calendar year",
+  "typical_open": "July 1",
+  "annual_pool": null,
+  "url": "https://www.pasco-wa.gov/1043/Lodging-Tax-Advisory-Committee-LTAC",
+  "contact": "Richa Sigdel, Deputy City Manager; Laurel McQuade, Communications Program Lead, 509-975-9683",
+  "notes": "2027 window closed and LTAC reviewed in September; prior expenditure plans posted show past awards.",
+  "confidence": "high",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": "2026-09-17",
+   "pattern": "LTAC reviews applications at a September meeting about seven weeks after the July 31 deadline; applicant presentations not described",
+   "format": "in person"
+  },
+  "meeting_schedule": "Not published; 2027-cycle meeting 2026-09-17, 1:30 p.m., Pasco City Hall, with virtual option on request"
+ },
+ {
+  "name": "Yakima",
+  "type": "city",
+  "county": "Yakima",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-07-01",
+  "funding_year": "2027",
+  "deadline_pattern": "July 1 each year for the following calendar year",
+  "typical_open": "June 1",
+  "annual_pool": null,
+  "url": "https://www.yakimawa.gov/services/finance/tourism-promotion-grants-lodging-tax-funded/",
+  "contact": "Finance Department, financeinfo@yakimawa.gov, (509) 575-6070",
+  "notes": "Nonprofits and public agencies only; preference for city-owned tourism facilities and year-round promotion through the DMO.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "https://www.yakimawa.gov/media/news/wp-content/blogs.dir/6/files/sites/6/Volunteers-Sought-for-Boards-Committees-and-Commissions-News-Release.pdf",
+  "members_as_of": "2026-08-25",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "City staff and the LTAC review written applications after the July 1 deadline; no applicant presentation is mentioned",
+   "format": "written only"
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Wenatchee",
+  "type": "city",
+  "county": "Chelan",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": null,
+  "funding_year": "2026",
+  "deadline_pattern": "Rolling; applications due one week before each joint LTAC/TPA meeting until funds run out",
+  "typical_open": "Year-round",
+  "annual_pool": "$100K",
+  "url": "https://wenatcheewa.gov/government/mayor-s-office/tourism-promotion-area-lodging-tax",
+  "contact": null,
+  "notes": "Event-focused reimbursement grants reviewed jointly with the Tourism Promotion Area board; 2026 LTAC budget of $100K was nearly spent by May 2026.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Top Rojanasthien",
+    "role": "Chair",
+    "affiliation": "Wenatchee City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Nadine Stika",
+    "role": "Lodging representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kyle McCubbin",
+    "role": "Lodging representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Rosa Pulido",
+    "role": "Activity representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Aidan Long",
+    "role": "Member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kendall Long",
+    "role": "Member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.wenatcheewa.gov/home/showpublisheddocument/31342/639168571568270000",
+  "members_as_of": "2026-05-20",
+  "presentation": {
+   "required": true,
+   "date": "2026-06-17",
+   "pattern": "Applicants present to the joint LTAC/TPA meeting following their submission; applications due one week before the meeting",
+   "format": "in person"
+  },
+  "meeting_schedule": "Joint LTAC/TPA meetings roughly monthly on a Wednesday at 12:00 pm, City Hall 2nd floor meeting room (2026: May 20, June 17; 2024: May 15, Jun 26, Jul 17, Aug 21, Sep 18)"
+ },
+ {
+  "name": "Leavenworth",
+  "type": "city",
+  "county": "Chelan",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-08-10",
+  "funding_year": "2027",
+  "deadline_pattern": "Summer each year (August 10 in 2026; June 10 in 2024) for the following calendar year",
+  "typical_open": "Late June to July",
+  "annual_pool": "$150K",
+  "url": "https://cityofleavenworth.com/community/leavenworth-fund/",
+  "contact": "Courtney Porter (2027 cycle); Sue Cragun, Executive Assistant, (509) 668-9077",
+  "notes": "Run as the Leavenworth Fund Lodging Tax Fund; 501(c) nonprofits or fiscally sponsored groups only, max $10K for events and $5K for secondary attractions, reimbursement basis.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "https://cityofleavenworth.com/community/leavenworth-fund/lodging-tax-grant-program/",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "City Council Economic Development Committee reviews written applications and forwards recommendations to Council; no presentation mentioned",
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Ocean Shores",
+  "type": "city",
+  "county": "Grays Harbor",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2024-03-29",
+  "funding_year": null,
+  "deadline_pattern": "Proposals accepted September 1-30 each year per LTAC page; extra rounds when excess funds exist (e.g., March 2024)",
+  "typical_open": "September 1",
+  "annual_pool": "$1.5M",
+  "url": "https://osgov.com/government/boards___commissions___committees/lodging_tax_advisory_committee.php",
+  "contact": "Denise Siers, LTAC Chair, dsiers@osgov.com; City Clerk, slogan@osgov.com, 360-289-2022",
+  "notes": "Most of the pool goes to the Ocean Shores Convention Center ($1.1M of $1.5M in 2025), leaving a small amount for outside groups.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Denise Siers",
+    "role": "Chair",
+    "affiliation": "Ocean Shores City Council",
+    "email": "dsiers@osgov.com",
+    "phone": null
+   }
+  ],
+  "members_source": "https://osgov.com/government/boards___commissions___committees/lodging_tax_advisory_committee.php",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "LTAC meets two or three times in October after the September 30 proposal deadline to review proposals before Council",
+   "format": null
+  },
+  "meeting_schedule": "Meets as necessary, no regular schedule; typically two or three meetings in October"
+ },
+ {
+  "name": "Long Beach",
+  "type": "city",
+  "county": "Pacific",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2025-10-03",
+  "funding_year": "2026",
+  "deadline_pattern": "Early October each year (Oct 1-3) for the following calendar year",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.longbeachwa.gov/media/7731",
+  "contact": "Ariel Smith, asmith@longbeachwa.gov, (360) 642-4421",
+  "notes": "Requires liability insurance naming the City and an economic impact report within 60 days of the event; 2027 cycle not found online.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Olympia",
+  "type": "city",
+  "county": "Thurston",
+  "tax_rate": "4% special excise tax (first 2% credited against state sales tax)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Annual cycle; committee reviews applications in June/July and early October",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.olympiawa.gov/government/advisory_committees/lodging_tax_advisory_committee.php",
+  "contact": "Amelia Layton, Staff Liaison, alayton@ci.olympia.wa.us, 360.507.6035",
+  "notes": "Nonprofits and government entities only; promotion must target audiences outside Thurston County; applications through Submittable, reimbursement basis.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Yến Huỳnh",
+    "role": "Chair",
+    "affiliation": "Olympia City Council (Mayor Pro-tem)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Janine Phillips",
+    "role": "Lodging representative",
+    "affiliation": "Hampton Inn & Suites",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Greg Taylor",
+    "role": "Lodging representative",
+    "affiliation": "DoubleTree by Hilton",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kelly Campbell",
+    "role": "Activity representative",
+    "affiliation": "Experience Olympia and Beyond",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Theresa Thorning",
+    "role": "Activity representative",
+    "affiliation": "Olympic Flight Museum Airshow",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.olympiawa.gov/government/advisory_committees/lodging_tax_advisory_committee.php",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "Committee reviews applications at its June/July meeting and finalizes recommendations in early October",
+   "format": null
+  },
+  "meeting_schedule": "Usually meets three times a year, including June/July and early October"
+ },
+ {
+  "name": "Lacey",
+  "type": "city",
+  "county": "Thurston",
+  "tax_rate": "4%",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-08-21",
+  "funding_year": "2027",
+  "deadline_pattern": "Late August each year for the following calendar year; presentations mid-September",
+  "typical_open": "July",
+  "annual_pool": "$685K",
+  "url": "https://cityoflacey.org/government/lacey-city-council/boards-commissions/ltac/",
+  "contact": "Sadie Siglin, Management Analyst, Lodging.Tax@CityofLacey.org, 360-456-7788",
+  "notes": "Covers Lacey and its Urban Growth Area; reimbursement-only with a Professional Services Agreement; pool is the 2026 awards total.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "https://cityoflacey.org/government/lacey-city-council/boards-commissions/ltac/",
+  "members_as_of": "2026-09-09",
+  "presentation": {
+   "required": false,
+   "date": "2026-09-17",
+   "pattern": "LTAC may request a supplemental presentation from applicants about four weeks after the late-August deadline (anticipated Sept 17, 2026)",
+   "format": "in person"
+  },
+  "meeting_schedule": "No fixed schedule; meets in September for application review (hybrid: Lacey City Hall Executive Board Room, Zoom and YouTube), with awards in January"
+ },
+ {
+  "name": "Bellingham",
+  "type": "city",
+  "county": "Whatcom",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-04",
+  "funding_year": "2027",
+  "deadline_pattern": "Early September each year for the following calendar year",
+  "typical_open": "Early June",
+  "annual_pool": null,
+  "url": "https://cob.org/tourism-funding-opportunities",
+  "contact": "Tourism program, tourism@cob.org, 360-778-8300 (staff tkwebb@cob.org)",
+  "notes": "Tiers: Visitor-Generating Events up to $100K/yr (2-year term), Destination Experience up to $35K, Small Grant up to $5K, plus Signature Event grants; LTAC is a subcommittee of the Tourism Commission.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Todd Elsworth",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Peter Frazier",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Christine Jenkins",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Matt Lesinski",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Craig Jewell",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Marc Blake",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Stephanie Morrell",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kevin Coleman",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Nick Kelly",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kimberly Anderson",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Katy Willis",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Lindsey Payne Johnstone",
+    "role": "Tourism Commission member",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://cob.org/gov/public/bc/tourism",
+  "members_as_of": "2026-10-28",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "Tourism Commission reviews proposals after the early-September deadline; no applicant presentation mentioned",
+   "format": null
+  },
+  "meeting_schedule": "Tourism Commission typically meets the fourth Tuesday of each month, Mayor's Boardroom, Bellingham City Hall"
+ },
+ {
+  "name": "Mount Vernon",
+  "type": "city",
+  "county": "Skagit",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-08",
+  "funding_year": "2027",
+  "deadline_pattern": "Early September each year for the following calendar year",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://mountvernonwa.gov/704/Lodging-TaxTourism-Promotion-Application",
+  "contact": "Finance Department, mvfinance@mountvernonwa.gov, 360-419-3253",
+  "notes": "Applications go to the Finance Office by 4:30 pm; prior-year recipients must file a post-event report by December 31.",
+  "confidence": "high",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Burlington",
+  "type": "city",
+  "county": "Skagit",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-14",
+  "funding_year": "2027",
+  "deadline_pattern": "Mid-September each year for the following calendar year, with occasional second rounds (Nov 14, 2025 for 2026)",
+  "typical_open": "August",
+  "annual_pool": null,
+  "url": "https://burlingtonwa.gov/154/Lodging-Tax-Advisory-Committee",
+  "contact": "Kristen Bachhuber, HR & Admin Manager, kristenb@burlingtonwa.gov, 360-755-0531",
+  "notes": "Paper or emailed applications to City Hall or the Finance Department; seven voting LTAC members plus alternates.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Elizabeth Turman-Bryant",
+    "role": "Chair",
+    "affiliation": "Burlington City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Dan Mitzel",
+    "role": "Lodging representative",
+    "affiliation": "Candlewood Suites & Hampton Inn & Suites",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kevin McEntee",
+    "role": "Lodging representative",
+    "affiliation": "Trimark Hospitality/LaQuinta",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jeff Bae",
+    "role": "Lodging representative",
+    "affiliation": "Holiday Inn Express",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Steph Rees",
+    "role": "Activity representative",
+    "affiliation": "Burlington Chamber of Commerce",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Cate Anderson",
+    "role": "Activity representative",
+    "affiliation": "Children's Museum of Skagit County",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Nicole Roozen",
+    "role": "Activity representative",
+    "affiliation": "Skagit Valley Tulip Festival",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Joe DeGloria",
+    "role": "Alternate",
+    "affiliation": "Burlington City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jessica Waggoner",
+    "role": "Alternate",
+    "affiliation": "Lincoln Theatre",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Rebecca Horner",
+    "role": "Ex officio",
+    "affiliation": "City Administrator",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://burlingtonwa.gov/154/Lodging-Tax-Advisory-Committee",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Meets as needed at City Hall"
+ },
+ {
+  "name": "Port Angeles",
+  "type": "city",
+  "county": "Clallam",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2025-10-12",
+  "funding_year": "2026",
+  "deadline_pattern": "Fall RFP for the following calendar year; the 2026 RFP opened Sept 19 and closed Oct 12, 2025",
+  "typical_open": "Mid-to-late September",
+  "annual_pool": null,
+  "url": "https://www.cityofpa.us/183/Lodging-Tax-Advisory-Committee",
+  "contact": "Community & Economic Development, ced@cityofpa.us, 360-417-4750; City Clerk 360-457-0411",
+  "notes": "No 2027 RFP posted yet as of Oct 29, 2026; the City Clerk gives out deadlines, and operating and capital requests are handled separately.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Kate Dexter",
+    "role": "Chair",
+    "affiliation": "City Council representative",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kara Anderson",
+    "role": "Lodging representative",
+    "affiliation": "Tax collector seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Sara Olsen",
+    "role": "Lodging representative",
+    "affiliation": "Tax collector seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Roxanne Greeson",
+    "role": "Activity representative",
+    "affiliation": "Tax recipient seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Sam Grello",
+    "role": "Activity representative",
+    "affiliation": "Tax recipient seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "David Mattern",
+    "role": "Member-at-Large",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "John Hughes",
+    "role": "Member-at-Large",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://cityofpa.us/183/Lodging-Tax-Advisory-Committee",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Meets as needed, typically four times a year"
+ },
+ {
+  "name": "Walla Walla",
+  "type": "city",
+  "county": "Walla Walla",
+  "tax_rate": "4%",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2024-09-12",
+  "funding_year": "2025",
+  "deadline_pattern": "Mid-September for the following calendar year (opened Aug 15, due Sept 12 in 2024)",
+  "typical_open": "Mid-August",
+  "annual_pool": "$1.4M",
+  "url": "https://www.wallawallawa.gov/government/lodging-tax-advisory-committee",
+  "contact": "Rikki Gwinn, Executive Assistant, rgwinn@wallawallawa.gov, 509-527-4522; Preston Frederickson, Deputy City Manager, pfred@wallawallawa.gov, 509-527-4540",
+  "notes": "City put 2026 single-year grant applications on hold because revenue came in lower than expected, and no 2027 cycle has been announced.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Gustavo Reyna",
+    "role": "Chair",
+    "affiliation": "City Councilmember (Acting Chair)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Justin Robbins",
+    "role": "Lodging representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Dan Leeper",
+    "role": "Lodging representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Veronica Elliott",
+    "role": "Lodging representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Mallory Nash",
+    "role": "Activity representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Guy Glaeser",
+    "role": "Activity representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Rob Mortensen",
+    "role": "Activity representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.wallawallawa.gov/government/lodging-tax-advisory-committee",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": false,
+   "date": "2024-09-30",
+   "pattern": "Applicants are invited to present at an LTAC work session about 2-3 weeks after the September deadline; LTAC recommends in early October and Council adopts in late October",
+   "format": "in person"
+  },
+  "meeting_schedule": "As needed during the grant cycle (2024: Sept 30 and Oct 7 at 10 am, Council Chambers)"
+ },
+ {
+  "name": "Chelan",
+  "type": "city",
+  "county": "Chelan",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://cityofchelan.gov",
+  "contact": null,
+  "notes": "No open city grant process found; city lodging tax (over $2M a year) goes mainly to a Lake Chelan Chamber marketing contract through Dec 31, 2026 and to city projects, while Chelan County runs its own separate LTAC grants (2027 cycle contact CM.LTAC@co.chelan.wa.us).",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Ellensburg",
+  "type": "city",
+  "county": "Kittitas",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-18",
+  "funding_year": "2027",
+  "deadline_pattern": "Mid-to-late September for the following calendar year (Sept 20, 2024; Sept 18, 2026)",
+  "typical_open": "July to August, with applicant workshops in mid-August",
+  "annual_pool": "$469K consolidated for 2025 (Ellensburg share about $98K)",
+  "url": "https://co.kittitas.wa.us/auditor/accounting/lodging-tax/cltac-guide.aspx",
+  "contact": "Kittitas County Auditor's Office, auditorsaccounting@co.kittitas.wa.us, 509-962-7550",
+  "notes": "Ellensburg funds grants through the consolidated Kittitas County CLTAC with Cle Elum and Roslyn, and 2027 oral presentations are Nov 20, 2026.",
+  "confidence": "high",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": "2026-11-20",
+   "pattern": "Applicants recommended for funding get the chance to present and answer questions at the CLTAC meeting about 2 months after the September deadline (Nov 20, 2026, 8 am, Ellensburg City Hall)",
+   "format": "in person"
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "King County",
+  "type": "county",
+  "county": "King",
+  "tax_rate": "2%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://kingcounty.gov/depts/executive/performance-strategy-budget/about/Lodging%20Tax.aspx",
+  "contact": null,
+  "notes": "Lodging tax is dedicated by state law: at least 37.5% to housing, at least 37.5% to arts and heritage through 4Culture, and the rest to tourism including stadium debt, with no open LTAC application.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Pierce County",
+  "type": "county",
+  "county": "Pierce",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-07-03",
+  "funding_year": "2027",
+  "deadline_pattern": "Early July for the following calendar year",
+  "typical_open": "Early June",
+  "annual_pool": "$5.3M",
+  "url": "https://www.piercecountywa.gov/5733/Lodging-Tax-Program",
+  "contact": "Mike Gommi, mike.gommi@piercecountywa.gov; Economic Development 253-798-6150",
+  "notes": "Applicants must hold a required one-on-one meeting with staff before applying, and 2027 categories include capital, marketing, events and sports events.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Amy Cruver",
+    "role": "Chair",
+    "affiliation": "Pierce County Councilmember",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Shawna Gasak",
+    "role": null,
+    "affiliation": "PCCTA",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Nick Neville",
+    "role": "Lodging representative",
+    "affiliation": "Industry group seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Chalon Burns",
+    "role": "Lodging representative",
+    "affiliation": "Industry group seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Brandy Frederich",
+    "role": "Lodging representative",
+    "affiliation": "Industry group seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Christophe Chabaud",
+    "role": "Lodging representative",
+    "affiliation": "Industry group seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Justin Gravatt",
+    "role": "Activity representative",
+    "affiliation": "Fund user seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Carmen Palmer",
+    "role": "Activity representative",
+    "affiliation": "Fund user seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Meilee Anderson",
+    "role": "Activity representative",
+    "affiliation": "Fund user seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Matt Wakefield",
+    "role": "Activity representative",
+    "affiliation": "Fund user seat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Alexander Ritsema",
+    "role": "At-Large",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Giovanni Vendetti",
+    "role": "At-Large",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.piercecountywa.gov/DocumentCenter/View/153049/PC-LTAC-and-TPA-Agenda-11-19-25",
+  "members_as_of": "2025-11-19",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "A one-on-one meeting with staff is required before applying; no applicant presentation to the LTAC is published",
+   "format": null
+  },
+  "meeting_schedule": "Meets about quarterly on Wednesdays (recent meetings May 28, Aug 27 and Nov 19, 2025, held jointly with the TPA)"
+ },
+ {
+  "name": "Snohomish County",
+  "type": "county",
+  "county": "Snohomish",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-10-30",
+  "funding_year": "2027",
+  "deadline_pattern": "Late October for the following calendar year (Hotel-Motel Small Fund); TPA Fund requests reviewed monthly",
+  "typical_open": "Early August",
+  "annual_pool": "$850K",
+  "url": "https://www.discoversnohomishcounty.com/industry-resources/lodging-tax-grants/ltac/",
+  "contact": "Harry Birak, Harry.Birak@snoco.org, 425-583-1841; Trudy Soriano, Trudy.Soriano@snoco.org",
+  "notes": "Awards usually run $5K to $50K, require a 25% match and are paid as reimbursements; applications go through the Jotform portal only.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Nate Nehring",
+    "role": "Chair",
+    "affiliation": "Snohomish County Councilmember",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Shawn Walker",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Debbie Copple",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Georgia Borg-Leon",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Diane Kreig",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.snohomishcountywa.gov/DocumentCenter/View/136465/LTAC-Q2-2025-Agenda---Meeting",
+  "members_as_of": "2025-05-20",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "LTAC reviews applications in November after the Oct 30 deadline; Council approves in Nov-Dec",
+   "format": null
+  },
+  "meeting_schedule": "Meets once a year in the fall to review Small Fund applications, plus periodic quarterly meetings (Q2 2025 was May 20, 1-2:30 pm, virtual)"
+ },
+ {
+  "name": "Spokane County",
+  "type": "county",
+  "county": "Spokane",
+  "tax_rate": "2% lodging tax; plus $5 per room night TPA assessment",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://visitspokane.com/industry/industry-resources/tpa",
+  "contact": "Rose Noble, 509-742-9380, maureen@visitspokane.com (TPA)",
+  "notes": "No open county LTAC application found, TPA event grants are on hold through 2027, and event organizers are sent to the City of Spokane TACI committee (March 31, 2026 deadline) or Spokane Valley's LTAC.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Clark County",
+  "type": "county",
+  "county": "Clark",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "No county-run LTAC grant process found; the main lodging tax grant in Clark County is the City of Vancouver program, which recommended $1.74M in awards in Nov 2025 and has opened 2027 applications.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "Kitsap County",
+  "type": "county",
+  "county": "Kitsap",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-10-30",
+  "funding_year": "2027",
+  "deadline_pattern": "Late October for the following calendar year (Oct 24, 2025 for 2026; tentative Oct 30, 2026 for 2027)",
+  "typical_open": "October 1",
+  "annual_pool": null,
+  "url": "https://www.kitsap.gov/das/Pages/LTAC.aspx",
+  "contact": "Glen McNeill, gsmcneill@kitsap.gov, 360-337-4789; Lee Reyes, lreyes@kitsap.gov, 360-337-4471",
+  "notes": "The 2026 timeline on the county page is marked tentative, with a bid conference Oct 26 and interviews Nov 5-6, 2026; there is also a separate DMO RFP that closed Sept 9, 2026.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Katherine T. Walters",
+    "role": "Chair",
+    "affiliation": "Kitsap County Commissioner",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Charles Kraining",
+    "role": "Lodging representative",
+    "affiliation": "Seabeck Conference Center",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Michelle Elson",
+    "role": "Lodging representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Stacey Saunders",
+    "role": "Activity representative",
+    "affiliation": "CSTOCK",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Baqi Kopelman",
+    "role": "Activity representative",
+    "affiliation": "Vista Gardens",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.kitsap.gov/das/Pages/LTAC.aspx",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+   "required": true,
+   "date": "2026-11-05",
+   "pattern": "Applicants interview with the LTAC about 1-2 weeks after the late October deadline (Nov 5-6, 2026 tentative; Oct 21-22 in 2025), and the committee deliberates the next day",
+   "format": "in person"
+  },
+  "meeting_schedule": "Annual cycle: orientation in early September, then interviews and deliberations in late October to early November at the County Administration Building, Port Orchard"
+ },
+ {
+  "name": "Thurston County",
+  "type": "county",
+  "county": "Thurston County",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-12-24",
+  "funding_year": "2027",
+  "deadline_pattern": "December 24 at 5 p.m. each year for the following calendar year",
+  "typical_open": "Fall, after the September LTAC meeting sets priorities",
+  "annual_pool": "$250K",
+  "url": "https://www.thurstoncountywa.gov/departments/board-county-commissioners/advisory-boards-commissions-and-committees/lodging-tax-advisory-committee-ltac",
+  "contact": "Ellen Massey, Management Analyst, ellen.massey@co.thurston.wa.us, 360-596-5153",
+  "notes": "2027 cycle is open now; apply by email or mail to Ellen Massey.",
+  "confidence": "high",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": "2026-09-24",
+   "pattern": "LTAC reviews proposals in January after the December deadline, at the Atrium Building Room 110 with a Zoom option; no presentation requirement is published",
+   "format": null
+  },
+  "meeting_schedule": "Meets as needed; a September meeting sets priorities and the rubric, and review meetings are held in January (dates announced late December)"
+ },
+ {
+  "name": "Whatcom County",
+  "type": "county",
+  "county": "Whatcom County",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-04",
+  "funding_year": "2027",
+  "deadline_pattern": "Early September each year for the following calendar year; Council approves in November",
+  "typical_open": "July (2027 cycle opened July 10, 2026)",
+  "annual_pool": null,
+  "url": "https://www.whatcomcounty.us/2288/Lodging-Tax-Advisory-Committee",
+  "contact": "Jake Logan, Whatcom County Executive Office, 360-778-5211",
+  "notes": "Three grant types: events and festivals, tourism promotion, and capital/infrastructure; 22 projects were funded for 2026.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Satpal Sidhu",
+    "role": "Chair",
+    "affiliation": "Whatcom County Executive",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Guy Occhiogrosso",
+    "role": "Activity representative",
+    "affiliation": "Bellingham Regional Chamber of Commerce",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Dylan Deane-Boyle",
+    "role": "Activity representative",
+    "affiliation": "Bellingham Whatcom County Tourism",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Rebecca Boonstra",
+    "role": "Activity representative",
+    "affiliation": "Mt. Baker Chamber of Commerce",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "MegAnne Offredi",
+    "role": "Lodging representative",
+    "affiliation": "Holiday Inn & Suites Bellingham",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Tera Lorimer",
+    "role": "Lodging representative",
+    "affiliation": "Luxury Getaways",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.whatcomcounty.us/2288/Lodging-Tax-Advisory-Committee",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "LTAC may ask some, all or none of the applicants for an oral presentation at its November review meeting, about two months after the deadline; applicants may attend and answer questions",
+   "format": "in person"
+  },
+  "meeting_schedule": "Meets as needed; application review in September through November, with Council approval in November"
+ },
+ {
+  "name": "Skagit County",
+  "type": "county",
+  "county": "Skagit County",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Annual cycle; LTAC reviews in October and commissioners approve allocations in late October for the following year",
+  "typical_open": null,
+  "annual_pool": "$896K",
+  "url": "https://skagitcounty.net/Departments/CountyCommissioners/LTAC.htm",
+  "contact": null,
+  "notes": "A 2027 funding application is posted, but its due date could not be read; 2026 awards went to 34 groups for 43 projects.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "LTAC holds its review meeting in October; presentation practice not published",
+   "format": null
+  },
+  "meeting_schedule": "Meets in October each year to review applications; other meetings as needed"
+ },
+ {
+  "name": "Chelan County",
+  "type": "county",
+  "county": "Chelan County",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2025-10-10",
+  "funding_year": "2026",
+  "deadline_pattern": "Early to mid October each year for the following calendar year (Oct. 15, 2024; Oct. 10, 2025)",
+  "typical_open": "Late August or early September",
+  "annual_pool": "$222K",
+  "url": "https://www.co.chelan.wa.us/board-of-commissioners/forms/lodging-tax-funds",
+  "contact": "Chelan County Commissioners Office, 509-667-6834",
+  "notes": "The 2027 application now shows as closed with no date listed; event and marketing grants get 10% of the tax, and most of the rest goes to chambers and Visit Chelan County.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Shon Smith",
+    "role": "Chair",
+    "affiliation": "Chelan County Commissioner, District 2",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Tony Medina",
+    "role": "Lodging representative",
+    "affiliation": "Marina's Edge Resort",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Calen Williams",
+    "role": null,
+    "affiliation": "Love Leavenworth",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Christie Wilder",
+    "role": null,
+    "affiliation": "Plain Valley Ski Trails",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Angela Morris",
+    "role": null,
+    "affiliation": "Chelan Douglas Land Trust",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Stephen Maher",
+    "role": null,
+    "affiliation": "Our Valley Our Future / Run Wenatchee",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Pat O'Hara",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.co.chelan.wa.us/files/board-of-commissioners/archives-LTAC-meetings/2025/11-21-2025 LTAC Minutes.pdf",
+  "members_as_of": "2025-11-21",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "Not required; committee members may request a 10-minute presentation or schedule a short in-person interview before the October review meeting",
+   "format": "in person"
+  },
+  "meeting_schedule": "Meets roughly monthly or as needed (2025 meetings: May 22, July 31, Oct. 23, Nov. 21, Dec. 10), some via Zoom"
+ },
+ {
+  "name": "Grays Harbor County",
+  "type": "county",
+  "county": "Grays Harbor County",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-15",
+  "funding_year": "2027",
+  "deadline_pattern": "September 15 at 5 p.m. (received or postmarked) each year for the following calendar year",
+  "typical_open": "August 15",
+  "annual_pool": "$600K",
+  "url": "https://visitgraysharbor.com/wp-content/uploads/2026/08/2027-Tourism-Grant-Program-Information-Matrix-3.pdf",
+  "contact": "Grays Harbor Tourism, PO Box 1229, Elma, WA 98541, 800-621-9625",
+  "notes": "Run by Grays Harbor Tourism with four grant types (festivals and events, hospitality and special projects, major tourism projects, and destination marketing), and email or fax applications are not accepted.",
+  "confidence": "high",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": "2026-09-21",
+   "pattern": "Optional applicant presentations about a week after the September 15 deadline (September 21 and 23, 2026); the county says it gives no advantage",
+   "format": null
+  },
+  "meeting_schedule": "Meets in late September to review applications; recommendations to commissioners in October"
+ },
+ {
+  "name": "Pacific County",
+  "type": "county",
+  "county": "Pacific County",
+  "tax_rate": null,
+  "has_ltac_grants": null,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "No public county LTAC grant program or application was found online.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null
+ },
+ {
+  "name": "San Juan County",
+  "type": "county",
+  "county": "San Juan County",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-11",
+  "funding_year": "2027",
+  "deadline_pattern": "Mid-September each year; awards in November and projects must finish by December 31 of the next year",
+  "typical_open": "June 1",
+  "annual_pool": null,
+  "url": "https://www.sanjuancountywa.gov/2087/Lodging-Tax-Annual-Grant-Program",
+  "contact": "Kelsey Venegas, LTAC@sanjuancountywa.gov, 360-370-7473",
+  "notes": "Applications go through an online portal, and a workshop is held in June.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "LTAC reviews applications in September and October after the deadline; presentation practice not published",
+   "format": null
+  },
+  "meeting_schedule": "Reviews applications in September and October; award notices in November"
+ },
+ {
+  "name": "Jefferson County",
+  "type": "county",
+  "county": "Jefferson County",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "Annual cycle; LTAC votes on next-year funding requests in late November",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "The county LTAC (Fund 125) reviews requests each November, but no current application page or due date was found.",
+  "confidence": "low",
+  "members": [
+   {
+    "name": "Kevin Wooley",
+    "role": null,
+    "affiliation": "Quilcene resident",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://ptleader.com/stories/quilcene-resident-appointed-to-lodging-tax-advisory-committee,85702",
+  "members_as_of": "2022-08-26",
+  "presentation": {
+   "required": null,
+   "date": "2024-11-26",
+   "pattern": "LTAC votes on next-year requests at a hybrid special meeting in late November; presentation practice not published",
+   "format": null
+  },
+  "meeting_schedule": "Special meetings as needed, typically a late-November funding meeting in the commissioners' chambers with Zoom access"
+ },
+ {
+  "name": "Okanogan County",
+  "type": "county",
+  "county": "Okanogan County",
+  "tax_rate": "4% (unincorporated areas)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-08-14",
+  "funding_year": "2027",
+  "deadline_pattern": "Mid-August each year for the following calendar year",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.okanogancounty.gov/170/Lodging-Tax-Advisory-Committee",
+  "contact": "Stacy McClellan, smcclellan@okanogancounty.gov, 509-422-7100",
+  "notes": "Open to nonprofits and municipal visitor centers; marketing projects need a 50% match.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Andy Hover",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Don Linnertz",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Steve Devin",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Janet Warner",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.okanogancounty.gov/DocumentCenter/View/7325",
+  "members_as_of": null,
+  "presentation": {
+   "required": true,
+   "date": "2026-09-25",
+   "pattern": "Required presentations at the LTAC meeting about six weeks after the mid-August deadline (September 25, 2026, 9 a.m.); award recommendations to the BOCC about a month later",
+   "format": "in person"
+  },
+  "meeting_schedule": "Meets as needed; a September review meeting and an October recommendation meeting each year"
+ },
+ {
+  "name": "Kittitas County",
+  "type": "county",
+  "county": "Kittitas County",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-18",
+  "funding_year": "2027",
+  "deadline_pattern": "Mid-September each year for the following calendar year; oral presentations in November",
+  "typical_open": "August, with applicant workshops in mid-August",
+  "annual_pool": null,
+  "url": "https://co.kittitas.wa.us/auditor/accounting/lodging-tax/cltac-guide.aspx",
+  "contact": "Kittitas County Auditor Accounting, auditorsaccounting@co.kittitas.wa.us, 509-962-7552",
+  "notes": "A consolidated committee (CLTAC) with Ellensburg and Cle Elum ranks applications, and workshop attendance counts toward the score.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Roylene Crawford",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jessica Karraker",
+    "role": null,
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://co.kittitas.wa.us/uploads/bocc/minutes/2024/2024-07-25-minutes-ltac-presentation.pdf",
+  "members_as_of": "2024-07-25",
+  "presentation": {
+   "required": true,
+   "date": "2026-11-20",
+   "pattern": "Oral presentations to the CLTAC in late November, about two months after the mid-September deadline, at Ellensburg City Hall",
+   "format": "in person"
+  },
+  "meeting_schedule": "Consolidated LTAC meets in late November for presentations and recommendations; municipal committees score beforehand"
+ }
+]
