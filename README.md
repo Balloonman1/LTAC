@@ -18,3 +18,7 @@ Data was compiled from official city and county pages, application packets, agen
 
 - `total_pool_usd`: total lodging tax available for allocation in the latest cycle.
 - `competitive_pool_usd`: dollars actually awarded or open to outside applicants after standing commitments (DMO contracts, debt, the jurisdiction's own facilities). `pool_note` shows the arithmetic and whether it is an estimate.
+
+## For-profit eligibility
+
+`for_profit` per record: `yes` (program text admits businesses), `sponsor` (for-profits apply through a nonprofit or public fiscal sponsor), `no` (local guidelines say nonprofit/public only), `unknown` (not stated). The site's "What hotel tax dollars can legally fund" section summarizes RCW 67.28.1816 and .1817 and MRSC's guidance that the statute does not bar for-profit applicants.
