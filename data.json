@@ -41,6 +41,9 @@
     "summary": "Secondary summary showing Seattle's combined 15.7% lodging rate, no city special hotel-motel tax imposed, and the 2.3% STIA fee at 71 downtown hotels that funds Visit Seattle marketing."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "No city lodging tax fund: the 7% convention center tax inside Seattle is a King County/state levy committed to Washington State Convention Center debt and the STIA fee goes to Visit Seattle, so nothing is open to outside applicants.",
   "alternatives": [
    {
     "program": "Neighborhood Matching Fund - Community Partnership Fund",
@@ -151,6 +154,9 @@
     "summary": "City ordinance governing Bellevue's special hotel/motel tax; no outside grant process is created by it."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Revenue figure not published; per the 2021-22 budget 100% of the city's lodging tax passes through to the Bellevue Convention Center Authority through 2034, leaving nothing for outside applicants.",
   "alternatives": [
    {
     "program": "Bellevue Festivals & Events Incubator Program",
@@ -318,6 +324,9 @@
     "summary": "Scoring results for 2025/26 requests: SeaTac BMX capital and programming, Seattle Southside RTA shuttle, meetings and BMX incentives, and City TDDP implementation recommended; Highline Heritage Museum, Channel A TV and Highschool GG not recommended."
    }
   ],
+  "total_pool_usd": 2061859,
+  "competitive_pool_usd": 690000,
+  "pool_note": "Estimate: 2025 special hotel/motel tax receipts were $2.06M; the HMAC-recommended 2025-26 awards to outside organizations (WA Brewers Guild, Museum of Flight, The Roadhouse, Highline Botanical Garden, NW Symphony) total roughly $690K per year, with the remainder going to Seattle Southside RTA programs, city TDDP implementation and a $12.9M fund balance.",
   "alternatives": []
  },
  {
@@ -426,6 +435,9 @@
     "summary": "Explains the twice-yearly application rounds, that nonprofits, for-profits and public agencies may apply, and that the committee recommends awards to City Council."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 86000,
+  "pool_note": "Revenue not published; the Nov 21, 2025 TACI minutes awarded $86,000 across 16 outside grants for the spring 2026 round (max $10K each), and a second round of similar size runs each fall.",
   "alternatives": []
  },
  {
@@ -470,6 +482,9 @@
     "summary": "The city's only open event grant program: $90,000 to 28 organizations at $2,500-$5,000 each for free public events, funded by Tacoma Dome and Convention Center food-and-beverage tax, not lodging tax."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "No City of Tacoma lodging tax grant program was found and lodging tax revenue is not published; the city's $90K Special Events Funding comes from venue food-and-beverage tax, so lodging tax dollars open to outside applicants are 0.",
   "alternatives": [
    {
     "program": "Special Events Funding (City of Tacoma)",
@@ -645,6 +660,9 @@
     "summary": "Program page listing the 2026 award recommendations, scoring rubric and partnering-with-hotels guide; LTAC reviews in Oct-Nov and Council approves in December."
    }
   ],
+  "total_pool_usd": 3000000,
+  "competitive_pool_usd": 350000,
+  "pool_note": "Estimate: FY2025 memo shows about $3M/yr revenue with 50% to Convention Center debt and about $1.5M for LTAC awards, but the Tourism Organization Operating grant to the DMO takes $1M-$1.3M of that, leaving roughly $200K-$500K for outside events, programs and facilities.",
   "alternatives": []
  },
  {
@@ -753,6 +771,9 @@
     "summary": "Sets the event grant line at roughly $175,000/yr (a $25,000 add was one-time) and $30,000/yr for strategic marketing partnerships, with more advertising investment under discussion."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 175000,
+  "pool_note": "Revenue not published; LTAC approved $175,000 in 2026 event grants to outside applicants (Aug 26, 2025 minutes) and budgets about $175K/yr for 2027-28 plus $30K/yr in strategic marketing partnerships.",
   "alternatives": []
  },
  {
@@ -804,6 +825,9 @@
     "summary": "Announces about $60,000 in 2026 grants for marketing and operations, applications due June 1, 2026 at noon."
    }
   ],
+  "total_pool_usd": 347352,
+  "competitive_pool_usd": 110000,
+  "pool_note": "2025-26 budget sets a $694,704 biennial tourism budget (about $347K/yr) from the 1% lodging tax, most of it Explore Kirkland staffing and marketing; $110,000 was awarded to outside events for 2026 against a published $60K annual grant line.",
   "alternatives": []
  },
  {
@@ -855,6 +879,9 @@
     "summary": "Prior-year council resolution adopting the LTAC's 2025 lodging tax award recommendations."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 200000,
+  "pool_note": "Revenue not published; Resolution 8283 adopted the LTAC's $200,000 in 2026 grant awards to outside organizations, the full published pool.",
   "alternatives": []
  },
  {
@@ -906,6 +933,9 @@
     "summary": "Hotel/motel tax budgeted at $720,000 (2023) and $750,000 (2024); spending of about $940,000/yr including $250,000 sponsorships, $50,000 advertising, $50,000 marketing and $375,000 contracted services, with a $1.6M-$1.8M fund balance."
    }
   ],
+  "total_pool_usd": 750000,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 budget projects $750,000 hotel/motel tax revenue against about $945K in Lodging Tax Fund spending ($250K sponsorships, $375K contracted services, $100K advertising and marketing, staff); no award list separates outside grants from the city's own Experience Tukwila and RTA spending, so the competitive share is unknown.",
   "alternatives": []
  },
  {
@@ -986,6 +1016,9 @@
     "summary": "Historical list of every organization that received Renton lodging tax funding; amounts not extracted."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 200000,
+  "pool_note": "2026: fund revenue not published; LTAC recommended $900,000 total, of which $700,000 went to the City's own Legacy Square activation and marketing campaign, leaving $200,000 awarded across 5 outside projects (Chamber $105,000, Niu Wave $55,000, two others $20,000 each).",
   "alternatives": []
  },
  {
@@ -1073,6 +1106,9 @@
     "summary": "Lodging tax revenue of $1,730,800 for the biennium funds the city's tourism program 100% ($1,902,404 in expenditures, of which $1,734,390 is services and charges and about $168K is staff); no grant program line is shown."
    }
   ],
+  "total_pool_usd": 865400,
+  "competitive_pool_usd": 0,
+  "pool_note": "2025-2026 budget: $1,730,800 biennial lodging tax revenue (about $865,400 per year) funds the city's own tourism program 100%, with no outside grant pool.",
   "alternatives": [
    {
     "program": "Snohomish County Hotel-Motel (LTAC) Tourism Grant",
@@ -1234,6 +1270,9 @@
     "summary": "Example of a spring round: 11 events shared $39,050, the largest being $9,000 (Northwest Global Fest) and $8,850 (Apple Festival Run); indicates typical awards of $700 to $9,000."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No current fund total or award list found; the only published award round (spring 2013) split $39,050 across 11 outside events, so the per-round pool is small.",
   "alternatives": []
  },
  {
@@ -1285,6 +1324,9 @@
     "summary": "Applications accepted online September 1-30 for the following year; eligible applicants are nonprofits, CVBs, PFDs, DMOs, chambers and municipalities, and funds must go to marketing and promotion of business or leisure tourism."
    }
   ],
+  "total_pool_usd": 546000,
+  "competitive_pool_usd": 329100,
+  "pool_note": "2019 estimate: $546,000 lodging tax budget; $500,600 awarded, of which $96,500 went to the Visit Kent DMO contract and $75,000 to City business marketing, leaving about $329,100 for roughly 20 outside events and organizations (a City website item of unknown size is still inside that figure).",
   "alternatives": []
  },
  {
@@ -1336,6 +1378,9 @@
     "summary": "Committee approved a six-month, roughly $133,000 extension of the Street Sense marketing contract (two-year value about $412,000)."
    }
   ],
+  "total_pool_usd": 500000,
+  "competitive_pool_usd": 0,
+  "pool_note": "2026: about $500,000 budgeted lodging tax spending (2025 revenue about $425,000), committed to the Street Sense marketing contract, visitor center support and holiday lighting, with no outside grant pool.",
   "alternatives": [
    {
     "program": "Bothell Creative Arts Grant Program",
@@ -1440,6 +1485,9 @@
     "summary": "Announces the second round due July 12, 2026 with requests up to $55,000, reimbursement-based."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No fund total or award list found for 2026; the February round offered fixed $7,500/$10,000/$15,000 awards and the July round allowed requests up to $55,000, so the pool is likely low six figures (estimate).",
   "alternatives": []
  },
  {
@@ -1498,6 +1546,9 @@
     "summary": "Required attachment for estimating overnight stays and visitor counts that LTAC uses in scoring."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 393000,
+  "pool_note": "2025 award list: $393,000 from the 2% tax went to 11 outside recipients (HUB $147,000, Crave! $50,000), with a separate $2.5M from the 1.3% capital portion to the City and Spokane Sports; the 2027 competitive pool is capped at $250,000.",
   "alternatives": []
  },
  {
@@ -1578,6 +1629,9 @@
     "summary": "The October 22, 2026 LTAC agenda and the November 18, 2026 Council agenda carry the 2027 lodging tax funding table; amounts were not retrievable in this session."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No fund total or 2027 award table retrieved; Visit Tri-Cities and the VenuWorks-run convention center are standing recipients, so the outside pool is likely a minority of revenue (estimate).",
   "alternatives": []
  },
  {
@@ -1665,6 +1719,9 @@
     "summary": "Lodging Tax Grant Program listed among 2027 programs with applications opening between July and October 2026; contact Economic Development at (509) 942-7725."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No fund total or award list found; grants reimburse up to 30% of a project's cash expenses, and the 2026 round closed October 10, 2025.",
   "alternatives": []
  },
  {
@@ -1723,6 +1780,9 @@
     "summary": "Agendas and packets including the September 17, 2026 meeting where 2027 requests were reviewed."
    }
   ],
+  "total_pool_usd": 850000,
+  "competitive_pool_usd": 29000,
+  "pool_note": "2026: $850,000 estimated revenue; $739,723 pre-committed to Gesa Stadium debt, the Tri-Cities VCB and HAPO Center, plus City-run events, marketing and $135,000 of facility projects, leaving $29,000 awarded to 6 outside events and Franklin County history ($39,000 more went to the Pasco Chamber for marketing).",
   "alternatives": []
  },
  {
@@ -1774,6 +1834,9 @@
     "summary": "June 4, 2026 news release: applications due July 1, 2026; LTAC and staff review, Council makes final awards."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No lodging tax revenue, grant pool or award list is published on the city's grant pages; 2027 applications closed July 1, 2026.",
   "alternatives": []
  },
  {
@@ -1861,6 +1924,9 @@
     "summary": "Funding tracker shows a 2026 LTAC budget of $100,000 (fully committed by May 31) and a TPA budget of $45,000 with $25,361 remaining; includes pending requests from Pybus Market ($3,510) and the YMCA ($25,000) and recent awards of $10,000 to Wenatchee Youth Baseball and $6,000 to La Terraza."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 100000,
+  "pool_note": "2026: the LTAC grant budget was $100,000 (fully committed by May 31) plus a separate $45,000 TPA budget; total lodging tax revenue and standing commitments are not in the packet, so the competitive figure is the grant budget only.",
   "alternatives": []
  },
  {
@@ -1919,6 +1985,9 @@
     "summary": "Map of the area in which Lodging Tax Fund projects must take place."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 150000,
+  "pool_note": "2027: $150,000 Lodging Tax Fund grant pool for nonprofits, capped at $10,000 per event; the city's total lodging tax revenue and its share kept for other tourism uses are not published.",
   "alternatives": []
  },
  {
@@ -1978,6 +2047,9 @@
     "summary": "Council approved $1.5 million in 2025 lodging tax awards to 10 recipients on the LTAC's recommendation, with $1.1 million going to the Ocean Shores Convention Center."
    }
   ],
+  "total_pool_usd": 1500000,
+  "competitive_pool_usd": 400000,
+  "pool_note": "2025: $1.5M awarded across 10 recipients, with $1.1M to the city's Ocean Shores Convention Center, leaving about $400,000 for the other nine recipients (estimate; the 2021 cycle left only about $19,000 for outside groups).",
   "alternatives": []
  },
  {
@@ -2022,6 +2094,9 @@
     "summary": "Earlier version of the same form with an October 1 deadline; same eligibility categories and a 30-day economic impact report."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No funding total, award list or budget for the lodging tax fund was found online; only the application form is posted.",
   "alternatives": []
  },
  {
@@ -2109,6 +2184,9 @@
     "summary": "Governmental entities and nonprofits may apply; reimbursement only for contracted costs; Council may approve, reject or return recommendations but cannot add recipients or change amounts."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No pool or award total is published on the LTAC page; the 2027 guidelines PDF could not be read in this pass.",
   "alternatives": []
  },
  {
@@ -2167,6 +2245,9 @@
     "summary": "Adopted budget listing 2025 lodging tax recipients and amounts."
    }
   ],
+  "total_pool_usd": 685239,
+  "competitive_pool_usd": 265500,
+  "pool_note": "2026: $685,239 awarded in total; about $319,739 went to City of Lacey facilities and events (Regional Athletic Complex $278,739, Lacey Museum $30,000, July 3 fireworks $11,000) and $100,000 to the Experience Olympia DMO, leaving about $265,500 across 15 outside recipients (estimate).",
   "alternatives": []
  },
  {
@@ -2310,6 +2391,9 @@
     "summary": "Required project budget template for applicants."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 700000,
+  "pool_note": "2026 cycle: staff estimate about $400,000 went to Visitor-Generating Events and $300,000 to Destination Experience grants, roughly $700,000 to outside applicants (estimate); total city lodging tax revenue not published on the grant pages.",
   "alternatives": []
  },
  {
@@ -2361,6 +2445,9 @@
     "summary": "Required of 2026 recipients by December 31, 2026."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No funding total or award list is published with the 2027 application packet.",
   "alternatives": []
  },
  {
@@ -2490,6 +2577,9 @@
     "summary": "Roster of the seven-member committee and link to the 2027 Lodging Tax Application Process document."
    }
   ],
+  "total_pool_usd": 700000,
+  "competitive_pool_usd": 313000,
+  "pool_note": "2026: Council allocated $700,000 (LTAC recommended $650,000); about $240,000 went to the Chamber/Visitor Information Center contract and $147,000 to city Parks tournament support, leaving roughly $313,000 for outside groups such as the Skagit Tourism Bureau ($57,000) and Children's Museum ($50,000) (estimate).",
   "alternatives": []
  },
  {
@@ -2598,6 +2688,9 @@
     "summary": "Council approved the LTAC's 2026 recommendations on Dec 16, 2025 (36 contracts, 14 more pending in March, possibly over $2.1M total) and set a 12% administrative share of about $134,000."
    }
   ],
+  "total_pool_usd": 1760900,
+  "competitive_pool_usd": 1300000,
+  "pool_note": "2026: $1,760,900 LTAX budget; after the 12% administration share (about $134,000), the city's own Visit Port Angeles marketing (about $266,000) and city capital projects, roughly $1.3M was awarded across about 36 outside contracts (estimate from the Nov 2025 and Mar 2026 LTAC packets).",
   "alternatives": []
  },
  {
@@ -2699,6 +2792,9 @@
     "summary": "The city collects a 4% lodging tax under WWMC 3.78.010 and announced 2026 single-year grant applications are on hold because revenues came in below projections."
    }
   ],
+  "total_pool_usd": 1400000,
+  "competitive_pool_usd": 0,
+  "pool_note": "2025: about $1,400,000 was published as the full competitive pool for calendar 2025, but the 2026 single-year grant round is on hold, so the realistic current pool is $0 until the city reopens applications.",
   "alternatives": []
  },
  {
@@ -2743,6 +2839,9 @@
     "summary": "Chelan County awarded nearly $222,000 to 35 tourism groups for 2026 from its separate county LTAC pool; the full grantee list is a linked PDF."
    }
   ],
+  "total_pool_usd": 2000000,
+  "competitive_pool_usd": 0,
+  "pool_note": "2025: city lodging tax receipts have stayed above $2M a year since 2021 and are committed to the Lake Chelan Chamber marketing contract (about $400,000 to $750,000) and city projects, with no outside application process (estimate).",
   "alternatives": [
    {
     "program": "Chelan County Lodging Tax Event and Marketing Grants",
@@ -2847,6 +2946,9 @@
     "summary": "The County Commissioner on the committee chairs it, seats are split between upper and lower county entities that pay into or receive the fund, and proposals are judged against the 2021 Kittitas County Recreation and Tourism Plan."
    }
   ],
+  "total_pool_usd": 97595,
+  "competitive_pool_usd": 97595,
+  "pool_note": "2025: Ellensburg's $97,595 lodging tax share was fully awarded through the consolidated Kittitas County CLTAC, where applicants compete for the combined $468,675 pool with the county, Cle Elum and Roslyn.",
   "alternatives": []
  },
  {
@@ -2898,6 +3000,9 @@
     "summary": "4Culture receives 37.5% of King County lodging tax under ESSB 5834 and distributes it through its arts, heritage, preservation and Building for Culture grant programs rather than a tourism LTAC process."
    }
   ],
+  "total_pool_usd": 42000000,
+  "competitive_pool_usd": 0,
+  "pool_note": "2026-2027: about $84M in county lodging tax for the biennium (about $42M a year) is fixed by Ordinance 18788 to 4Culture, housing, homeless youth, stadium debt and DMO contracts, leaving nothing for outside LTAC applicants.",
   "alternatives": [
    {
     "program": "Projects grants (Art Projects, Heritage Projects, Preservation Special Projects)",
@@ -3107,6 +3212,9 @@
     "summary": "$7,712,760 approved for 2026; the largest were Pierce County Parks Sprinker fields $2,500,000, Tacoma-Pierce County CVB tourism and sports marketing $2,312,000, the county Foot Ferry project $2,000,000 and Visit Rainier $498,910."
    }
   ],
+  "total_pool_usd": 7712760,
+  "competitive_pool_usd": 900760,
+  "pool_note": "2026: $7,712,760 approved; after Pierce County Parks Sprinker fields ($2.5M), the county Foot Ferry project ($2M) and the Tacoma-Pierce County CVB marketing contract ($2,312,000), about $900,760 went to outside applicants such as Visit Rainier and local events.",
   "alternatives": []
  },
  {
@@ -3201,6 +3309,9 @@
     "summary": "The committee recommended $297,024 for 18 Round 2 projects (World Cup-related round) plus up to $50,000 for a US Highway 2 marketing campaign."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 799829,
+  "pool_note": "2026: the Hotel-Motel Small Fund awarded $502,805 in Round 1 (31 projects) and $297,024 in Round 2 (18 projects) to outside applicants, about $800K; the 2027 cycle advertises about $850,000; total county lodging tax revenue is not published on the grant pages.",
   "alternatives": []
  },
  {
@@ -3252,6 +3363,9 @@
     "summary": "The adopted 2026 county budget totals $983M; the release does not break out lodging tax or TPA allocations."
    }
   ],
+  "total_pool_usd": 5000000,
+  "competitive_pool_usd": 0,
+  "pool_note": "2023 onward: the county TPA raises nearly $5M a year for Visit Spokane and Spokane Sports marketing and event grants are on hold through 2027, so no dollars are open to outside applicants (estimate).",
   "alternatives": [
    {
     "program": "Tourism and Cultural Investment (TACI) Grant",
@@ -3362,6 +3476,9 @@
     "summary": "The city program guidelines govern lodging tax grants inside Vancouver city limits, the main lodging tax grant source in Clark County."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "No county lodging tax grant program or allocation document was found, so the competitive pool is treated as $0; the City of Vancouver program ($1.74M recommended for 2026) is the local alternative (estimate).",
   "alternatives": [
    {
     "program": "City of Vancouver Lodging Tax Grant Program",
@@ -3522,6 +3639,9 @@
     "summary": "A separate lodging-tax-funded RFP to select the county's DMO, closing Sept 9, 2026."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2026: award amounts are in Resolution 203-2025 and the distribution policy in Resolution 111-2025, but those PDFs could not be read in this session, so no figure is given.",
   "alternatives": []
  },
  {
@@ -3573,6 +3693,9 @@
     "summary": "The county's application form for 2027 funds; contents could not be read because the site blocks automated access."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 250000,
+  "pool_note": "2027: about $250,000 is published as available to local applicants; total county lodging tax revenue and standing commitments are not published on the LTAC page.",
   "alternatives": []
  },
  {
@@ -3674,6 +3797,9 @@
     "summary": "Application form for the events and festivals category, the most common grant type and the one relevant to balloon events."
    }
   ],
+  "total_pool_usd": 3532390,
+  "competitive_pool_usd": 275500,
+  "pool_note": "2026: $3,532,390 approved under Resolution 2025-037; $2,384,890 went to county park capital projects, $812,000 to chambers and the DMO for tourism promotion, $60,000 to admin, leaving $275,500 awarded across 12 outside events and festivals.",
   "alternatives": []
  },
  {
@@ -3732,6 +3858,9 @@
     "summary": "Separate from the lodging tax: a $2 per room per night TPA charge on lodging with 40 or more units, spent on tourism promotion under a plan proposed by the Skagit TPA Advisory Board."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 896000,
+  "pool_note": "2026: about $896,000 was awarded to 34 outside groups for 43 projects per the Skagit Valley Herald; total county lodging tax revenue is not published on an accessible page.",
   "alternatives": []
  },
  {
@@ -3847,6 +3976,9 @@
     "summary": "LTAC recommended the 2026 percentage allocations (109% of collections, 9% from reserves) and moving $2.5 million from reserves to a restricted M&O fund for county-owned tourism facilities."
    }
   ],
+  "total_pool_usd": 2216000,
+  "competitive_pool_usd": 222000,
+  "pool_note": "2026: nearly $222,000 awarded to 35 outside groups as event and marketing grants, which the framework sets at 10% of collections, so total collections are roughly $2.2 million (estimate); the other 90% plus 10% from reserves goes to Visit Chelan County, chambers, Cascade Loop and county facilities.",
   "alternatives": []
  },
  {
@@ -3898,6 +4030,9 @@
     "summary": "Application for the festivals and events category; presentations on September 21, 2026 are optional and give no advantage; mailed or hand-delivered only."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 600000,
+  "pool_note": "2027: $600,000 published across four grant categories ($100K festivals and events, $100K hospitality and special projects, $200K major tourism projects, $200K destination marketing); total 3% lodging tax revenue is not published.",
   "alternatives": []
  },
  {
@@ -3927,6 +4062,9 @@
   },
   "meeting_schedule": null,
   "funding_docs": [],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No lodging tax fund budget, award list or grant program was found, so neither figure can be stated.",
   "alternatives": [
    {
     "program": "City of Long Beach Lodging Tax Funds",
@@ -4031,6 +4169,9 @@
     "summary": "County notice for the 2026 cycle: portal opens June 1, info workshop June 16, applications due September 11 at 5 p.m., review in September and October, awards in November."
    }
   ],
+  "total_pool_usd": 1900000,
+  "competitive_pool_usd": null,
+  "pool_note": "2025: about $1.9 million awarded, of which $535,000 went to the Visitors Bureau, $365,170 to the County Fair and fixed core amounts to island chambers, museums and theaters, leaving 25 special projects whose total is not published; the largest special awards were $70,000, $40,000 and $40,000.",
   "alternatives": []
  },
  {
@@ -4090,6 +4231,9 @@
     "summary": "LTAC's November 26, 2024 hybrid special meeting voted on 2025 funding requests plus a $10,000 capital contingency and $5,051 for county staff time to administer Fund 125."
    }
   ],
+  "total_pool_usd": 800000,
+  "competitive_pool_usd": null,
+  "pool_note": "2025: almost $800,000 awarded through the LTAC RFP, with $140,500 to the Gateway Visitor Center, $109,500 to the Olympic Peninsula Tourism Commission and $91,500 to the Quilcene museum; the remainder went mostly to visitor centers, county parks and marketing, and county code bars sponsoring a specific event, so no outside-event pool can be stated.",
   "alternatives": []
  },
  {
@@ -4170,6 +4314,9 @@
     "summary": "Sets the committee structure by commissioner district with tourism industry and tax receiver seats; no funding amounts."
    }
   ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No lodging tax fund budget or award list is published online; the 2027 instructions give no total pool.",
   "alternatives": []
  },
  {
@@ -4236,6 +4383,9 @@
     "summary": "Shows how the consolidated process is adopted by each jurisdiction: Ellensburg's 2023 share was $53,321 across six awards, the largest $25,000 to the Kittitas Valley Event Center and $15,000 to Gallery One."
    }
   ],
+  "total_pool_usd": 480887,
+  "competitive_pool_usd": 341015,
+  "pool_note": "2026: $480,887 countywide pool (county $341,015, Ellensburg $108,259, Cle Elum $27,340, Roslyn $4,272) awarded in full to 25 outside applicants from $989,573 requested; the county's own share is $341,015, with no standing DMO contract taken off the top.",
   "alternatives": []
  },
  {
@@ -4314,7 +4464,10 @@
     "url": "https://yakimacounty.us/DocumentCenter/View/439",
     "summary": "Historical budget showing about $381,000 a year in transfers out for Sundome 2001A/2001B bond payments against $445,000 in hotel/motel tax revenue, illustrating that the fund is largely committed to debt service."
    }
-  ]
+  ],
+  "total_pool_usd": 902800,
+  "competitive_pool_usd": 0,
+  "pool_note": "2026 adopted budget: $902,800 Fund 131 lodging tax revenue, all committed to Sundome bond debt and standing contracts (Yakima Valley Tourism, Capitol Theatre, Yakima Valley Museum), leaving $0 open to outside applicants."
  },
  {
   "name": "Benton County",
@@ -4385,7 +4538,10 @@
     "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
     "summary": "Lists 2024 lodging tax distributions only to Benton County cities (Kennewick, Richland, West Richland, Prosser) with no county-level row."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "No county-level lodging tax fund or grant program is documented (DOR 2024 Table L1 shows no Benton County row and no county special hotel-motel tax), so $0 is open to outside applicants at the county level."
  },
  {
   "name": "Franklin County",
@@ -4456,7 +4612,10 @@
     "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
     "summary": "Franklin County's 2024 county-level lodging tax distribution is shown as confidential/zero, indicating very little unincorporated lodging revenue; Pasco receives the city share."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Franklin County's 2024 county lodging tax distribution is confidential/zero in DOR Table L1 and no county grant program exists, so $0 is open to outside applicants at the county level."
  },
  {
   "name": "Clallam County",
@@ -4522,7 +4681,10 @@
     "url": "https://www.peninsuladailynews.com/?p=237570",
     "summary": "Commissioners approved $1.39M in January 2025: Olympic Peninsula Visitor Bureau $1,000,000, Field Arts & Events Hall $200,000, Public Works Olympic Discovery Trail $100,000, Hurricane Ridge Winter Sports $90,000; a second round of $204,014 to seven applicants followed in April 2025."
    }
-  ]
+  ],
+  "total_pool_usd": 1820534,
+  "competitive_pool_usd": 920534,
+  "pool_note": "2027: about $1,820,534 awarded in total; $900,000 goes to the Olympic Peninsula Visitors Bureau contract, leaving roughly $920,000 awarded across 13 outside organizations (estimate, since the list includes a few county-affiliated recipients in other years)."
  },
  {
   "name": "Island County",
@@ -4616,7 +4778,10 @@
     "url": "https://www.southwhidbeyrecord.com/?p=101013",
     "summary": "Commissioners approved 34 LTAC-recommended grants totaling $700,000; largest Whidbey awards were Coupeville Chamber $68,566, Langley Chamber $57,135, Island County Fair Association $39,500 and Whidbey Island Center for the Arts $39,500."
    }
-  ]
+  ],
+  "total_pool_usd": 725000,
+  "competitive_pool_usd": 374000,
+  "pool_note": "2026: $725,000 fund; about $275,500 to chamber visitor centers and $85,700 to county Public Works (Freeland Hall) are standing or county uses, leaving roughly $374,000 awarded to museums, 12 community events and one nonprofit capital project (estimate from Sept 9, 2025 LTAC minutes)."
  },
  {
   "name": "Lewis County",
@@ -4724,7 +4889,10 @@
     "url": "https://lewiscountywa.gov/documents/17232/2025-10-17_Lodging_Tax_deliberations.pdf",
     "summary": "Notice of the LTAC meeting at which 2026 requests were reviewed and allocation suggestions set; the published notice does not include the funding table."
    }
-  ]
+  ],
+  "total_pool_usd": 1361218,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 DOR distribution of $1,361,218 to Lewis County is the only published fund figure; the county publishes no award table, so the share open to outside applicants cannot be stated (estimate for the total)."
  },
  {
   "name": "Cowlitz County",
@@ -4782,7 +4950,10 @@
     "url": "https://www.klog.com/120000-awarded-in-2025-tourism-marketing-grants-to-boost-local-events-and-tourism-klog-100-7-news/",
     "summary": "$120,400 in reimbursement marketing grants for 2025 events, including Kalama Cultural Festival $15,000, Lelooska Foundation $12,000 and $10,000 each to Big Smoke, Crafted Beer & Wine Festival, Lilac Days, SquatchFest, Squirrel Fest and Tour de Blast."
    }
-  ]
+  ],
+  "total_pool_usd": 991369,
+  "competitive_pool_usd": 255000,
+  "pool_note": "2024 DOR distribution of $991,369 to Cowlitz County (estimate for the total); the 2026-27 cycle awarded nearly $200,000 in large grants to four outside projects plus $55,000 in 2026 marketing grants, about $255,000 open to outside applicants."
  },
  {
   "name": "Skamania County",
@@ -4847,7 +5018,10 @@
     "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/stevwa-meet-0ccf2897677947cf81ac57e3d13e99a4/ITEM-Attachment-001-5332ba16c0ce47408d8c050f6890d900.pdf",
     "summary": "City of Stevenson reimburses the county up to $50,000 from its Tourism Promotion Fund for the County Fair and Bluegrass Festival ($20,000), Fairgrounds operations ($20,000), Columbia Gorge Blues and Brews ($17,000) and Fourth of July ($13,000) as listed in Exhibit A."
    }
-  ]
+  ],
+  "total_pool_usd": 302929,
+  "competitive_pool_usd": 0,
+  "pool_note": "2024 DOR distribution of $302,929 to Skamania County (estimate for the total); 2025 funds were contracted directly by the commissioners to the Chamber, Columbia Gorge Museum, Fair Board and others with no open application, so $0 is available through a competitive process."
  },
  {
   "name": "Klickitat County",
@@ -4898,7 +5072,10 @@
     "url": "https://www.klickitatcounty.gov/1452/KCLTAC-Agendas-and-Meeting-Minutes",
     "summary": "Minutes of the Oct 20, 2025 meeting and the Dec 15, 2025 agenda cover the review of 2026 tourism promotion proposals; a news summary reported commissioners awarding $133,495 in lodging tax funds, but the funding table itself was not retrievable."
    }
-  ]
+  ],
+  "total_pool_usd": 139518,
+  "competitive_pool_usd": 125000,
+  "pool_note": "2024 DOR distribution of $139,518 to Klickitat County (estimate for the total); the 2026 RFP published $125,000 as the pool open to tourism promotion proposals."
  },
  {
   "name": "Walla Walla County",
@@ -4949,7 +5126,10 @@
     "url": "https://www.waitsburgtimes.com/story/2014/01/23/touchet-valley-news/commercial-club-gets-celebration-days-grant/1476.html",
     "summary": "Example of a county lodging tax award to the Waitsburg Commercial Club for Celebration Days, showing the program funds small-town events in the county."
    }
-  ]
+  ],
+  "total_pool_usd": 269729,
+  "competitive_pool_usd": 50000,
+  "pool_note": "2024 DOR distribution of $269,729 to Walla Walla County (estimate for the total); the most recent published grant round offered about $50,000 for 2022 events to outside nonprofits."
  },
  {
   "name": "Grant County",
@@ -5064,7 +5244,10 @@
     "url": "https://www.grantcountywa.gov/DocumentCenter/View/13832",
     "summary": "Committee bylaws governing membership (commissioner chair plus equal ratepayer and recipient seats) and procedures; the PDF is scanned and its allocation rules could not be read."
    }
-  ]
+  ],
+  "total_pool_usd": 1021403,
+  "competitive_pool_usd": 710552,
+  "pool_note": "2026: LTAC recommended $1,021,403 in total; subtracting standing items (five chambers at $30K each = $150K, LTAC year-round promotion $63,851, county-owned fairgrounds events $97K) leaves an estimate of about $710K awarded to roughly 45 outside events and organizations, with single awards from $300 to $85K."
  },
  {
   "name": "Douglas County",
@@ -5164,7 +5347,10 @@
     "url": "https://douglascountywa.gov/864/Lodging-Tax-Advisory-Committee",
     "summary": "Adopted Aug 29, 2023; imposes the state-authorized basic lodging tax in Douglas County and creates a five-member LTAC with collector and recipient seats; no allocation plan or award list has been published."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No lodging tax revenue figure, budget or award list has been published since the county adopted the tax in 2023, so neither pool can be stated."
  },
  {
   "name": "Mason County",
@@ -5216,7 +5402,10 @@
     "url": "https://www.masoncountywa.gov/news-releases/2013/2014_ltac_app_08272013.pdf",
     "summary": "Historical notice: any group may apply by Sept 30 for advertising and promotion of tourism events, LTAC reviews in October and commissioners decide in December; no amounts stated."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No current revenue figure or award list was found; the 2025 LTAC agenda discusses contracting tourism services by RFP and a funding formula, and the undated Hood Canal Communications article references a $95,000 general tourism fund managed by a contractor, so the outside-applicant share is unknown."
  },
  {
   "name": "Whitman County",
@@ -5272,7 +5461,10 @@
     "confidence": "low"
    }
   ],
-  "funding_docs": []
+  "funding_docs": [],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No county lodging tax fund figures or award list were found."
  },
  {
   "name": "Auburn",
@@ -5324,7 +5516,10 @@
     "url": "https://auburn.municipal.codes/ACC/2.76.040",
     "summary": "Establishes the seven-member LTAC and its duty to review proposed uses of lodging tax revenue before Council action; no dollar allocations."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "The FY2025 application states no total pool or caps and no award list was found; awards are made in three rounds a year on a reimbursement basis, so the outside share is unknown."
  },
  {
   "name": "Puyallup",
@@ -5395,7 +5590,10 @@
     "url": "https://www.piercecountywa.gov/DocumentCenter/View/158804/2027-Lodging-Tax-Grant-Program-Master-Application",
     "summary": "County program with $5,308,730 available for 2027 ($2.29M asset development, $1.5M leisure marketing, $800K personnel, $540K event marketing and operations, $118,730 event development, $60K sports); applications June 4 to July 3, 2026; projects in Puyallup are excluded."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No city lodging tax budget, allocation plan or award list was found, so it is unknown whether the 5% tax is fully committed to standing uses."
  },
  {
   "name": "Fife",
@@ -5466,7 +5664,10 @@
     "url": "https://DOR.WA.GOV/sites/default/files/2022-02/2022_Jan_FifeLodging.pdf",
     "summary": "Confirms the Fife lodging tax rate of 5% on top of 8.5% sales tax (13.5% combined) for non-tribal lodging in the mapped Fife areas; reporting change only."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No city lodging tax budget, allocation plan or award list was found, so it is unknown whether the 5% tax is fully committed to standing uses."
  },
  {
   "name": "Lakewood",
@@ -5567,7 +5768,10 @@
     "url": "https://cityoflakewood.us/wp-content/uploads/2025/05/2025-05-08-LTAC-Agenda-1.pdf",
     "summary": "Off-cycle 2025 request of $9,000 from the City for the Gimhae sister-city K-Pop delegation (total cost $21,000); restates the 4%/3% split and the $101,850 McGavick commitment."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "FY2027: total revenue is not stated in the application; $101,850 a year is committed to the Sharon McGavick Student Center through 2027 and the 3% share is reserved for convention facilities and major attractions; the Sept 18, 2026 LTAC packet with the award table could not be fetched, so the outside share is unknown."
  },
  {
   "name": "Gig Harbor",
@@ -5689,7 +5893,10 @@
     "url": "https://gigharborwa.gov/Archive.aspx?ADID=3510",
     "summary": "Adopted July 10, 2023; awards the Chamber $275,650 for 2023 and up to $500,000 for 2024 for destination marketing and cuts the City's own tourism operations grant from $475,000 to $199,400."
    }
-  ]
+  ],
+  "total_pool_usd": 592600,
+  "competitive_pool_usd": 150600,
+  "pool_note": "2027: about $530,000 projected revenue plus a $62,600 reserve draw; the Chamber of Commerce DMO contract takes $442,000 ($379,400 plus $62,600 reserve), leaving an estimate of about $150,600 for seven outside applicants (Downtown Waterfront Alliance $75,000, BoatShop $29,313, Permission To Start Dreaming $20,000, remainder to WildWatch, Harbor History Museum, Film Festival and the canoe team)."
  },
  {
   "name": "Tumwater",
@@ -5740,7 +5947,10 @@
     "url": "https://app.govly.com/public/meetings/71948",
     "summary": "Sets the 2027 cycle: applications Sept 1-30, review week of Oct 19, recommendations to Council Nov 2; revises the form and scoring rubric to prioritize events that generate overnight stays."
    }
-  ]
+  ],
+  "total_pool_usd": 250000,
+  "competitive_pool_usd": 248958,
+  "pool_note": "2026: LTAC recommended $248,958 of about $250,000 available against roughly $351,000 requested, all to outside organizations including Experience Olympia and Beyond (DMO share not itemized) and $210,000 for historic and cultural programs; treat the outside figure as an estimate that includes the DMO allocation."
  },
  {
   "name": "Bremerton",
@@ -5834,7 +6044,10 @@
     "url": "https://bremertonwa.gov/DocumentCenter/View/13493/2027-Lodging-Tax-Award-Contract-PDF",
     "summary": "Standard reimbursement contract awardees sign; no funds may be spent or reimbursed before full execution and contracts over $100,000 need Council approval."
    }
-  ]
+  ],
+  "total_pool_usd": 850000,
+  "competitive_pool_usd": 425000,
+  "pool_note": "2026: $850K total lodging tax commitments ($450K competitive awards plus $250K Kitsap Conference Center and $150K Admiral Theatre budget earmarks); of the $450K, $25K went to the city's own Quincy Square, leaving $425K awarded to 16 outside applicants."
  },
  {
   "name": "Port Orchard",
@@ -5935,7 +6148,10 @@
     "url": "https://lf.portorchardwa.gov/",
     "summary": "Repository for LTAC agenda packets and minutes including prior-year funding tables; the specific 2026 award list was not retrievable in this pass."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No revenue figure, adopted pool or 2026 award list was retrievable; the 2027 application packet states no total."
  },
  {
   "name": "Bainbridge Island",
@@ -5979,7 +6195,10 @@
     "url": "https://www.bainbridgereview.com/?p=132297",
     "summary": "Council approved $400,000 to 11 of 13 applicants ($659,735 requested) at LTAC-recommended amounts, led by Visit Bainbridge Island $165K, Chamber of Commerce $90K and Downtown Association $70K; Bainbridge Prepares and the Washington Museum Association received nothing."
    }
-  ]
+  ],
+  "total_pool_usd": 400000,
+  "competitive_pool_usd": 145000,
+  "pool_note": "2026: $400K awarded through the Civic Improvement Fund RFP; $165K to Visit Bainbridge Island and $90K to the Chamber of Commerce are DMO/chamber-type awards, leaving about $145K across nine other outside organizations (estimate, since the DMO and chamber compete in the same round)."
  },
  {
   "name": "Sequim",
@@ -6050,7 +6269,10 @@
     "url": "https://www.sequimgazette.com/?p=74296",
     "summary": "One-off round of up to $5,000 per nonprofit tourism organization within the Sequim School District, $50K total from city lodging tax, applications due April 15, 2022 with LTAC review April 20 and Council action April 25."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "No standing competitive round; the city's 4% lodging tax funds its own marketing and visitor center contract, and the only outside grants were one-off $50K Tourism Sustainability rounds in 2020-2022 (annual revenue not published)."
  },
  {
   "name": "Port Townsend",
@@ -6172,7 +6394,10 @@
     "url": "https://cityofpt.us/bc/page/lodging-tax-advisory-committee",
     "summary": "Lists the $40K two-round program, $1K to $10K award range, one-year wait for prior recipients, portal rules and that 2022 city lodging tax collections were $602,167 supporting marketing, events, infrastructure, fee waivers and debt service."
    }
-  ]
+  ],
+  "total_pool_usd": 530000,
+  "competitive_pool_usd": 50000,
+  "pool_note": "2026: $50K grant round for outside organizations; the 2024 LTAC budget was $530K with the balance committed to city marketing, events, infrastructure, fee waivers and debt service (total is the 2024 figure)."
  },
  {
   "name": "Forks",
@@ -6223,7 +6448,10 @@
     "url": "https://www.peninsuladailynews.com/?p=224723",
     "summary": "24 requests totaling about $500,000 against $503,233 collected through October 2023; largest asks were Forks Chamber of Commerce $185,000 (Twilight Festival, visitor center and marketing) and City of Forks $169,175 (Fourth of July, ball fields, Rainforest Arts Center), with Forks Timber Museum $35,000."
    }
-  ]
+  ],
+  "total_pool_usd": 503233,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 cycle: about $503K collected through October 2023 against roughly $500K in 24 requests, dominated by the Forks Chamber ($185K visitor center, marketing and Twilight events) and the city's own $169K; final awards to the remaining smaller applicants (about $62.5K requested) were not published, so no competitive figure."
  },
  {
   "name": "Anacortes",
@@ -6331,7 +6559,10 @@
     "url": "https://www.anacorteswa.gov/558/Lodging-Tax-Advisory-Committee",
     "summary": "States the 4% tax, annual solicitation, RCW 67.28.1816 eligible uses and that most grants are $5,000 to $25,000; links the 2023-2028 Tourism Promotion Plan (Resolution 3138)."
    }
-  ]
+  ],
+  "total_pool_usd": 693800,
+  "competitive_pool_usd": 85300,
+  "pool_note": "2026: $693,800 awarded by Resolution 3191; after $366,500 city Event Center capital, $40K city parks items and $202K to the Chamber (Experience Anacortes marketing, visitor center, chamber events and Walk Fest), about $85K went to 15 other outside applicants."
  },
  {
   "name": "Oak Harbor",
@@ -6425,7 +6656,10 @@
     "url": "https://oakharbor.gov/AgendaCenter/ViewFile/Minutes/_02042025-451",
     "summary": "Committee revised the 2026 application questions and point values and reordered them; staff drafted the changes for the August 2025 kickoff of the 2026 cycle."
    }
-  ]
+  ],
+  "total_pool_usd": 475000,
+  "competitive_pool_usd": 353000,
+  "pool_note": "2026: Council approved $475K; staff and LTAC recommended about $408K to 15 of 21 applicants, which included a $55K city marina debt-service item, leaving roughly $353K for outside applicants (estimate; a $50K Whidbey and Camano tourism earmark may also sit inside that figure)."
  },
  {
   "name": "Friday Harbor",
@@ -6519,7 +6753,10 @@
     "url": "https://fridayharbor.org/2357/Lodging-Tax-Grant-Application",
     "summary": "Grants promote Friday Harbor events and activities that attract visitors, funded by the hotel/motel tax on all transient lodging; 2027 applications released June 2026 after a May planning meeting; reimbursement requests from 2026 awardees due Jan 5, 2027 and attendance reports Jan 31, 2027; an urgent off-cycle request form goes to Town Council; no pool total published."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "The town publishes no pool total or award list on its LTAC page; contact the LTAC Coordinator for current figures."
  },
  {
   "name": "Westport",
@@ -6583,7 +6820,10 @@
     "url": "https://www.codepublishing.com/WA/Westport/html/Westport03/Westport0342.html",
     "summary": "Levies a 5% lodging excise tax (first 2% credited against state sales tax) into a dedicated city fund for attracting visitors, marketing and operating special events and festivals, and tourism facility operations and capital per RCW 67.28.1815; no grant process is defined."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "5% city lodging tax revenue and its commitments are not published online; no grant program or award list was found."
  },
  {
   "name": "Marysville",
@@ -6634,7 +6874,10 @@
     "url": "https://marysvillewa.gov/CivicAlerts.asp?AID=1323",
     "summary": "Announces the 2026 cycle funded by the 2% hotel/motel tax, due Oct 15, 2025 (later extended), for nonprofit projects that increase overnight stays; grants are partial, competitive and reimbursement-based."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No lodging tax revenue figure, grant pool or award list was published for the 2026 cycle; the 2% tax funds a competitive nonprofit grant but amounts are unknown."
  },
  {
   "name": "Mukilteo",
@@ -6685,7 +6928,10 @@
     "url": "https://mukilteowa.gov/?p=18427",
     "summary": "Reports $262,200 approved for 2020 split among the Mukilteo Chamber of Commerce, Mukilteo Lighthouse Festival Association and Rosehill Community Center staffing, and describes the LTAC presentation and Council approval sequence."
    }
-  ]
+  ],
+  "total_pool_usd": 244106,
+  "competitive_pool_usd": 244106,
+  "pool_note": "2025: $244,106 approved for Lodging Tax Grant awards (the 2026 pool was not stated); estimate treats the full approved amount as competitive, though in 2020 the comparable $262,200 included city-run Rosehill Community Center staffing alongside the Chamber and Lighthouse Festival."
  },
  {
   "name": "Edmonds",
@@ -6765,7 +7011,10 @@
     "url": "https://edmondswa.gov/government/boards_and_commissions/lodging_tax_committee",
     "summary": "Explains the 2% special excise tax on lodging (Ordinance 2010) restricted by RCW to facilities and programs that attract visitors, lists the current LTAC members and links the 2027 application due June 3, 2026."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No 2027 revenue, pool or award list was published; the 2% tax funds a general LTAC award and an arts track that historically capped awards at $2,600 per organization."
  },
  {
   "name": "Shoreline",
@@ -6816,7 +7065,10 @@
     "url": "https://mrsc.org/explore-topics/finance/revenues/lodging-tax",
     "summary": "Statewide reference on which jurisdictions levy lodging tax and the RCW 67.28 rules; no Shoreline-specific lodging tax budget, resolution or award list was found on the city website."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "No lodging tax fund, LTAC or grant program was found on the city website, so nothing is open to outside applicants."
  },
  {
   "name": "Des Moines",
@@ -6894,7 +7146,10 @@
     "url": "https://www.westsideseattle.com/node/14899",
     "summary": "Historic record of the LTAC recommending 100% of hotel-motel tax (about $12,000 a year) to Seattle Southside Visitor Services membership for 2005 to 2008."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "Hotel/motel tax revenue is not published in the documents found; historically 100% went to Seattle Southside Visitor Services, and recent ad hoc LTAC awards (e.g. $7,500 for the Waterland Festival) show small amounts reach outside events without a formal application."
  },
  {
   "name": "Woodinville",
@@ -7016,7 +7271,10 @@
     "url": "https://www.woodinville.gov/443/Lodging-Tax-Advisory-Committee",
     "summary": "Describes the annual mid-June to mid-August application window, December awards, grant range of $500 to $50,000, and the committee's lodging and user seats."
    }
-  ]
+  ],
+  "total_pool_usd": 217000,
+  "competitive_pool_usd": 194980,
+  "pool_note": "2027: about $217,000 estimated available; 2026 awards totaled $194,980 across outside organizations (Chamber, Wine Country, Arts Alliance, Farmers Market and others) with no separate city set-asides, so the 2026 awarded total is used as the competitive figure."
  },
  {
   "name": "North Bend",
@@ -7093,7 +7351,10 @@
     "url": "https://www.codepublishing.com/WA/NorthBend/html/NorthBend02/NorthBend0227.html",
     "summary": "Creates a five-or-more member LTAC with equal lodging and activity seats chaired by an elected official that meets when necessary to review new taxes, exemption repeals and changes in use of lodging tax proceeds; no grant program, pool or caps are set."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No lodging tax budget, allocation resolution or award list was found; NBMC 2.27 establishes an LTAC but the uses of the fund are not published online."
  },
  {
   "name": "Snoqualmie",
@@ -7187,7 +7448,10 @@
     "url": "https://www.snoqualmiewa.gov/DocumentCenter/View/38451/2025-2026-Mayors-Proposed-Budget-Document---Combined",
     "summary": "Budgets lodging tax revenue of $33,600 (2025) and $34,507 (2026) with $30,000 of grant expenditures each year, noting revenue fell after Salish Lodge moved into federal trust in 2023."
    }
-  ]
+  ],
+  "total_pool_usd": 34507,
+  "competitive_pool_usd": 30000,
+  "pool_note": "2026: Tourism Promotion Fund 110 budgets $34,507 in lodging tax revenue and $30,000 in grant expenditures, awarded as four $7,500 grants to outside organizations."
  },
  {
   "name": "Cle Elum",
@@ -7253,7 +7517,10 @@
     "url": "https://cleelum.gov/boards-commissioners/lodging-tax-events/",
     "summary": "Committee chaired by Councilmember Audrey Malek meets the 2nd Wednesday monthly at 8:30 am; applications must be submitted before the event and at least 9 days before the meeting."
    }
-  ]
+  ],
+  "total_pool_usd": 160000,
+  "competitive_pool_usd": 110000,
+  "pool_note": "2025: Fund 106 estimates $160,000 in hotel/motel tax (plus a $500,000 carryover balance) and budgets $302,000 in spending; after $100,000 cemetery irrigation capital, $28,000 county CLAT, $24,000 HopeSource bus, $20,000 general hotel-motel, $15,000 county reimbursement and $5,000 marketing, roughly $110,000 went to outside events and organizations (CEDA Christmas $50K, Pioneer Days $20K, fireworks/Chamber $15K, Downtown Association $10K, Mountain Madness $8K, Sassy Trash $4K, Pioneer Days Queen $3K), an estimate."
  },
  {
   "name": "Moses Lake",
@@ -7347,7 +7614,10 @@
     "url": "https://www.grantcountywa.gov/DocumentCenter/View/16860",
     "summary": "County program open to Moses Lake events as a second funding source: 25% minimum match, reimbursement only, three-year funding limit, scoring that favors off-season (Oct-Apr) events, verified overnight stays and out-of-county marketing; applications Aug 17 to Sept 30, 2026."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "The city's 4% lodging tax revenue and 2027 award list are not published in the documents found; the separate Grant County LTAC awarded about $1.02M countywide for 2026, including roughly $128,000 to Moses Lake events and the Chamber."
  },
  {
   "name": "Pullman",
@@ -7455,7 +7725,10 @@
     "url": "https://pullman-wa.gov/government/boards_commissions___committees/lodging_tax_advisory_commission.php",
     "summary": "States the 4% lodging tax rate, the commission's advisory role on uses of the revenue, and the monthly meeting schedule where recommendations to Council are recorded in minutes."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No lodging tax budget, award list or grant pool figure was found for Pullman's 4% tax; the application PDF and meeting minutes could not be opened."
  },
  {
   "name": "Centralia",
@@ -7506,7 +7779,10 @@
     "url": "https://www.chronline.com/stories/city-of-centralia-accepting-applications-for-2026-hotelmotel-lodging-tax-grants,384949",
     "summary": "Prior-cycle call for applications with a Sept 19, 2025 noon deadline; confirms the annual pattern and nonprofit/government eligibility."
    }
-  ]
+  ],
+  "total_pool_usd": 247567,
+  "competitive_pool_usd": 96000,
+  "pool_note": "2026: $247,567 available and approved; $84,600 event center bond debt and $66,967 Fox Theatre loan are standing commitments, leaving $96,000 awarded across seven outside nonprofit applicants."
  },
  {
   "name": "Aberdeen",
@@ -7614,7 +7890,10 @@
     "url": "https://thedailyworld.com/news/aberdeen-seeks-ltac-members",
     "summary": "Reports the prior round awarded $110,000 to 11 applicants for festivals, beautification and art."
    }
-  ]
+  ],
+  "total_pool_usd": 90000,
+  "competitive_pool_usd": 90000,
+  "pool_note": "2026: LTAC agenda showed $90,000 budgeted for projects (fund balance about $409,474) against $161,200 requested, including $50,000 of city Parks and traffic/decoration requests, so the outside share is an estimate at or below $90,000; the prior round awarded $110,000 to 11 applicants."
  },
  {
   "name": "Longview",
@@ -7665,7 +7944,10 @@
     "url": "https://visitmtsthelens.com/wp-content/uploads/2024/10/Grant_Application_2025.pdf",
     "summary": "County lodging tax grant guidelines: public agencies and nonprofits, events drawing visitors from beyond 50 miles, 25% match, reimbursement basis, applications due Nov 6, 2024; no total pool stated. No City of Longview lodging tax allocation document was found."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No City of Longview lodging tax budget or allocation document was found, so neither the revenue nor any committed uses could be confirmed."
  },
  {
   "name": "Camas",
@@ -7745,7 +8027,10 @@
     "url": "https://www.camaspostrecord.com/news/2024/jun/13/camas-awards-30k-from-lodging-taxes/",
     "summary": "Reports about $30,000 in 2024 lodging tax awards approved by Council on LTAC's recommendation; the article could not be opened to list individual recipients."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": 30000,
+  "pool_note": "2024: about $30,000 awarded to outside applicants from the 2% lodging tax per the Post-Record; total annual revenue was not published."
  },
  {
   "name": "Winthrop",
@@ -7816,7 +8101,10 @@
     "url": "https://methownet.com/grist/features/winthrop3tax.html",
     "summary": "Reports the town's 3% hotel-motel tax of roughly $85,000 per year is budgeted for marketing only and overseen by a seven-member marketing committee; figures are dated."
    }
-  ]
+  ],
+  "total_pool_usd": 85000,
+  "competitive_pool_usd": 0,
+  "pool_note": "2012 estimate: roughly $85,000 a year from the 3% tax, all budgeted to the town's contracted marketing program with no open grant round; current revenue not found."
  },
  {
   "name": "Lynden",
@@ -7896,7 +8184,10 @@
     "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/lynden-meet-aa86735ae8844a82a7978ce76fb67c92/ITEM-Attachment-001-7b46da9d4d4f4677b5d361a26b390811.pdf",
     "summary": "Confirms the five-member LTAC appointments through Dec 31, 2025 and that LTAC recommendations feed the annual budget; no dollar amounts."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "Lynden publishes the application timeline but no lodging tax revenue, pool or award list was found."
  },
  {
   "name": "Blaine",
@@ -8018,7 +8309,10 @@
     "url": "https://ci.blaine.wa.us/248/Blaine-Tourism-Advisory-Committee",
     "summary": "States BTAC reviews the hotel/motel tax budget and recommends grants; 2026 applications were due Sept 1, 2025 to Alex Wenger."
    }
-  ]
+  ],
+  "total_pool_usd": 206400,
+  "competitive_pool_usd": 83000,
+  "pool_note": "2025: $206,400 total tourism spending approved from lodging tax; Welcome Center lease and management ($100,000), events costs, marketing and staff absorb the rest, leaving $83,000 awarded across 11 event grants (seven routed through the Chamber/parks district)."
  },
  {
   "name": "Liberty Lake",
@@ -8112,7 +8406,10 @@
     "url": "https://www.libertylakewa.gov/CivicAlerts.aspx?AID=690",
     "summary": "Prior-cycle notice (due Dec 2, 2022) confirming the early-December pattern, 2% tax source and LTAC-recommends, Council-decides process."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024: six outside requests totaled $80,550 but the award amounts and annual 2% tax revenue were not published in the documents found."
  },
  {
   "name": "Stevenson",
@@ -8206,7 +8503,10 @@
     "url": "https://www.ci.stevenson.wa.us/sites/default/files/fileattachments/city_hall/page/3277/2024_adopted_budget_book_12.5.23.pdf",
     "summary": "Adopted budget containing the Tourism Promotion and Development Fund appropriations; not opened in this pass, so amounts are unconfirmed."
    }
-  ]
+  ],
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "The Tourism Promotion Fund (Fund 103) ended 2025 with about $1.61M in reserves, but annual revenue, standing commitments and the award list were not found; only a $3,000 festival award and a $10,000 TAC contract payment are documented."
  },
  {
   "name": "Poulsbo",
@@ -8298,6 +8598,9 @@
    "format": "In-person presentation/interview with LTAC; applicants are notified of date, time and place and may be asked to attend; format length not published"
   },
   "meeting_schedule": "No standing monthly schedule; LTAC meets as needed per annual timeline: mid-June to set weighting guidelines (June 17, 2026), late September for applicant presentations (Sept 30, 2026), mid-October for award deliberations (Oct 15, 2026); recommendations go to City Council in early November (Nov 4, 2026)",
+  "total_pool_usd": 637350,
+  "competitive_pool_usd": 388350,
+  "pool_note": "2025: $637,350 total awarded (lodging tax revenue and fund budget not published online; the 2025-2026 budget PDF could not be fetched); $249,000 went to the City of Poulsbo itself, leaving $388,350 awarded across 13 outside applicants, of which $105,000 went to DMO-type recipients (Visit Kitsap Peninsula $55,000, Poulsbo Chamber/Visit Poulsbo $50,000) through the same application process.",
   "funding_docs": [
    {
     "title": "Poulsbo Tourism (Lodging Tax) Grant Program page, 2026/2027 cycle",
