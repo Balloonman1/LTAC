@@ -489,7 +489,7 @@ table.dt td.nw{white-space:nowrap}
   <div class="vhead"><h2>Top events</h2><p>The 300 largest lodging-tax-funded events and festivals in Washington, ranked by the paid room nights their producers reported to the state. Every funded event files a post-event report; this is what those reports say. Click a row for the organizer, every funder, and estimate versus actual for each year. 2024 is the newest year the state has: JLARC suspended 2025 reporting in December 2025, and 2026 data will not be filed until 2027.</p></div>
   <div class="evbar">
     <input type="search" id="evq" placeholder="Search event, organizer, city or county" aria-label="Search events">
-    <select id="evsort" aria-label="Rank by"><option value="nights">Most paid room nights</option><option value="att">Largest attendance</option><option value="ltac">Most lodging tax (latest year)</option><option value="ltac3">Most lodging tax (3 years)</option><option value="eff">Fewest tax dollars per room night</option></select>
+    <select id="evsort" aria-label="Rank by"><option value="nights">Most paid room nights</option><option value="att">Largest attendance</option><option value="a50">Most 50+ mile visitors</option><option value="ltac">Most lodging tax (latest year)</option><option value="ltac3">Most lodging tax (3 years)</option><option value="eff">$ per night: low to high</option><option value="effhi">$ per night: high to low</option><option value="year">Most recent year</option></select>
     <select id="evcounty" aria-label="County"><option value="">All counties</option></select>
   </div>
   <div class="tablewrap"><table class="bench ev" id="evTable"><thead><tr><th>#</th><th>Event</th><th>Put on by</th><th>Funded by</th><th>Year</th><th>Paid room nights</th><th>Attendance</th><th>50+ miles</th><th>Lodging tax</th><th>$ / night</th><th>Other funding</th></tr></thead><tbody></tbody></table></div>
@@ -999,14 +999,18 @@ document.getElementById('asof').textContent=fmt(META.asof); document.querySelect
 
 /* ================= award history (JLARC) ================= */
 function awardsHtml(r){
+  if((!r.jlarc||!r.jlarc.years||!Object.keys(r.jlarc.years).length)&&r.local_awards) return localOnlyHtml(r);
   const j=r.jlarc; if(!j||!j.years||!Object.keys(j.years).length) return '';
   const yrs=Object.keys(j.years).sort().reverse();
+  const la=r.local_awards&&r.local_awards.years?r.local_awards.years:null; const lyrs=la?Object.keys(la).sort().reverse():[];
+  const lrows=lyrs.map(y=>{const s=la[y];const amts=s.awards.map(a=>a.amount).filter(a=>typeof a==='number').sort((p,q)=>p-q);const out=s.awards.filter(a=>!a.dmo);return `<tr class="loc"><td>${y}<span class="src">minutes</span></td><td>${s.awards.length||'–'}</td><td>${s.total!=null?money(s.total):'–'}</td><td>${out.length||'–'}</td><td>${amts.length?money(amts[Math.floor(amts.length/2)]):'–'}</td><td>${amts.length?money(amts[amts.length-1]):'–'}</td><td>–</td><td>–</td></tr>`;}).join('');
   const rows=yrs.map(y=>{const s=j.years[y];const cpn=s.nights&&s.ev_total?Math.round(s.ev_total/s.nights):null;return `<tr><td>${y}</td><td>${s.awards}</td><td>${money(s.total)}</td><td>${s.ev_awards}</td><td>${s.ev_median!=null?money(s.ev_median):'–'}</td><td>${s.ev_max!=null?money(s.ev_max):'–'}</td><td>${s.nights!=null?s.nights.toLocaleString():'–'}</td><td>${cpn!=null?'$'+cpn:'–'}</td></tr>`;}).join('');
   const latest=j.years[yrs[0]];
+  const lnote=lyrs.length?`<div class="top">${lyrs.join(', ')} rows come from council and committee records (the state dataset ends at 2024); there "awards" counts every recipient including the jurisdiction's own contracts, and "event awards" means outside recipients.</div>`:'';
   const top=(latest.top||[]).slice(0,3).map(t=>`${esc(t.recipient)} (${money(t.amount)}, ${esc((t.type||'').replace('Event/Festival','event').toLowerCase())})`).join('; ');
   const bt=latest.bytype||{}; const split=`${yrs[0]} split: events ${money(bt['Event/Festival']||0)}, marketing ${money(bt['Marketing']||0)}, facilities ${money(bt['Facility']||0)}.`;
   const shared=latest.shared_nights?`<div class="top warn2">${latest.shared_nights.toLocaleString()} of these ${yrs[0]} nights come from recipients also funded by ${[...new Set((latest.shared||[]).flatMap(s=>s[1]))].slice(0,4).join(', ')}; the same visitors may be counted there too.</div>`:'';
-  return `<details><summary>Award history (JLARC reports) <span>${yrs.length} yr</span></summary><div class="awards">${shared}<button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards (all)</th><th>Total (all)</th><th>Event awards</th><th>Event median</th><th>Event max</th><th>Event nights</th><th>$/night</th></tr></thead><tbody>${rows}</tbody></table></div><div class="top">${split}</div>${top?`<div class="top">Largest ${yrs[0]} recipients: ${top}</div>`:''}${latest.forprofit!=null?`<div class="top">${latest.forprofit} of ${latest.awards} ${yrs[0]} awards went to recipients that appear to be businesses.</div>`:''}<div class="top">From the jurisdiction's annual reports to JLARC. Room nights are event recipients' own estimates; marketing and facility rows are excluded from nights because DMOs report county-wide totals.</div></div></details>`;
+  return `<details><summary>Award history (JLARC reports) <span>${yrs.length} yr</span></summary><div class="awards">${shared}<button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards (all)</th><th>Total (all)</th><th>Event awards</th><th>Event median</th><th>Event max</th><th>Event nights</th><th>$/night</th></tr></thead><tbody>${lrows}${rows}</tbody></table></div>${lnote}<div class="top">${split}</div>${top?`<div class="top">Largest ${yrs[0]} recipients: ${top}</div>`:''}${latest.forprofit!=null?`<div class="top">${latest.forprofit} of ${latest.awards} ${yrs[0]} awards went to recipients that appear to be businesses.</div>`:''}<div class="top">From the jurisdiction's annual reports to JLARC. Room nights are event recipients' own estimates; marketing and facility rows are excluded from nights because DMOs report county-wide totals.</div></div></details>`;
 }
 function verifyHtml(r){
   return `<div class="verify"><span>Last verified ${fmt(r.verified||META.asof)}</span><button class="corr" data-j="${esc(r.name)}">Report a correction</button></div>`;
@@ -1264,10 +1268,11 @@ function detailHtml(r,year){
     <div class="yrsel seg">${yrs.map(y=>`<button data-year="${y}" aria-pressed="${y===year}">${y}</button>`).join('')}</div>
     <div class="tw"><table class="dt recs"><thead><tr><th>Recipient</th><th>Type</th><th>Award</th><th>Paid nights</th><th>Attendance</th><th>50+ mi</th><th>Out of state</th><th>Method</th><th>Also funded by</th></tr></thead><tbody>${recs}</tbody></table></div>
     <p class="hint2">Source: JLARC lodging tax reporting, ${year}, self-reported by recipients to the jurisdiction.</p>
+    ${localSection(r)}
   </div>`;
 }
 let detailName=null;
-function openDetail(name,year){ const r=data.find(x=>x.name===name); if(!r||!r.jlarc) return; detailName=name; openModal(detailHtml(r,year)); modal.querySelector('.modalbox').classList.add('wide'); modal.querySelector('.modalbox').scrollTop=0; }
+function openDetail(name,year){ const r=data.find(x=>x.name===name); if(!r||(!r.jlarc&&!r.local_awards)) return; if(!r.jlarc){ openModal(localDetailHtml(r)); modal.querySelector('.modalbox').classList.add('wide'); return; } detailName=name; openModal(detailHtml(r,year)); modal.querySelector('.modalbox').classList.add('wide'); modal.querySelector('.modalbox').scrollTop=0; }
 document.addEventListener('click',e=>{
   const d=e.target.closest('[data-detail]'); if(d){ e.preventDefault(); openDetail(d.dataset.detail); return; }
   const y=e.target.closest('.yrsel button'); if(y&&detailName){ openDetail(detailName,y.dataset.year); }
@@ -1284,8 +1289,8 @@ function renderEvents(){
     const q=document.getElementById('evq').value.trim().toLowerCase(), sort=document.getElementById('evsort').value, cty=sel.value;
     let rows=EVENTS.filter(e=>(!cty||(e.county||'').includes(cty))&&(!q||[e.name,e.org,e.county,...e.funders].join(' ').toLowerCase().includes(q)));
     const eff=e=>e.nights&&e.ltac?e.ltac/e.nights:null;
-    const keyf={nights:e=>-(e.nights||0),att:e=>-(e.att||0),ltac:e=>-(e.ltac||0),ltac3:e=>-(e.ltac_3yr||0),eff:e=>eff(e)==null?1e12:eff(e)}[sort];
-    if(sort==='eff') rows=rows.filter(e=>(e.nights||0)>=200&&e.ltac>0);
+    const keyf={nights:e=>-(e.nights||0),att:e=>-(e.att||0),a50:e=>-((e.years[e.latest]||{}).a50||0),ltac:e=>-(e.ltac||0),ltac3:e=>-(e.ltac_3yr||0),eff:e=>eff(e)==null?1e12:eff(e),effhi:e=>eff(e)==null?1e12:-eff(e),year:e=>-(+e.latest||0)*1e9-(e.nights||0)}[sort];
+    if(sort==='eff'||sort==='effhi') rows=rows.filter(e=>(e.nights||0)>=200&&e.ltac>0);
     rows=rows.sort((a,b)=>keyf(a)-keyf(b)).slice(0,300);
     document.querySelector('#evTable tbody').innerHTML=rows.map((e,i)=>{const s=e.years[e.latest]; const f=eff(e);
       return `<tr class="evrow" data-ev="${e.key[0]}|${e.key[1]}"><td class="num">${i+1}</td><td><b>${esc(e.name)}</b></td><td>${esc(e.org)}${e.org_is_gov?' <span class="tag">public</span>':''}</td><td>${e.funders.map(f=>{const r=data.find(x=>x.name===f);return r?`<a href="#j-${slug(f)}" onclick="event.stopPropagation()">${esc(f)}</a>`:esc(f);}).join(', ')}</td><td>${e.latest}</td><td class="num">${(e.nights||0).toLocaleString()}</td><td class="num">${(e.att||0).toLocaleString()}</td><td class="num">${(s.a50||0).toLocaleString()}</td><td class="num">${money(e.ltac)}</td><td class="num">${f!=null?'$'+Math.round(f):'–'}</td><td>${e.other&&e.other.length?`${e.other_total?money(e.other_total)+' · ':''}${[...new Set(e.other.map(o=>o.funder))].slice(0,3).map(esc).join(', ')}`:'<span class="dimtxt">none found</span>'}</td></tr>`;}).join('')||'<tr><td colspan="11" class="empty">No events match.</td></tr>';
@@ -1341,6 +1346,22 @@ function openAlt(program){
 document.addEventListener('click',e=>{const b=e.target.closest('[data-alt]'); if(b){e.preventDefault(); openAlt(b.dataset.alt);}});
 
 route();
+
+function localOnlyHtml(r){
+  const la=r.local_awards.years; const yrs=Object.keys(la).sort().reverse();
+  const rows=yrs.map(y=>{const s=la[y];const amts=s.awards.map(a=>a.amount).filter(a=>typeof a==='number').sort((p,q)=>p-q);return `<tr class="loc"><td>${y}<span class="src">minutes</span></td><td>${s.awards.length||'–'}</td><td>${s.total!=null?money(s.total):'–'}</td><td>${amts.length?money(amts[Math.floor(amts.length/2)]):'–'}</td><td>${amts.length?money(amts[amts.length-1]):'–'}</td></tr>`;}).join('');
+  return `<details><summary>Award history (local records) <span>${yrs.length} yr</span></summary><div class="awards"><button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards</th><th>Total</th><th>Median</th><th>Largest</th></tr></thead><tbody>${rows}</tbody></table></div><div class="top">From council and committee records; the state dataset has no rows for this jurisdiction.</div></div></details>`;
+}
+function localSection(r){
+  const la=r.local_awards; if(!la||!la.years) return '';
+  const yrs=Object.keys(la.years).sort().reverse();
+  const blocks=yrs.map(y=>{const s=la.years[y];const rows=s.awards.slice().sort((p,q)=>(q.amount||0)-(p.amount||0)).map(a=>`<tr class="${a.dmo?'dim':''}"><td>${esc(a.recipient||'')}${a.dmo?' <span class="tag">jurisdiction / DMO</span>':''}</td><td>${esc(a.event||'')}</td><td class="num">${a.amount!=null?money(a.amount):'–'}</td><td class="meth">${esc(a.notes||'')}</td></tr>`).join('');
+    return `<h4>${y} awards from council and committee records${s.total!=null?` · ${money(s.total)} total`:''}${s.decided?` · decided ${esc(String(s.decided))}`:''}</h4>${s.note?`<p class="hint2">${esc(s.note)}</p>`:''}${rows?`<div class="tw"><table class="dt"><thead><tr><th>Recipient</th><th>Event or project</th><th>Amount</th><th>Notes</th></tr></thead><tbody>${rows}</tbody></table></div>`:'<p class="hint2">Per-award list not published; only the total was found.</p>'}`;}).join('');
+  return `${blocks}${la.upcoming?`<p class="hint2"><b>Coming cycle:</b> ${esc(la.upcoming)}</p>`:''}${la.not_found?`<p class="hint2">Not found: ${esc(la.not_found)}</p>`:''}<p class="hint2">Sources: ${(la.sources||[]).slice(0,8).map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//,'').slice(0,50))}</a>`).join(' · ')}</p>`;
+}
+function localDetailHtml(r){
+  return `<div class="detail"><p class="eyebrow2">${r.type==='county'?'County':'City'} · ${esc(r.county)} County</p><h3>${esc(r.name)}</h3><p class="hint2">The state dataset has no rows for ${esc(r.name)}; these awards come from local records. <a href="#j-${slug(r.name)}" onclick="closeModal()">Open the directory card</a>.</p>${localSection(r)}</div>`;
+}
 </script>
 
 </body>
