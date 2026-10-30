@@ -1,0 +1,823 @@
+[
+  {
+    "name": "Grant County",
+    "type": "county",
+    "county": "Grant",
+    "tax_rate": "2% special hotel-motel tax in unincorporated Grant County (total lodging rate 10.2% per DOR)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-30",
+    "funding_year": "2027",
+    "deadline_pattern": "Opens mid-August (Aug 17, 2026 at 9 a.m.), due Sept 30 at 5 p.m.; LTAC packet review Oct 21, presentations Oct 28, commissioners decide in November, agreements issued in December",
+    "typical_open": "Mid-August",
+    "annual_pool": "$1.02M",
+    "url": "https://www.grantcountywa.gov/1640/NEW---2027-LODGING-TAX-PROMOTION-GRANT-A",
+    "contact": "Caitlin E. Manell, Clerk of the Board / Clerk of LTAC, ltac@grantcountywa.gov (also cemanell@grantcountywa.gov), (509) 754-2011 ext. 2931",
+    "notes": "Digital applications only in three tracks (Events, Chamber/Visitor Center, Capital Projects); reimbursement based with a 25% minimum match, off-season (Oct-Apr) events scored higher, and LTAC recommended $1,021,403 in grants for 2026.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Rob Jones",
+        "role": "Chair",
+        "affiliation": "Grant County Commissioner",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Marilyn Meseberg",
+        "role": "Vice-Chair / Lodging representative",
+        "affiliation": "Mar Don Resort",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Goldye Moyer",
+        "role": "Lodging representative",
+        "affiliation": "Sun Lakes Resort",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jedidiah Jonathan",
+        "role": "Lodging representative",
+        "affiliation": "Holiday Inn Express & Suites",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Ruthann Tobiason",
+        "role": "Activity representative",
+        "affiliation": "Friends of the Lower Grand Coulee",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Lori Valdez",
+        "role": "Activity representative",
+        "affiliation": "Moses Lake Spring Festival",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Harriet Weber",
+        "role": "Activity representative",
+        "affiliation": "Quincy Valley Historical Society & Museum",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Caitlin E. Manell",
+        "role": "Staff (non-voting)",
+        "affiliation": "Clerk of the Board, Grant County",
+        "email": "ltac@grantcountywa.gov",
+        "phone": "(509) 754-2011 ext. 2931"
+      }
+    ],
+    "members_source": "https://www.grantcountywa.gov/663/Lodging-Tax-Advisory-Committee-LTAC",
+    "members_as_of": "2025-01-01",
+    "presentation": {
+      "required": false,
+      "date": "2026-10-28",
+      "pattern": "After reviewing written packets (Oct 21), LTAC may invite some, all or none of the applicants to give an oral presentation at its late-October meeting (Oct 28, 2026)",
+      "format": "in person"
+    },
+    "meeting_schedule": "Meets as needed, with grant review meetings in late October (Oct 21 and Oct 28, 2026); agendas posted on the county Agenda Center",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2027 Lodging Tax Grant Guidelines",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.grantcountywa.gov/DocumentCenter/View/16860",
+        "summary": "Sets the Aug 17 to Sept 30, 2026 application window, three tracks (events, chamber/VIC, capital projects), a minimum 25% match, reimbursement-only payment, a three-year limit on repeat funding except for chambers and VICs, and scoring priority for off-season (Oct-Apr) events, overnight stays and out-of-county marketing; no total pool is stated."
+      },
+      {
+        "title": "2027 Lodging Tax Promotion Grant press release",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://www.grantcountywa.gov/DocumentCenter/View/16831",
+        "summary": "Announces the 2027 round opening Aug 17, 2026 and closing Sept 30, 2026 at 5 p.m., digital applications only, with reporting required under RCW 67.28.1816."
+      },
+      {
+        "title": "2026 LTAC Recommended Grant Recipients",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.grantcountywa.gov/DocumentCenter/View/16862",
+        "summary": "Lists $1,021,403 in recommended 2026 awards across roughly 55 projects; largest are Bass Angler Magazine BAM Pro/Am $85,000, Grant County Fair $80,000, LTAC year-round promotion $63,851, Moses Lake Spring Festival $60,000 and Moses Lake Roundup $40,500, with five chambers at $30,000 each."
+      },
+      {
+        "title": "Grant County LTAC Bylaws (July 7, 2025)",
+        "doc_type": "other",
+        "year": "2025",
+        "url": "https://www.grantcountywa.gov/DocumentCenter/View/13832",
+        "summary": "Committee bylaws governing membership (commissioner chair plus equal ratepayer and recipient seats) and procedures; the PDF is scanned and its allocation rules could not be read."
+      }
+    ],
+    "total_pool_usd": 1021403,
+    "competitive_pool_usd": 710552,
+    "pool_note": "2026: LTAC recommended $1,021,403 in total; subtracting standing items (five chambers at $30K each = $150K, LTAC year-round promotion $63,851, county-owned fairgrounds events $97K) leaves an estimate of about $710K awarded to roughly 45 outside events and organizations, with single awards from $300 to $85K."
+  },
+  {
+    "name": "Douglas County",
+    "type": "county",
+    "county": "Douglas",
+    "tax_rate": "Basic state-credited lodging tax adopted in 2023 by Ordinance CE 23-01-31B; DOR shows no special add-on hotel-motel tax for unincorporated Douglas County (total lodging rate 7.8%)",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://douglascountywa.gov/864/Lodging-Tax-Advisory-Committee",
+    "contact": "LTAC Clerk, mjay@co.douglas.wa.us, (509) 884-7173",
+    "notes": "Douglas County only adopted its lodging tax in 2023 and formed an LTAC with collector and recipient seats, but no published grant application, deadline or funding round was found; requests go through the LTAC clerk.",
+    "confidence": "low",
+    "members": [
+      {
+        "name": "Marc Straub",
+        "role": "Chair",
+        "affiliation": "Douglas County Commissioner, District 3",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Rachel Beardslee",
+        "role": "Vice Chair / Lodging representative",
+        "affiliation": "Lodging Tax Collector Representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Mat Lyons",
+        "role": "Activity representative",
+        "affiliation": "Lodging Tax Recipient Representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Luna Wang",
+        "role": "Lodging representative",
+        "affiliation": "Lodging Tax Collector Representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Carolyn Morley",
+        "role": "Activity representative",
+        "affiliation": "Lodging Tax Recipient Representative",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://douglascountywa.gov/864/Lodging-Tax-Advisory-Committee",
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "Direct funding request to Douglas County LTAC / Board of Commissioners",
+        "administrator": "Douglas County Commissioners (LTAC Clerk)",
+        "funds": null,
+        "eligibility": "Tourism promotion uses under RCW 67.28.1815",
+        "cycle": "none",
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": "https://douglascountywa.gov/864/Lodging-Tax-Advisory-Committee",
+        "contact": "LTAC Clerk, mjay@co.douglas.wa.us, (509) 884-7173",
+        "notes": "No formal application round published; contact the clerk to ask how the committee takes requests.",
+        "confidence": "low"
+      },
+      {
+        "program": "City of East Wenatchee lodging tax (4% special hotel-motel tax)",
+        "administrator": "City of East Wenatchee",
+        "funds": null,
+        "eligibility": "Tourism promotion in East Wenatchee",
+        "cycle": null,
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": null,
+        "contact": null,
+        "notes": "East Wenatchee levies a 4% special hotel-motel tax per DOR; its application process was not researched in this batch.",
+        "confidence": "low"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Ordinance CE 23-01-31B establishing the Douglas County lodging tax and LTAC",
+        "doc_type": "ordinance",
+        "year": "2023",
+        "url": "https://douglascountywa.gov/864/Lodging-Tax-Advisory-Committee",
+        "summary": "Adopted Aug 29, 2023; imposes the state-authorized basic lodging tax in Douglas County and creates a five-member LTAC with collector and recipient seats; no allocation plan or award list has been published."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No lodging tax revenue figure, budget or award list has been published since the county adopted the tax in 2023, so neither pool can be stated."
+  },
+  {
+    "name": "Mason County",
+    "type": "county",
+    "county": "Mason",
+    "tax_rate": "2% special hotel-motel tax in unincorporated Mason County (total lodging rate 10.6% per DOR)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": "Historically applications were due Sept 30 for the following year (LTAC review in October, commissioners decide in December); the committee has since moved toward contracting services by RFP and a funding formula, so confirm the current process with the Commissioners' office",
+    "typical_open": "Late August (historical)",
+    "annual_pool": null,
+    "url": "https://masoncountywa.gov/ac/ltac/index.php",
+    "contact": "Mason County Commissioners' office (Central Operations), (360) 427-9670 ext. 419",
+    "notes": "The county LTAC (Resolution 10-06, Mason County Code 2.96) advises the commissioners and has funded events like Union PumpkinFest and the Celtic Festival, but no current application form or 2026/2027 deadline is posted; the City of Shelton runs a separate 4% lodging tax grant round (2026 window Aug 17 to Sept 8, contact Giselle Tomich 360-432-5114).",
+    "confidence": "low",
+    "members": [
+      {
+        "name": "Commissioner Trask",
+        "role": "Chair",
+        "affiliation": "Mason County Board of Commissioners",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://masoncountywa.gov/ac/ltac/agenda/2025/2025-01-15.pdf",
+    "members_as_of": "2025-01-15",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "Quarterly, Wednesdays at 9 a.m. in the Commission Chambers, 411 N 5th St, Shelton, in person and via Zoom (2025: Jan 15, Apr 16)",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Mason County LTAC agenda, January 15, 2025",
+        "doc_type": "ltac packet",
+        "year": "2025",
+        "url": "https://masoncountywa.gov/ac/ltac/agenda/2025/2025-01-15.pdf",
+        "summary": "Agenda covers quarterly reports from funded visitor centers, a request for proposals for contracted tourism services and discussion of a funding formula; no dollar amounts or application deadlines are included."
+      },
+      {
+        "title": "Mason County 2014 Lodging Tax application notice",
+        "doc_type": "guidelines",
+        "year": "2014",
+        "url": "https://www.masoncountywa.gov/news-releases/2013/2014_ltac_app_08272013.pdf",
+        "summary": "Historical notice: any group may apply by Sept 30 for advertising and promotion of tourism events, LTAC reviews in October and commissioners decide in December; no amounts stated."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No current revenue figure or award list was found; the 2025 LTAC agenda discusses contracting tourism services by RFP and a funding formula, and the undated Hood Canal Communications article references a $95,000 general tourism fund managed by a contractor, so the outside-applicant share is unknown."
+  },
+  {
+    "name": "Whitman County",
+    "type": "county",
+    "county": "Whitman",
+    "tax_rate": null,
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": null,
+    "notes": "No Whitman County LTAC page, application or grant round was found in official or local news sources during this research pass (search budget ran out before the county could be checked further); the lodging tax activity found is at the city level in Colfax and Pullman.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "Colfax Lodging Fund (hotel/motel tax tourism proposals)",
+        "administrator": "City of Colfax, Economic Development, Tourism and Events Commission and City Council",
+        "funds": "About $40K per year generated",
+        "eligibility": "Eligible local entities with projects that boost tourism",
+        "cycle": "annual",
+        "deadline": "2017-10-06",
+        "deadline_pattern": "Proposals solicited in September with an early-October deadline (2017 cycle)",
+        "url": "http://www.colfaxwa.org",
+        "contact": "Colfax City Administrator",
+        "notes": "Only a 2017 solicitation was found; confirm whether the fund still takes outside proposals.",
+        "confidence": "low"
+      },
+      {
+        "program": "City of Pullman lodging tax funds",
+        "administrator": "City of Pullman",
+        "funds": null,
+        "eligibility": "Tourism promotion in Pullman",
+        "cycle": null,
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": null,
+        "contact": null,
+        "notes": "Pullman is the county's main lodging market; its lodging tax process was not verified in this batch.",
+        "confidence": "low"
+      }
+    ],
+    "funding_docs": [],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No county lodging tax fund figures or award list were found."
+  },
+  {
+    "name": "Auburn",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "King County side: 0.8% special hotel-motel + 2.8% convention center tax; Pierce County side: 2% special hotel-motel + 3% convention center (26+ units), per DOR",
+    "has_ltac_grants": true,
+    "cycle": "rolling",
+    "deadline": "2025-10-31",
+    "funding_year": "2025",
+    "deadline_pattern": "Three rounds a year in 2025 (Mar 7, Jun 13, Oct 31 at 5 p.m.), each followed by an LTAC meeting about two weeks later and a Council decision the following month; the Chamber/Explore Auburn page says applications must arrive at least 90 days before the event",
+    "typical_open": "Continuous, with cutoffs in early March, mid-June and late October",
+    "annual_pool": null,
+    "url": "https://www.ecdev.auburnwa.gov/media/userfiles/subsite_294/files/LTAC%202025%20Application%20for%20FY2025%20LTAC%20Grant%20Application%20(1).pdf",
+    "contact": "Jenn Francis, Economic Development Manager, jfrancis@auburnwa.gov, (253) 215-8774",
+    "notes": "Any organization including private businesses may apply for reimbursable tourism promotion funds (nonprofits attach their 501(c)(3)/(c)(6) letter); the 2026 schedule was not posted, so dates are from the 2025 packet.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Jenn Francis",
+        "role": "Staff (non-voting)",
+        "affiliation": "Economic Development Manager, City of Auburn",
+        "email": "jfrancis@auburnwa.gov",
+        "phone": "(253) 215-8774"
+      }
+    ],
+    "members_source": "https://www.ecdev.auburnwa.gov/about/boards",
+    "members_as_of": null,
+    "presentation": {
+      "required": false,
+      "date": null,
+      "pattern": "Selected applicants may be invited to give an oral presentation to the LTAC or Auburn Tourism Board; the 2025 packet lists no presentation requirement",
+      "format": "in person"
+    },
+    "meeting_schedule": "Regular LTAC meetings the second Wednesday of April and November; 2025 grant-review meetings were Mar 19, Jul 9 and Nov 12 at 10 a.m.; Auburn Tourism Board meets the third Thursday monthly at 10 a.m. in Council Chambers",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "FY2025 Lodging Tax Grant Application and Guidelines",
+        "doc_type": "guidelines",
+        "year": "2025",
+        "url": "https://www.ecdev.auburnwa.gov/media/userfiles/subsite_294/files/LTAC%202025%20Application%20for%20FY2025%20LTAC%20Grant%20Application%20(1).pdf",
+        "summary": "Three 2025 cycles (Mar 7, Jun 13, Oct 31) with LTAC meetings Mar 19, Jul 9, Nov 12 and Council decisions Apr 21, Jul 21, Dec 1; any organization may apply for reimbursable tourism promotion funds, LTAC may recommend partial funding, insurance is ineligible; no total pool or cap stated."
+      },
+      {
+        "title": "Auburn Municipal Code 2.76 Lodging Tax Advisory Committee",
+        "doc_type": "ordinance",
+        "year": null,
+        "url": "https://auburn.municipal.codes/ACC/2.76.040",
+        "summary": "Establishes the seven-member LTAC and its duty to review proposed uses of lodging tax revenue before Council action; no dollar allocations."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "The FY2025 application states no total pool or caps and no award list was found; awards are made in three rounds a year on a reimbursement basis, so the outside share is unknown."
+  },
+  {
+    "name": "Puyallup",
+    "type": "city",
+    "county": "Pierce",
+    "tax_rate": "5% special hotel-motel tax (total lodging rate 13.6%) plus $1.00/night Pierce County TPA fee at 40+ unit properties, per DOR",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://codepublishing.com/WA/Puyallup/html/Puyallup02/Puyallup0214.html",
+    "contact": null,
+    "notes": "Puyallup has a seven-member LTAC under PMC 2.14 (one councilmember chair, three lodging and three activity seats, one-year terms starting the first Wednesday in March) but no public grant application page or funding round was found, and Puyallup projects are excluded from the Pierce County lodging tax grant program.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "Meets as needed (no fixed schedule per PMC 2.14)",
+    "alternatives": [
+      {
+        "program": "Pierce County Tourism Promotion Area (TPA) hotel commission",
+        "administrator": "Pierce County Economic Development Department (Tourism)",
+        "funds": null,
+        "eligibility": "Puyallup is a TPA member city with a commissioner seat; TPA funds support destination marketing and sports/event recruitment",
+        "cycle": null,
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/155530/TPAC-Agenda-2-18-26",
+        "contact": "Mike Gommi, Economic Development Specialist-Tourism, mike.gommi@piercecountywa.gov, (253) 798-6150; tourism@piercecountywa.gov",
+        "notes": "No open event grant round was found; ask county tourism staff whether TPA event support is available.",
+        "confidence": "low"
+      },
+      {
+        "program": "Pierce County Lodging Tax Grant Program",
+        "administrator": "Pierce County Economic Development Department",
+        "funds": "$5.3M for 2027 across six categories, including $540K event marketing and operations",
+        "eligibility": "Municipalities and 501(c)(3)/(c)(6) tourism organizations; projects must benefit lodging in areas paying the county lodging tax, so projects located in Puyallup, Fife, Gig Harbor, Lakewood and Tacoma do not qualify",
+        "cycle": "annual",
+        "deadline": "2026-07-03",
+        "deadline_pattern": "Opens early June, due early July for the following year; one-on-one pre-application meeting required",
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/158804/2027-Lodging-Tax-Grant-Program-Master-Application",
+        "contact": "Mike Gommi, mike.gommi@piercecountywa.gov",
+        "notes": "Listed for completeness; a Puyallup-sited event is ineligible unless it benefits lodging in a participating area.",
+        "confidence": "medium"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Puyallup Municipal Code Chapter 2.14 Lodging Tax Advisory Committee",
+        "doc_type": "ordinance",
+        "year": null,
+        "url": "https://codepublishing.com/WA/Puyallup/html/Puyallup02/Puyallup0214.html",
+        "summary": "Creates a seven-member LTAC (council chair, three lodging, three activity seats) with one-year terms and a 45-day review of any change in lodging tax use; no allocation plan or award list is published."
+      },
+      {
+        "title": "Pierce County 2027 Lodging Tax Grant Program Master Application",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/158804/2027-Lodging-Tax-Grant-Program-Master-Application",
+        "summary": "County program with $5,308,730 available for 2027 ($2.29M asset development, $1.5M leisure marketing, $800K personnel, $540K event marketing and operations, $118,730 event development, $60K sports); applications June 4 to July 3, 2026; projects in Puyallup are excluded."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No city lodging tax budget, allocation plan or award list was found, so it is unknown whether the 5% tax is fully committed to standing uses."
+  },
+  {
+    "name": "Fife",
+    "type": "city",
+    "county": "Pierce",
+    "tax_rate": "5% special hotel-motel tax (total lodging rate 13.6%) plus $0.50/night Pierce County TPA fee at 40+ unit properties, per DOR",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": null,
+    "notes": "No City of Fife LTAC page, grant application or funding round was found in official sources, and Fife projects are excluded from the Pierce County lodging tax grant program; Fife holds a seat on the Pierce County TPA hotel commission.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "Pierce County Tourism Promotion Area (TPA) hotel commission",
+        "administrator": "Pierce County Economic Development Department (Tourism)",
+        "funds": null,
+        "eligibility": "Fife is a TPA member city (commissioner Tejinder Singh Dhaliwal, second Fife seat vacant as of Feb 2026); TPA funds support destination marketing and event recruitment",
+        "cycle": null,
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/155530/TPAC-Agenda-2-18-26",
+        "contact": "Mike Gommi, mike.gommi@piercecountywa.gov, (253) 798-6150; tourism@piercecountywa.gov",
+        "notes": "No open event grant round was found; ask county tourism staff whether TPA event support is available.",
+        "confidence": "low"
+      },
+      {
+        "program": "Pierce County Lodging Tax Grant Program",
+        "administrator": "Pierce County Economic Development Department",
+        "funds": "$5.3M for 2027 across six categories, including $540K event marketing and operations",
+        "eligibility": "Municipalities and 501(c)(3)/(c)(6) tourism organizations; projects located in Fife, Puyallup, Gig Harbor, Lakewood and Tacoma do not qualify",
+        "cycle": "annual",
+        "deadline": "2026-07-03",
+        "deadline_pattern": "Opens early June, due early July for the following year; one-on-one pre-application meeting required",
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/158804/2027-Lodging-Tax-Grant-Program-Master-Application",
+        "contact": "Mike Gommi, mike.gommi@piercecountywa.gov",
+        "notes": "Listed for completeness; a Fife-sited event is ineligible unless it benefits lodging in a participating area.",
+        "confidence": "medium"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Pierce County 2027 Lodging Tax Grant Program Master Application",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/158804/2027-Lodging-Tax-Grant-Program-Master-Application",
+        "summary": "County program with $5,308,730 available for 2027 across six categories including $540K for event marketing and operations; applications June 4 to July 3, 2026; projects in Fife are excluded."
+      },
+      {
+        "title": "DOR notice: Puyallup Tribe - Fife lodging location code (Jan 2022)",
+        "doc_type": "other",
+        "year": "2022",
+        "url": "https://DOR.WA.GOV/sites/default/files/2022-02/2022_Jan_FifeLodging.pdf",
+        "summary": "Confirms the Fife lodging tax rate of 5% on top of 8.5% sales tax (13.5% combined) for non-tribal lodging in the mapped Fife areas; reporting change only."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No city lodging tax budget, allocation plan or award list was found, so it is unknown whether the 5% tax is fully committed to standing uses."
+  },
+  {
+    "name": "Lakewood",
+    "type": "city",
+    "county": "Pierce",
+    "tax_rate": "5% special hotel-motel tax (4% for tourism promotion/facilities plus 3% for convention facilities and major attractions per the city application; total lodging rate 13.6% per DOR) plus $1.00/night TPA fee at 40+ unit properties",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-17",
+    "funding_year": "2027",
+    "deadline_pattern": "Opens late July, due the third Monday of August at 5 p.m. with a courtesy notice of intent the Friday before; LTAC presentations mid-September, Council study session and award vote in November, contracts in January",
+    "typical_open": "Late July",
+    "annual_pool": null,
+    "url": "https://cityoflakewood.us/finance/lodging-tax-application/",
+    "contact": "Dana Kapla, Assistant Finance Director, dkapla@cityoflakewood.us, (253) 983-7732; Tho Kraus, Deputy City Manager/CFO, tkraus@cityoflakewood.us, (253) 983-7706",
+    "notes": "Any organization including private businesses may apply (nonprofits attach 501(c)(3)/(c)(6) letter, E-Verify affidavit required); the 2027 window closed Aug 17, 2026 and the next window for 2028 funding is expected to open in July 2027, with $101,850 a year committed to the Sharon McGavick Student Center through 2027.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Paul Bocchi",
+        "role": "Chair",
+        "affiliation": "Mayor, City of Lakewood (council liaison)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Alana Ball",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Dean Burke",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jarnail Singh",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Linda Smith",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Briana Schumacher",
+        "role": "Staff (non-voting)",
+        "affiliation": "City Clerk, City of Lakewood",
+        "email": null,
+        "phone": "(253) 983-7705"
+      }
+    ],
+    "members_source": "https://cityoflakewood.us/lodging-tax-advisory-committee/",
+    "members_as_of": "2026-09-12",
+    "presentation": {
+      "required": true,
+      "date": "2026-09-18",
+      "pattern": "Applicants present to the LTAC at its September grant meeting (Friday, Sept 18, 2026), after the packet is emailed to members the Monday before; LTAC makes its recommendation the same day",
+      "format": "in person"
+    },
+    "meeting_schedule": "One main grant-review meeting each September (Sept 18, 2026; Sept 5, 2025) plus occasional spring meetings (May 8, 2025), at Lakewood City Hall, 6000 Main St SW",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2026 Application for FY2027 LTAC Grant",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cityoflakewood.us/wp-content/uploads/2026/08/2026ApplicationforFY2027LTACGrant.pdf",
+        "summary": "Due Aug 17, 2026 at 5 p.m.; funds split into the 4% tourism promotion/facilities share and the 3% convention facility/major attraction share, $101,850 a year committed to the Sharon McGavick Student Center through 2027, reimbursable or quarterly payment, any organization may apply; no total pool stated."
+      },
+      {
+        "title": "Lodging Tax Application page (2027 cycle schedule)",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://cityoflakewood.us/finance/lodging-tax-application/",
+        "summary": "Schedule for the 2027 cycle: packet posted Sept 7, LTAC presentations and recommendation Sept 18, Council study session Nov 9 and award vote Nov 16, 2026, contracts in Jan-Feb 2027; links the full 2027 LTAC packet PDF."
+      },
+      {
+        "title": "2027 LTAC Packet (full)",
+        "doc_type": "ltac packet",
+        "year": "2027",
+        "url": "https://cityoflakewood.us/wp-content/uploads/2026/09/2027-LTAC-Packet-full.pdf",
+        "summary": "Agenda packet with all FY2027 applications and the funding table reviewed Sept 18, 2026; contents could not be fetched in this session."
+      },
+      {
+        "title": "LTAC Special Agenda, May 8, 2025",
+        "doc_type": "ltac packet",
+        "year": "2025",
+        "url": "https://cityoflakewood.us/wp-content/uploads/2025/05/2025-05-08-LTAC-Agenda-1.pdf",
+        "summary": "Off-cycle 2025 request of $9,000 from the City for the Gimhae sister-city K-Pop delegation (total cost $21,000); restates the 4%/3% split and the $101,850 McGavick commitment."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "FY2027: total revenue is not stated in the application; $101,850 a year is committed to the Sharon McGavick Student Center through 2027 and the 3% share is reserved for convention facilities and major attractions; the Sept 18, 2026 LTAC packet with the award table could not be fetched, so the outside share is unknown."
+  },
+  {
+    "name": "Gig Harbor",
+    "type": "city",
+    "county": "Pierce",
+    "tax_rate": "2% special hotel-motel tax plus 3% convention center tax at 26+ unit properties (total lodging rate 13.2%) and $0.50/night TPA fee at 40+ units, per DOR",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": null,
+    "funding_year": "2027",
+    "deadline_pattern": "Applications open the first week of August and close in the third week of August; LTAC reviews and votes on recommendations at its early-September meeting (Sept 3, 2026), then City Council adopts awards with the budget",
+    "typical_open": "First week of August",
+    "annual_pool": "$530K",
+    "url": "https://gigharborwa.gov/734/Lodging-Tax-Grants",
+    "contact": "City of Gig Harbor, (253) 851-8136, 3510 Grandview St, Gig Harbor, WA 98335 (Finance Director Scott Larson briefs the LTAC)",
+    "notes": "Nonprofits and municipalities apply with estimates of overnight stays and visitors from 50+ miles away; for 2027 the finance director capped recommendations at about $530K with a $500K reserve, most applicants were cut to 66% of their 2026 awards, and the Chamber of Commerce holds the DMO contract.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Ben Coronado",
+        "role": "Chair",
+        "affiliation": "Gig Harbor City Councilmember",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Sue Braaten",
+        "role": "Lodging representative",
+        "affiliation": "Best Western Wesley Inn & Suites",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jannae Mitton",
+        "role": "Lodging representative",
+        "affiliation": "Maritime Inn",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kara Sandvik",
+        "role": "Lodging representative",
+        "affiliation": "Wells Fargo (manager)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Patsy Irwin",
+        "role": "Lodging representative",
+        "affiliation": "Waterfront Inn",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Clare Dunis",
+        "role": "Activity representative",
+        "affiliation": "Gig Harbor Downtown Waterfront Alliance",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Lindsey Stover",
+        "role": "Activity representative",
+        "affiliation": "Harbor WildWatch",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Stephanie Lile",
+        "role": "Activity representative",
+        "affiliation": "Harbor History Museum",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Miriam Battson",
+        "role": "Activity representative",
+        "affiliation": "Gig Harbor Chamber of Commerce",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://gigharborwa.gov/363/Lodging-Tax-Advisory-Committee",
+    "members_as_of": "2026-09-10",
+    "presentation": {
+      "required": null,
+      "date": "2026-09-03",
+      "pattern": "LTAC discusses applications and votes on recommendations at its early-September meeting; no applicant presentation requirement is published",
+      "format": null
+    },
+    "meeting_schedule": "Quarterly at noon on the second Thursday of March, June, September and December, plus a summer funding briefing and an early-September grant meeting",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Grants program page",
+        "doc_type": "guidelines",
+        "year": null,
+        "url": "https://gigharborwa.gov/734/Lodging-Tax-Grants",
+        "summary": "Nonprofits and municipalities apply with estimates of overnight stays and visitors from 50+ miles away; funding level each year is set by the Finance Department's lodging tax projection, LTAC recommends and Council decides."
+      },
+      {
+        "title": "Gig Harbor Now: LTAC 2027 recommendations (Sept 10, 2026)",
+        "doc_type": "award list",
+        "year": "2027",
+        "url": "https://www.gigharbornow.org/?p=57119",
+        "summary": "LTAC capped 2027 awards near $530,000 with a $500,000 reserve; recommended Chamber of Commerce $379,400 plus $62,600 from reserve, Downtown Waterfront Alliance $75,000, BoatShop $29,313, Permission To Start Dreaming $20,000, most others at 66% of 2026 awards; rejected a $78,000 Summer Sounds request."
+      },
+      {
+        "title": "Gig Harbor Now: 2027 funding outlook (July 30, 2026)",
+        "doc_type": "ltac packet",
+        "year": "2027",
+        "url": "https://www.gigharbornow.org/news/government/lodging-tax-panel-hesitates-over-chambers-request-for-lions-share-of-available-funding/",
+        "summary": "Finance Director projected $530,000 to distribute for 2027 against a historical $700K-$800K a year; applications open the week of Aug 1 and close the third week of August; Chamber requested $520,000 for each of 2027 and 2028."
+      },
+      {
+        "title": "Resolution 1285 (2023-2024 DMO grant to Gig Harbor Chamber of Commerce)",
+        "doc_type": "resolution",
+        "year": "2024",
+        "url": "https://gigharborwa.gov/Archive.aspx?ADID=3510",
+        "summary": "Adopted July 10, 2023; awards the Chamber $275,650 for 2023 and up to $500,000 for 2024 for destination marketing and cuts the City's own tourism operations grant from $475,000 to $199,400."
+      }
+    ],
+    "total_pool_usd": 592600,
+    "competitive_pool_usd": 150600,
+    "pool_note": "2027: about $530,000 projected revenue plus a $62,600 reserve draw; the Chamber of Commerce DMO contract takes $442,000 ($379,400 plus $62,600 reserve), leaving an estimate of about $150,600 for seven outside applicants (Downtown Waterfront Alliance $75,000, BoatShop $29,313, Permission To Start Dreaming $20,000, remainder to WildWatch, Harbor History Museum, Film Festival and the canoe team)."
+  },
+  {
+    "name": "Tumwater",
+    "type": "city",
+    "county": "Thurston",
+    "tax_rate": "2% special hotel-motel tax (total lodging rate 11.7%) plus $2.00/night TPA fee at 40+ unit properties, per DOR",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-30",
+    "funding_year": "2027",
+    "deadline_pattern": "Applications open Sept 1 and close Sept 30 for the following year; LTAC review and funding interviews the week of Oct 19, recommendations to City Council Nov 2",
+    "typical_open": "September 1",
+    "annual_pool": "$250K",
+    "url": "https://www.codepublishing.com/WA/Tumwater/html/Tumwater02/Tumwater0276.html",
+    "contact": "City of Tumwater (staff liaison assigned by the City Administrator; no name published)",
+    "notes": "For 2026 the LTAC heard applicant presentations in late September and forwarded $248,958 in recommendations (requests totaled about $351K), prioritizing events that generate overnight stays; the 2027 cycle moved to a Sept 1-30 window with a revised form and scoring rubric, and the committee had a vacant hotelier seat in August 2026.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": true,
+      "date": null,
+      "pattern": "Applicants present or interview with the LTAC during its review meetings (late September in 2025 for 2026 funds; week of Oct 19, 2026 for 2027 funds)",
+      "format": "in person"
+    },
+    "meeting_schedule": "Meets as needed per TMC 2.76; recent meetings Aug 28 and Sept 29, 2025 and Aug 19, 2026, with review meetings the week of Oct 19, 2026",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Tumwater Municipal Code 2.76 Lodging Tax Advisory Committee",
+        "doc_type": "ordinance",
+        "year": null,
+        "url": "https://www.codepublishing.com/WA/Tumwater/html/Tumwater02/Tumwater0276.html",
+        "summary": "Five-to-seven member LTAC that receives applications with cost estimates, sends Council a list with recommended amounts, and Council may fund only applicants on that list; no dollar figures."
+      },
+      {
+        "title": "LTAC meeting summary, Sept 29, 2025 (2026 allocations)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://app.govly.com/public/meetings/40547",
+        "summary": "Requests totaled about $351,000; committee recommended $248,958 for 2026 (about $250,000, including $210,000 for historic and cultural programs) and funded events such as the Olympic Air Show and Brewfest, prioritizing marketing to out-of-area visitors."
+      },
+      {
+        "title": "LTAC meeting summary, Aug 19, 2026 (2027 process)",
+        "doc_type": "ltac packet",
+        "year": "2027",
+        "url": "https://app.govly.com/public/meetings/71948",
+        "summary": "Sets the 2027 cycle: applications Sept 1-30, review week of Oct 19, recommendations to Council Nov 2; revises the form and scoring rubric to prioritize events that generate overnight stays."
+      }
+    ],
+    "total_pool_usd": 250000,
+    "competitive_pool_usd": 248958,
+    "pool_note": "2026: LTAC recommended $248,958 of about $250,000 available against roughly $351,000 requested, all to outside organizations including Experience Olympia and Beyond (DMO share not itemized) and $210,000 for historic and cultural programs; treat the outside figure as an estimate that includes the DMO allocation."
+  }
+]

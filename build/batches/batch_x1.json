@@ -1,0 +1,1052 @@
+[
+ {
+  "name": "East Wenatchee",
+  "type": "city",
+  "county": "Douglas",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": null,
+  "funding_year": "2026",
+  "deadline_pattern": "No fixed cycle. Tourism Promotion Grant applications are accepted year-round and must be submitted at least 60 days before the event; EWEB reviews them at its monthly meeting (first Wednesday, 3:00 pm) and forwards recommendations to City Council",
+  "typical_open": "Open year-round; apply at least 60 days ahead of the event",
+  "annual_pool": "Not published. EWEB page gives no fund total or award caps; Wenatchee World (undated) reported council approving three previously tabled lodging tax requests without amounts",
+  "url": "https://www.eastwenatcheewa.gov/240/East-Wenatchee-Events-Board-EWEB",
+  "contact": "East Wenatchee Events Board (EWEB) / Events Department, 271 9th Street NE, East Wenatchee, WA 98802, 509-886-6108 (EWEB line); City Hall 509-884-9515; staff name not published on the EWEB page (an Events Director was hired in 2019)",
+  "notes": "The lodging tax advisory committee here is the East Wenatchee Events Board (EWEB), a 5 to 7 member council-appointed board that doubles as the city's events board. Applicants complete the Tourism Promotion Grant Application, give a 3 to 5 minute presentation at a monthly EWEB meeting, and if approved by EWEB and then City Council sign a contract; payment is reimbursement within 30 days of a post-event report and invoice, which are due within 30 days after the event. Funding is for tourism marketing, special events and festivals, and tourism facilities under RCW 67.28.1816. The Tourism Promotion Grant program page could not be fetched directly.",
+  "confidence": "medium",
+  "members": [
+   {"name": "Ken Arnold", "role": "City elected official (chair)", "affiliation": "East Wenatchee City Council", "email": null, "phone": null},
+   {"name": "Cody Beeson", "role": "Lodging representative", "affiliation": "Fairfield Inn & Suites", "email": null, "phone": null},
+   {"name": "Barb McCord", "role": "Lodging representative", "affiliation": "SureStay", "email": null, "phone": null},
+   {"name": "Mat Heinz", "role": "Activity representative", "affiliation": "EMPD (Eastmont Metropolitan Park District)", "email": null, "phone": null},
+   {"name": "Kaylin Ochs", "role": "Activity representative", "affiliation": "GWGSA", "email": null, "phone": null},
+   {"name": "Brent Schmitten", "role": "Citizen at large", "affiliation": "Bob's Classic East", "email": null, "phone": null},
+   {"name": "Alejandro Cruz", "role": "Citizen at large", "affiliation": "Wenatchee Valley CVB (Visit Wenatchee)", "email": null, "phone": null}
+  ],
+  "members_source": "https://www.eastwenatcheewa.gov/240/East-Wenatchee-Events-Board-EWEB (Current Members table with 2024-2028 terms)",
+  "members_as_of": "2026-10-30",
+  "presentation": {
+   "required": true,
+   "date": null,
+   "pattern": "Applicant presents at the next monthly EWEB meeting after submitting (first Wednesday of the month, 3:00 pm); upcoming meetings Nov 4 and Dec 2, 2026",
+   "format": "3 to 5 minute in-person presentation followed by questions from the board, at Eastmont Parks and Recreation Community Center, 230 N Georgia Ave"
+  },
+  "meeting_schedule": "First Wednesday of each month at 3:00 pm, Eastmont Parks and Recreation Community Center, 230 N Georgia Avenue, East Wenatchee; agendas posted the Friday before",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No fund total, budget line or award list is published on the EWEB or grant pages; the city's budget document was not located. Because applications are rolling, the open pool is whatever remains in the Hotel/Motel Tax fund for the year.",
+  "funding_docs": [
+   {
+    "title": "East Wenatchee Events Board (EWEB) page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.eastwenatcheewa.gov/240/East-Wenatchee-Events-Board-EWEB",
+    "summary": "Describes EWEB as the city's Hotel/Motel Tax advisory committee, lists members and terms, the six-step Tourism Promotion Grant process (apply 60 days ahead, 3 to 5 minute presentation, council approval, contract, post-event report and invoice within 30 days, reimbursement within 30 days), monthly meeting schedule and contact. No dollar figures."
+   },
+   {
+    "title": "East Wenatchee City Council approves previously tabled lodging tax requests (Wenatchee World)",
+    "doc_type": "minutes",
+    "year": null,
+    "url": "https://www.wenatcheeworld.com/news/local/east-wenatchee-city-council-approves-previously-tabled-lodging-tax-requests/article_c57da7f0-6a18-400d-b112-aecdee67378c.html",
+    "summary": "News report that council approved three lodging tax requests it had earlier tabled over disagreement with recommended amounts; confirms public and private entities may apply. Amounts and applicants not in the accessible excerpt."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Wenatchee Tourism Promotion Area / Lodging Tax grants (City of Wenatchee)",
+    "administrator": "City of Wenatchee, Mayor's Office",
+    "url": "https://wenatcheewa.gov/government/mayor-s-office/tourism-promotion-area-lodging-tax",
+    "funds": null,
+    "eligibility": "Events and tourism projects benefiting Wenatchee; separate city across the river with a larger lodging base",
+    "deadline": null,
+    "deadline_pattern": "Annual application period announced by the city (KPQ reported an open application period)",
+    "notes": "Not verified in detail for this record; listed because Wenatchee is the regional lodging center",
+    "contact": null
+   }
+  ],
+  "for_profit": "yes",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "DuPont",
+  "type": "city",
+  "county": "Pierce",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Part A applications open mid-October to mid-November one year ahead: Oct 15 to Nov 8, 2024 (4:00 pm) for 2025; Nov 10 to Dec 8, 2025 (4:00 pm) for 2026. The 2027 window had not been posted as of Oct 30, 2026",
+  "typical_open": "Mid-October to mid-November (Nov 10 in 2025)",
+  "annual_pool": "Not published; no award list found",
+  "url": "https://dupontwa.gov/87/Lodging-Tax-Advisory-Committee",
+  "contact": "Carma Oaksmith, Finance Director, COaksmith@dupontwa.gov, (253) 964-8121 ext. 5300 (named in Oct 2024 city newsletter; LTAC page refers only to the Finance Director); City Hall 1700 Civic Drive, DuPont, WA 98327",
+  "notes": "Small program run by the Finance Director with a three-stage process: Part A application and contract, after-event attendee reporting, and receipt submittal for reimbursement (receipts due Dec 15 of the grant year; signed contracts due 30 days after the approval email). Eligible recipients are CVBs, DMOs, nonprofits and municipalities. LTAC meets as needed and recommends awards to City Council, which makes the final decision. No pool size or award history is posted.",
+  "confidence": "medium",
+  "members": [
+   {"name": "Councilmember Gasak", "role": "Elected official (chair)", "affiliation": "DuPont City Council (Councilmember Elliott, alternate)", "email": null, "phone": null},
+   {"name": "Justin Gravatt", "role": "User/recipient of lodging tax funds", "affiliation": null, "email": null, "phone": null},
+   {"name": "Amy Walker", "role": "User/recipient of lodging tax funds", "affiliation": null, "email": null, "phone": null},
+   {"name": "Chalon Burns", "role": "Provider/collector of lodging tax", "affiliation": "Best Western Liberty Inn", "email": null, "phone": null},
+   {"name": null, "role": "Provider/collector of lodging tax (vacant)", "affiliation": null, "email": null, "phone": null}
+  ],
+  "members_source": "https://dupontwa.gov/87/Lodging-Tax-Advisory-Committee",
+  "members_as_of": "2026-10-30",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation is mentioned in the application process document",
+   "format": null
+  },
+  "meeting_schedule": "As needed; no standing schedule. Minutes posted at https://dupont.civicweb.net/filepro/documents/29797/",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "The city publishes no fund total, budget line or award list for lodging tax grants; DuPont has one major hotel (Best Western Liberty Inn) so the fund is small.",
+  "funding_docs": [
+   {
+    "title": "LTAC Application Process Information",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://dupontwa.gov/DocumentCenter/View/6847/LTAC-Application-Process-Information",
+    "summary": "Stage 1 instructions: LTAC reviews and recommends, council decides; contracts due 30 days after approval email; receipts due Dec 15 of grant year; denied applicants may reapply in future periods. Contact is the Finance Director at ext. 5300. No dollar figures."
+   },
+   {
+    "title": "LTAC Attendee Reporting Process Information",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://dupontwa.gov/DocumentCenter/View/6849/LTAC-Attendee-Reporting-Process-Information",
+    "summary": "Stage 2 instructions for post-event attendee reporting (JLARC categories)."
+   },
+   {
+    "title": "LTAC Receipt Submittal Process Information",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://dupontwa.gov/DocumentCenter/View/6850/LTAC-Receipt-Submittal-Process-Information",
+    "summary": "Stage 3 instructions for submitting receipts for reimbursement."
+   },
+   {
+    "title": "Weekly Bits & Bytes newsletter, Oct 25, 2024 (2025 Part A LTAC grants)",
+    "doc_type": "guidelines",
+    "year": "2025",
+    "url": "https://dupontwa.gov/Archive.aspx?ADID=558",
+    "summary": "Announces the Oct 15 to Nov 8, 2024 application window for 2025 grants, eligibility (nonprofits and public agencies), and contact Finance Director Carma Oaksmith. No amounts."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pierce County Lodging Tax Grant Program",
+    "administrator": "Pierce County Economic Development Department",
+    "url": "https://www.piercecountywa.gov/5733/Lodging-Tax-Program",
+    "funds": "$5,308,730 across six categories for 2027, including $540,000 Event Marketing & Operations, $118,730 Event Development and $60,000 Sports Event Development",
+    "eligibility": "Nonprofit/tax-exempt determination letter required; required one-on-one meeting with staff before portal access",
+    "deadline": "2026-07-03",
+    "deadline_pattern": "Applications open early June and close early July (June 5 to July 3, 2026) for the following year",
+    "notes": "2027 cycle closed; program page itself could not be fetched, details from the 2027 grant notice PDF",
+    "contact": "Mike Gommi, 253-798-6914, mike.gommi@piercecountywa.gov"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Monroe",
+  "type": "city",
+  "county": "Snohomish",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-11-02",
+  "funding_year": "2027",
+  "deadline_pattern": "Applications open early October and close the first Monday of November at 5:00 pm for the following calendar year (Oct 5 to Nov 2, 2026 for 2027; Oct 9, 2024 deadline for 2025). Postmarks not accepted",
+  "typical_open": "Early October (Oct 5, 2026)",
+  "annual_pool": "2026 awards totaled $115,000 across 14 projects (largest: Chamber Visitor Information Center $65,000); 2027 pool not published",
+  "url": "https://monroewa.gov/1280/Lodging-Tax-Grant",
+  "contact": "Liam McKorkle, Management Analyst (LTAC staff liaison), lmckorkle@monroewa.gov, 360-322-0852; Ben Warthan, Interim City Administrator, bwarthan@monroewa.gov, 360-863-4500; City Hall 806 W Main St, Monroe, WA 98272",
+  "notes": "Applications are scored on six criteria (organizational capacity, innovation, marketing, collaboration, visitor economic impact, overnight-stay economic impact) plus up to six bonus points, with priority for November to April off-season events. Grants are reimbursement only after a municipal services contract is signed; awardees attend a January webinar. Historically the Chamber's visitor center takes more than half the pool, leaving roughly $50,000 for events in 2026. Two of the five LTAC seats were vacant as of Oct 2026.",
+  "confidence": "high",
+  "members": [
+   {"name": "Tami Beaumont", "role": "Elected official (chair)", "affiliation": "Monroe City Council", "email": null, "phone": null},
+   {"name": "Doug Hobbs", "role": "Committee member (Position 3)", "affiliation": "High Road Promotions", "email": null, "phone": null},
+   {"name": "Connie Goss", "role": "Committee member (Position 4)", "affiliation": "Monroe Arts Council", "email": null, "phone": null},
+   {"name": null, "role": "Position 1 (vacant)", "affiliation": null, "email": null, "phone": null},
+   {"name": null, "role": "Position 2 (vacant)", "affiliation": null, "email": null, "phone": null}
+  ],
+  "members_source": "https://www.monroewa.gov/256",
+  "members_as_of": "2026-10-30",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No applicant presentation is described in the application packet or program page; LTAC reviews written applications",
+   "format": null
+  },
+  "meeting_schedule": "As needed, hybrid (Council Chambers, 806 W Main St, and Zoom); review meeting follows the early-November deadline",
+  "total_pool_usd": 115000,
+  "competitive_pool_usd": 50000,
+  "pool_note": "2026: $115,000 awarded in total (sum of the posted award list). $65,000 went to the Chamber of Commerce Visitor Information Center and $6,300 to City of Monroe line items (restrooms, digital marketing, Cascade Loop), leaving about $43,700 for outside event and marketing grants; the Chamber also received $15,700 for two events. Rounded competitive figure of $50,000 treats the Chamber's event grants as competitive.",
+  "funding_docs": [
+   {
+    "title": "Lodging Tax Grant program page (2027 cycle)",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://monroewa.gov/1280/Lodging-Tax-Grant",
+    "summary": "Eligible uses under RCW 67.28.1816, six scoring criteria plus bonus points, Nov 2 deadline, reimbursement form, awardee webinar and links to award lists 2022 to 2026. No pool figure."
+   },
+   {
+    "title": "2027 LTAC Grant Application (manual completion)",
+    "doc_type": "other",
+    "year": "2027",
+    "url": "https://monroewa.gov/DocumentCenter/View/18911/2027-LTAC-Grant-Application-for-manual-completion-",
+    "summary": "Application form; due Nov 2, 2026 5:00 pm to Liam McKorkle; nonprofit proof required for facility operations; capital costs barred except city/PFD facilities."
+   },
+   {
+    "title": "2027 LTAC Criteria",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://monroewa.gov/DocumentCenter/View/16814",
+    "summary": "Full scoring rubric referenced from the program page (not fetched)."
+   },
+   {
+    "title": "2026 LTAC Awards",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://monroewa.gov/DocumentCenter/View/18600/2026-LTAC-Awards",
+    "summary": "14 awards totaling $115,000: Chamber VIC $65,000, Music in the Park $10,450, Ignite Robotics $10,000, Gold Creek gymnastics invitational $7,000, Fair Days Parade $5,250, and ten smaller awards from $500 to $3,000 including a for-profit insurance agency's Flower Crawl ($1,500)."
+   },
+   {
+    "title": "2025 Application Manual",
+    "doc_type": "guidelines",
+    "year": "2025",
+    "url": "https://monroewa.gov/DocumentCenter/View/15769/2025-Application-Manual",
+    "summary": "Prior-year packet: Oct 9, 2024 deadline, off-season priority (Nov to Apr), insurance and business license requirements, applicant types Government, 501(c)(3), 501(c)(6) or Other."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Snohomish County Hotel-Motel Small Fund Grant",
+    "administrator": "Snohomish County / Seattle NorthCountry",
+    "url": "https://www.seattlenorthcountry.com/industry-resources/lodging-tax-grants/hotel-motel-small-fund/",
+    "funds": "Awards typically $5,000 to $50,000, average about $10,000",
+    "eligibility": "Broadly defined sponsors for RCW 67.28 purposes; competitive, reimbursement only",
+    "deadline": null,
+    "deadline_pattern": "Annual; timeline posted on the Seattle NorthCountry page",
+    "notes": "County LTAC page at https://www.snohomishcountywa.gov/152/Lodging-Tax-Advisory-Committee",
+    "contact": "Harry Birak, 425-388-3460 (LTAC questions)"
+   }
+  ],
+  "for_profit": "yes",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Battle Ground",
+  "type": "city",
+  "county": "Clark",
+  "tax_rate": "4% (per city LTAC recruitment notice, 2026)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-08-31",
+  "funding_year": "2027",
+  "deadline_pattern": "Applications open in early July and close August 31 at 5:00 pm for the following calendar year (Aug 31, 2026 for 2027; Aug 31, 2023 for 2024); LTAC reviews in the fall and City Council makes final awards in December",
+  "typical_open": "Early July (press release July 9, 2026)",
+  "annual_pool": "Not published",
+  "url": "https://www.cityofbg.org/FormCenter/Finance-Utilities-11/Tourism-Grant-Application-73",
+  "contact": "Meagan Lowery, Finance Director, meagan.lowery@cityofbg.org, 360-342-5025; City Clerk's Office 360-342-5000 (LTAC appointments)",
+  "notes": "Run by the Finance Department as the Tourism Grant program with an online form. Funding covers marketing or operations of special events, programs and activities that bring visitors to Battle Ground; past grants paid for wayfinding signs, marketing materials and event operations. Applications need an activity summary, tourism rationale and budget showing use of lodging tax dollars; awards are reimbursement based. No pool size or award list is posted; the city's LTAC page was not reachable so members are unknown.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation mentioned in program announcements",
+   "format": null
+  },
+  "meeting_schedule": "Not published; LTAC reviews applications in the fall after the Aug 31 deadline",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No fund total or award list located; 4% lodging tax on a small hotel base.",
+  "funding_docs": [
+   {
+    "title": "Battle Ground Offering 2027 Tourism Grants (Vancouver Business Journal, July 9, 2026)",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://www.vbjusa.com/?p=37336",
+    "summary": "Announces Aug 31, 2026 deadline, eligible uses, application contents, LTAC review and December council decision, reimbursement basis, contact Meagan Lowery."
+   },
+   {
+    "title": "City of Battle Ground FlashAlert: 2027 tourism grant applications open",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://flashalert.net/id/CityofBattleGround/189626",
+    "summary": "Same announcement with link to the online Tourism Grant Application form."
+   },
+   {
+    "title": "City seeks LTAC Tourism Generator members (FlashAlert, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://flashalert.net/id/CityofBattleGround/186671",
+    "summary": "Recruitment for two tourism-generator seats on the five-member LTAC; states the city collects a 4% lodging tax; applications due Feb 23, 2026."
+   },
+   {
+    "title": "Battle Ground Municipal Code 2.64 Lodging Tax Advisory Committee",
+    "doc_type": "resolution",
+    "year": null,
+    "url": "https://codepublishing.com/WA/BattleGround/html/BattleGround02/BattleGround0264.html",
+    "summary": "Five-member LTAC (two collectors, two recipients, elected chair), optional nonvoting Clark County official; 45-day review of changes in use."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Clark County lodging tax / tourism funding",
+    "administrator": "Clark County",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not researched in this pass; Clark County administers a county lodging tax program that should be checked separately",
+    "contact": null
+   },
+   {
+    "program": "City of Vancouver Lodging Tax Grant Program",
+    "administrator": "City of Vancouver Economic Prosperity and Housing",
+    "url": "https://www.cityofvancouver.us/economic-prosperity-and-housing/lodging-tax-grant-program/",
+    "funds": null,
+    "eligibility": "Events and programs in Vancouver",
+    "deadline": null,
+    "deadline_pattern": "Annual; 2027 applications opened in 2026",
+    "notes": "Regional option for events that can locate in Vancouver",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "White Salmon",
+  "type": "city",
+  "county": "Klickitat",
+  "tax_rate": "2% (per city announcement of the 2026 grant program)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-23",
+  "funding_year": "2027",
+  "deadline_pattern": "The LTAC page states 2027 applications were available Aug 24 through Sept 23 (2026). Prior cycles ran later: 2025 program Oct 1 to Nov 8, 2024; 2026 program due Nov 14, 2025. LTAC reviews in the fall, council approves in early December, funds available in February",
+  "typical_open": "Late August (Aug 24) per the 2027 notice; previously Oct 1",
+  "annual_pool": "2025 program total $78,835 (per 2025 guidelines); 2026 and 2027 totals not published",
+  "url": "https://www.whitesalmonwa.gov/bc/page/lodging-tax-grant-program",
+  "contact": "Erika Castro Guzman, City Clerk, Erikac@ci.white-salmon.wa.us, (509) 493-1133 ext. 209; City Hall, 100 N Main St, PO Box 2139, White Salmon, WA 98672",
+  "notes": "Small program funded by a portion of the 2% lodging tax, open to municipalities, DMOs and nonprofits (main street groups, lodging associations, chambers); minimum grant $2,500, no stated maximum, no match required. Priorities are overnight stays in White Salmon lodging, visitors from outside Klickitat County, city-owned tourism facilities, outside funding and track record. Applicants are invited to a five-minute presentation to LTAC in the fall. Spending must be completed within the calendar year and is reimbursed.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "Applicants are invited (not required) to give a five-minute presentation at the LTAC review meeting after the deadline",
+   "format": "Five minutes in person or via Zoom at City Hall Conference Room, 100 N Main Ave"
+  },
+  "meeting_schedule": "No fixed schedule published; meets at 5:30 pm at City Hall Conference Room with Zoom option (ID 879 1202 1426), typically in the fall to review grants",
+  "total_pool_usd": 78835,
+  "competitive_pool_usd": 78835,
+  "pool_note": "2025 total funding of $78,835 is from the 2025 guidelines; no standing commitments are listed so the whole amount is treated as competitive. Later-year totals not published.",
+  "funding_docs": [
+   {
+    "title": "Lodging Tax Grant Program page (2026 cycle)",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.whitesalmonwa.gov/bc/page/lodging-tax-grant-program",
+    "summary": "Nov 14, 2025 deadline for 2026; requires application, budget worksheet and supporting info; contact City Clerk. No pool figure."
+   },
+   {
+    "title": "2025 Lodging Tax Grant Program Guidelines",
+    "doc_type": "guidelines",
+    "year": "2025",
+    "url": "https://www.whitesalmonwa.gov/sites/default/files/fileattachments/city_council/page/11483/2025_lodging_tax_grant_program_guidelines.pdf",
+    "summary": "Timeline (Oct 1 open, Nov 8 due, Dec 4 council, Feb funding), eligible applicants (municipalities, DMOs, nonprofits), $2,500 minimum, $78,835 total 2025 funding, priorities, five-minute presentation invitation."
+   },
+   {
+    "title": "White Salmon Opens 2026 Lodging Tax Grant Applications (Columbia Community Connection)",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://columbiacommunityconnection.com/public-meeting-announcements/white-salmon-opens-2026-lodging-tax-grant-applications-for-tourism-projects",
+    "summary": "News notice: 2% lodging tax, Nov 14, 2025 deadline, funds available Feb 2026, nonprofits/DMOs/chambers/municipal departments eligible, no match required."
+   },
+   {
+    "title": "Lodging Tax Advisory Committee page",
+    "doc_type": "other",
+    "year": "2027",
+    "url": "https://www.whitesalmonwa.gov/citycouncil/page/lodging-tax-advisory-committee-2",
+    "summary": "Meeting logistics and the note that 2027 grant applications are available Aug 24 through Sept 23. No member list."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Klickitat County lodging tax funding",
+    "administrator": "Klickitat County Board of Commissioners",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not researched in this pass; county program should be checked for Gorge-area events",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Republic",
+  "type": "city",
+  "county": "Ferry",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "No city lodging tax grant program, application or LTAC page could be found for Republic from web searches; the city's website and council minutes were not surfaced. Treat as no open program until the city clerk confirms otherwise. Ferry County's lodging tax program (if any) was also not located; neither could be verified before the research budget ran out.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No data found.",
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Ferry County lodging tax funding",
+    "administrator": "Ferry County Board of Commissioners",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not located online; contact the county commissioners' office",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Goldendale",
+  "type": "city",
+  "county": "Klickitat",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2026",
+  "deadline_pattern": "Nonprofit requests are gathered in the fall, reviewed by a council event committee, and awarded by City Council at the start of the funding year (Feb 2, 2026 for 2026). Formal application dates are not published online",
+  "typical_open": "Fall (inferred from the February award date)",
+  "annual_pool": "2026: $100,900 awarded (a record) against $121,750 requested, per Goldendale Sentinel",
+  "url": null,
+  "contact": "Goldendale City Hall (no program contact published)",
+  "notes": "Goldendale funds nonprofit events and the Chamber of Commerce from lodging tax through a council event committee rather than a published grant program. For 2026 council awarded $100,900 to seven nonprofits on Feb 2, 2026, applying a 20 percent across-the-board cut to most requests: Chamber about $50,000, Brighter Goldendale Christmas $19,500, ABATE of Washington $17,600 for four events, Community Days $12,000, Goldendale Pride $2,400, Kiwanis golf tournament $1,400. No application form, deadline or LTAC roster was found online; confirm the process with City Hall.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": 100900,
+  "competitive_pool_usd": 50900,
+  "pool_note": "2026: $100,900 total awarded; the Chamber of Commerce received roughly $50,000 ($40,000 request plus $10,000 added), leaving about $50,900 for event nonprofits.",
+  "funding_docs": [
+   {
+    "title": "City allocates record funds to nonprofits (Goldendale Sentinel, Feb 2026)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://www.goldendalesentinel.com/news/city-allocates-record-funds-to-nonprofits/article_c9446de9-37f3-438a-b553-f2a260bea45a.html",
+    "summary": "Council approved $100,900 in lodging tax awards on Feb 2, 2026 out of $121,750 requested, with a 20 percent reduction applied to most requests; lists recipients and amounts."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Klickitat County lodging tax funding",
+    "administrator": "Klickitat County Board of Commissioners",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not researched in this pass",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Buckley",
+  "type": "city",
+  "county": "Pierce",
+  "tax_rate": "2% (Buckley Municipal Code 3.14)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Per BMC 3.14, applications are reviewed by LTAC and approved by council resolution for inclusion in the following year's budget, implying a fall cycle; no dates, form or announcements were found online",
+  "typical_open": null,
+  "annual_pool": "Not published",
+  "url": "https://codepublishing.com/WA/Buckley/html/Buckley03/Buckley0314.html",
+  "contact": "Buckley City Hall (no program contact published)",
+  "notes": "Buckley's code establishes a 2% lodging tax paid into the Visitor Promotion and Development Fund (Fund 136) and an application process open to any individual or organization, including the city, with a fixed request amount, project budget and tourism impact estimates. LTAC recommends amounts and council approves by resolution; recipients report attendance within 60 days of year end. No application form, deadline, award list or LTAC roster is posted online, so confirm with City Hall. The city website could not be fetched.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No fund figures published; 2% tax on a very small lodging base.",
+  "funding_docs": [
+   {
+    "title": "Buckley Municipal Code Chapter 3.14 Lodging Tax",
+    "doc_type": "resolution",
+    "year": null,
+    "url": "https://codepublishing.com/WA/Buckley/html/Buckley03/Buckley0314.html",
+    "summary": "2% lodging tax into Fund 136; five-member LTAC; application and allocation process (any individual or organization may apply, LTAC recommends, council approves by resolution, inclusion in next year's budget); 60-day post-year reporting."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pierce County Lodging Tax Grant Program",
+    "administrator": "Pierce County Economic Development Department",
+    "url": "https://www.piercecountywa.gov/5733/Lodging-Tax-Program",
+    "funds": "$5,308,730 across six categories for 2027, including $540,000 Event Marketing & Operations",
+    "eligibility": "Nonprofit/tax-exempt determination letter required; one-on-one meeting with staff before portal access",
+    "deadline": "2026-07-03",
+    "deadline_pattern": "Applications open early June and close early July for the following year",
+    "notes": "Primary route for Buckley-area events (Flying H Ranch is in Pierce County)",
+    "contact": "Mike Gommi, 253-798-6914, mike.gommi@piercecountywa.gov"
+   }
+  ],
+  "for_profit": "yes",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Mountlake Terrace",
+  "type": "city",
+  "county": "Snohomish",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "2026 cycle opened Sept 10, 2025 and closed Oct 22, 2025 at 4:30 pm; the 2027 cycle dates were not found (city page could not be fetched)",
+  "typical_open": "Early to mid September (Sept 10, 2025)",
+  "annual_pool": "$50,000 forecast for 2026 (per GrantExec listing of the city program)",
+  "url": "https://www.cityofmlt.com/464",
+  "contact": "Andrew Appelwick, Events Coordinator, 425-744-6287",
+  "notes": "Small program of about $50,000 per year for tourism-related events and facilities in Mountlake Terrace, open to nonprofits, cities and special districts, paid as reimbursement after the event with no retroactive expenses. Applications must estimate tourism economic activity under RCW 67.28. The city's program page was not reachable, so 2027 dates, LTAC members and award history are unverified.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": 50000,
+  "competitive_pool_usd": 50000,
+  "pool_note": "$50,000 forecast total for 2026 from the GrantExec listing; no standing commitments identified, so the full amount is treated as competitive.",
+  "funding_docs": [
+   {
+    "title": "Mountlake Terrace 2026 Lodging Tax Grant Program (GrantExec listing)",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://grantexec.com/grants/0f69c009-78e2-4256-889b-90371b6fadda",
+    "summary": "Third-party listing: Sept 10 to Oct 22, 2025 window, $50,000 forecast, nonprofit/government eligibility, reimbursement only, contact Andrew Appelwick."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Snohomish County Hotel-Motel Small Fund Grant",
+    "administrator": "Snohomish County / Seattle NorthCountry",
+    "url": "https://www.seattlenorthcountry.com/industry-resources/lodging-tax-grants/hotel-motel-small-fund/",
+    "funds": "Awards typically $5,000 to $50,000, average about $10,000",
+    "eligibility": "Broadly defined sponsors for RCW 67.28 purposes; competitive, reimbursement only",
+    "deadline": null,
+    "deadline_pattern": "Annual",
+    "notes": "County LTAC page at https://www.snohomishcountywa.gov/152/Lodging-Tax-Advisory-Committee",
+    "contact": "Harry Birak, 425-388-3460"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Toppenish",
+  "type": "city",
+  "county": "Yakima",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Tourism Fund proposals are submitted in October, presented to LTAC in late October (Oct 24, 2023), and council sets the distribution in November with the budget; exact dates are not posted online",
+  "typical_open": "Early fall (October submissions)",
+  "annual_pool": "Very small: 2024 distribution $18,620 (Chamber $12,120, Junior Livestock Show $4,000, Rail and Steam Museum $2,500); hotel/motel tax receipts were $17,340 in 2022",
+  "url": "https://www.toppenish.gov/media/4676",
+  "contact": "Heidi Riojas, City Clerk, City of Toppenish (presented the LTAC recommendation); City Manager Debbie Zabell",
+  "notes": "Toppenish distributes a small Tourism Fund (Fund 106) of under $20,000 a year, almost all to the Chamber of Commerce visitor center and two long-standing local nonprofits. Applicants must be 501(c)(3) or 501(c)(6) nonprofits and submit a three-page proposal with visitor estimates by category; organizations present to LTAC in October. Details come from a 2023 council study session packet; current-year dates and LTAC members are not published.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": true,
+   "date": null,
+   "pattern": "Organizations present requests at an LTAC meeting in late October (Oct 24, 2023)",
+   "format": "In-person presentation to LTAC"
+  },
+  "meeting_schedule": "Annual review meeting in late October; otherwise as needed",
+  "total_pool_usd": 18620,
+  "competitive_pool_usd": 6500,
+  "pool_note": "2024: $18,620 distributed; $12,120 to the Chamber of Commerce visitor center leaves about $6,500 for other nonprofit events. Revenue is roughly $17,000 a year.",
+  "funding_docs": [
+   {
+    "title": "Toppenish City Council Study Session packet, Nov 6, 2023 (AB 23-068, 2024 Tourism Fund)",
+    "doc_type": "minutes",
+    "year": "2024",
+    "url": "https://www.toppenish.gov/media/4676",
+    "summary": "LTAC recommendation of $18,620 for 2024 with requests and awards by applicant, proposal requirements (501(c)(3)/(c)(6) only, three pages, visitor categories), and preliminary Fund 106 budget showing 2022 hotel/motel tax of $17,340."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Yakima County Motel/Hotel Tax Fund (Fund 131)",
+    "administrator": "Yakima County Board of Commissioners",
+    "url": "https://www.yakimacounty.us/DocumentCenter/View/439",
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County 2% lodging tax has historically been committed to SunDome bond payments and Yakima Valley Tourism; no open grant program located",
+    "contact": null
+   },
+   {
+    "program": "City of Yakima Tourism Promotion Grants",
+    "administrator": "City of Yakima Finance",
+    "url": "https://www.yakimawa.gov/services/finance/tourism-promotion-grants-lodging-tax-funded/",
+    "funds": null,
+    "eligibility": "Events benefiting Yakima",
+    "deadline": null,
+    "deadline_pattern": "Annual; 2027 applications opened mid-2026",
+    "notes": "Regional option for Yakima Valley events",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Raymond",
+  "type": "city",
+  "county": "Pacific",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Applications are posted in October for the following year (2024 form posted Oct 2023, 2025 form posted Oct 2024); council approved the 2026 applications Jan 20, 2026 and kept the period open through Jan 29, 2026 for additional applications, and approved a late Seaport Museum application in April 2026",
+  "typical_open": "October; late applications accepted into the funding year",
+  "annual_pool": "Not published; Northwest Carriage Museum received $3,500 from 2025 lodging tax",
+  "url": "https://cityofraymond.com/wp-content/uploads/2024/10/LTAC-Lodging-Tax-Application-2025.pdf",
+  "contact": "Kayla MacIntosh, Clerk-Treasurer, City of Raymond; Mayor Dee Roberts (no email or phone published in the documents reviewed)",
+  "notes": "Raymond runs an informal annual LTAC application using a short form posted each October; council approves applications by motion, and the process is loose enough that applications are accepted after the year starts. Awards are small (the Carriage Museum got $3,500 for 2025 advertising) and go to local museums and events. Applicants sign a contract and file an economic impact report. No LTAC roster, pool figure or deadline is published.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": "Not published; council acts on applications at regular meetings (first and third Mondays, 5:00 pm)",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No fund total found; one 2025 award of $3,500 documented.",
+  "funding_docs": [
+   {
+    "title": "LTAC Lodging Tax Application 2025",
+    "doc_type": "other",
+    "year": "2025",
+    "url": "https://cityofraymond.com/wp-content/uploads/2024/10/LTAC-Lodging-Tax-Application-2025.pdf",
+    "summary": "Application form with economic impact questions, contract and reporting requirements; organization type includes Other. No deadline or contact."
+   },
+   {
+    "title": "City Council packet, Feb 2, 2026 (includes Jan 20, 2026 minutes)",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://cityofraymond.com/wp-content/uploads/02.02.26.pdf",
+    "summary": "Council approved current 2026 lodging tax applications, kept the period open through Jan 29, 2026; thank-you letter documents a $3,500 2025 award to the Northwest Carriage Museum."
+   },
+   {
+    "title": "City Council packet, May 4, 2026 (includes Apr 20, 2026 minutes)",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://cityofraymond.com/wp-content/uploads/05.04.26-pkt.pdf",
+    "summary": "Council approved a lodging tax application from the Seaport Museum; amount not recorded."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pacific County lodging tax funding",
+    "administrator": "Pacific County Board of Commissioners",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not researched in this pass; Raymond contracts with the Pacific County EDC ($11,000 in 2026) for tourism promotion services",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Conconully",
+  "type": "city",
+  "county": "Okanogan",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "Town of Conconully (no program contact published)",
+  "notes": "No lodging tax grant program, application or LTAC page for the Town of Conconully was found online; a town of about 200 people with resort cabins is likely to spend its lodging tax directly on town events and promotion. Treat as no open program and use the Okanogan County program instead. Research budget was exhausted before the town's website could be checked directly.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No data found.",
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Okanogan County Lodging Tax funding",
+    "administrator": "Okanogan County Lodging Tax Advisory Committee / Board of Commissioners",
+    "url": "https://www.okanogancounty.gov/170/Lodging-Tax-Advisory-Committee",
+    "funds": "4% county lodging tax on unincorporated-area lodging; pool not published",
+    "eligibility": "Any nonprofit organization or municipally owned visitor information center promoting tourism in Okanogan County with the goal of increasing overnight stays",
+    "deadline": null,
+    "deadline_pattern": "Annual; 2027 application and instructions posted under the 2026 application section",
+    "notes": "Nonprofit-only; for-profits would need a nonprofit sponsor",
+    "contact": "Stacy Nicole McClellan, 509-422-7216"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Cathlamet",
+  "type": "city",
+  "county": "Wahkiakum",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "Town of Cathlamet (no program contact published)",
+  "notes": "No lodging tax grant program, application form or LTAC page for the Town of Cathlamet was found online. A Wahkiakum Eagle commissioners report (Feb 2026) surfaced in search but could not be fetched. Treat as no open application until the town clerk confirms; the county is the more likely funder.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No data found.",
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Wahkiakum County lodging tax funding",
+    "administrator": "Wahkiakum County Board of Commissioners",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not located online; contact the county commissioners' office",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Grandview",
+  "type": "city",
+  "county": "Yakima",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "Tiny: the city paid the Chamber $1,761.72 of 2018 hotel/motel tax receipts",
+  "url": "https://www.grandview.wa.us/wp-content/uploads/2019/05/April-23-2019-Committee-of-the-Whole-Meeting-Minutes.pdf",
+  "contact": "City of Grandview City Treasurer (no program contact published)",
+  "notes": "Under Resolution 87-15 the City of Grandview passes its hotel/motel tax receipts to the Grandview Chamber of Commerce, which documents tourism promotion expenses and is reimbursed annually after Treasurer review and council approval; 2018 receipts were $1,761.72. There is no application for outside organizations. Any event funding would have to come through the Chamber.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "All receipts (about $1,800 in 2018) go to the Chamber of Commerce under Resolution 87-15; nothing is open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Committee of the Whole minutes, April 23, 2019 (Item 4B hotel/motel tax)",
+    "doc_type": "minutes",
+    "year": "2019",
+    "url": "https://www.grandview.wa.us/wp-content/uploads/2019/05/April-23-2019-Committee-of-the-Whole-Meeting-Minutes.pdf",
+    "summary": "Council approved paying the Chamber $1,761.72 in 2018 hotel/motel tax after the Treasurer verified $1,788.78 of tourism expenses, citing Resolution 87-15."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Grandview Chamber of Commerce (recipient of city hotel/motel tax)",
+    "administrator": "Grandview Chamber of Commerce",
+    "url": null,
+    "funds": "About $1,800 a year",
+    "eligibility": "Chamber tourism promotion",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Partner with the Chamber for any event promotion support",
+    "contact": null
+   },
+   {
+    "program": "City of Yakima Tourism Promotion Grants",
+    "administrator": "City of Yakima Finance",
+    "url": "https://www.yakimawa.gov/services/finance/tourism-promotion-grants-lodging-tax-funded/",
+    "funds": null,
+    "eligibility": "Events benefiting Yakima",
+    "deadline": null,
+    "deadline_pattern": "Annual",
+    "notes": "Regional option",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Woodland",
+  "type": "city",
+  "county": "Cowlitz",
+  "tax_rate": null,
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-03-31",
+  "funding_year": "2026",
+  "deadline_pattern": "Spring cycle: applications announced mid-March and due at noon March 31 (2026); LTAC recommends and council votes in the fall (Oct 6, 2025 for the prior cycle), with awards paid as the year proceeds",
+  "typical_open": "Mid-March (March 16, 2026 announcement)",
+  "annual_pool": "About $65,000 recommended by LTAC for the 2025-2026 cycle: $50,000 split between the Chamber visitor center and Downtown Woodland Revitalization plus $10,000 Hulda Klager Lilac Gardens and $5,000 Planters Days",
+  "url": "https://www.thereflector.com/stories/woodland-seeks-applications-for-lodging-tax-tourism-funding,398305",
+  "contact": "Amanda Hougan, City of Woodland, hougana@ci.woodland.wa.us; Woodland City Hall, 230 Davidson Ave, Woodland, WA 98674",
+  "notes": "Woodland's LTAC recommends a package of roughly $65,000 a year, most of it to the Chamber visitor center and downtown revitalization, with priority for projects that drive overnight stays in Woodland lodging. The 2025 round was contentious: council approved $10,000 for Lilac Gardens and $5,000 for Planters Days but sent the $40,000 visitor center and $10,000 DWR requests back to LTAC, which then split $50,000 equally; council later rejected the Chamber payment and approved $25,000 to DWR. Applications are a short form submitted by email or at City Hall; no LTAC roster is published.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": "Not published; LTAC meets after the spring deadline and again when council remands recommendations",
+  "total_pool_usd": 65000,
+  "competitive_pool_usd": 15000,
+  "pool_note": "LTAC's package for the 2025-2026 cycle was about $65,000; $50,000 was contested between the Chamber visitor center and Downtown Woodland Revitalization, leaving $15,000 that went to two event or attraction applicants (Lilac Gardens $10,000, Planters Days $5,000).",
+  "funding_docs": [
+   {
+    "title": "Woodland seeks applications for lodging tax tourism funding (The Reflector, Mar 16, 2026)",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.thereflector.com/stories/woodland-seeks-applications-for-lodging-tax-tourism-funding,398305",
+    "summary": "Applications due noon March 31; priority for overnight stays; submit at City Hall or by email to Amanda Hougan."
+   },
+   {
+    "title": "Woodland council sends two tourism funding grants back for review, approves two others (The Reflector, Oct 13, 2025)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://www.thereflector.com/stories/woodland-council-sends-two-tourism-funding-grants-back-for-review-approves-two-others,389028",
+    "summary": "Council approved $10,000 Hulda Klager Lilac Gardens and $5,000 Planters Days; remanded $40,000 Chamber visitor center and $10,000 DWR requests to LTAC."
+   },
+   {
+    "title": "LTAC approves split of lodging-tax recommendation: $25,000 each for DWR and Woodland Visitor Center (Citizen Portal)",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://citizenportal.ai/articles/6633710/Washington/Cowlitz-County/Woodland/LTAC-approves-split-of-lodging-tax-recommendation-25000-each-for-Downtown-Woodland-Revitalization-and-Woodland-Visitor-Center",
+    "summary": "Meeting summary of LTAC's revised $50,000 split (page could not be fetched; title only)."
+   },
+   {
+    "title": "Council rejects Chamber payment, approves $25,000 to Downtown Woodland Revitalization (Citizen Portal)",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://citizenportal.ai/articles/7189421/washington/cowlitz-county/woodland/council-rejects-chamber-payment-approves-25000-to-downtown-woodland-revitalization",
+    "summary": "Meeting summary of council's final action on the contested awards (page could not be fetched; title only)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Cowlitz County Tourism Small Grant",
+    "administrator": "Cowlitz County Tourism (Kim Boccuti, Tourism Director)",
+    "url": "https://grantexec.com/grants/1374d093-9291-4114-8153-07b2a4fa07f7",
+    "funds": "$50,000 total program; plus $55,000 in 2026 Tourism Marketing Grants and nearly $200,000 in 2026-27 Large (capital) Grants",
+    "eligibility": "Nonprofits (for-profit eligibility unclear)",
+    "deadline": null,
+    "deadline_pattern": "Annual; small grant applications due early November (Nov 6, 2024)",
+    "notes": "County news at https://www.klog.com/cowlitz-county-tourism-2026-27-tourism-grants-classic-hits-100-7-klog-news/",
+    "contact": "Cowlitz County, (360) 577-3137"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Ruston",
+  "type": "city",
+  "county": "Pierce",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "Town of Ruston (no program contact published)",
+  "notes": "No lodging tax grant program, application or LTAC page for the Town of Ruston was found online, despite a sizable lodging base at Point Ruston (Silver Cloud Hotel). Treat as no open program until the town clerk confirms; Pierce County's program is the practical route for events in the area.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No data found.",
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Pierce County Lodging Tax Grant Program",
+    "administrator": "Pierce County Economic Development Department",
+    "url": "https://www.piercecountywa.gov/5733/Lodging-Tax-Program",
+    "funds": "$5,308,730 across six categories for 2027, including $540,000 Event Marketing & Operations",
+    "eligibility": "Nonprofit/tax-exempt determination letter required; one-on-one meeting with staff before portal access",
+    "deadline": "2026-07-03",
+    "deadline_pattern": "Applications open early June and close early July for the following year",
+    "notes": null,
+    "contact": "Mike Gommi, 253-798-6914, mike.gommi@piercecountywa.gov"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Montesano",
+  "type": "city",
+  "county": "Grays Harbor",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "City of Montesano (no program contact published)",
+  "notes": "No lodging tax grant program, application or LTAC page for the City of Montesano was found online before the research budget ran out. Treat as no open application until confirmed with City Hall; Grays Harbor County's lodging tax program was not located either.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No data found.",
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Grays Harbor County lodging tax funding",
+    "administrator": "Grays Harbor County Board of Commissioners",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not located online; contact the county commissioners' office",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Cusick",
+  "type": "city",
+  "county": "Pend Oreille",
+  "tax_rate": null,
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "Town of Cusick (no program contact published)",
+  "notes": "No lodging tax grant program, application or LTAC page for the Town of Cusick (population about 200) was found online. Treat as no open program; Pend Oreille County is the likely funder for events in the area.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No data found.",
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Pend Oreille County lodging tax funding",
+    "administrator": "Pend Oreille County Board of Commissioners",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not located online; contact the county commissioners' office",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ }
+]

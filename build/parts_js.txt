@@ -1,0 +1,242 @@
+
+const TODAY = new Date("2026-10-29T12:00:00");
+const data = JSON.parse(document.getElementById('data').textContent);
+const fmt = d => d ? new Date(d+"T12:00:00").toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}) : null;
+const fmtShort = d => new Date(d+"T12:00:00").toLocaleDateString('en-US',{month:'short',day:'numeric'});
+const addYear = (d,n=1)=>{const [y,m,day]=d.split('-');return `${+y+n}-${m}-${day}`;};
+const daysUntil = d => Math.round((new Date(d+"T12:00:00")-TODAY)/864e5);
+const esc = s => String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g,'-');
+
+function status(r){
+  if(!r.has_ltac_grants) return {cls:'off',label:'No LTAC grant pool',key:'none'};
+  if(r.cycle==='rolling') return {cls:'ok',label:'Rolling',key:'open'};
+  if(!r.deadline) return {cls:'warn',label:'Date not posted',key:'unknown'};
+  const n = daysUntil(r.deadline);
+  if(n>=0 && n<=14) return {cls:'bad',label:n===0?'Due today':n===1?'Due tomorrow':`Due in ${n} days`,key:'open'};
+  if(n>14) return {cls:'ok',label:'Open',key:'open'};
+  return {cls:'off',label:'Closed',key:'closed'};
+}
+function nextExpected(r){
+  if(!r.has_ltac_grants || !r.deadline || r.cycle==='rolling') return null;
+  if(daysUntil(r.deadline)>=0) return null;
+  let d=r.deadline, step = r.cycle==='biennial'?2:1;
+  while(daysUntil(d)<0) d=addYear(d,step);
+  return d;
+}
+const groups = [
+  {id:'annual',title:'Annual',desc:'One application window a year, almost always for the following calendar year. Most of the money in the state moves this way.'},
+  {id:'semiannual',title:'Multiple rounds',desc:'Two or three rounds a year. The closest thing Washington has to a quarterly program; none of these jurisdictions runs a true quarterly cycle.'},
+  {id:'rolling',title:'Rolling',desc:'Applications accepted year-round and reviewed at the next committee meeting until the budget is spent.'},
+  {id:'biennial',title:'Biennial',desc:'One application covers a two-year budget period.'},
+  {id:'none',title:'No LTAC grant pool',desc:'These collect significant hotel tax but commit it elsewhere (a convention center, housing, a marketing contract, a county program). Each card lists the other public funding routes an event can use there.'}
+];
+let typeF='all', statF='all', cycF='all', countyF='', regionF='', q='', mineF=false, sortF='deadline';
+let follows=new Set(), canFollow=false, account=null, db=null, userCap=null, saveTimer=null, pendingFollow=null;
+const money=n=>n>=1e6?'$'+(n/1e6).toFixed(n%1e6?1:0)+'M':n>=1e3?'$'+Math.round(n/1e3)+'K':'$'+n;
+
+function memberHtml(m){
+  const ct=[m.email,m.phone].filter(Boolean).map(esc).join(' · ');
+  const chair=/chair/i.test(m.role||'');
+  return `<li class="${chair?'chair':''}"><span class="nm">${esc(m.name)}</span>${(m.role||m.affiliation)?`<span class="role">${[m.role,m.affiliation].filter(Boolean).map(esc).join(' · ')}</span>`:''}${ct?`<span class="ct">${ct}</span>`:''}</li>`;
+}
+function altHtml(a){
+  const dl = a.deadline ? `<span class="pd">${daysUntil(a.deadline)>=0?'Due':'Last due'} ${fmt(a.deadline)}</span>` : (a.deadline_pattern?`<span class="pm">${esc(a.deadline_pattern)}</span>`:'');
+  return `<li><span class="pn">${a.url?`<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.program)}</a>`:esc(a.program)}</span><span class="pm">${[a.administrator,a.funds].filter(Boolean).map(esc).join(' · ')}</span>${dl}${a.eligibility?`<span class="pm">${esc(a.eligibility)}</span>`:''}${a.contact?`<span class="pm">Contact: ${esc(a.contact)}</span>`:''}${altAwardsHtml(a)}</li>`;
+}
+function card(r){
+  const s=status(r), nx=nextExpected(r), p=r.presentation||{};
+  const hot = s.key==='open' && r.deadline && daysUntil(r.deadline)<=30;
+  let dl='';
+  if(r.has_ltac_grants){
+    let left, right;
+    if(r.cycle==='rolling') left=`<div class="lab">Deadline</div><div class="val soft">Any time</div><div class="sm">${esc(r.deadline_pattern||'')}</div>`;
+    else left=`<div class="lab">${s.key==='closed'?'Last deadline':'Deadline'}</div><div class="val ${hot?'hot':s.key==='closed'?'soft':''}">${r.deadline?fmt(r.deadline):'Not posted'}</div>${r.funding_year?`<div class="sm">for ${esc(r.funding_year)}</div>`:''}`;
+    if(nx) right=`<div class="lab">Next expected</div><div class="val">${fmt(nx)}</div><div class="sm">projected from last cycle</div>`;
+    else if(p.date) right=`<div class="lab">${p.required?'Presentation':'Review meeting'}</div><div class="val">${fmt(p.date)}</div>${p.format?`<div class="sm">${esc(p.format)}</div>`:''}`;
+    else if(r.typical_open) right=`<div class="lab">Usually opens</div><div class="val soft">${esc(r.typical_open)}</div>`;
+    else right=`<div class="lab">Pool</div><div class="val soft">${esc(r.annual_pool||'Not published')}</div>`;
+    dl=`<div class="dl"><div>${left}</div><div>${right}</div></div>`;
+  }
+  let kv='';
+  if(r.tax_rate&&r.tax_rate.length>28) kv+=`<dt>Tax</dt><dd>${esc(r.tax_rate)}</dd>`;
+  if(r.has_ltac_grants){
+    if(r.deadline_pattern && r.cycle!=='rolling') kv+=`<dt>Pattern</dt><dd>${esc(r.deadline_pattern)}</dd>`;
+    if(r.typical_open && !(dl.includes('Usually opens'))) kv+=`<dt>Opens</dt><dd>${esc(r.typical_open)}</dd>`;
+    if(r.annual_pool && !dl.includes('Pool') && !r.pool_note) kv+=`<dt>Pool</dt><dd>${esc(r.annual_pool)}</dd>`;
+    if(r.pool_note) kv+=`<dt>Pool</dt><dd>${esc(r.pool_note)}</dd>`;
+    if(r.meeting_schedule) kv+=`<dt>Meets</dt><dd>${esc(r.meeting_schedule)}</dd>`;
+  }
+  let pres='';
+  if(r.has_ltac_grants && (p.required!==null && p.required!==undefined || p.pattern)){
+    const lab = p.required===true?'Presentation required':p.required===false?(p.format==='written only'?'Written review only':'Presentation optional'):'Review meeting';
+    pres=`<div class="pres"><b>${lab}</b>${p.date?` · <span class="date">${fmt(p.date)}</span>`:''}${p.format&&p.format!=='written only'&&!dl.includes(esc(p.format))?` · ${esc(p.format)}`:''}${p.pattern?`<br>${esc(p.pattern)}`:''}</div>`;
+  }
+  const mem = r.members&&r.members.length;
+  const members = mem?`<details><summary>Committee members <span>${mem}</span></summary><ul class="members">${r.members.map(memberHtml).join('')}</ul>${r.members_source?`<div class="src">Roster from <a href="${esc(r.members_source)}" target="_blank" rel="noopener">source</a>${r.members_as_of?`, ${fmt(r.members_as_of)}`:''}</div>`:''}</details>`
+    :(r.has_ltac_grants?`<div class="src">Committee roster not published online. Ask the staff contact.</div>`:'');
+  const docs = r.funding_docs&&r.funding_docs.length?`<details><summary>Funding guidance <span>${r.funding_docs.length}</span></summary><ul class="docs">${r.funding_docs.map(d=>`<li><span class="dt">${esc(d.doc_type||'document')}${d.year?` · ${esc(d.year)}`:''}</span><span class="pn">${d.url?`<a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.title||d.url)}</a>`:esc(d.title||'')}</span>${d.summary?`<span class="pm">${esc(d.summary)}</span>`:''}</li>`).join('')}</ul></details>`:'';
+  const alts = r.alternatives&&r.alternatives.length?`<details open><summary>Other funding routes <span>${r.alternatives.length}</span></summary><ul class="alts">${r.alternatives.map(altHtml).join('')}</ul></details>`:'';
+  return `<article class="card ${hot?'lead':''}" id="j-${slug(r.name)}">
+    <div class="head"><div><h3>${esc(r.name)}</h3><div class="sub">${r.type}${r.type==='city'?` · ${esc(r.county)} County`:''}${r.tax_rate&&r.tax_rate.length<=28?` · ${esc(r.tax_rate)}`:''}</div>${r.has_ltac_grants?`<span class="fpill ${r.for_profit}">${{yes:"For-profit applicants OK",no:"Nonprofit / public only (local rule)",sponsor:"For-profit via fiscal sponsor",unknown:"Applicant type not stated"}[r.for_profit]}</span>`:''}</div><div class="r"><span class="pill ${s.cls}">${s.label}</span><button class="follow" data-f="${esc(r.name)}" aria-pressed="${follows.has(r.name)}" ${canFollow?"":"disabled"}><svg viewBox="0 0 24 24"><path d="m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z"/></svg><span>${follows.has(r.name)?"Following":"Follow"}</span></button></div></div>
+    ${(r.competitive_pool_usd!=null||r.total_pool_usd!=null)?`<div class="pool" style="padding:0 18px 10px">${r.competitive_pool_usd!=null?`<b>${money(r.competitive_pool_usd)}</b> open to applicants`:''}${r.competitive_pool_usd!=null&&r.total_pool_usd!=null?' · ':''}${r.total_pool_usd!=null?`${money(r.total_pool_usd)} total fund`:''}</div>`:''}
+    ${dl}
+    <div class="body">
+      ${kv?`<dl class="kv">${kv}</dl>`:''}
+      ${pres}
+      ${r.notes?`<p class="notes">${esc(r.notes)}</p>`:''}
+      ${r.contact?`<div class="ct-line"><strong>Staff contact:</strong> ${esc(r.contact)}</div>`:''}
+      ${alts}
+      ${docs}
+      ${members}
+    </div>
+    <div class="foot"><span>${r.url?`<a href="${esc(r.url)}" target="_blank" rel="noopener">Official page ↗</a>`:''}</span><span class="conf ${esc(r.confidence)}">${esc(r.confidence||'n/a')} confidence</span></div>
+  </article>`;
+}
+function matches(r){
+  if(mineF && !follows.has(r.name)) return false;
+  if(typeF!=='all' && r.type!==typeF) return false;
+  if(countyF && r.county!==countyF) return false;
+  if(regionF && r.region!==regionF) return false;
+  if(cycF!=='all' && r.cycle!==cycF) return false;
+  const s=status(r);
+  if(statF==='open' && s.key!=='open') return false;
+  if(statF==='pres' && !(r.presentation&&(r.presentation.required||r.presentation.date))) return false;
+  if(statF==='fp' && !(r.for_profit==='yes'||r.for_profit==='sponsor')) return false;
+  if(q){
+    const hay=[r.name,r.county,r.notes,r.contact,r.deadline_pattern,...(r.members||[]).flatMap(m=>[m.name,m.affiliation,m.role]),...(r.alternatives||[]).flatMap(a=>[a.program,a.administrator]),...(r.funding_docs||[]).map(d=>d.title)].join(' ').toLowerCase();
+    if(!hay.includes(q)) return false;
+  }
+  return true;
+}
+function sortKey(r){
+  if(sortF==='pool') return [0,-(r.competitive_pool_usd??-1),r.name];
+  if(sortF==='total') return [0,-(r.total_pool_usd??-1),r.name];
+  if(sortF==='name') return [0,0,r.name];
+  const s=status(r);
+  const rank={open:0,unknown:1,closed:2,none:3}[s.key];
+  const d = s.key==='open'&&r.deadline?daysUntil(r.deadline):(nextExpected(r)?daysUntil(nextExpected(r)):9999);
+  return [rank,d,r.name];
+}
+function render(){
+  const main=document.getElementById('main'); let html='';
+  for(const g of groups){
+    const rows=data.filter(r=>r.cycle===g.id && matches(r)).sort((a,b)=>{const x=sortKey(a),y=sortKey(b);return x[0]-y[0]||x[1]-y[1]||x[2].localeCompare(y[2]);});
+    if(!rows.length) continue;
+    html+=`<section class="group" id="g-${g.id}"><h2>${g.title}<small>${rows.length}</small></h2><p class="gdesc">${g.desc}</p><div class="grid">${rows.map(card).join('')}</div></section>`;
+  }
+  main.innerHTML = html || `<p class="empty">${mineF&&!follows.size?'You are not following anything yet. Tap Follow on any card to add it to your list.':'Nothing matches. Clear the search or filters.'}</p>`;
+  document.getElementById('clear').hidden = !(q||countyF||regionF||typeF!=='all'||statF!=='all'||cycF!=='all'||mineF);
+  document.getElementById('mineN').textContent=follows.size||'';
+  const counts={};for(const g of groups) counts[g.id]=data.filter(r=>r.cycle===g.id).length;
+  document.getElementById('cycles').innerHTML=`<button data-v="all" aria-pressed="${cycF==='all'}">All cycles<b>${data.length}</b></button>`+groups.map(g=>`<button data-v="${g.id}" aria-pressed="${cycF===g.id}">${g.title}<b>${counts[g.id]}</b></button>`).join('');
+}
+function renderStatic(){
+  const grants=data.filter(r=>r.has_ltac_grants);
+  const openNow=grants.filter(r=>status(r).key==='open').length;
+  const soon=grants.filter(r=>{const s=status(r);return s.key==='open'&&r.deadline&&daysUntil(r.deadline)<=30;}).length;
+  const withPres=grants.filter(r=>r.presentation&&r.presentation.required).length;
+  const withRoster=data.filter(r=>r.members&&r.members.length).length;
+  const openUsd=data.reduce((s,r)=>s+(r.competitive_pool_usd||0),0);
+  document.getElementById('tiles').innerHTML=`<div class="tile"><b>${grants.length}</b><span>of ${data.length} run LTAC grants</span></div><div class="tile"><b>${money(openUsd)}</b><span>documented as open to applicants</span></div><div class="tile"><b>${openNow}</b><span>open right now</span></div><div class="tile hot"><b>${soon}</b><span>due within 30 days</span></div><div class="tile"><b>${withPres}</b><span>require a presentation</span></div><div class="tile"><b>${withRoster}</b><span>committee rosters listed</span></div>`;
+  const up=data.map(r=>{const s=status(r);if(r.cycle==='rolling')return null;if(s.key==='open'&&r.deadline)return{r,d:r.deadline,est:false};const nx=nextExpected(r);if(nx)return{r,d:nx,est:true};return null;}).filter(Boolean).sort((a,b)=>a.d.localeCompare(b.d)).slice(0,12);
+  document.getElementById('rail').innerHTML=up.map(u=>`<a href="#j-${slug(u.r.name)}" class="${u.est?'est':''}"><span class="d">${fmtShort(u.d)}${u.est?' · est.':''}</span><span class="n">${esc(u.r.name)}</span><span class="k">${u.r.type==='county'?'County':esc(u.r.county)+' County'}${u.r.presentation&&u.r.presentation.required?' · presents':''}</span></a>`).join('');
+  const sel=document.getElementById('county');
+  [...new Set(data.map(r=>r.county))].sort().forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c+' County';sel.appendChild(o);});
+}
+document.getElementById('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();render();});
+document.getElementById('county').addEventListener('change',e=>{countyF=e.target.value;render();});
+(function(){const rs=document.getElementById('region'); const order=['Puget Sound','Olympic Peninsula and Coast','Southwest','North Central','South Central','Northeast','Southeast','Other']; order.filter(x=>data.some(r=>r.region===x)).forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;rs.appendChild(o);});
+rs.addEventListener('change',e=>{regionF=e.target.value; const cs=document.getElementById('county'); const cur=cs.value; [...cs.options].forEach(o=>{ if(!o.value) return; o.hidden = !!regionF && !data.some(r=>r.county===o.value&&r.region===regionF); }); if(cur && regionF && !data.some(r=>r.county===cur&&r.region===regionF)){cs.value='';countyF='';} render();});})();
+for(const [id,setter] of [['typeSeg',v=>typeF=v],['statSeg',v=>statF=v],['cycles',v=>cycF=v]]){
+  const seg=document.getElementById(id);
+  seg.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;setter(b.dataset.v);seg.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));render();});
+}
+document.getElementById('clear').addEventListener('click',()=>{q='';countyF='';regionF='';document.getElementById('region').value='';typeF='all';statF='all';cycF='all';mineF=false;document.getElementById('mine').setAttribute('aria-pressed','false');document.getElementById('q').value='';document.getElementById('county').value='';for(const id of ['typeSeg','statSeg'])document.querySelectorAll('#'+id+' button').forEach(x=>x.setAttribute('aria-pressed',x.dataset.v==='all'));render();});
+document.getElementById('rail').addEventListener('click',e=>{const a=e.target.closest('a');if(!a)return;const t=document.querySelector(a.getAttribute('href'));if(t){e.preventDefault();t.scrollIntoView({block:'start'});t.classList.add('lead');}});
+
+document.getElementById('sort').addEventListener('change',e=>{sortF=e.target.value;render();});
+/* ---------- follow lists ---------- */
+/* Static-site store: a small adapter over /api/store (Netlify function) that mimics the subset of the artifact db API this page uses. */
+const API='/api/store';
+async function apiFetch(q,opts){const r=await fetch(API+q,Object.assign({headers:{'content-type':'application/json'}},opts||{}));const d=await r.json().catch(()=>({}));if(!r.ok)throw Object.assign(new Error(d.error||r.statusText),{code:r.status});return d;}
+const netlifyDb={
+  doc(path){ const email=decodeURIComponent(path.replace(/^lists\//,'')); return {
+    async get(){ const d=await apiFetch('?c=lists&email='+encodeURIComponent(email)); return {exists:d.exists,data:()=>d.data}; },
+    async set(v){ await apiFetch('?c=lists',{method:'POST',body:JSON.stringify({email,follows:v.follows||[],touch:true})}); },
+    async update(v){ const b={email}; if(v.follows) b.follows=v.follows; if('visits' in v) b.touch=true; await apiFetch('?c=lists',{method:'POST',body:JSON.stringify(b)}); }
+  }; },
+  collection(c){ return {
+    async add(rec){ await apiFetch('?c='+c,{method:'POST',body:JSON.stringify(rec)}); },
+    orderBy(){return this;}, limit(){return this;},
+    async get(){ const d=await apiFetch('?c='+c); return {docs:(d.items||[]).map(x=>({data:()=>x}))}; }
+  }; }
+};
+let staticStore=false;
+const emailKey = e => e.trim().toLowerCase();
+const validEmail = e => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e);
+function localGet(){try{return JSON.parse(localStorage.getItem('ltac-follows')||'[]');}catch(e){return [];}}
+function localSet(a){try{localStorage.setItem('ltac-follows',JSON.stringify(a));}catch(e){}}
+function viewOnly(){canFollow=false;renderAcct();document.getElementById('acct').insertAdjacentHTML('beforeend','<p class="hint">This link is view-only, so lists cannot be saved here. Ask the site owner for a link that allows contributing.</p>');render();}
+function renderAcct(){
+  const el=document.getElementById('acct'); el.hidden=false;
+  if(!db){
+    el.innerHTML=`<span class="who">Build your own follow list.</span><p class="hint">${canFollow?'Your list is saved in this browser only.':'Sign in to claude.ai through the shared link to build a list.'}</p>`;
+    return;
+  }
+  if(account){
+    el.innerHTML=`<span class="who">Signed in as <b>${esc(account.email)}</b> · following ${follows.size}</span><button class="ghost" id="signout">Sign out</button>`;
+    el.querySelector('#signout').addEventListener('click',()=>{account=null;follows=new Set();try{localStorage.removeItem('ltac-account');}catch(e){}renderAcct();render();});
+  } else {
+    el.innerHTML=`<form id="signin"><input type="email" id="email" placeholder="you@example.com" aria-label="Email" required autocomplete="email"><button type="submit">Sign in to build your list</button></form><p class="hint">Browse freely. If you want to follow programs and keep your own list, enter your email; you will get a reminder 30, 14 and 3 days before each deadline on it. The site owner can see who has a list.</p>`;
+    el.querySelector('#signin').addEventListener('submit',async e=>{e.preventDefault();const inp=el.querySelector('#email');const v=emailKey(inp.value);if(!validEmail(v)){inp.setCustomValidity('Enter a valid email');inp.reportValidity();return;}inp.setCustomValidity('');await signIn(v);});
+  }
+}
+async function signIn(email){
+  const ref=db.doc('lists/'+email.replace(/[^A-Za-z0-9_\-.~:@+]/g,'_'));
+  let snap=null; try{snap=await ref.get();}catch(e){}
+  const now=new Date().toISOString();
+  let uid=null; try{uid=userCap?await userCap.id():null;}catch(e){}
+  if(snap&&snap.exists){
+    const d=snap.data(); follows=new Set(Array.isArray(d.follows)?d.follows:[]);
+    try{await ref.update({lastSeen:now,visits:(d.visits||0)+1,userId:uid||d.userId||null});}catch(e){}
+  } else {
+    follows=new Set();
+    try{await ref.set({email,follows:[],created:now,lastSeen:now,visits:1,userId:uid});}
+    catch(e){if(e&&e.code==='invalid_argument'){account=null;viewOnly();return;}}
+  }
+  account={email,ref}; try{localStorage.setItem('ltac-account',email);}catch(e){}
+  if(pendingFollow){ follows.add(pendingFollow); pendingFollow=null; persist(); }
+  renderAcct(); render();
+}
+function persist(){
+  if(account){clearTimeout(saveTimer);saveTimer=setTimeout(()=>{account.ref.update({follows:[...follows],updated:new Date().toISOString()}).catch(()=>{});},400);}
+  else localSet([...follows]);
+}
+document.getElementById('main').addEventListener('click',e=>{
+  const b=e.target.closest('.follow'); if(!b||b.disabled) return;
+  const n=b.dataset.f;
+  if(db && !account){ pendingFollow=n; const acct=document.getElementById('acct'); acct.scrollIntoView({block:'center'}); acct.classList.add('pulse'); setTimeout(()=>acct.classList.remove('pulse'),1600); const inp=acct.querySelector('#email'); if(inp){ inp.focus(); inp.placeholder='Enter your email to follow '+n; } return; } if(follows.has(n)) follows.delete(n); else follows.add(n);
+  b.setAttribute('aria-pressed',follows.has(n)); b.querySelector('span').textContent=follows.has(n)?'Following':'Follow';
+  document.getElementById('mineN').textContent=follows.size||''; persist();
+  if(mineF) render();
+});
+document.getElementById('mine').addEventListener('click',e=>{mineF=!mineF;e.currentTarget.setAttribute('aria-pressed',mineF);render();});
+async function initFollows(){
+  const c=window.claude;
+  if(c&&c.use){ try{[db,userCap]=await Promise.all([c.use('db'),c.use('user')]);}catch(e){db=null;} }
+  if(db){
+    canFollow=true;
+    let can=null; try{can=userCap?await userCap.can('data.write'):null;}catch(e){}
+    if(can===false){viewOnly();return;}
+    let saved=null; try{saved=localStorage.getItem('ltac-account');}catch(e){}
+    if(saved&&validEmail(saved)) await signIn(saved); else {renderAcct();render();}
+  } else {
+    let alive=false; try{ const r=await fetch(API+'?c=board',{method:'GET'}); alive=r.ok; }catch(e){}
+    if(alive){ db=netlifyDb; staticStore=true; canFollow=true;
+      let saved=null; try{saved=localStorage.getItem('ltac-account');}catch(e){}
+      if(saved&&validEmail(saved)) await signIn(saved); else {renderAcct();render();}
+    } else { canFollow=true; follows=new Set(localGet()); renderAcct(); render(); }
+  }
+}
+renderStatic();render();initFollows();

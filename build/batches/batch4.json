@@ -1,0 +1,803 @@
+[
+  {
+    "name": "Port Angeles",
+    "type": "city",
+    "county": "Clallam",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2025-10-12",
+    "funding_year": "2026",
+    "deadline_pattern": "Fall RFP for the following calendar year; the 2026 RFP opened Sept 19 and closed Oct 12, 2025",
+    "typical_open": "Mid-to-late September",
+    "annual_pool": "$1.76M (FY2026 budget)",
+    "url": "https://www.cityofpa.us/183/Lodging-Tax-Advisory-Committee",
+    "contact": "Community & Economic Development, ced@cityofpa.us, 360-417-4750; City Clerk 360-457-0411",
+    "notes": "No 2027 RFP posted yet as of Oct 29, 2026; the City Clerk gives out deadlines, and operating and capital requests are handled separately.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Kate Dexter",
+        "role": "Chair",
+        "affiliation": "City Council representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kara Anderson",
+        "role": "Lodging representative",
+        "affiliation": "Tax collector seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Sara Olsen",
+        "role": "Lodging representative",
+        "affiliation": "Tax collector seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Roxanne Greeson",
+        "role": "Activity representative",
+        "affiliation": "Tax recipient seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Sam Grello",
+        "role": "Activity representative",
+        "affiliation": "Tax recipient seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "David Mattern",
+        "role": "Member-at-Large",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "John Hughes",
+        "role": "Member-at-Large",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://cityofpa.us/183/Lodging-Tax-Advisory-Committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "Meets as needed, typically four times a year",
+    "funding_docs": [
+      {
+        "title": "03/12/2026 LTAC Agenda Packet (Round 2 scoring, FY2026 budget and reserves)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://cityofpa.us/DocumentCenter/View/18169/03122026-LTAC-Agenda-Packet",
+        "summary": "FY2026 LTAX budget is $1,760,900 with $1,597,925 awarded in Round 1 to 37 applicants and $162,975 left for Round 2, plus a $200,000 emergency reserve and $58,600 capital reserve. Resolution 02-26 sets the split at up to 20% city-owned tourism facilities, up to 75% marketing/events/nonprofit operations and 12% program administration, with priority on off-peak (Oct-May) tourism and regional marketing partnerships."
+      },
+      {
+        "title": "11/13/2025 LTAC Agenda Packet (2026 application rankings)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://wa-portangeles.civicplus.com/DocumentCenter/View/17774/11132025-LTAC-Agenda-Packet",
+        "summary": "38 applications requested $1,696,425 against $1,760,900 available ($234,600 capital, $1,526,300 marketing/operations/events); largest requests were Visit Port Angeles $266,000, Field Hall $255,000 and the Chamber visitor center $142,324. Applications are scored out of 25 per category with a bonus for shoulder-season efforts."
+      },
+      {
+        "title": "2026 LTAX Fund RFP (Bid 420)",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.cityofpa.us/Bids.aspx?BidID=420",
+        "summary": "The 2026 RFP ran Sept 19 to Oct 12, 2025 and separated operational and capital requests, with applications emailed to ced@cityofpa.us."
+      },
+      {
+        "title": "Port Angeles asks for fee to cover lodging tax contracts (Peninsula Daily News, Feb 4, 2026)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.peninsuladailynews.com/2026/02/04/port-angeles-asks-for-fee-to-cover-lodging-tax-contracts/",
+        "summary": "Council approved the LTAC's 2026 recommendations on Dec 16, 2025 (36 contracts, 14 more pending in March, possibly over $2.1M total) and set a 12% administrative share of about $134,000."
+      }
+    ],
+    "total_pool_usd": 1760900,
+    "competitive_pool_usd": 1300000,
+    "pool_note": "2026: $1,760,900 LTAX budget; after the 12% administration share (about $134,000), the city's own Visit Port Angeles marketing (about $266,000) and city capital projects, roughly $1.3M was awarded across about 36 outside contracts (estimate from the Nov 2025 and Mar 2026 LTAC packets)."
+  },
+  {
+    "name": "Walla Walla",
+    "type": "city",
+    "county": "Walla Walla",
+    "tax_rate": "4%",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2024-09-12",
+    "funding_year": "2025",
+    "deadline_pattern": "Mid-September for the following calendar year (opened Aug 15, due Sept 12 in 2024)",
+    "typical_open": "Mid-August",
+    "annual_pool": "$1.4M",
+    "url": "https://www.wallawallawa.gov/government/lodging-tax-advisory-committee",
+    "contact": "Rikki Gwinn, Executive Assistant, rgwinn@wallawallawa.gov, 509-527-4522; Preston Frederickson, Deputy City Manager, pfred@wallawallawa.gov, 509-527-4540",
+    "notes": "City put 2026 single-year grant applications on hold because revenue came in lower than expected, and no 2027 cycle has been announced.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Gustavo Reyna",
+        "role": "Chair",
+        "affiliation": "City Councilmember (Acting Chair)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Justin Robbins",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Dan Leeper",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Veronica Elliott",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Mallory Nash",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Guy Glaeser",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Rob Mortensen",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.wallawallawa.gov/government/lodging-tax-advisory-committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": false,
+      "date": "2024-09-30",
+      "pattern": "Applicants are invited to present at an LTAC work session about 2-3 weeks after the September deadline; LTAC recommends in early October and Council adopts in late October",
+      "format": "in person"
+    },
+    "meeting_schedule": "As needed during the grant cycle (2024: Sept 30 and Oct 7 at 10 am, Council Chambers)",
+    "funding_docs": [
+      {
+        "title": "2025 Application for Lodging Tax Funds (guidelines, selection process and scoring)",
+        "doc_type": "guidelines",
+        "year": "2025",
+        "url": "https://wallawallawa.gov/i-want-to/apply-for-ltac-funds",
+        "summary": "About $1,400,000 was estimated available for calendar 2025; applications were due Sept 12, 2024 with LTAC presentations Sept 30 and Council adoption Oct 23, 2024."
+      },
+      {
+        "title": "2024 Application for Lodging Tax Funds (scoring sheet)",
+        "doc_type": "guidelines",
+        "year": "2024",
+        "url": "https://wallawallawa.gov/home/showpublisheddocument/8774/638282110355370000",
+        "summary": "About $1,200,000 was available for 2024; the 100-point score weights tourism impact (20), overnight stays generated (20), community value (15), Nov-Mar off-peak activity (15), other funding partners (15), unique demographic (10) and event longevity (5)."
+      },
+      {
+        "title": "Lodging Tax Advisory Committee page (2026 funding hold notice)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.wallawallawa.gov/government/lodging-tax-advisory-committee",
+        "summary": "The city collects a 4% lodging tax under WWMC 3.78.010 and announced 2026 single-year grant applications are on hold because revenues came in below projections."
+      }
+    ],
+    "total_pool_usd": 1400000,
+    "competitive_pool_usd": 1400000,
+    "pool_note": "2025: about $1,400,000 was published as the full competitive pool for calendar 2025, but the 2026 single-year grant round is on hold, so the realistic current pool is $0 until the city reopens applications."
+  },
+  {
+    "name": "Chelan",
+    "type": "city",
+    "county": "Chelan",
+    "tax_rate": null,
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://cityofchelan.gov",
+    "contact": null,
+    "notes": "No open city grant process found; city lodging tax (over $2M a year) goes mainly to a Lake Chelan Chamber marketing contract through Dec 31, 2026 and to city projects, while Chelan County runs its own separate LTAC grants (2027 cycle contact CM.LTAC@co.chelan.wa.us).",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "City Council approves new contract with Chamber of Commerce (All Things Lake Chelan, May 5, 2025)",
+        "doc_type": "other",
+        "year": "2025",
+        "url": "https://allthingslakechelan.blog/2025/05/05/city-council-approves-new-contract-with-chamber-of-commerce/",
+        "summary": "City lodging tax receipts have stayed above $2M a year since 2021; the council approved a Chamber marketing contract through Dec 31, 2026 paying 20% of the prior two-year average collections (about $400,000 on 2024 figures, with a $700,000 to $750,000 cap discussed)."
+      },
+      {
+        "title": "Chelan County BOCC awards 2026 lodging tax grants (county program covering the Lake Chelan area)",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://co.chelan.wa.us/news/article/bocc-awards-2026-lodging-tax-grants",
+        "summary": "Chelan County awarded nearly $222,000 to 35 tourism groups for 2026 from its separate county LTAC pool; the full grantee list is a linked PDF."
+      }
+    ],
+    "total_pool_usd": 2000000,
+    "competitive_pool_usd": 0,
+    "pool_note": "2025: city lodging tax receipts have stayed above $2M a year since 2021 and are committed to the Lake Chelan Chamber marketing contract (about $400,000 to $750,000) and city projects, with no outside application process (estimate)."
+  },
+  {
+    "name": "Ellensburg",
+    "type": "city",
+    "county": "Kittitas",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-18",
+    "funding_year": "2027",
+    "deadline_pattern": "Mid-to-late September for the following calendar year (Sept 20, 2024; Sept 18, 2026)",
+    "typical_open": "July to August, with applicant workshops in mid-August",
+    "annual_pool": "$469K consolidated for 2025 (Ellensburg share about $98K)",
+    "url": "https://co.kittitas.wa.us/auditor/accounting/lodging-tax/cltac-guide.aspx",
+    "contact": "Kittitas County Auditor's Office, auditorsaccounting@co.kittitas.wa.us, 509-962-7550",
+    "notes": "Ellensburg funds grants through the consolidated Kittitas County CLTAC with Cle Elum and Roslyn, and 2027 oral presentations are Nov 20, 2026.",
+    "confidence": "high",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": false,
+      "date": "2026-11-20",
+      "pattern": "Applicants recommended for funding get the chance to present and answer questions at the CLTAC meeting about 2 months after the September deadline (Nov 20, 2026, 8 am, Ellensburg City Hall)",
+      "format": "in person"
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "Kittitas County Consolidated LTAC Guide (2027 cycle)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://co.kittitas.wa.us/auditor/accounting/lodging-tax/cltac-guide.aspx",
+        "summary": "Applications were due Sept 18, 2026 at 4 pm, workshop attendance (Aug 18 Ellensburg, Aug 20 Cle Elum) is scored, and recommended applicants present Nov 20, 2026 at Ellensburg City Hall; funds are reimbursed through the County Auditor."
+      },
+      {
+        "title": "City of Ellensburg Resolution 2025-01 (2025 Hotel/Motel tax funds)",
+        "doc_type": "resolution",
+        "year": "2025",
+        "url": "https://www.ellensburgwa.gov/Archive.aspx?ADID=3556",
+        "summary": "Adopted the consolidated CLTAC recommendation of $468,674.50 for 2025, made up of Kittitas County $338,675.85, Ellensburg $97,595.29, Cle Elum $27,990.41 and Roslyn $4,412.95, with the county as single reimbursing agency."
+      },
+      {
+        "title": "Kittitas County LTAC Bylaws (May 8, 2024)",
+        "doc_type": "other",
+        "year": "2024",
+        "url": "https://co.kittitas.wa.us/uploads/documents/auditor/accounting/lodging-tax/LTAC%20Bylaws%20Final%2005-08-2024.pdf",
+        "summary": "The County Commissioner on the committee chairs it, seats are split between upper and lower county entities that pay into or receive the fund, and proposals are judged against the 2021 Kittitas County Recreation and Tourism Plan."
+      }
+    ],
+    "total_pool_usd": 97595,
+    "competitive_pool_usd": 97595,
+    "pool_note": "2025: Ellensburg's $97,595 lodging tax share was fully awarded through the consolidated Kittitas County CLTAC, where applicants compete for the combined $468,675 pool with the county, Cle Elum and Roslyn."
+  },
+  {
+    "name": "King County",
+    "type": "county",
+    "county": "King",
+    "tax_rate": "2%",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://kingcounty.gov/depts/executive/performance-strategy-budget/about/Lodging%20Tax.aspx",
+    "contact": null,
+    "notes": "Lodging tax is dedicated by state law: at least 37.5% to housing, at least 37.5% to arts and heritage through 4Culture, and the rest to tourism including stadium debt, with no open LTAC application.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "King County 2026-2027 Proposed Budget, Panel 3 packet (Oct 16, 2025)",
+        "doc_type": "budget",
+        "year": "2026-2027",
+        "url": "https://aqua.kingcounty.gov/council/agendas/Budget_HHHS/20251016-Panel3-Packet.pdf",
+        "summary": "Lodging tax revenue is forecast at about $84M for the biennium, split under Ordinance 18788 as 37.5% to 4Culture, 34.9% to transit-oriented housing and 2.6% to homeless youth; the $18.6M tourism share covers Building for Culture debt, a $7M stadium PFD allocation and $2M in contracts (Visit Seattle $1.46M, Seattle Southside $490,000, Mountains to Sound Greenway $50,000)."
+      },
+      {
+        "title": "King County Lodging Tax overview page",
+        "doc_type": "other",
+        "year": "2021-2045",
+        "url": "https://kingcounty.gov/depts/executive/performance-strategy-budget/about/Lodging%20Tax.aspx",
+        "summary": "Explains the 2% county lodging tax and the state-law allocation: at least 37.5% housing and youth services, at least 37.5% arts and culture, and 25% or less to tourism including stadiums, with about $373M projected for tourism from 2021 to 2045."
+      },
+      {
+        "title": "4Culture Revenue Sources",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.4culture.org/about-4culture/revenue-sources/",
+        "summary": "4Culture receives 37.5% of King County lodging tax under ESSB 5834 and distributes it through its arts, heritage, preservation and Building for Culture grant programs rather than a tourism LTAC process."
+      }
+    ],
+    "total_pool_usd": 42000000,
+    "competitive_pool_usd": 0,
+    "pool_note": "2026-2027: about $84M in county lodging tax for the biennium (about $42M a year) is fixed by Ordinance 18788 to 4Culture, housing, homeless youth, stadium debt and DMO contracts, leaving nothing for outside LTAC applicants."
+  },
+  {
+    "name": "Pierce County",
+    "type": "county",
+    "county": "Pierce",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-07-03",
+    "funding_year": "2027",
+    "deadline_pattern": "Early July for the following calendar year",
+    "typical_open": "Early June",
+    "annual_pool": "$5.3M",
+    "url": "https://www.piercecountywa.gov/5733/Lodging-Tax-Program",
+    "contact": "Mike Gommi, mike.gommi@piercecountywa.gov; Economic Development 253-798-6150",
+    "notes": "Applicants must hold a required one-on-one meeting with staff before applying, and 2027 categories include capital, marketing, events and sports events.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Amy Cruver",
+        "role": "Chair",
+        "affiliation": "Pierce County Councilmember",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Shawna Gasak",
+        "role": null,
+        "affiliation": "PCCTA",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Nick Neville",
+        "role": "Lodging representative",
+        "affiliation": "Industry group seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Chalon Burns",
+        "role": "Lodging representative",
+        "affiliation": "Industry group seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Brandy Frederich",
+        "role": "Lodging representative",
+        "affiliation": "Industry group seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Christophe Chabaud",
+        "role": "Lodging representative",
+        "affiliation": "Industry group seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Justin Gravatt",
+        "role": "Activity representative",
+        "affiliation": "Fund user seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Carmen Palmer",
+        "role": "Activity representative",
+        "affiliation": "Fund user seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Meilee Anderson",
+        "role": "Activity representative",
+        "affiliation": "Fund user seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Matt Wakefield",
+        "role": "Activity representative",
+        "affiliation": "Fund user seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Alexander Ritsema",
+        "role": "At-Large",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Giovanni Vendetti",
+        "role": "At-Large",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.piercecountywa.gov/DocumentCenter/View/153049/PC-LTAC-and-TPA-Agenda-11-19-25",
+    "members_as_of": "2025-11-19",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "A one-on-one meeting with staff is required before applying; no applicant presentation to the LTAC is published",
+      "format": null
+    },
+    "meeting_schedule": "Meets about quarterly on Wednesdays (recent meetings May 28, Aug 27 and Nov 19, 2025, held jointly with the TPA)",
+    "funding_docs": [
+      {
+        "title": "Pierce County Lodging Tax 2027 Funding Cycle - Grant Application Information",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/158782",
+        "summary": "$5,308,730 is available for 2027: Asset/Product Development $2,290,000, Individual Leisure Marketing $1,500,000, Personnel and Administration $800,000, Event Marketing and Operations $540,000, Event Development $118,730 and Sports Event Development $60,000; applications opened June 5 and were due July 3, 2026."
+      },
+      {
+        "title": "2027 LTAC Scoring Matrices",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/158781",
+        "summary": "Five rubrics scored 1-5 per criterion with minimum thresholds (for example 42 of 70 for Event Marketing and Operations), weighting destination benefit, partnerships, economic impact, shoulder season and room nights; event marketing needs at least 300 peak or 500 total room nights."
+      },
+      {
+        "title": "2027 Lodging Tax Grant Program Master Application",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/158804/2027-Lodging-Tax-Grant-Program-Master-Application",
+        "summary": "Applicants must be 501(c)(3), 501(c)(6) or a municipality, hold a one-on-one meeting with Mike Gommi before applying, and show room-night generation as the primary result."
+      },
+      {
+        "title": "FY 2026 Pierce County Lodging Tax Approved Funding Allocations",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.piercecountywa.gov/DocumentCenter/View/158539",
+        "summary": "$7,712,760 approved for 2026; the largest were Pierce County Parks Sprinker fields $2,500,000, Tacoma-Pierce County CVB tourism and sports marketing $2,312,000, the county Foot Ferry project $2,000,000 and Visit Rainier $498,910."
+      }
+    ],
+    "total_pool_usd": 7712760,
+    "competitive_pool_usd": 900760,
+    "pool_note": "2026: $7,712,760 approved; after Pierce County Parks Sprinker fields ($2.5M), the county Foot Ferry project ($2M) and the Tacoma-Pierce County CVB marketing contract ($2,312,000), about $900,760 went to outside applicants such as Visit Rainier and local events."
+  },
+  {
+    "name": "Snohomish County",
+    "type": "county",
+    "county": "Snohomish",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-10-30",
+    "funding_year": "2027",
+    "deadline_pattern": "Late October for the following calendar year (Hotel-Motel Small Fund); TPA Fund requests reviewed monthly",
+    "typical_open": "Early August",
+    "annual_pool": "$850K",
+    "url": "https://www.discoversnohomishcounty.com/industry-resources/lodging-tax-grants/ltac/",
+    "contact": "Harry Birak, Harry.Birak@snoco.org, 425-583-1841; Trudy Soriano, Trudy.Soriano@snoco.org",
+    "notes": "Awards usually run $5K to $50K, require a 25% match and are paid as reimbursements; applications go through the Jotform portal only.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Nate Nehring",
+        "role": "Chair",
+        "affiliation": "Snohomish County Councilmember",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Shawn Walker",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Georgia Borg-Leon",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Debbie Copple",
+        "role": "Activity representative",
+        "affiliation": "Tourism seat",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Diane Krieg",
+        "role": "Activity representative",
+        "affiliation": "Stilly Valley Chamber of Commerce",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://snohomishcountywa.gov/DocumentCenter/View/149741/LTAC-MINUTES---Jan92026",
+    "members_as_of": "2026-01-09",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "LTAC reviews applications in November after the Oct 30 deadline; Council approves in Nov-Dec",
+      "format": null
+    },
+    "meeting_schedule": "Meets once a year in the fall to review Small Fund applications, plus periodic quarterly meetings (Q2 2025 was May 20, 1-2:30 pm, virtual)",
+    "funding_docs": [
+      {
+        "title": "Hotel-Motel Small Fund Grant page (2027 cycle guidelines)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.discoversnohomishcounty.com/industry-resources/lodging-tax-grants/ltac/",
+        "summary": "Applications opened Aug 3 and close Oct 30, 2026 via Jotform only, require a 25% match, are reimbursement-based and must be completed by Dec 15, 2027; LTAC reviews in November with Council approval in Nov-Dec."
+      },
+      {
+        "title": "Snohomish County news release: 2027 tourism grant cycle open (Aug 2026)",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://www.snohomishcountywa.gov/CivicAlerts.aspx?AID=3242",
+        "summary": "About $850,000 is available for 2027 with awards typically averaging $10,000 and ranging $5,000 to $50,000."
+      },
+      {
+        "title": "LTAC Minutes, Sept 25, 2025 (2026 Round 1 recommendations)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://snohomishcountywa.gov/DocumentCenter/View/149743/LTAC-MINUTES---Sept25_2025",
+        "summary": "From 50 applications the committee recommended $502,805 for 31 Round 1 projects for 2026."
+      },
+      {
+        "title": "LTAC Minutes, Jan 9, 2026 (2026 Round 2 recommendations)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://snohomishcountywa.gov/DocumentCenter/View/149741/LTAC-MINUTES---Jan92026",
+        "summary": "The committee recommended $297,024 for 18 Round 2 projects (World Cup-related round) plus up to $50,000 for a US Highway 2 marketing campaign."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 799829,
+    "pool_note": "2026: the Hotel-Motel Small Fund awarded $502,805 in Round 1 (31 projects) and $297,024 in Round 2 (18 projects) to outside applicants, about $800K; the 2027 cycle advertises about $850,000; total county lodging tax revenue is not published on the grant pages."
+  },
+  {
+    "name": "Spokane County",
+    "type": "county",
+    "county": "Spokane",
+    "tax_rate": "2% lodging tax; plus $5 per room night TPA assessment",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://visitspokane.com/industry/industry-resources/tpa",
+    "contact": "Rose Noble, 509-742-9380, maureen@visitspokane.com (TPA)",
+    "notes": "No open county LTAC application found, TPA event grants are on hold through 2027, and event organizers are sent to the City of Spokane TACI committee (March 31, 2026 deadline) or Spokane Valley's LTAC.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "Visit Spokane TPA industry page (Spokane County Tourism Promotion Area)",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://visitspokane.com/industry/industry-resources/tpa",
+        "summary": "The county TPA collects a $5 per room night assessment restricted by Ordinance 4-0141 to tourism and convention marketing and sports event recruitment; event grants are on hold through 2027 and the Hotel and Motel Commission reviewed the 2027 budget on Oct 7, 2026."
+      },
+      {
+        "title": "Spokane County restructures $5M lodging tax program (Center Square, Sept 2022)",
+        "doc_type": "other",
+        "year": "2023",
+        "url": "https://www.thecentersquare.com/washington/article_4ad322ca-3607-11ed-a27b-b39bfd62602c.html",
+        "summary": "The restructured county TPA was expected to raise nearly $5M a year for marketing and promotion, with a hotelier commission recommending spending and the county making final decisions."
+      },
+      {
+        "title": "Spokane County 2026 budget adoption release (Dec 1, 2025)",
+        "doc_type": "budget",
+        "year": "2026",
+        "url": "https://www.spokanecounty.gov/CivicAlerts.aspx?AID=5848",
+        "summary": "The adopted 2026 county budget totals $983M; the release does not break out lodging tax or TPA allocations."
+      }
+    ],
+    "total_pool_usd": 5000000,
+    "competitive_pool_usd": 0,
+    "pool_note": "2023 onward: the county TPA raises nearly $5M a year for Visit Spokane and Spokane Sports marketing and event grants are on hold through 2027, so no dollars are open to outside applicants (estimate)."
+  },
+  {
+    "name": "Clark County",
+    "type": "county",
+    "county": "Clark",
+    "tax_rate": null,
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": null,
+    "notes": "No county-run LTAC grant process found; the main lodging tax grant in Clark County is the City of Vancouver program, which recommended $1.74M in awards in Nov 2025 and has opened 2027 applications.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "Lodging tax committee recommends Vancouver award $1.74 million (The Columbian, Nov 18, 2025)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.columbian.com/news/2025/nov/18/lodging-tax-committee-recommends-vancouver-award-1-74-million-to-21-tourism-groups/",
+        "summary": "The City of Vancouver LTAC, not the county, recommended $1.74M to 21 tourism groups for 2026; no comparable Clark County allocation document was found."
+      },
+      {
+        "title": "City of Vancouver Lodging Tax Grant Program Guidelines",
+        "doc_type": "guidelines",
+        "year": "2024",
+        "url": "https://www.cityofvancouver.us/wp-content/uploads/2023/08/ltac_program_guidelines_2024.pdf",
+        "summary": "The city program guidelines govern lodging tax grants inside Vancouver city limits, the main lodging tax grant source in Clark County."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 0,
+    "pool_note": "No county lodging tax grant program or allocation document was found, so the competitive pool is treated as $0; the City of Vancouver program ($1.74M recommended for 2026) is the local alternative (estimate)."
+  },
+  {
+    "name": "Kitsap County",
+    "type": "county",
+    "county": "Kitsap",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-10-30",
+    "funding_year": "2027",
+    "deadline_pattern": "Late October for the following calendar year (Oct 24, 2025 for 2026; tentative Oct 30, 2026 for 2027)",
+    "typical_open": "October 1",
+    "annual_pool": null,
+    "url": "https://www.kitsap.gov/das/Pages/LTAC.aspx",
+    "contact": "Glen McNeill, gsmcneill@kitsap.gov, 360-337-4789; Lee Reyes, lreyes@kitsap.gov, 360-337-4471",
+    "notes": "The 2026 timeline on the county page is marked tentative, with a bid conference Oct 26 and interviews Nov 5-6, 2026; there is also a separate DMO RFP that closed Sept 9, 2026.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Katherine T. Walters",
+        "role": "Chair",
+        "affiliation": "Kitsap County Commissioner",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Charles Kraining",
+        "role": "Lodging representative",
+        "affiliation": "Seabeck Conference Center",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Michelle Elson",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Stacey Saunders",
+        "role": "Activity representative",
+        "affiliation": "CSTOCK",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Baqi Kopelman",
+        "role": "Activity representative",
+        "affiliation": "Vista Gardens",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.kitsap.gov/das/Pages/LTAC.aspx",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": true,
+      "date": "2026-11-05",
+      "pattern": "Applicants interview with the LTAC about 1-2 weeks after the late October deadline (Nov 5-6, 2026 tentative; Oct 21-22 in 2025), and the committee deliberates the next day",
+      "format": "in person"
+    },
+    "meeting_schedule": "Annual cycle: orientation in early September, then interviews and deliberations in late October to early November at the County Administration Building, Port Orchard",
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Fund Distribution Policy, Resolution 111-2025",
+        "doc_type": "resolution",
+        "year": "2026",
+        "url": "https://www.kitsap.gov/das/Lodging%20Tax%20Applications%20%20Misc%20Docs/Resolution%20111-2025%20LTAC%20Policy.pdf",
+        "summary": "The county's current distribution policy for lodging tax funds; the PDF could not be read in this session so percentages are not summarized here."
+      },
+      {
+        "title": "Resolution 203-2025 (2026 Lodging Tax funding recipients)",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.kitsap.gov/das/Documents/203-2025%20LTAC%20Resolution.pdf",
+        "summary": "Board resolution adopting the 2026 award list; the PDF could not be read in this session so amounts are not summarized here."
+      },
+      {
+        "title": "RFP 2025-037 Lodging Tax Award Process Instructions (2026 funds)",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.kitsap.gov/das/Documents/2025-037%20Lodging%20Tax%20Award%20Process%20Instructions%20Template%202026.pdf",
+        "summary": "Applications opened Oct 1 and were due Oct 24, 2025 at 2 pm as one PDF to purchasing@kitsap.gov; eligible categories are tourism marketing (FIFA 2026 priority), events and festivals, municipal tourism facilities and nonprofit tourism facilities, with LTAC interviews before recommendations to the Board."
+      },
+      {
+        "title": "RFP 2026-019 Destination Marketing Organization",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://kitsap.gov/das/Documents/2026-019%20RFP%20DMO%20Kitsap%20County%20072426%20GM.pdf",
+        "summary": "A separate lodging-tax-funded RFP to select the county's DMO, closing Sept 9, 2026."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "2026: award amounts are in Resolution 203-2025 and the distribution policy in Resolution 111-2025, but those PDFs could not be read in this session, so no figure is given."
+  }
+]

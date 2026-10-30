@@ -1,0 +1,745 @@
+[
+  {
+    "name": "Yakima County",
+    "type": "county",
+    "county": "Yakima",
+    "tax_rate": "2%",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://www.yakimacounty.us/DocumentCenter/View/675",
+    "contact": "Yakima County Board of County Commissioners, 509-574-1500",
+    "notes": "Yakima County's 2% hotel/motel tax (Fund 131, since 1975) is committed to Sundome bond debt and standing support for Yakima Valley Tourism, the Yakima Valley Museum and the Capitol Theatre; no open application process for outside organizations was found.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "City of Yakima Tourism Promotion Grants (Lodging Tax funded)",
+        "administrator": "City of Yakima Finance Department / Lodging Tax Advisory Committee",
+        "funds": null,
+        "eligibility": "Nonprofit organizations and public agencies with projects that promote or develop tourism in Yakima; preference to city-owned facilities generating overnight stays and year-round DMO promotion",
+        "cycle": "annual",
+        "deadline": "2026-07-01",
+        "deadline_pattern": "Applications accepted June 1 through July 1 for the following year",
+        "url": "https://www.yakimawa.gov/services/finance/tourism-promotion-grants-lodging-tax-funded/",
+        "contact": "City of Yakima Finance, financeinfo@yakimawa.gov, 509-575-6070",
+        "notes": "Nine-member LTAC reviews applications and recommends to City Council; 2027 round closed July 1, 2026.",
+        "confidence": "high"
+      },
+      {
+        "program": "City of Union Gap FY2027 Lodging Tax Grant Funds",
+        "administrator": "City of Union Gap Lodging Tax Advisory Committee",
+        "funds": null,
+        "eligibility": "Nonprofits (with WA Secretary of State registration) or public agencies; advertising, tourism promotion, events and festivals that attract tourists",
+        "cycle": "annual",
+        "deadline": "2026-08-17",
+        "deadline_pattern": "Applications released about August 1, due mid-August for the following year",
+        "url": "https://uniongapwa.gov/media/2027-LTAC-Application.pdf",
+        "contact": "Teresa Lopez, Deputy City Clerk, teresa.lopez@uniongapwa.gov, 509-248-0432",
+        "notes": "Submit hard copy to LTAC c/o City of Union Gap, 102 W Ahtanum Rd, or by email; late or incomplete applications are not considered.",
+        "confidence": "high"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Yakima County 2026 Budget - Revenues (Fund 131 Motel/Hotel Tax)",
+        "doc_type": "budget",
+        "year": "2026",
+        "url": "https://www.yakimacounty.us/Archive.aspx?ADID=1252",
+        "summary": "Budgets $902,800 in Fund 131 lodging tax revenue for 2026 ($799,000 city-collected hotel/motel tax share and $103,800 county share), up $21,400 from 2025."
+      },
+      {
+        "title": "Yakima County Motel/Hotel Tax program description",
+        "doc_type": "other",
+        "year": null,
+        "url": "https://www.yakimacounty.us/DocumentCenter/View/675",
+        "summary": "Describes the 2% county lodging tax created in 1975 and its committed uses: Sundome general obligation bond debt, the Yakima Valley Visitors and Convention Bureau, the Capitol Theatre and the Yakima Valley Museum; no competitive grant process is described."
+      },
+      {
+        "title": "Yakima County Fund 131 Motel/Hotel Tax budget page (2007)",
+        "doc_type": "budget",
+        "year": "2007",
+        "url": "https://yakimacounty.us/DocumentCenter/View/439",
+        "summary": "Historical budget showing about $381,000 a year in transfers out for Sundome 2001A/2001B bond payments against $445,000 in hotel/motel tax revenue, illustrating that the fund is largely committed to debt service."
+      }
+    ],
+    "total_pool_usd": 902800,
+    "competitive_pool_usd": 0,
+    "pool_note": "2026 adopted budget: $902,800 Fund 131 lodging tax revenue, all committed to Sundome bond debt and standing contracts (Yakima Valley Tourism, Capitol Theatre, Yakima Valley Museum), leaving $0 open to outside applicants."
+  },
+  {
+    "name": "Benton County",
+    "type": "county",
+    "county": "Benton",
+    "tax_rate": "none (county special hotel-motel tax not listed; 8.10% total lodging rate in unincorporated area)",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": "Benton County Board of Commissioners, 509-736-3080",
+    "notes": "No Benton County (WA) lodging tax grant application process or LTAC page was found; the 2024 DOR distribution table lists no county-level lodging tax row for Benton County, and tourism lodging tax funding in the area runs through the cities of Kennewick, Richland, West Richland and Prosser and the Tri-Cities TPA.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "City of Kennewick Lodging Tax Advisory Committee funding requests",
+        "administrator": "City of Kennewick Finance (Senior Accounting Specialist is staff liaison)",
+        "funds": null,
+        "eligibility": "Businesses, facilities and events that promote tourism in Kennewick under RCW 67.28",
+        "cycle": "annual",
+        "deadline": "2026-09-30",
+        "deadline_pattern": "Application window September 1 to September 30 for the following year",
+        "url": "https://go2kennewick.com/1574/Lodging-Tax-Advisory-Committee",
+        "contact": "Kennewick City Hall, 210 W 6th Ave, 509-585-4200",
+        "notes": "LTAC reviews in public session (2027 decisions Oct 22, 2026) and City Council finalizes Nov 18, 2026; members include Councilmember Jim Millbauer (Chair), Corey Pearson (VenuWorks), Gretchen Guerrero (Visit Tri-Cities), Michael Garza and Heather Bennett (lodging).",
+        "confidence": "high"
+      },
+      {
+        "program": "Visit Tri-Cities / Tri-Cities Regional Hotel-Motel Commission (Tourism Promotion Area)",
+        "administrator": "Visit Tri-Cities",
+        "funds": null,
+        "eligibility": "Event and sports tourism support for events generating room nights in Kennewick, Pasco and Richland",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": "https://www.visittri-cities.com/about",
+        "contact": null,
+        "notes": "TPA assessment funds are controlled by the regional hotel-motel commission; event support is arranged directly with Visit Tri-Cities rather than through a published grant round.",
+        "confidence": "low"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "WA Department of Revenue Lodging Information Rates and Changes, Q2 2026",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://dor.wa.gov/sites/default/files/2026-02/Q226_Lodging_flyer.pdf",
+        "summary": "Shows unincorporated Benton County with no special hotel-motel tax and an 8.10% total lodging rate, so the county has little dedicated lodging tax revenue to grant."
+      },
+      {
+        "title": "WA DOR Table L1 2024: Distributions of Local Lodging Taxes to Cities and Counties",
+        "doc_type": "other",
+        "year": "2024",
+        "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+        "summary": "Lists 2024 lodging tax distributions only to Benton County cities (Kennewick, Richland, West Richland, Prosser) with no county-level row."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 0,
+    "pool_note": "No county-level lodging tax fund or grant program is documented (DOR 2024 Table L1 shows no Benton County row and no county special hotel-motel tax), so $0 is open to outside applicants at the county level."
+  },
+  {
+    "name": "Franklin County",
+    "type": "county",
+    "county": "Franklin",
+    "tax_rate": "2% special (10.10% total)",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": "Franklin County Board of Commissioners, 509-545-3535",
+    "notes": "No Franklin County lodging tax grant program or LTAC page was found; county-level 2024 lodging tax distributions are listed as confidential/zero by DOR and tourism funding in the county runs through the City of Pasco LTAC and the Tri-Cities TPA.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "City of Pasco Lodging Tax Advisory Committee funding",
+        "administrator": "City of Pasco City Manager's Office",
+        "funds": null,
+        "eligibility": "Tourism promotion, events and facilities eligible under RCW 67.28 within Pasco",
+        "cycle": "annual",
+        "deadline": "2026-07-31",
+        "deadline_pattern": "30-day application window July 1 to July 31 for the following year",
+        "url": "https://www.pasco-wa.gov/1043/Lodging-Tax-Advisory-Committee-LTAC",
+        "contact": "Richa Sigdel, Deputy City Manager (via City Manager's Office); Laurel McQuade, 509-975-9683",
+        "notes": "2027 funding meeting held Thursday Sept 17, 2026 at 1:30 p.m. at Pasco City Hall with a virtual option.",
+        "confidence": "high"
+      },
+      {
+        "program": "Visit Tri-Cities / Tri-Cities Regional Hotel-Motel Commission (Tourism Promotion Area)",
+        "administrator": "Visit Tri-Cities",
+        "funds": null,
+        "eligibility": "Event and sports tourism support for events generating room nights in Kennewick, Pasco and Richland",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": "https://www.visittri-cities.com/about",
+        "contact": null,
+        "notes": "TPA assessment funds are controlled by the regional hotel-motel commission; event support is arranged directly with Visit Tri-Cities.",
+        "confidence": "low"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "WA Department of Revenue Lodging Information Rates and Changes, Q2 2026",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://dor.wa.gov/sites/default/files/2026-02/Q226_Lodging_flyer.pdf",
+        "summary": "Shows unincorporated Franklin County with a 2% special hotel-motel tax and a 10.10% total lodging rate."
+      },
+      {
+        "title": "WA DOR Table L1 2024: Distributions of Local Lodging Taxes to Cities and Counties",
+        "doc_type": "other",
+        "year": "2024",
+        "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+        "summary": "Franklin County's 2024 county-level lodging tax distribution is shown as confidential/zero, indicating very little unincorporated lodging revenue; Pasco receives the city share."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 0,
+    "pool_note": "Franklin County's 2024 county lodging tax distribution is confidential/zero in DOR Table L1 and no county grant program exists, so $0 is open to outside applicants at the county level."
+  },
+  {
+    "name": "Clallam County",
+    "type": "county",
+    "county": "Clallam",
+    "tax_rate": "4% (2% basic + 2% special; 10.60% total)",
+    "has_ltac_grants": true,
+    "cycle": "semiannual",
+    "deadline": "2026-10-01",
+    "funding_year": "2027",
+    "deadline_pattern": "Main call for funding published late July, applications due noon around October 1 to 10; a second spring round has been run in recent years",
+    "typical_open": "late July",
+    "annual_pool": "$1.8M",
+    "url": "https://www.clallamcountywa.gov/757/Lodging-Tax-Advisory-Committee-LTAC",
+    "contact": "Loni Gores, Clerk of the Board, loni.gores@clallamcountywa.gov, 360-417-2256",
+    "notes": "Grants fund large-scale events, projects and infrastructure that boost tourism in unincorporated Clallam County; 2027 awards of about $1.82M to 14 entities go to commissioners for contract approval Nov 3, 2026, and capital requests, gifts and insurance are excluded.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Randy Johnson",
+        "role": "Ex officio",
+        "affiliation": "Clallam County Commissioner",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.peninsuladailynews.com/2026/10/27/clallam-county-set-to-award-funding/",
+    "members_as_of": "2026-10-27",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "Applications are reviewed by county legal staff for eligibility and by the LTAC at its public meetings; no applicant presentation requirement was published",
+      "format": null
+    },
+    "meeting_schedule": "Second Thursday of every month at 2 p.m., Commissioners' Board Room 160, Clallam County Courthouse, Port Angeles (in person and virtual)",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Clallam County Lodging Tax Funding Application 2027 (call for funding notice)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.forksforum.com/2026/07/30/clallam-county-lodging-tax-funding-application-2027/",
+        "summary": "Invites nonprofits and public entities to apply by noon Oct 1, 2026 for grants for large-scale events, projects and infrastructure that increase tourism in unincorporated Clallam County; capital items, gifts and insurance are excluded."
+      },
+      {
+        "title": "Clallam County LTAC agenda packet, Jan 8, 2026 (with Nov 13, 2025 recommendations and financial projections)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://www.clallamcountywa.gov/AgendaCenter/ViewFile/Agenda/_01082026-1811",
+        "summary": "Contains the LTAC's 2026 funding recommendations for about 26 applicants (largest: Olympic Peninsula Visitor Bureau, Top Left Trails $80,000, Clallam County Public Works $65,450, Hurricane Ridge Winter Sports $60,000, Dungeness Crab Festival $59,500, Forks Chamber $55,000), 2025 projected hotel/motel revenue of about $1.05M, and the notice for a second 2026 call due in February 2026."
+      },
+      {
+        "title": "Clallam County set to award funding (2027 lodging tax award list)",
+        "doc_type": "award list",
+        "year": "2027",
+        "url": "https://www.peninsuladailynews.com/2026/10/27/clallam-county-set-to-award-funding/",
+        "summary": "About $1.82M to 14 entities for 2027, led by Olympic Peninsula Visitors Bureau $900,000, Field Arts & Events Hall $175,000 and Feiro Marine Life Center $113,000; commissioners approve contracts Nov 3, 2026."
+      },
+      {
+        "title": "Clallam County lodging tax funds awarded (2025 first-round award list)",
+        "doc_type": "award list",
+        "year": "2025",
+        "url": "https://www.peninsuladailynews.com/?p=237570",
+        "summary": "Commissioners approved $1.39M in January 2025: Olympic Peninsula Visitor Bureau $1,000,000, Field Arts & Events Hall $200,000, Public Works Olympic Discovery Trail $100,000, Hurricane Ridge Winter Sports $90,000; a second round of $204,014 to seven applicants followed in April 2025."
+      }
+    ],
+    "total_pool_usd": 1820534,
+    "competitive_pool_usd": 920534,
+    "pool_note": "2027: about $1,820,534 awarded in total; $900,000 goes to the Olympic Peninsula Visitors Bureau contract, leaving roughly $920,000 awarded across 13 outside organizations (estimate, since the list includes a few county-affiliated recipients in other years)."
+  },
+  {
+    "name": "Island County",
+    "type": "county",
+    "county": "Island",
+    "tax_rate": "2% (11.00% total)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2025-08-01",
+    "funding_year": "2026",
+    "deadline_pattern": "Application period July 1 to August 1 (4:30 p.m.) for the following calendar year",
+    "typical_open": "July 1",
+    "annual_pool": "$725K",
+    "url": "https://islandcountywa.gov/DocumentCenter/View/10501",
+    "contact": "Layla Tromble, Board of County Commissioners Office, la.tromble@islandcountywa.gov, 360-679-7353; applications to biccsec@islandcountywa.gov",
+    "notes": "Reimbursable grants for tourism events, facility operations and publicly owned capital projects, with requests capped at 75% of project budget and funds split into chamber, museum, community event and capital categories; the 2027 round notice was not located so the 2026-round deadline is shown.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Janet St. Clair",
+        "role": "Chair",
+        "affiliation": "Island County Commissioner",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Tom Felvey",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Paul Foster",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Barry Wenaas",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Hannah Bates",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://islandcountywa.gov/AgendaCenter/ViewFile/Minutes/_09092025-1033",
+    "members_as_of": "2025-09-09",
+    "presentation": {
+      "required": true,
+      "date": "2025-08-27",
+      "pattern": "Each applicant presents for 3 minutes at a late-August LTAC meeting (Zoom webinar); LTAC scores and allocates in early September, recommendations go to a BOCC work session mid-September and formal approval in mid-October",
+      "format": "virtual"
+    },
+    "meeting_schedule": "Meets as needed; 2025 cycle met Aug 27 (presentations) and Sept 9 (allocations) at 2:30 p.m.",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Request for Proposals: 2026 Lodging Tax Fund and Facilities Grant Program Application",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://islandcountywa.gov/DocumentCenter/View/10501",
+        "summary": "Sets four grant types (events/festivals, facility operations, publicly owned capital, construction improvement), requires the county request to be under 75% of project budget, scores on a 150-point rubric (Community Economic Impact 30, Visitor Draw 20, Community Assets 20, Project Evaluation 20, Shoulder Season 15) with a 50-point minimum, due Aug 1, 2025."
+      },
+      {
+        "title": "Call for Proposal: Hotel-Motel Tax Tourism Proposals Sought, Program Year 2026",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://islandcountywa.gov/DocumentCenter/View/10502",
+        "summary": "Announces an estimated $725,000 in 2% hotel-motel tax revenue for 2026 with applications accepted July 1 to Aug 1, 2025; contact Layla Tromble, 360-679-7353."
+      },
+      {
+        "title": "Island County LTAC meeting minutes, Sept 9, 2025 (2026 allocation recommendations)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://islandcountywa.gov/AgendaCenter/ViewFile/Minutes/_09092025-1033",
+        "summary": "Allocates the $725,000 pool into chambers ($275,500; largest Freeland $65,490, Coupeville $62,316), museums/historical societies ($145,000), non-chamber community events ($217,500; largest Whidbey Island Center for the Arts $38,700) and one-time capital ($87,000; Freeland Hall $85,700), with nine event requests receiving $0."
+      },
+      {
+        "title": "Island County awards $700,000 in lodging tax grants (2024 award list)",
+        "doc_type": "award list",
+        "year": "2024",
+        "url": "https://www.southwhidbeyrecord.com/?p=101013",
+        "summary": "Commissioners approved 34 LTAC-recommended grants totaling $700,000; largest Whidbey awards were Coupeville Chamber $68,566, Langley Chamber $57,135, Island County Fair Association $39,500 and Whidbey Island Center for the Arts $39,500."
+      }
+    ],
+    "total_pool_usd": 725000,
+    "competitive_pool_usd": 374000,
+    "pool_note": "2026: $725,000 fund; about $275,500 to chamber visitor centers and $85,700 to county Public Works (Freeland Hall) are standing or county uses, leaving roughly $374,000 awarded to museums, 12 community events and one nonprofit capital project (estimate from Sept 9, 2025 LTAC minutes)."
+  },
+  {
+    "name": "Lewis County",
+    "type": "county",
+    "county": "Lewis",
+    "tax_rate": "2% special (10.00% total)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-30",
+    "funding_year": "2027",
+    "deadline_pattern": "Applications open about August 1 and are due 4 p.m. September 30 for the following year",
+    "typical_open": "August 1",
+    "annual_pool": null,
+    "url": "https://lewiscountywa.gov/offices/commissioners/tourism-promotion-funding-application/",
+    "contact": "Rudy Rodriguez, Budget Analyst, 360-740-1233; Rieva Lester, Clerk of the Board, 360-740-1419; TourismPromotion@lewiscountywa.gov",
+    "notes": "Reimbursement-only grants for tourism marketing, events and festivals and tourism facilities that promote the unincorporated areas of Lewis County, with BOCC funding decisions in mid-November.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Scott Brummer",
+        "role": "Chair",
+        "affiliation": "Lewis County Commissioner (elected official, non-voting)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Ryan Southard",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Brett Burrows",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Harry Bhagwandin",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Di Morgan",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Stevan Mayer",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Lenee Langdon",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://lewiscountywa.gov/offices/commissioners/tourism-promotion-funding-application/",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": true,
+      "date": "2026-10-15",
+      "pattern": "Applicants present 5 minutes plus 9 minutes of Q&A to the LTAC in mid-October (Oct 15-16, 2026) at the Commissioners' Hearing Room, Historic Courthouse, Chehalis; times assigned by BOCC staff after the deadline",
+      "format": "in person"
+    },
+    "meeting_schedule": "Meets as needed; annual grant presentation meeting in mid-October",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Lewis County 2027 Lodging Tax (Tourism Promotion) Grant Application page",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://lewiscountywa.gov/offices/commissioners/tourism-promotion-funding-application/application-for-lodging-tax-funding/",
+        "summary": "Reimbursement-only grants for tourism marketing, events/festivals and tourism facilities promoting unincorporated Lewis County, open to DMOs, nonprofits and municipalities; due 4 p.m. Sept 30, 2026 with presentations Oct 15-16, 2026 and a sample LTAC scoresheet linked."
+      },
+      {
+        "title": "Lewis County 2027 LTAC application press release (July 31, 2026)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://lewiscountywa.gov/documents/19841/2026-07-31_LTAC_application_press_release.pdf",
+        "summary": "Announces the 2027 round, the 5-minute presentation plus 9-minute Q&A format, and that the BOCC sets 2027 award amounts in mid-November 2026; no pool total is stated."
+      },
+      {
+        "title": "Lewis County Lodging Tax overview",
+        "doc_type": "other",
+        "year": null,
+        "url": "https://lewiscountywa.gov/documents/13508/Lodging_Tax_overview_-_general_overview.pdf",
+        "summary": "Explains the 7-member LTAC (commissioner chair, three lodging, three activity members) and the review priorities: tourist draw, long-term stability of the lodging tax fund, promotion across unincorporated areas, and collaboration with other tourism entities."
+      },
+      {
+        "title": "Lewis County LTAC deliberations meeting notice, Oct 17, 2025 (2026 funding)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://lewiscountywa.gov/documents/17232/2025-10-17_Lodging_Tax_deliberations.pdf",
+        "summary": "Notice of the LTAC meeting at which 2026 requests were reviewed and allocation suggestions set; the published notice does not include the funding table."
+      }
+    ],
+    "total_pool_usd": 1361218,
+    "competitive_pool_usd": null,
+    "pool_note": "2024 DOR distribution of $1,361,218 to Lewis County is the only published fund figure; the county publishes no award table, so the share open to outside applicants cannot be stated (estimate for the total)."
+  },
+  {
+    "name": "Cowlitz County",
+    "type": "county",
+    "county": "Cowlitz",
+    "tax_rate": "2% to 3% special (2% for 39 or fewer units, 3% for 40 or more; 9.70% to 10.70% total)",
+    "has_ltac_grants": true,
+    "cycle": "semiannual",
+    "deadline": "2026-03-25",
+    "funding_year": "2026-27",
+    "deadline_pattern": "Small Tourism Marketing Grant (up to $50K) due early November for the following year; Large Grant Program (up to $200K) opens late January and is due late March for projects in the next two years",
+    "typical_open": "late January (large) and late August (small)",
+    "annual_pool": "$250K",
+    "url": "https://www.visitmtsthelens.com",
+    "contact": "Kim Bowcutt, Cowlitz County Tourism Director, 360-577-3137",
+    "notes": "Cowlitz County Tourism runs two reimbursement grant programs funded by lodging tax: a small marketing grant for events (2026 round due 4:30 p.m. Nov 5, 2025) and a large grant for events, attractions and infrastructure drawing visitors from 50+ miles (2026-27 round due 4:30 p.m. March 25, 2026, awards announced April 2026).",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2026-27 Cowlitz County Tourism Large Grant Program now open",
+        "doc_type": "guidelines",
+        "year": "2026-27",
+        "url": "https://www.klog.com/2026-27-cowlitz-county-tourism-grant-program-now-open-classic-hits-100-7-klog-news/",
+        "summary": "Up to $200,000 in reimbursement grants for nonprofits and governments for events, attractions or projects drawing visitors from 50+ miles who stay overnight, applications due 4:30 p.m. March 25, 2026; guidelines at visitmtsthelens.com."
+      },
+      {
+        "title": "Cowlitz County Tourism 2026-27 Large Grant awards",
+        "doc_type": "award list",
+        "year": "2026-27",
+        "url": "https://www.klog.com/cowlitz-county-tourism-2026-27-tourism-grants-classic-hits-100-7-klog-news/",
+        "summary": "Nearly $200,000 awarded: Rotary Club of Longview Martin's Dock $60,000, Mount St. Helens Motorcycle Club $55,000, Northern County Recreation Association pavilion about $34,000, Big Smoke event infrastructure about $33,000, in addition to $55,000 in 2026 Tourism Marketing Grants."
+      },
+      {
+        "title": "Cowlitz County Tourism opens applications for 2026 Small Grant Program",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.klog.com/cowlitz-county-tourism-opens-applications-for-2026-small-grant-program-klog-100-7-news",
+        "summary": "Up to $50,000 available for new and existing events that increase overnight stays, applications due 4:30 p.m. Nov 5, 2025; materials at visitmtsthelens.com or 360-577-3137."
+      },
+      {
+        "title": "$120,000 awarded in 2025 Tourism Marketing Grants",
+        "doc_type": "award list",
+        "year": "2025",
+        "url": "https://www.klog.com/120000-awarded-in-2025-tourism-marketing-grants-to-boost-local-events-and-tourism-klog-100-7-news/",
+        "summary": "$120,400 in reimbursement marketing grants for 2025 events, including Kalama Cultural Festival $15,000, Lelooska Foundation $12,000 and $10,000 each to Big Smoke, Crafted Beer & Wine Festival, Lilac Days, SquatchFest, Squirrel Fest and Tour de Blast."
+      }
+    ],
+    "total_pool_usd": 991369,
+    "competitive_pool_usd": 255000,
+    "pool_note": "2024 DOR distribution of $991,369 to Cowlitz County (estimate for the total); the 2026-27 cycle awarded nearly $200,000 in large grants to four outside projects plus $55,000 in 2026 marketing grants, about $255,000 open to outside applicants."
+  },
+  {
+    "name": "Skamania County",
+    "type": "county",
+    "county": "Skamania",
+    "tax_rate": "4% (2% basic + 2% special; 9.70% total)",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://codepublishing.com/WA/SkamaniaCounty/html/SkamaniaCounty03/SkamaniaCounty0306.html",
+    "contact": "Skamania County Board of Commissioners, 509-427-3700",
+    "notes": "Skamania County levies a 4% lodging tax (SCC 3.06) used for tourism facilities, fairgrounds and county promotion, but no LTAC grant application open to outside organizations was found; the county itself applies to the City of Stevenson's tourism fund for its fair and events.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "City of Stevenson Tourism Promotion Fund (Call for Tourism Promotion Proposals)",
+        "administrator": "City of Stevenson / Tourism Advisory Committee",
+        "funds": null,
+        "eligibility": "Tourism promotion events and projects under RCW 67.28.1816, including nonprofits and public agencies; 2025 awards included the Skamania County Fair, Columbia Gorge Blues and Brews and Fourth of July",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "Annual call for proposals in the fall for the following calendar year; awards contracted in January",
+        "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/stevwa-meet-0ccf2897677947cf81ac57e3d13e99a4/ITEM-Attachment-001-5332ba16c0ce47408d8c050f6890d900.pdf",
+        "contact": "City of Stevenson City Administrator, 509-427-5970",
+        "notes": "Reimbursement-only; grantees file a Lodging Tax Report per event and final invoices are due by mid-January.",
+        "confidence": "low"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Skamania County Code Chapter 3.06 Hotel-Motel Tax",
+        "doc_type": "ordinance",
+        "year": null,
+        "url": "https://codepublishing.com/WA/SkamaniaCounty/html/SkamaniaCounty03/SkamaniaCounty0306.html",
+        "summary": "Levies a 4% special excise tax on lodging (2% basic plus 2% additional) deposited to a special fund for tourism facilities, tourism bond debt, visitor restrooms and county advertising and promotion."
+      },
+      {
+        "title": "Skamania County Board of Commissioners agenda, Dec 10, 2024 (2025 lodging tax contracts)",
+        "doc_type": "ltac packet",
+        "year": "2025",
+        "url": "https://www.skamaniacounty.gov/home/showpublisheddocument/15371/638693315057970000",
+        "summary": "Consent agenda approving 2025 lodging tax tourism promotion contracts with ten recipients including the Skamania County Chamber of Commerce, Columbia Gorge Museum, Skamania County Fair Board, Wind River Business Association, Columbia Area Transit, Gorgeous Ink and Wind River Trust; dollar amounts are not shown in the agenda."
+      },
+      {
+        "title": "Interlocal Agreement between Skamania County and the City of Stevenson (2025 tourism promotion funds)",
+        "doc_type": "other",
+        "year": "2025",
+        "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/stevwa-meet-0ccf2897677947cf81ac57e3d13e99a4/ITEM-Attachment-001-5332ba16c0ce47408d8c050f6890d900.pdf",
+        "summary": "City of Stevenson reimburses the county up to $50,000 from its Tourism Promotion Fund for the County Fair and Bluegrass Festival ($20,000), Fairgrounds operations ($20,000), Columbia Gorge Blues and Brews ($17,000) and Fourth of July ($13,000) as listed in Exhibit A."
+      }
+    ],
+    "total_pool_usd": 302929,
+    "competitive_pool_usd": 0,
+    "pool_note": "2024 DOR distribution of $302,929 to Skamania County (estimate for the total); 2025 funds were contracted directly by the commissioners to the Chamber, Columbia Gorge Museum, Fair Board and others with no open application, so $0 is available through a competitive process."
+  },
+  {
+    "name": "Klickitat County",
+    "type": "county",
+    "county": "Klickitat",
+    "tax_rate": "none (county special hotel-motel tax not listed; 7.60% total lodging rate in unincorporated area)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2025-12-01",
+    "funding_year": "2026",
+    "deadline_pattern": "Request for Proposals for Tourism Promotion published in early November, applications due December 1 for the following calendar year",
+    "typical_open": "early November",
+    "annual_pool": "$125K",
+    "url": "https://www.klickitatcounty.gov/584/Tourism-Information",
+    "contact": "Klickitat County Economic Development Department, 509-773-7060",
+    "notes": "Proposals are selected on their ability to create events and activities that benefit lodging, restaurants and retail in Klickitat County; the 2027 RFP had not been published as of this research, so the 2026-round deadline is shown.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "Meets as needed; recent meetings Dec 18, 2024, Oct 20, 2025 and Dec 15, 2025",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Klickitat County Request for Proposals for Tourism Promotion (2026 funding) legal notice",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.goldendalesentinel.com/legals/legal-notices-for-november-5-2025/article_aff42d9b-3556-4d9f-b0f1-4b61c7d10c18.html",
+        "summary": "Estimates $125,000 in county lodging tax revenue for 2026, applications due Dec 1, 2025, selected on their ability to create events and activities that benefit lodging, restaurants and retail in Klickitat County; questions to 509-773-7060."
+      },
+      {
+        "title": "Klickitat County Tourism Information page (2026 Lodging Tax Funding Application and KCLTAC minutes)",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.klickitatcounty.gov/584/Tourism-Information",
+        "summary": "Hosts the 2026 Lodging Tax Funding Application and links to Klickitat County LTAC agendas and minutes (Dec 18, 2024; Oct 20, 2025; Dec 15, 2025), administered by the Economic Development Department."
+      },
+      {
+        "title": "Klickitat County LTAC agendas and meeting minutes",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://www.klickitatcounty.gov/1452/KCLTAC-Agendas-and-Meeting-Minutes",
+        "summary": "Minutes of the Oct 20, 2025 meeting and the Dec 15, 2025 agenda cover the review of 2026 tourism promotion proposals; a news summary reported commissioners awarding $133,495 in lodging tax funds, but the funding table itself was not retrievable."
+      }
+    ],
+    "total_pool_usd": 139518,
+    "competitive_pool_usd": 125000,
+    "pool_note": "2024 DOR distribution of $139,518 to Klickitat County (estimate for the total); the 2026 RFP published $125,000 as the pool open to tourism promotion proposals."
+  },
+  {
+    "name": "Walla Walla County",
+    "type": "county",
+    "county": "Walla Walla",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2021-10-01",
+    "funding_year": "2022",
+    "deadline_pattern": "Applications due 5 p.m. October 1 for events in the following calendar year, with an informational meeting in early September",
+    "typical_open": "late August",
+    "annual_pool": "$50K",
+    "url": "https://www.co.walla-walla.wa.us",
+    "contact": "Walla Walla County Commissioners' Office, 509-524-2505, wwcocommissioners@co.walla-walla.wa.us",
+    "notes": "The county LTAC awards roughly $35K to $50K a year to 501(c)(3) and 501(c)(6) nonprofits for tourism events that generate overnight stays; the most recent published round found was for 2022 events, so current dates should be confirmed with the commissioners' office.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "Informational meeting with LTAC members in early September before the deadline; no applicant presentation requirement published",
+      "format": null
+    },
+    "meeting_schedule": "Meets as needed",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Funds available for 2022 tourism-related events (Walla Walla County LTAC notice)",
+        "doc_type": "guidelines",
+        "year": "2022",
+        "url": "https://waitsburgtimes.com/story/2021/09/02/news-briefs/funds-available-for-2022-tourism-related-events/18125.html",
+        "summary": "About $50,000 available for 2022 events to 501(c)(3) and 501(c)(6) nonprofits whose events draw overnight lodging guests, due 5 p.m. Oct 1, 2021, with strict post-event reporting; forms at co.walla-walla.wa.us."
+      },
+      {
+        "title": "Tourism-related grant meeting, Sept. 5 (2020 funding round notice)",
+        "doc_type": "guidelines",
+        "year": "2020",
+        "url": "https://www.waitsburgtimes.com/story/2019/08/29/news/tourism-related-grant-meeting-sept-5/14882.html",
+        "summary": "$35,000 to $50,000 available for 2020 grants, informational meeting with LTAC members Sept 5, 2019 in the Commissioners' Chambers, applications due 5 p.m. Oct 1."
+      },
+      {
+        "title": "Commercial Club gets Celebration Days grant (Walla Walla County award example)",
+        "doc_type": "award list",
+        "year": "2014",
+        "url": "https://www.waitsburgtimes.com/story/2014/01/23/touchet-valley-news/commercial-club-gets-celebration-days-grant/1476.html",
+        "summary": "Example of a county lodging tax award to the Waitsburg Commercial Club for Celebration Days, showing the program funds small-town events in the county."
+      }
+    ],
+    "total_pool_usd": 269729,
+    "competitive_pool_usd": 50000,
+    "pool_note": "2024 DOR distribution of $269,729 to Walla Walla County (estimate for the total); the most recent published grant round offered about $50,000 for 2022 events to outside nonprofits."
+  }
+]

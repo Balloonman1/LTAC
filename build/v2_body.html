@@ -1,0 +1,359 @@
+<header class="mast gutter"><div class="inner">
+  <p class="eyebrow">Washington State · RCW 67.28 · updated <span id="asof"></span></p>
+  <h1>Washington Lodging Tax Grants</h1>
+  <p class="lede">Every city and county in Washington that levies a lodging tax: who runs a Lodging Tax Advisory Committee grant program, when applications are due, what they actually award, who sits on the committee, and what to apply to where there is no LTAC pool.</p>
+  <div class="tiles" id="tiles"></div>
+  <div class="acct" id="acct" hidden></div>
+</div></header>
+
+<nav class="tabs gutter" aria-label="Sections"><div class="inner">
+  <a href="#directory" data-view="directory">Directory</a>
+  <a href="#map" data-view="map">Map</a>
+  <a href="#finder" data-view="finder">Finder</a>
+  <a href="#kit" data-view="kit">Application kit</a>
+  <a href="#benchmarks" data-view="benchmarks">Benchmarks</a><a href="#events" data-view="events">Top events</a><a href="#grants" data-view="grants">Other funding</a>
+  <a href="#guidelines" data-view="guidelines">Guidelines</a>
+  <a href="#board" data-view="board">Board</a>
+</div></nav>
+
+<!-- ============ DIRECTORY ============ -->
+<div class="view" id="v-directory">
+<div class="rail-wrap gutter"><div class="inner">
+  <div class="rail-head"><h2>Up next</h2><span>Soonest deadlines, published and projected</span></div>
+  <div class="rail" id="rail"></div>
+</div></div>
+
+<div class="bar gutter" role="search"><div class="inner">
+  <div class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input type="search" id="q" placeholder="Search city, county, member, hotel…" aria-label="Search"></div>
+  <select id="region" aria-label="Filter by region"><option value="">All regions</option></select>
+  <select id="county" aria-label="Filter by county"><option value="">All counties</option></select>
+  <div class="seg" id="typeSeg" role="group" aria-label="Type">
+    <button data-v="all" aria-pressed="true">All</button>
+    <button data-v="city" aria-pressed="false">Cities</button>
+    <button data-v="county" aria-pressed="false">Counties</button>
+  </div>
+  <div class="seg" id="statSeg" role="group" aria-label="Status">
+    <button data-v="all" aria-pressed="true">Any status</button>
+    <button data-v="open" aria-pressed="false">Open now</button>
+    <button data-v="pres" aria-pressed="false">Presents</button>
+    <button data-v="fp" aria-pressed="false">For-profit OK</button>
+  </div>
+  <div class="seg"><button id="mine" aria-pressed="false" title="Show only the jurisdictions you follow">★ My list <b id="mineN"></b></button></div>
+  <select id="sort" aria-label="Sort"><option value="deadline">Sort: soonest deadline</option><option value="pool">Sort: most available to applicants</option><option value="total">Sort: largest total fund</option><option value="awards">Sort: most awards reported</option><option value="name">Sort: A to Z</option></select>
+  <button class="clear" id="clear" hidden>Clear filters</button>
+  <div class="cycles" id="cycles" role="tablist" aria-label="Funding cycle"></div>
+</div></div>
+
+<main class="gutter"><div class="inner" id="main"></div></main>
+</div>
+
+<!-- ============ MAP ============ -->
+<div class="view gutter" id="v-map" hidden><div class="inner">
+  <div class="vhead"><h2>Map</h2><p>Counties are shaded by the measure you pick; cities are dots. Click any shape or dot to open its card in the Directory.</p></div>
+  <div class="seg" id="mapMode" role="group" aria-label="Map measure">
+    <button data-v="status" aria-pressed="true">Application status</button>
+    <button data-v="pool" aria-pressed="false">Dollars open to applicants</button>
+    <button data-v="nights" aria-pressed="false">Reported room nights</button>
+  </div>
+  <div class="mapwrap"><svg id="wamap" viewBox="0 0 960 600" role="img" aria-label="Washington counties"></svg><div class="maptip" id="maptip" hidden></div></div>
+  <div class="legend" id="maplegend"></div>
+</div></div>
+
+<!-- ============ FINDER ============ -->
+<div class="view gutter" id="v-finder" hidden><div class="inner">
+  <div class="vhead"><h2>Where can my event apply?</h2><p>Describe the event and get the programs that fit, including county programs, TPA funds and other routes where a city has no LTAC pool.</p></div>
+  <form class="finder" id="finderForm">
+    <label>What are you funding<select id="f-kind"><option value="event">An event or festival</option><option value="marketing">Tourism marketing</option><option value="facility">A tourism facility (operations or capital)</option></select></label>
+    <label>Applicant type<select id="f-app"><option value="forprofit">For-profit business</option><option value="nonprofit">Nonprofit (501c3/c6)</option><option value="public">City, county, PFD or port</option></select></label>
+    <label>Event month<select id="f-month"><option value="">Any</option><option>January</option><option>February</option><option>March</option><option>April</option><option>May</option><option>June</option><option>July</option><option>August</option><option>September</option><option>October</option><option>November</option><option>December</option></select></label>
+    <label>Budget you need<select id="f-amt"><option value="0">Any</option><option value="5000">$5,000+</option><option value="15000">$15,000+</option><option value="30000">$30,000+</option><option value="50000">$50,000+</option></select></label>
+    <label class="wide">Counties you would consider (leave empty for all)<select id="f-counties" multiple size="6"></select></label>
+    <label class="chk"><input type="checkbox" id="f-fiscal" checked> I can work through a nonprofit fiscal sponsor if needed</label>
+    <label class="chk"><input type="checkbox" id="f-openonly"> Only programs open or opening within 6 months</label>
+    <button type="submit">Find programs</button>
+  </form>
+  <div id="finderOut"></div>
+</div></div>
+
+<!-- ============ KIT ============ -->
+<div class="view gutter" id="v-kit" hidden><div class="inner">
+  <div class="vhead"><h2>Application kit</h2><p>The three things every LTAC asks for and most applicants get wrong: a defensible tourism-impact estimate, a budget with a reduced-award plan, and a post-event report in the state's categories. Fill these in here, then copy into the jurisdiction's form.</p></div>
+
+  <section class="kitsec">
+    <h3>1. Tourism impact calculator</h3>
+    <p class="gdesc">Produces the figures that Washington's JLARC report and most city templates ask for. Every ratio is visible so a committee can test it. Defaults are conservative for a first-year destination event.</p>
+    <div class="calc">
+      <div class="calcin">
+        <label>Paid admissions<input type="number" id="c-paid" value="5000" min="0"></label>
+        <label>Free attendance (all sessions)<input type="number" id="c-free" value="6000" min="0"></label>
+        <label>Share attending more than one session<input type="number" id="c-overlap" value="40" min="0" max="100"> %</label>
+        <label>Share traveling 50+ miles<input type="number" id="c-far" value="35" min="0" max="100"> %</label>
+        <label>Share of those from out of state or country<input type="number" id="c-oos" value="25" min="0" max="100"> %</label>
+        <label>Share of 50+ mile visitors in paid lodging<input type="number" id="c-lodge" value="45" min="0" max="100"> %</label>
+        <label>People per room<input type="number" id="c-ppr" value="2.4" min="1" step="0.1"></label>
+        <label>Nights per stay<input type="number" id="c-nights" value="1.3" min="0.5" step="0.1"></label>
+        <label>Participant or crew room nights you book directly<input type="number" id="c-block" value="50" min="0"></label>
+      </div>
+      <div class="calcout" id="calcOut"></div>
+    </div>
+    <div class="rowbtn"><button class="btn" id="copyCalc">Copy as text</button><span class="hint2" id="copyCalcMsg"></span></div>
+  </section>
+
+  <section class="kitsec">
+    <h3>2. Budget with a reduced-award plan</h3>
+    <p class="gdesc">Edit the amounts. Mark which lines the grant would pay; those are the lines LTACs fund (marketing and operations of the event). Totals and the grant share update as you type. Most RFPs require the reduced-award rows.</p>
+    <div class="tablewrap"><table class="budget" id="budget">
+      <thead><tr><th>Expense line</th><th>Amount</th><th>Grant pays</th></tr></thead>
+      <tbody></tbody>
+      <tfoot><tr><th>Total expenses</th><th id="b-total">0</th><th id="b-grant">0</th></tr></tfoot>
+    </table></div>
+    <div class="rowbtn"><button class="btn ghost2" id="addLine">Add line</button><button class="btn" id="copyBudget">Copy budget as text</button><span class="hint2" id="copyBudgetMsg"></span></div>
+    <h4>Reduced-award plan</h4>
+    <div class="tablewrap"><table class="budget" id="reduced"><thead><tr><th style="width:30%">If the award is</th><th>What changes</th></tr></thead><tbody>
+      <tr><td><input value="Full request"></td><td><textarea rows="2">Full program as described; full out-of-area campaign; full room-night target</textarea></td></tr>
+      <tr><td><input value="60% of request"></td><td><textarea rows="2">Smaller participant field; campaign in the two or three nearest drive markets; room-night target reduced in proportion</textarea></td></tr>
+      <tr><td><input value="30% of request"></td><td><textarea rows="2">Grant spent on out-of-area marketing only; event scope funded from tickets and sponsors</textarea></td></tr>
+    </tbody></table></div>
+  </section>
+
+  <section class="kitsec">
+    <h3>3. Post-event report template</h3>
+    <p class="gdesc">Washington jurisdictions report these fields to JLARC every year, so a report in this shape is what staff need. Choose a counting method before the event and use the same one here.</p>
+    <div class="tablewrap"><table class="budget" id="report"><thead><tr><th>Field</th><th>Estimate (application)</th><th>Actual</th><th>Method</th></tr></thead><tbody>
+      <tr><td>Overall attendance</td><td><input></td><td><input></td><td><select><option>Direct count</option><option>Indirect count</option><option>Representative survey</option><option>Informal survey</option><option>Structured estimate</option></select></td></tr>
+      <tr><td>Attendees traveling 50+ miles</td><td><input></td><td><input></td><td><select><option>Direct count</option><option>Indirect count</option><option>Representative survey</option><option>Informal survey</option><option>Structured estimate</option></select></td></tr>
+      <tr><td>Out of state or out of country</td><td><input></td><td><input></td><td><select><option>Direct count</option><option>Indirect count</option><option>Representative survey</option><option>Informal survey</option><option>Structured estimate</option></select></td></tr>
+      <tr><td>Paid overnight lodging (people)</td><td><input></td><td><input></td><td><select><option>Direct count</option><option>Indirect count</option><option>Representative survey</option><option>Informal survey</option><option>Structured estimate</option></select></td></tr>
+      <tr><td>Unpaid overnight (people)</td><td><input></td><td><input></td><td><select><option>Direct count</option><option>Indirect count</option><option>Representative survey</option><option>Informal survey</option><option>Structured estimate</option></select></td></tr>
+      <tr><td>Paid lodging nights</td><td><input></td><td><input></td><td><select><option>Direct count</option><option>Indirect count</option><option>Representative survey</option><option>Informal survey</option><option>Structured estimate</option></select></td></tr>
+      <tr><td>Total event cost</td><td><input></td><td><input></td><td>Receipts</td></tr>
+      <tr><td>Lodging tax funds spent</td><td><input></td><td><input></td><td>Reimbursement requests</td></tr>
+    </tbody></table></div>
+    <div class="rowbtn"><button class="btn" id="copyReport">Copy report as text</button><span class="hint2" id="copyReportMsg"></span></div>
+    <p class="gdesc">Counting methods, as the state defines them: Direct count (tickets scanned, registrations, vehicle counts, hotel block pickup); Indirect count (raffle tickets, brochures, visual estimates); Representative survey (random sample with a margin of error); Informal survey (non-random); Structured estimate (calculation from known event or venue data).</p>
+  </section>
+</div></div>
+
+<!-- ============ BENCHMARKS ============ -->
+<div class="view gutter" id="v-benchmarks" hidden><div class="inner">
+  <div class="vhead"><h2>Benchmarks</h2><p>How each jurisdiction's program compares. Pool figures come from the documents on each card; award and visitor figures come from the annual reports jurisdictions file with JLARC, where available (2022 to 2024; the state suspended 2025 reporting, so 2024 is the latest year).</p></div>
+  <div class="seg" id="benchPeer" role="group" aria-label="Peer group">
+    <button data-v="all" aria-pressed="true">All</button>
+    <button data-v="city" aria-pressed="false">Cities</button>
+    <button data-v="county" aria-pressed="false">Counties</button>
+  </div>
+  <div id="benchCharts" class="charts"></div>
+  <div class="tablewrap"><table class="bench" id="benchTable"><thead><tr>
+    <th data-k="name">Jurisdiction</th><th data-k="total_pool_usd">Total fund</th><th data-k="competitive_pool_usd">Open to applicants</th><th data-k="share">Share open</th><th data-k="awards">Awards (latest JLARC yr)</th><th data-k="evtotal">Event dollars</th><th data-k="median">Median event award</th><th data-k="max">Largest event award</th><th data-k="nights">Event paid room nights</th><th data-k="cpn">Event $ per night</th></tr></thead><tbody></tbody></table></div>
+  <p class="gdesc" id="benchNote"></p>
+</div></div>
+
+<!-- ============ GUIDELINES ============ -->
+<div class="view gutter" id="v-events" hidden><div class="inner">
+  <div class="vhead"><h2>Top events</h2><p>The 300 largest lodging-tax-funded events and festivals in Washington, ranked by the paid room nights their producers reported to the state. Every funded event files a post-event report; this is what those reports say. Click a row for the organizer, every funder, and estimate versus actual for each year. 2024 is the newest year the state has: JLARC suspended 2025 reporting in December 2025, and 2026 data will not be filed until 2027.</p></div>
+  <div class="evbar">
+    <input type="search" id="evq" placeholder="Search event, organizer, city or county" aria-label="Search events">
+    <select id="evsort" aria-label="Rank by"><option value="nights">Most paid room nights</option><option value="att">Largest attendance</option><option value="a50">Most 50+ mile visitors</option><option value="ltac">Most lodging tax (latest year)</option><option value="ltac3">Most lodging tax (3 years)</option><option value="eff">$ per night: low to high</option><option value="effhi">$ per night: high to low</option><option value="year">Most recent year</option></select>
+    <select id="evcounty" aria-label="County"><option value="">All counties</option></select>
+  </div>
+  <div class="tablewrap"><table class="bench ev" id="evTable"><thead><tr><th>#</th><th>Event</th><th>Put on by</th><th>Funded by</th><th>Year</th><th>Paid room nights</th><th>Attendance</th><th>50+ miles</th><th>Lodging tax</th><th>$ / night</th><th>Other funding</th></tr></thead><tbody></tbody></table></div>
+  <p class="hint2" style="margin-top:12px">Source: recipients' post-event reports filed with their jurisdiction and reported to JLARC, 2022 to 2024. Room nights are the producer's own count or estimate; where several jurisdictions funded the same event the figure is counted once. Events run directly by a city or county are included. Marketing contracts, visitor centers and facilities are excluded even where a jurisdiction filed them as events.</p>
+</div></div>
+<div class="view gutter" id="v-grants" hidden><div class="inner">
+  <div class="vhead"><h2>Other funding for festivals and events</h2><p>Everything besides lodging tax: tourism promotion areas, arts commissions, city event funds, port districts, foundations, tribal funds, state and federal programs. Pick where the event is and what kind it is, and see what is open, what is coming, and what takes applications year-round.</p></div>
+  <form class="finder" id="grantForm">
+    <label>Where is the event<select id="g-city"><option value="">Anywhere in Washington</option></select></label>
+    <label>Kind of event<select id="g-kind"><option value="">Any</option><option value="festival">Festival</option><option value="arts">Arts</option><option value="music">Music</option><option value="cultural">Cultural or heritage</option><option value="sports">Sports</option><option value="community event">Community event</option><option value="tourism marketing">Tourism marketing</option><option value="capital">Capital or facility</option><option value="youth">Youth</option><option value="food/ag">Food or agriculture</option><option value="film">Film</option></select></label>
+    <label>You are a<select id="g-app"><option value="">Any applicant</option><option value="for-profit">For-profit business</option><option value="nonprofit">Nonprofit</option><option value="public agency">City, county, tribe or district</option><option value="individual">Individual</option></select></label>
+    <label>Show<select id="g-when"><option value="all">Everything</option><option value="open">Open now or rolling</option><option value="90">Due in the next 90 days</option><option value="rolling">Rolling only</option></select></label>
+    <button type="submit">Find funding</button>
+  </form>
+  <div id="grantRes" class="gres"></div>
+  <h3 class="gcal-h">Every upcoming deadline</h3>
+  <p class="hint2">All programs in the catalog with a posted future deadline, soonest first. Rolling programs are listed at the end.</p>
+  <div class="tablewrap"><table class="bench gcal" id="gcal"><thead><tr><th>Due</th><th>Program</th><th>Funder</th><th>Where</th><th>Award</th><th>For</th></tr></thead><tbody></tbody></table></div>
+</div></div>
+<div class="view gutter" id="v-guidelines" hidden><div class="inner">
+  <div class="vhead"><h2>Guidelines</h2><p>What the law allows, then practical guidance for each kind of person who uses this site: event producers, chambers and DMOs, committee members, and the staff who run the programs.</p></div>
+  <!--LAW-->
+  <div class="seg gseg" id="guideSeg" role="group" aria-label="Who are you">
+    <button data-v="all" aria-pressed="true">Everyone</button>
+    <button data-v="event" aria-pressed="false">Event producers</button>
+    <button data-v="dmo" aria-pressed="false">Chambers and DMOs</button>
+    <button data-v="ltac" aria-pressed="false">LTAC members</button>
+    <button data-v="staff" aria-pressed="false">City and county staff</button>
+  </div>
+
+  <section class="law guide" data-g="event">
+    <h2>For event and festival producers</h2>
+    <p class="lede2">How to get funded, and how to stay funded. Lodging tax committees fund the applicants who make their job easy: a clear tourism case, numbers they can test, and a report that comes back on time.</p>
+    <div class="cols">
+      <div><h3>Before you apply</h3><ul>
+        <li>Pick the jurisdiction by where your visitors sleep, not where the event sits. A county program can fund an event in a city, and a city will fund an event just outside its limits if the hotels are inside. The Map tab shows which pools are open.</li>
+        <li>Read the last award list on the card. The median award is your realistic ask; the largest award is the ceiling. Asking for more than the biggest award the program has ever made marks you as a first-timer.</li>
+        <li>Call the staff contact before the window opens. Ask three things: what the committee wishes applicants did better, whether a for-profit can apply directly, and whether partial awards are common.</li>
+        <li>Go to the applicant workshop if there is one. Kittitas County scores attendance; most others remember who showed up.</li>
+        <li>Line up two or three hotels before you write. A letter from a hotel saying it will sell a room block for your dates is worth more than any attendance projection.</li>
+      </ul></div>
+      <div><h3>Writing the application</h3><ul>
+        <li>Lead with paid room nights, then 50+ mile visitors, then out-of-state. Those are the three numbers the state requires (RCW 67.28.1816(2)) and the only ones most committees score. Attendance by itself is not a tourism measure.</li>
+        <li>Show the arithmetic. "6,000 unique attendees, 35% from 50+ miles, 45% of those in paid lodging, 2.4 per room, 1.3 nights = 490 room nights" survives a skeptical hotelier. "Thousands of visitors" does not. The Application kit builds this chain for you.</li>
+        <li>Name the counting method you will use afterward (ticket ZIP codes, hotel block pickup, a survey) and use the same one in your report. Committees compare estimate to actual, and a method that changes between the two looks like a fudge.</li>
+        <li>Spend the grant on things that bring visitors from outside: out-of-area advertising, the participant field, the thing that makes the event worth a drive. Local advertising, staff salaries and general overhead are the lines committees cut first.</li>
+        <li>Include a reduced-award plan with two or three levels. Committees fund down a ranked list and most awards are partial. An applicant who can scale gets funded; one who says "all or nothing" gets nothing.</li>
+        <li>Shoulder-season dates (October through April on the west side, any non-summer weekend east of the mountains) score higher almost everywhere, because hotels are empty then.</li>
+        <li>Attach a real budget with income that does not depend on the grant: tickets, sponsors, vendor fees, your own cash. A grant that is 80% of the budget tells the committee the event does not exist without them.</li>
+      </ul></div>
+      <div><h3>The presentation</h3><ul>
+        <li>Where a presentation is required (19 programs in this directory), it is usually 5 to 10 minutes in front of the committee, three to four weeks after the deadline. Your slides are often due with the application.</li>
+        <li>The committee has already read your application. Spend the time on the hotel relationships, the marketing plan and what changed since last year, not on re-reading the form.</li>
+        <li>Bring the room-night number and be ready to defend each ratio in it. That is the whole conversation.</li>
+        <li>The lodging members on the committee are hoteliers. Ask them, in the room, what dates would help them most. It changes the tone.</li>
+      </ul></div>
+      <div><h3>After the award</h3><ul>
+        <li>Almost every program pays by reimbursement: you spend, submit invoices and proof of payment, then get paid, often 30 to 60 days later. Plan cash flow for the full amount up front. A few jurisdictions advance part of the award on request; ask.</li>
+        <li>You will sign a contract with deliverables, an insurance requirement (usually $1M general liability naming the jurisdiction as additional insured), and a reporting deadline. Read the deliverables; unmet ones are deducted at the final invoice.</li>
+        <li>Put the jurisdiction's logo or "funded in part by the City of X lodging tax" on your marketing. It is nearly always required and is the cheapest goodwill you can buy.</li>
+        <li>File the post-event report on time, in the state's categories, even if the numbers came in low. A late or missing report is the one thing that reliably gets an applicant declined the next year. Use the template in the Application kit.</li>
+        <li>Send the committee a one-page recap with photos and hotel feedback a month after the event, before anyone asks. Next year's application starts there.</li>
+      </ul></div>
+      <div><h3>If you are a for-profit</h3><ul>
+        <li>You can apply. MRSC: "The statute does not explicitly prohibit for-profit entities from applying." Eligibility follows the activity, not your tax status. The cards flag which programs say so in their own materials.</li>
+        <li>Where the local guidelines say "nonprofits only," that is a council or committee policy, not state law. Ask the staff liaison whether it is in code or in guidelines. Guidelines can be changed by the committee that wrote them.</li>
+        <li>The practical workaround is a fiscal sponsor: a chamber, DMO, parks foundation or 501(c)(3) partner applies, holds the contract, and passes funds through under a written agreement, typically for a 5 to 10% administrative fee. You keep the event; they hold the paperwork.</li>
+        <li>Expect closer scrutiny of what the grant pays for. Fund the marketing and the participant field with grant dollars; fund your margin with tickets.</li>
+      </ul></div>
+    </div>
+  </section>
+
+  <section class="law guide" data-g="dmo">
+    <h2>For chambers of commerce and destination marketing organizations</h2>
+    <p class="lede2">Chambers and DMOs are usually the largest single recipient in a program, often under a multi-year contract, and sometimes sit on the committee that funds them. That makes the rules below matter more for you than for anyone else.</p>
+    <div class="cols">
+      <div><h3>Your contract</h3><ul>
+        <li>Destination marketing is a permitted use in its own right (RCW 67.28.1816(1)(a)), and a jurisdiction may contract with a chamber or DMO for it without a competitive round. Many do, for one to five years. Get the term in writing; an annual re-application for a standing contract burns committee goodwill on both sides.</li>
+        <li>The same reporting rules apply to you as to a one-weekend festival: estimates up front, actuals after, in the state's categories. DMOs that report county-wide room nights as the result of their contract are the main reason the JLARC data looks inflated. Report what your campaigns can show (tracked bookings, visitor center counts, conversion studies) and say how you counted.</li>
+        <li>Know the difference between the lodging tax and a Tourism Promotion Area. A TPA (RCW 35.101) is a per-room-night charge the lodging businesses vote to assess on themselves, administered through the DMO, and it is not subject to the LTAC process at all. Several cities in this directory (Bellevue, Spokane, Tacoma, Yakima, the Tri-Cities) fund destination marketing mostly through a TPA and reserve lodging tax for events and facilities. If your jurisdiction has both, keep the two budgets and reports separate.</li>
+        <li>Capital projects and facility operations have the narrowest rules: operations support can go only to facilities owned or operated by a public body or a 501(c)(3)/(c)(6). If your chamber is a 501(c)(6) that runs a visitor center, you qualify; a for-profit venue does not.</li>
+      </ul></div>
+      <div><h3>If you sit on the committee</h3><ul>
+        <li>RCW 67.28.1817 requires at least two members from "activities authorized to be funded," and chambers and DMOs are the usual appointees. That puts you in the room when your own contract is scored.</li>
+        <li>Recuse yourself from the discussion and vote on anything your organization applied for, and have the minutes record it. MRSC's guidance on LTACs says members should not participate in decisions on applications from organizations they represent. The Code of Ethics for Municipal Officers (RCW 42.23) reaches appointed members on contracts in which they have a beneficial interest.</li>
+        <li>Recusal is not enough if your organization's request is the first item scored and sets the size of the pool for everyone else. Ask staff to score the standing contracts separately from the competitive round, so the committee can see what is actually open to new applicants. That is the number this site tries to show as "open to applicants."</li>
+        <li>LTAC meetings are public meetings under the Open Public Meetings Act (RCW 42.30): noticed agenda, open to the public, minutes kept. Do not discuss applications by email among a quorum.</li>
+      </ul></div>
+      <div><h3>Acting as fiscal sponsor</h3><ul>
+        <li>Chambers are the natural sponsor for an event producer who cannot or does not want to apply directly: you already hold a contract with the city, you have insurance, and you know the reporting. It is also a way to bring an event to town that the chamber could not stage itself.</li>
+        <li>Put it in writing: who owns the event, who holds the award, who files the report, what the administrative fee is (5 to 10% of the award is typical; some chambers do it at cost for members), and what happens if the event is cancelled.</li>
+        <li>The chamber is the applicant of record, so the jurisdiction will hold you to the deliverables. Collect the producer's invoices and post-event data before you release the final payment.</li>
+        <li>Do not sponsor an application you would vote on. If the chamber is on the committee, a sponsored application is the chamber's application for recusal purposes.</li>
+      </ul></div>
+      <div><h3>Growing the program</h3><ul>
+        <li>Use the Benchmarks tab. Programs that open a larger share of the fund to applicants (Mukilteo, Tumwater, Woodinville) tend to show more event room nights per dollar than programs that pre-commit most of the fund to a single contract. A DMO that argues for a bigger competitive pool, and then helps applicants succeed in it, looks very different to a council than one defending its line item.</li>
+        <li>Run the applicant workshop. Offer to review draft applications for the room-night math before they go in. Bad applications waste committee time and the chamber gets blamed for the field.</li>
+        <li>Publish the award list and the post-event results every year, on the same page as the application. The programs that do this (Lacey, Kitsap County, Spokane Valley) get better applicants and fewer complaints.</li>
+        <li>Track hotel occupancy by weekend, and share it with applicants. "Here are our twelve emptiest weekends" is the most useful thing a DMO can hand an event producer.</li>
+      </ul></div>
+    </div>
+  </section>
+
+  <section class="law guide" data-g="ltac">
+    <h2>For lodging tax advisory committee members</h2>
+    <p class="lede2">You were appointed because you run a hotel or a tourism activity, not because you are a grant officer. Here is what the law asks of the committee, and what the better committees in this directory do beyond it.</p>
+    <div class="cols">
+      <div><h3>What the statute requires of you</h3><ul>
+        <li>Composition (RCW 67.28.1817): at least five members, an elected official as chair, at least two people from lodging businesses that collect the tax, and at least two from activities the tax may fund, in equal numbers. The council reviews membership every year. A committee short a lodging member or a recipient member is out of compliance and its recommendations are vulnerable.</li>
+        <li>You receive the applications and recommend a list of recipients and amounts to the council. The council may fund all, some or none of your list, but cannot add anyone you did not recommend. If the council wants to change an amount, it must send it back to you, and you have 45 days to comment before the council acts.</li>
+        <li>Every applicant must give you estimates of paid overnight stays, 50+ mile visitors and out-of-state visitors (RCW 67.28.1816(2)(a)). You may decline to consider an application that does not include them.</li>
+        <li>Every recipient must report actuals back to the jurisdiction in those same categories, and the jurisdiction reports them to JLARC each year. The council and staff carry that duty, but the committee is where it is enforced: do not fund an applicant whose last report is missing.</li>
+        <li>Open Public Meetings Act (RCW 42.30): your meetings are public. Agenda noticed, minutes kept, deliberation in the room. A string of emails among a majority of members about who to fund is a meeting held in violation of the act.</li>
+        <li>Conflicts: recuse yourself, and have it minuted, on any application from an organization you work for, sit on the board of, or have a contract with. A hotelier who holds the room block for an event should disclose it; whether to recuse is a judgment call, and the safer practice is to recuse.</li>
+      </ul></div>
+      <div><h3>Reading an application</h3><ul>
+        <li>Start with the room-night estimate and work backward. Does the chain of ratios hold up? Would you, as a hotelier, believe 45% of out-of-town attendees pay for a room on a one-night free event? If the applicant cannot show the arithmetic, score it as if the number were half.</li>
+        <li>Check the counting method. A direct count (ticket ZIP codes, hotel block pickup, registrations) is worth more than a visual estimate. The state requires applicants to name the method, and you can weight it.</li>
+        <li>Compare the estimate to last year's actual for returning applicants. The gap is the most useful number on the page. A producer who estimated 800 nights and reported 300 is either learning or inflating; either way, fund the 300.</li>
+        <li>Look at what the grant buys. Out-of-area marketing and the participant field move room nights. Local advertising, staff time and general overhead do not. Many committees cap the grant at a share of the marketing budget for this reason.</li>
+        <li>Ask about dates. The same event on a shoulder-season weekend is worth more lodging tax than on a weekend when the hotels are already full. You are allowed to say "we would fund this at a higher level in October."</li>
+        <li>Ask about hotels by name. An applicant who has already talked to three properties about a block is a different applicant from one who has not.</li>
+        <li>Judge the activity, not the applicant's tax form. The statute keys eligibility to tourism marketing, tourist-drawing events and tourism facilities, not to nonprofit status. A for-profit festival that fills the town meets the purpose of the tax better than a nonprofit event that draws residents. If your guidelines say nonprofits only, that is a local choice the committee can revisit.</li>
+      </ul></div>
+      <div><h3>Running a better round</h3><ul>
+        <li>Publish a scoring rubric with the application. Lacey's 160-point rubric and Kittitas County's point sheet are good models. Applicants self-score, the field improves, and your recommendations are defensible when a council member's favorite does not make the list.</li>
+        <li>Separate the standing commitments from the competitive round. Score the DMO contract, debt service and the jurisdiction's own facilities first, state what is left, then score applicants against that number. Everyone, including the council, should be able to see what was actually open.</li>
+        <li>Require a reduced-award plan and use it. Fund down the ranked list; when the money runs out, fund the next applicants at their reduced level rather than zero. Partial awards to more events generally produce more room nights than full awards to fewer.</li>
+        <li>Hold presentations, keep them to 10 minutes, and ask the same three questions of every applicant: room nights and how you will count them, what the grant buys, and which hotels you have talked to.</li>
+        <li>Treat multi-year applicants honestly. An event that has reported well for three years should not have to re-justify its existence, and an event that has grown out of the need for a grant should be told so and moved to a smaller award. Committees that fund the same list at the same amounts every year are not advising, they are rubber-stamping.</li>
+        <li>Look at the award list as a portfolio. One large standing contract plus a handful of small event grants is the default shape. Ask whether the fund would produce more room nights if the competitive share were 20 points higher.</li>
+        <li>Send the council your list with the scores and the reasoning. A council that understands why the committee ranked the way it did is far less likely to change the list, and a change forces the 45-day loop.</li>
+      </ul></div>
+      <div><h3>Common failures</h3><ul>
+        <li>No post-event enforcement. Recipients stop reporting, the jurisdiction's JLARC filing goes thin, and the committee loses the only evidence that the program works. Nineteen jurisdictions in the state's data did not report at all for 2024.</li>
+        <li>Funding the fund's own facilities first and calling the remainder a grant program. Legal, but applicants deserve to know the real pool size before they write.</li>
+        <li>A deadline that moves every year, or is announced three weeks ahead. Event producers plan 12 to 18 months out. Post next year's window with this year's awards.</li>
+        <li>Nonprofits-only guidelines that nobody on the committee remembers adopting. Check the code and guidelines; the restriction is usually in the guidelines and the committee can change it.</li>
+        <li>A committee short on hoteliers. The lodging members are the ones who can tell a real room-night estimate from a made-up one; without them the committee funds attendance, not tourism.</li>
+      </ul></div>
+    </div>
+  </section>
+
+  <section class="law guide" data-g="staff">
+    <h2>For city and county staff: model program guidelines</h2>
+    <p class="lede2">Language drawn from the better-run programs in this directory. Use it to tighten eligibility, scoring and reporting without inventing anything new.</p>
+    <div class="cols">
+      <div><h3>Eligibility</h3><ul>
+        <li>"Applicants may be public entities, nonprofit organizations or for-profit businesses. Eligibility is determined by the activity, which must be tourism marketing, the marketing or operation of a special event or festival designed to attract tourists, or the operation of a tourism-related facility, consistent with RCW 67.28.1816." (Spokane Valley, Redmond, Lakewood and Oak Harbor use language to this effect.)</li>
+        <li>State the one place nonprofit status matters: operating support for a tourism facility is limited to facilities owned or operated by a public body or a 501(c)(3)/(c)(6).</li>
+        <li>Require a jurisdiction business registration and insurance naming the jurisdiction as additional insured at contract, not at application.</li>
+      </ul></div>
+      <div><h3>Scoring</h3><ul>
+        <li>Weight paid lodging nights inside the jurisdiction above all other measures; Bellevue's TPA incubator tiers awards directly by attributable room nights, and Lacey publishes a 160-point rubric.</li>
+        <li>Score the counting method, not just the number: a direct count (ticket ZIP codes, hotel block pickup) outranks a visual estimate.</li>
+        <li>Give points for shoulder-season dates, multi-day formats and out-of-region marketing spend, which are the levers that move room nights.</li>
+        <li>Publish the rubric with the application so applicants can self-score.</li>
+      </ul></div>
+      <div><h3>Process</h3><ul>
+        <li>One predictable annual window, posted a year ahead, with an applicant workshop (Kittitas County scores workshop attendance).</li>
+        <li>Require a reduced-award plan in every application; the committee funds down a ranked list, so partial awards are the norm.</li>
+        <li>Presentations: 10 minutes, required, scheduled three to four weeks after the deadline, with slides submitted with the application (Spokane Valley, Kitsap County).</li>
+        <li>Send the recommended list to council unchanged, or send changes back to the committee for the 45-day review RCW 67.28.1817 requires.</li>
+      </ul></div>
+      <div><h3>Contracts and reporting</h3><ul>
+        <li>Reimbursement on documented costs under a written agreement with deliverables, which is how a grant to a private entity avoids being a gift of public funds.</li>
+        <li>Require the post-event report in the JLARC categories (attendance, 50+ miles, out of state, paid and unpaid overnight, paid lodging nights, method) before the final reimbursement.</li>
+        <li>Publish the award list and the post-event results each year on the same page as the application; it is the strongest marketing the program has.</li>
+      </ul></div>
+    </div>
+  </section>
+</div></div>
+
+<!-- ============ BOARD ============ -->
+<div class="view gutter" id="v-board" hidden><div class="inner">
+  <div class="vhead"><h2>Event board</h2><p>Cities post what they are looking for (a shoulder-season event, a sports tournament, a signature festival). Producers post what they bring. Contact each other directly.</p></div>
+  <div id="boardStatus" class="gdesc"></div>
+  <div class="seg" id="boardFilter" role="group" aria-label="Post type">
+    <button data-v="all" aria-pressed="true">All posts</button>
+    <button data-v="city" aria-pressed="false">Cities seeking events</button>
+    <button data-v="producer" aria-pressed="false">Producers offering events</button>
+  </div>
+  <div id="boardList" class="grid" style="margin-top:14px"></div>
+  <form class="finder" id="boardForm" hidden>
+    <h3 style="grid-column:1/-1;margin:0">Post to the board</h3>
+    <label>I am a<select id="bf-type"><option value="city">City, county or DMO seeking events</option><option value="producer">Producer offering an event</option></select></label>
+    <label>Organization<input id="bf-org" required maxlength="120"></label>
+    <label>Contact name<input id="bf-name" required maxlength="80"></label>
+    <label>Contact email<input id="bf-email" type="email" required maxlength="120"></label>
+    <label class="wide">Title<input id="bf-title" required maxlength="140" placeholder="e.g. Looking for a November multi-day event with 500+ room nights"></label>
+    <label class="wide">Details<textarea id="bf-body" rows="4" required maxlength="1500" placeholder="What you are looking for or offering, dates, scale, what you can fund or deliver"></textarea></label>
+    <label>Counties<input id="bf-counties" maxlength="160" placeholder="e.g. Spokane, Kittitas"></label>
+    <label>Months<input id="bf-months" maxlength="80" placeholder="e.g. Oct to Apr"></label>
+    <button type="submit">Post</button>
+  </form>
+</div></div>
+
+<footer class="about gutter"><div class="inner">
+  <p>Compiled from official city and county LTAC pages, application packets, agendas, minutes and the annual lodging tax reports jurisdictions file with JLARC, as of <span class="asof2"></span>. Deadlines marked "projected" are taken from the last published date and must be confirmed with staff. Rosters change with appointments; the date next to each is the date of its source. Member contact details appear only where the jurisdiction publishes them. Each card shows when it was last verified and has a correction link; corrections from city staff are welcome.</p>
+  <p>Under RCW 67.28.1817 every LTAC has at least five members: an elected official as chair, at least two representatives of businesses that collect the tax, and at least two representatives of activities the tax funds. Published by Seattle Ballooning LLC as a public resource.</p>
+</div></footer>
+
+<div class="modal" id="modal" hidden><div class="modalbox"><button class="x" id="modalX" aria-label="Close">×</button><div id="modalBody"></div></div></div>

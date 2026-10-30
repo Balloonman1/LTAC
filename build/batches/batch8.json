@@ -1,0 +1,875 @@
+[
+  {
+    "name": "Bremerton",
+    "type": "city",
+    "county": "Kitsap",
+    "tax_rate": "2% special hotel/motel tax (state-credited; WA DOR rate list, verify current)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-26",
+    "funding_year": "2027",
+    "deadline_pattern": "Late August (applications open early August, due about three weeks later at 2 PM); LTAC scores in September, applicant interviews late September, recommendations to Council late October, award notices early November",
+    "typical_open": "Early August",
+    "annual_pool": "$450K",
+    "url": "https://bremertonwa.gov/950/Lodging-Tax-Advisory-Committee",
+    "contact": "Bremerton City Council, city.council@bremertonwa.gov, (360) 473-5280; contracts: Jon Hickling, Contracts Administrator",
+    "notes": "Competitive grants for 2026 totaled $450K across 17 awardees from 20 requests ($1.36M asked); separate budget earmarks of $250K for the Kitsap Conference Center and $150K for the Admiral Theatre; reimbursement-based and applicants must be at least one year old.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Christy Cammarata",
+        "role": "Chair",
+        "affiliation": "Bremerton City Councilmember",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Mike Huey",
+        "role": "Activity representative",
+        "affiliation": "WA State Science & Engineering Fair",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jennifer Zuver",
+        "role": "Activity representative",
+        "affiliation": "Bremerton Historic Ships Association",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jeff Parsons",
+        "role": "Lodging representative",
+        "affiliation": "Fairfield Inn & Suites",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jose Maldonado",
+        "role": "Lodging representative",
+        "affiliation": "Hampton Inn & Suites",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://bremertonwa.gov/950/Lodging-Tax-Advisory-Committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": true,
+      "date": "2026-09-21",
+      "pattern": "Applicants selected for interview are notified about two weeks after the deadline and present to LTAC over two days in late September (Sept 21 and 22 for the 2027 cycle)",
+      "format": "in person"
+    },
+    "meeting_schedule": "Meets during the fall funding cycle (scoring in September, deliberations in October); next meeting Monday Nov 9, 2026 to finalize recommendations; 6th Floor Council Conference Room, 345 6th St",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2027 Lodging Tax Application Instructions",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://bremertonwa.gov/DocumentCenter/View/13564/2027-Lodging-Tax-Application-Instructions-PDF",
+        "summary": "Six funding categories (event marketing, DMO readiness, event development, sports tourism, destination marketing, tourism assets) with Council setting aside 50% of available funds for DMO readiness and sports tourism; 100-point scoring led by tourism priorities (20) and visitor economy impact (20); reimbursement-based, no fixed match, no per-applicant cap, applications due Aug 26, 2026 at 2 PM."
+      },
+      {
+        "title": "Summary of 2026 Lodging Tax Funding Requests and LTAC Funding Recommendations",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://bremertonwa.gov/DocumentCenter/View/13223",
+        "summary": "$1,363,885 requested across 20 applicants and $450,000 recommended and approved by Council Feb 25, 2026; largest awards Downtown Bremerton Association $70K, Sunny Jack Events $65K, Bremerton Historic Ships Association $50K and Greater Kitsap Chamber/Visit Kitsap Peninsula $50K (which had asked for $388,600)."
+      },
+      {
+        "title": "LTAC Agenda, Feb 19, 2026 (reconsideration of 2026 funding recommendations)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://bremertonwa.gov/AgendaCenter/ViewFile/Agenda/_02192026-585",
+        "summary": "Special LTAC meeting called after Council rejected the first recommendations on Feb 4, 2026; the committee reaffirmed the same $450K allocation unchanged."
+      },
+      {
+        "title": "2027 Lodging Tax Award Contract (template)",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://bremertonwa.gov/DocumentCenter/View/13493/2027-Lodging-Tax-Award-Contract-PDF",
+        "summary": "Standard reimbursement contract awardees sign; no funds may be spent or reimbursed before full execution and contracts over $100,000 need Council approval."
+      }
+    ],
+    "total_pool_usd": 850000,
+    "competitive_pool_usd": 425000,
+    "pool_note": "2026: $850K total lodging tax commitments ($450K competitive awards plus $250K Kitsap Conference Center and $150K Admiral Theatre budget earmarks); of the $450K, $25K went to the city's own Quincy Square, leaving $425K awarded to 16 outside applicants."
+  },
+  {
+    "name": "Port Orchard",
+    "type": "city",
+    "county": "Kitsap",
+    "tax_rate": "2% special hotel/motel tax (state-credited; WA DOR rate list, verify current)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-10-26",
+    "funding_year": "2027",
+    "deadline_pattern": "Late October at 2 PM (Oct 26, 2026 for 2027 funds); LTAC convenes in the fall to hear applicant presentations and deliberate, then recommends to Council",
+    "typical_open": "September",
+    "annual_pool": null,
+    "url": "https://www.portorchardwa.gov/DocumentCenter/View/701",
+    "contact": "Megan Hansen, City of Port Orchard, communications@portorchardwa.gov, 360-300-1150; staff liaison City Clerk, 360-876-4407",
+    "notes": "2027 application (3-page limit plus financials and marketing samples) is emailed to communications@portorchardwa.gov by Oct 26, 2026 at 2 PM, with LTAC interviews in November; no published pool figure.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "John Morrissey",
+        "role": "Chair",
+        "affiliation": "Port Orchard City Councilmember",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Carriage House Airbnb",
+        "role": "Lodging representative",
+        "affiliation": "Carriage House Airbnb",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Cozy Coastal Getaways Airbnb",
+        "role": "Lodging representative",
+        "affiliation": "Cozy Coastal Getaways Airbnb",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Smitty's Coop, LLC",
+        "role": "Lodging representative",
+        "affiliation": "Smitty's Coop, LLC",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Fathoms O'Fun",
+        "role": "Activity representative",
+        "affiliation": "Fathoms O'Fun Festival",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Port of Bremerton",
+        "role": "Activity representative",
+        "affiliation": "Port of Bremerton",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Port Orchard Waterfront Alliance",
+        "role": "Activity representative",
+        "affiliation": "Port Orchard Waterfront Alliance",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "City Clerk",
+        "role": "Staff (non-voting)",
+        "affiliation": "City of Port Orchard",
+        "email": null,
+        "phone": "360-876-4407"
+      }
+    ],
+    "members_source": "https://www.portorchardwa.gov/354/Lodging-Tax-Advisory-Committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": true,
+      "date": null,
+      "pattern": "Eligible applicants may be asked to interview with LTAC in November after the late-October deadline (presentations meeting was Oct 30 in the 2024 cycle), at City Hall with a Zoom webinar option",
+      "format": "in person"
+    },
+    "meeting_schedule": "Meets as needed, generally starting in the fall; agendas and minutes on lf.portorchardwa.gov",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2027 Lodging Tax Application (acknowledgement, checklist, coversheet and instructions)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.portorchardwa.gov/DocumentCenter/View/701",
+        "summary": "Applications due by email Oct 26, 2026 at 2 PM, limited to 3 pages plus attachments (LTAC budget with top 3 priorities, up to 5 marketing samples, 2025 and 2026 YTD financials, tax return); applicants must estimate total visitors, overnight stays, 50+ mile visitors and revenue, and may be interviewed by LTAC in November; no total pool or cap stated."
+      },
+      {
+        "title": "Port Orchard Electronic Records Library: LTAC agendas, minutes and packets",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://lf.portorchardwa.gov/",
+        "summary": "Repository for LTAC agenda packets and minutes including prior-year funding tables; the specific 2026 award list was not retrievable in this pass."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No revenue figure, adopted pool or 2026 award list was retrievable; the 2027 application packet states no total."
+  },
+  {
+    "name": "Bainbridge Island",
+    "type": "city",
+    "county": "Kitsap",
+    "tax_rate": "2% special hotel/motel tax (state-credited; WA DOR rate list, verify current)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": null,
+    "funding_year": "2026",
+    "deadline_pattern": "Historically an RFP issued in late July with proposals due mid-September (4 PM) and presentations late September; the 2026 cycle was delayed, with LTAC hearing all applicants in March 2026 and Council approving awards April 14, 2026",
+    "typical_open": "Late July or early August (varies; 2026 cycle ran in early spring)",
+    "annual_pool": "$400K",
+    "url": "https://www.bainbridgewa.gov/236/Lodging-Tax-Advisory-Committee",
+    "contact": "City Manager's Office, cityadmin@bainbridgewa.gov, 206-842-2545",
+    "notes": "Civic Improvement Fund RFP under BIMC 3.65.040; 2026 awards of $400K went to 11 of 13 applicants ($660K requested), with a $2,000 minimum and a cap of 50% of the pool; the city LTAC page could not be fetched so the current 2027 timeline is unconfirmed.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": true,
+      "date": null,
+      "pattern": "LTAC meets each applicant and hears presentations at scheduled evening meetings at City Hall (280 Madison Ave N) after the deadline; three meetings in March 2026 for the 2026 cycle",
+      "format": "in person"
+    },
+    "meeting_schedule": "Meets as needed during the funding cycle (orientation, presentation and deliberation meetings), City Hall, 280 Madison Ave N",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2020 Request for Proposals, Civic Improvement Fund (Lodging Tax)",
+        "doc_type": "guidelines",
+        "year": "2020",
+        "url": "https://www.bainbridgewa.gov/DocumentCenter/View/12225/2020_LTAC_RFP_FINAL",
+        "summary": "About $275,000 available with a $2,000 minimum and a cap of 50% of funds ($137,500); eligible categories are tourism marketing, special event marketing and operations, tourism facility operations and capital; proposals due mid-September with presentations two weeks later (older cycle; current RFP not retrieved)."
+      },
+      {
+        "title": "Bainbridge Island Review: $400K in 2026 lodging tax awards approved April 14, 2026",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.bainbridgereview.com/?p=132297",
+        "summary": "Council approved $400,000 to 11 of 13 applicants ($659,735 requested) at LTAC-recommended amounts, led by Visit Bainbridge Island $165K, Chamber of Commerce $90K and Downtown Association $70K; Bainbridge Prepares and the Washington Museum Association received nothing."
+      }
+    ],
+    "total_pool_usd": 400000,
+    "competitive_pool_usd": 145000,
+    "pool_note": "2026: $400K awarded through the Civic Improvement Fund RFP; $165K to Visit Bainbridge Island and $90K to the Chamber of Commerce are DMO/chamber-type awards, leaving about $145K across nine other outside organizations (estimate, since the DMO and chamber compete in the same round)."
+  },
+  {
+    "name": "Sequim",
+    "type": "city",
+    "county": "Clallam",
+    "tax_rate": "4% total (2% state-credited plus 2% additional, per 2009 reporting; verify current)",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://codepublishing.com/WA/Sequim/html/Sequim02/Sequim0268.html",
+    "contact": "Barbara Hanna, Communications and Marketing Director, City of Sequim, bhanna@sequimwa.gov, 360-681-3422",
+    "notes": "Sequim has an LTAC (SMC 2.68, chaired by a councilmember, meets quarterly) but no standing open grant round was found; the city ran one-off $50K Tourism Sustainability Grant rounds ($5K max) in 2020, 2021 and 2022 and otherwise directs lodging tax to city marketing and the visitor center.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "Quarterly (per city announcements); minutes go to Council at least quarterly",
+    "alternatives": [
+      {
+        "program": "Clallam County Lodging Tax grants",
+        "administrator": "Clallam County Board of Commissioners / Clallam County LTAC",
+        "funds": "About $2M a year in lodging tax grants countywide; $204K awarded to 7 organizations in the spring 2025 round",
+        "eligibility": "Nonprofits, public entities and groups of eligible organizations with projects that put heads in beds; must report overnight stays",
+        "cycle": "semiannual",
+        "deadline": "2026-02-26",
+        "deadline_pattern": "Fall call due around Oct 11 (noon) for the next year, plus a second call in January or February (2026 notice listed Feb 13 and Feb 26); a 2027 call for applications is posted",
+        "url": "https://clallamcountywa.gov/757/Lodging-Tax-Advisory-Committee-LTAC",
+        "contact": "Loni Gores, Clerk of the Board, loni.gores@clallamcountywa.gov, 360-417-2256",
+        "notes": "LTAC meets the second Thursday monthly at 2 PM in Room 160, 223 E 4th St, Port Angeles; prosecuting attorney screens applications for eligibility; Sequim-based events such as the Irrigation Festival have been funded.",
+        "confidence": "medium"
+      },
+      {
+        "program": "Olympic Peninsula Visitor Bureau Tourism Project Grants",
+        "administrator": "Olympic Peninsula Visitor Bureau (county-funded DMO)",
+        "funds": null,
+        "eligibility": "Shoulder-season tourism projects, collateral, event promotion and websites primarily within Clallam County",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": "Historically reviewed up to four times a year, due two weeks before a board meeting",
+        "url": "https://www.olympicpeninsula.org/page/tourism-grants",
+        "contact": "Olympic Peninsula Visitor Bureau, 360-452-8552",
+        "notes": "Details are from 2018 reporting; confirm the program is still active.",
+        "confidence": "low"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Sequim Municipal Code Chapter 2.68, Lodging Tax Advisory Committee",
+        "doc_type": "ordinance",
+        "year": null,
+        "url": "https://codepublishing.com/WA/Sequim/html/Sequim02/Sequim0268.html",
+        "summary": "Establishes the five-plus member LTAC chaired by a councilmember with equal lodging and activity representation; LTAC reviews any change in lodging tax use within 45 days and reports on long-term stability of the lodging tax fund, but the code sets no grant program."
+      },
+      {
+        "title": "Sequim Gazette: Council approves $50,000 Tourism Sustainability Grant round (March 30, 2022)",
+        "doc_type": "award list",
+        "year": "2022",
+        "url": "https://www.sequimgazette.com/?p=74296",
+        "summary": "One-off round of up to $5,000 per nonprofit tourism organization within the Sequim School District, $50K total from city lodging tax, applications due April 15, 2022 with LTAC review April 20 and Council action April 25."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 0,
+    "pool_note": "No standing competitive round; the city's 4% lodging tax funds its own marketing and visitor center contract, and the only outside grants were one-off $50K Tourism Sustainability rounds in 2020-2022 (annual revenue not published)."
+  },
+  {
+    "name": "Port Townsend",
+    "type": "city",
+    "county": "Jefferson",
+    "tax_rate": "2% special hotel/motel tax (state-credited; WA DOR rate list, verify current)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-01-05",
+    "funding_year": "2026",
+    "deadline_pattern": "One round for 2026: call issued Dec 1 with applications due the first Monday of January at 5 PM and review at the January LTAC meeting; in 2024 there were spring (late Feb) and fall (late Aug) rounds",
+    "typical_open": "Early December",
+    "annual_pool": "$50K",
+    "url": "https://cityofpt.us/bc/page/lodging-tax-advisory-committee",
+    "contact": "LTAC staff, LTAC@cityofpt.us",
+    "notes": "Awards run $1,000 to $10,000 per project with priority on shoulder-season (Oct through May) overnight visitors and lodging partnerships; prior-year recipients must wait a year before reapplying; the 2027 call had not been posted as of this research.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Owen Rowe",
+        "role": "Chair",
+        "affiliation": "Port Townsend City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Nathan Barnett",
+        "role": "Vice Chair / Lodging representative",
+        "affiliation": "Old Consulate Inn",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Natalie Maitland",
+        "role": "Lodging representative",
+        "affiliation": "Fort Worden Hospitality",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kate Philbrick",
+        "role": "Lodging representative",
+        "affiliation": "Swan Hotel / Northwest Maritime Center",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Katy Goodman",
+        "role": "Activity representative",
+        "affiliation": "Centrum",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Danielle McClelland",
+        "role": "Activity representative",
+        "affiliation": "Port Townsend Film Festival",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Denise Winter",
+        "role": "Activity representative",
+        "affiliation": "Key City Public Theatre",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Cindy Finnie",
+        "role": "At large",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Mari Mullen",
+        "role": "Non-voting",
+        "affiliation": "Port Townsend Main Street",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Dana Petrick",
+        "role": "Non-voting",
+        "affiliation": "Jefferson County Chamber of Commerce",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://cityofpt.us/bc/page/lodging-tax-advisory-committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": true,
+      "date": "2026-01-13",
+      "pattern": "Applicants attend the grant review meeting (second Tuesday after the deadline, 3 PM) to give a 3-minute overview and answer questions",
+      "format": "in person"
+    },
+    "meeting_schedule": "Second Tuesday of odd-numbered months at 3 PM, City Council Chambers, Historic City Hall, 540 Water St",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Press release: LTAC announces $50,000 in grant funding for 2026 (Dec 1, 2025)",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://cityofpt.us/administration/page/press-release-city-port-townsend-lodging-tax-advisory-committee-announces-grant",
+        "summary": "$50,000 available in a single 2026 round with awards of $1,000 to $10,000; applications due Jan 5, 2026 at 5 PM and reviewed at the Jan 13 LTAC meeting; priority on shoulder-season (Oct through May) overnight visitors, local jobs and lodging partnerships."
+      },
+      {
+        "title": "LTAC Grant Program webinar slides (January 2024)",
+        "doc_type": "guidelines",
+        "year": "2024",
+        "url": "https://cityofpt.us/sites/default/files/fileattachments/boards_and_commissions/page/3611/ltac_grant_webinar_jan_2024.pdf",
+        "summary": "2024 grants were $40,000 within a $530,000 LTAC budget (2023: $20,000 granted against $60,700 requested, awards $800 to $7,000); scored on overnight stays, off-season timing, new offerings under 3 years old, local jobs, partnerships and leveraged match, with applicants giving a 3-minute overview at the review meeting."
+      },
+      {
+        "title": "Lodging Tax Advisory Committee program page",
+        "doc_type": "other",
+        "year": "2024",
+        "url": "https://cityofpt.us/bc/page/lodging-tax-advisory-committee",
+        "summary": "Lists the $40K two-round program, $1K to $10K award range, one-year wait for prior recipients, portal rules and that 2022 city lodging tax collections were $602,167 supporting marketing, events, infrastructure, fee waivers and debt service."
+      }
+    ],
+    "total_pool_usd": 530000,
+    "competitive_pool_usd": 50000,
+    "pool_note": "2026: $50K grant round for outside organizations; the 2024 LTAC budget was $530K with the balance committed to city marketing, events, infrastructure, fee waivers and debt service (total is the 2024 figure)."
+  },
+  {
+    "name": "Forks",
+    "type": "city",
+    "county": "Clallam",
+    "tax_rate": "2% special hotel/motel tax (state-credited; WA DOR rate list, verify current)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2024-09-23",
+    "funding_year": "2025",
+    "deadline_pattern": "Late September at 5 PM (Sept 26, 2022 for 2023; Sept 23, 2024 for 2025), with City Council review of all proposals at a public meeting in mid to late November as part of the budget",
+    "typical_open": "August",
+    "annual_pool": "$500K",
+    "url": "https://forkswashington.org/wp-content/uploads/2024/08/Lodging-Tax-Application-2025.pdf",
+    "contact": "Caryn DePew, Clerk/Treasurer, City of Forks, 500 E Division St, Forks, WA 98331",
+    "notes": "Forks (under 5,000 population) has no separate LTAC; applications go to the Clerk/Treasurer and the City Council reviews them in budget workshops, with 24 requests totaling about $500K in the 2024 cycle; reimbursement only, no multi-year commitments; the 2026 and 2027 application packets were not located.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": false,
+      "date": null,
+      "pattern": "City Council reviews proposals at a public meeting in November (Nov 25, 2024 at 5:30 PM for the 2025 cycle); applicants may attend but no formal presentation is required",
+      "format": "written only"
+    },
+    "meeting_schedule": "No LTAC; City Council budget workshops in November and December",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "City of Forks Lodging Tax Application 2025",
+        "doc_type": "guidelines",
+        "year": "2025",
+        "url": "https://forkswashington.org/wp-content/uploads/2024/08/Lodging-Tax-Application-2025.pdf",
+        "summary": "Applications due Sept 23, 2024 at 5 PM to the Clerk/Treasurer; Lodging Tax Fund is the city's sole tourism funding source, reimbursement only after the event with payment requested within 60 days, no multi-year commitments and the city sets the spendable amount each year; Council review Nov 25, 2024."
+      },
+      {
+        "title": "City of Forks Lodging Tax Application 2023",
+        "doc_type": "guidelines",
+        "year": "2023",
+        "url": "https://forkswashington.org/wp-content/uploads/2023/04/Lodging-Tax-Application-2023.pdf",
+        "summary": "Prior-year packet with the same structure: due Sept 26, 2022, Council review Nov 14, 2022, post-event economic impact report due Jan 29, 2024."
+      },
+      {
+        "title": "Peninsula Daily News: Forks reviews 2024 draft budget and lodging tax requests (Dec 2, 2023)",
+        "doc_type": "budget",
+        "year": "2024",
+        "url": "https://www.peninsuladailynews.com/?p=224723",
+        "summary": "24 requests totaling about $500,000 against $503,233 collected through October 2023; largest asks were Forks Chamber of Commerce $185,000 (Twilight Festival, visitor center and marketing) and City of Forks $169,175 (Fourth of July, ball fields, Rainforest Arts Center), with Forks Timber Museum $35,000."
+      }
+    ],
+    "total_pool_usd": 503233,
+    "competitive_pool_usd": null,
+    "pool_note": "2024 cycle: about $503K collected through October 2023 against roughly $500K in 24 requests, dominated by the Forks Chamber ($185K visitor center, marketing and Twilight events) and the city's own $169K; final awards to the remaining smaller applicants (about $62.5K requested) were not published, so no competitive figure."
+  },
+  {
+    "name": "Anacortes",
+    "type": "city",
+    "county": "Skagit",
+    "tax_rate": "4% (AMC 3.15.010)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": null,
+    "funding_year": "2026",
+    "deadline_pattern": "Applications solicited each year in the fall with Council adopting awards by resolution in early December (Resolution 3191 on Dec 8, 2025 for 2026)",
+    "typical_open": "Late summer or early fall",
+    "annual_pool": "$327K",
+    "url": "https://www.anacorteswa.gov/558/Lodging-Tax-Advisory-Committee",
+    "contact": "Stephanie Snyder, Program Coordinator, City of Anacortes, 360-293-1907",
+    "notes": "2026 awards totaled $693,800 ($327,300 for annual events and marketing plus $366,500 capital for the city event center design); most grants are $5,000 to $25,000 and Council may only pick from LTAC's list; the 2027 application deadline was not published on the page.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Christine Cleland-McGrath",
+        "role": "Chair",
+        "affiliation": "Anacortes City Councilmember",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jessica Ferguson",
+        "role": "Lodging representative",
+        "affiliation": "The Nantucket Inn",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kathleen Kelly",
+        "role": "Lodging representative",
+        "affiliation": "Marina Inn",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Travis Sherman",
+        "role": "Lodging representative",
+        "affiliation": "The Majestic Inn & Spa",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Sommer Carter",
+        "role": "Activity representative",
+        "affiliation": "Anacortes Music Project",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kendra McConnell",
+        "role": "Activity representative",
+        "affiliation": "Friends of the ACFL",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kristy Southard",
+        "role": "Activity representative",
+        "affiliation": "Port of Anacortes",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Stephanie Snyder",
+        "role": "Staff (non-voting)",
+        "affiliation": "City of Anacortes, Program Coordinator",
+        "email": null,
+        "phone": "360-293-1907"
+      }
+    ],
+    "members_source": "https://www.anacorteswa.gov/558/Lodging-Tax-Advisory-Committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "No regular schedule; meetings publicly noticed as needed (orientation in February, review in the fall)",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Resolution 3191, Approved 2026 Funding for Tourism Promotion",
+        "doc_type": "resolution",
+        "year": "2026",
+        "url": "https://www.anacorteswa.gov/DocumentCenter/View/34249/Resolution-3191-Approved-2026-Funding-for-Tourism-Promotion-Anacortes",
+        "summary": "Adopted Dec 8, 2025: $693,800 total, $327,300 for annual projects and $366,500 capital for the city Event Center design; largest annual awards Experience Anacortes marketing $130,000, Chamber events $44,000, Visitor Information Center $25,000 and park restroom maintenance $25,000; three requests got $0."
+      },
+      {
+        "title": "LTAC Orientation, Feb 22, 2024",
+        "doc_type": "guidelines",
+        "year": "2024",
+        "url": "https://www.anacorteswa.gov/DocumentCenter/View/25710/LTAC-Orientation-2024-02-22",
+        "summary": "4% lodging tax yields about $650K a year with about $1.5M in reserve; the 2023 Tourism Promotion Strategic Plan targets holding 25% in reserve for capital projects; LTAC recommendations must address tourism benefit, fund stability, request-to-attendance ratio, statutory eligibility and the applicant's reporting history."
+      },
+      {
+        "title": "Lodging Tax Advisory Committee page (program overview)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.anacorteswa.gov/558/Lodging-Tax-Advisory-Committee",
+        "summary": "States the 4% tax, annual solicitation, RCW 67.28.1816 eligible uses and that most grants are $5,000 to $25,000; links the 2023-2028 Tourism Promotion Plan (Resolution 3138)."
+      }
+    ],
+    "total_pool_usd": 693800,
+    "competitive_pool_usd": 85300,
+    "pool_note": "2026: $693,800 awarded by Resolution 3191; after $366,500 city Event Center capital, $40K city parks items and $202K to the Chamber (Experience Anacortes marketing, visitor center, chamber events and Walk Fest), about $85K went to 15 other outside applicants."
+  },
+  {
+    "name": "Oak Harbor",
+    "type": "city",
+    "county": "Island",
+    "tax_rate": "2% special hotel/motel tax (state-credited; WA DOR rate list, verify current)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-14",
+    "funding_year": "2027",
+    "deadline_pattern": "Mid-August at 4:30 PM (Aug 14, 2026 for 2027 funds); LTAC deliberates in November and Council adopts awards by resolution",
+    "typical_open": "Late summer (July)",
+    "annual_pool": "$475K",
+    "url": "https://oakharbor.gov/ltac",
+    "contact": "David Goldman, Deputy City Administrator/Finance Director (LTAC liaison), City of Oak Harbor, 360-279-4500; Wendy Horn, Grants Administrator",
+    "notes": "Tourism Promotion Grant open to any entity type for public events and promotion inside city limits; Council approved $475K for 2026 with 21 applications near $800K and 15 funded, including a multi-year city award.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Tara Hizon",
+        "role": "Chair",
+        "affiliation": "Mayor Pro Tem, Oak Harbor City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Joanna Hennessey",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Allenda Jenkins",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Marcia Fakkema",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Veronica Rubio-Litvachuk",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "David Goldman",
+        "role": "Ex officio",
+        "affiliation": "City of Oak Harbor, Deputy City Administrator/Finance Director",
+        "email": null,
+        "phone": "360-279-4500"
+      }
+    ],
+    "members_source": "https://oakharbor.gov/ltac",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "LTAC may ask applicants to present at a scheduled meeting; staff email applicants to schedule times",
+      "format": "in person"
+    },
+    "meeting_schedule": "As needed, posted at least 10 days ahead; next meeting Thursday Nov 12, 2026 at 10 AM to deliberate 2027 funding, 865 SE Barrington Dr",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Lodging Tax / Tourism Promotion Grant program page",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://oakharbor.gov/ltac",
+        "summary": "2027 applications were due Aug 14, 2026 at 4:30 PM; any entity type may apply for public events and promotion inside city limits under RCW 67.28.1816 uses; LTAC deliberates Nov 12, 2026 and Council must adopt the recommendations by resolution."
+      },
+      {
+        "title": "Council approves most LTAC lodging tax awards, sends marina debt service item back (Nov 19, 2025)",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://cp.soar.com/articles/7004086/Oak-Harbor/Island-County/Washington/Council-approves-most-LTAC-lodging-tax-awards-sends-marina-debt-service-item-back-for-adjustments",
+        "summary": "Council had approved $475,000 for 2026 with $50,000 earmarked for Whidbey and Camano Islands tourism; 21 applications near $800,000 with 15 recommended for about $408,000, and a $55,000 marina debt-service request returned to LTAC for a 45-day review."
+      },
+      {
+        "title": "LTAC minutes, Feb 4, 2025 (2026 application scoring revisions)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://oakharbor.gov/AgendaCenter/ViewFile/Minutes/_02042025-451",
+        "summary": "Committee revised the 2026 application questions and point values and reordered them; staff drafted the changes for the August 2025 kickoff of the 2026 cycle."
+      }
+    ],
+    "total_pool_usd": 475000,
+    "competitive_pool_usd": 353000,
+    "pool_note": "2026: Council approved $475K; staff and LTAC recommended about $408K to 15 of 21 applicants, which included a $55K city marina debt-service item, leaving roughly $353K for outside applicants (estimate; a $50K Whidbey and Camano tourism earmark may also sit inside that figure)."
+  },
+  {
+    "name": "Friday Harbor",
+    "type": "city",
+    "county": "San Juan",
+    "tax_rate": "2% special hotel/motel tax (state-credited; WA DOR rate list, verify current)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": null,
+    "funding_year": "2027",
+    "deadline_pattern": "LTAC planning meeting in May, RFP and application released in June for the following year; exact due date not published on the page (contact LTAC Coordinator); urgent off-cycle requests go to Town Council via a separate form",
+    "typical_open": "June",
+    "annual_pool": null,
+    "url": "https://fridayharbor.org/2357/Lodging-Tax-Grant-Application",
+    "contact": "Julie Greene, LTAC Coordinator, Town of Friday Harbor, julie@fridayharbor.org, (360) 378-2810 ext. 1229",
+    "notes": "Grants promote Friday Harbor events and activities that attract visitors; 2027 applications were released in June 2026 and the window is now closed, with reimbursement requests from 2026 recipients due Jan 5, 2027 and attendance reports Jan 31, 2027.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Steve Hushebeck",
+        "role": "Chair",
+        "affiliation": "Friday Harbor Town Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Richard Geffen",
+        "role": "Member",
+        "affiliation": "Friday Harbor Town Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Mark Madsen",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Victoria Compton",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "David Pass",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Mary Perrollaz",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Misty Todd",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Julie Greene",
+        "role": "Staff (non-voting)",
+        "affiliation": "Town of Friday Harbor, LTAC Coordinator",
+        "email": "julie@fridayharbor.org",
+        "phone": "(360) 378-2810 ext. 1229"
+      }
+    ],
+    "members_source": "https://fridayharbor.org/2357/Lodging-Tax-Grant-Application",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "As needed; planning meeting each May; agendas posted before meetings",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Grant Application page (example RFP, forms and reporting notices)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://fridayharbor.org/2357/Lodging-Tax-Grant-Application",
+        "summary": "Grants promote Friday Harbor events and activities that attract visitors, funded by the hotel/motel tax on all transient lodging; 2027 applications released June 2026 after a May planning meeting; reimbursement requests from 2026 awardees due Jan 5, 2027 and attendance reports Jan 31, 2027; an urgent off-cycle request form goes to Town Council; no pool total published."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "The town publishes no pool total or award list on its LTAC page; contact the LTAC Coordinator for current figures."
+  },
+  {
+    "name": "Westport",
+    "type": "city",
+    "county": "Grays Harbor",
+    "tax_rate": "5% special excise tax on lodging (WMC 3.42.020; first 2% state-credited)",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://www.codepublishing.com/WA/Westport/html/Westport03/Westport0342.html",
+    "contact": null,
+    "notes": "Westport (population under 5,000) levies a 5% lodging tax into a city tourism fund under WMC 3.42 but no published LTAC, grant application or deadline was found; funding requests appear to go directly to the City Council through the budget process.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "City of Westport tourism fund request via City Council",
+        "administrator": "City of Westport (City Clerk / City Council)",
+        "funds": null,
+        "eligibility": "Activities that attract visitors, special events and festivals, and tourism-related facilities per WMC 3.42.050 and RCW 67.28",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "Requests considered during fall budget preparation",
+        "url": "https://www.codepublishing.com/WA/Westport/html/Westport03/Westport0342.html",
+        "contact": null,
+        "notes": "No application form or schedule located; contact Westport City Hall to request inclusion in the lodging tax budget.",
+        "confidence": "low"
+      },
+      {
+        "program": "Grays Harbor County Lodging Tax grants",
+        "administrator": "Grays Harbor County Commissioners / County LTAC",
+        "funds": null,
+        "eligibility": "Tourism promotion and events in Grays Harbor County",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": null,
+        "contact": null,
+        "notes": "Not verified in this research pass; confirm with the Grays Harbor County Commissioners' office.",
+        "confidence": "low"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Westport Municipal Code Chapter 3.42, Special Excise Tax on Lodging",
+        "doc_type": "ordinance",
+        "year": null,
+        "url": "https://www.codepublishing.com/WA/Westport/html/Westport03/Westport0342.html",
+        "summary": "Levies a 5% lodging excise tax (first 2% credited against state sales tax) into a dedicated city fund for attracting visitors, marketing and operating special events and festivals, and tourism facility operations and capital per RCW 67.28.1815; no grant process is defined."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "5% city lodging tax revenue and its commitments are not published online; no grant program or award list was found."
+  }
+]

@@ -1,0 +1,808 @@
+[
+ {
+  "name": "Adams County",
+  "type": "county",
+  "county": "Adams",
+  "tax_rate": "2% special hotel-motel tax in unincorporated Adams County (DOR Q2 2026 lodging rate flyer); Adams County Code 3.14, Ord. O-3-98, effective July 1, 1998",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "$815 (2024 DOR distribution); no grant pool",
+  "url": "https://codepublishing.com/WA/AdamsCounty/html/AdamsCounty03/AdamsCounty0314.html",
+  "contact": null,
+  "notes": "Adams County Code chapter 3.14 puts the 2% lodging tax into a 'tourism enhancement fund' for advertising and visitor promotion but creates no advisory committee and no application process. DOR Table L1 shows the county received only $815 in 2024 because nearly all lodging in the county is inside Othello and Ritzville, which levy their own taxes. There is no county grant program; events in the county should look to the City of Othello LTAC or Ritzville.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 county lodging tax receipts were $815 per DOR Table L1; nothing is awarded to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Adams County Code Chapter 3.14 Special Excise Tax on Lodging",
+    "doc_type": "resolution",
+    "year": "1998",
+    "url": "https://codepublishing.com/WA/AdamsCounty/html/AdamsCounty03/AdamsCounty0314.html",
+    "summary": "Levies a 2% lodging tax and directs proceeds to a non-lapsing tourism enhancement fund for advertising and promotion under RCW 67.28; no advisory committee or application process."
+   },
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Adams County total 2024 distribution $815."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "City of Othello Lodging Tax Advisory Committee",
+    "administrator": "City of Othello",
+    "url": "https://www.othellowa.gov/lodging-tax-advisory-committee",
+    "funds": "Not researched for this record; Othello is the largest lodging market in Adams County",
+    "eligibility": "Tourism promotion projects benefiting Othello",
+    "deadline": null,
+    "deadline_pattern": "See Othello record if present",
+    "notes": "Othello's LTAC is the only active lodging tax program in Adams County found online.",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Asotin",
+  "type": "city",
+  "county": "Asotin",
+  "tax_rate": "2% special hotel-motel tax, location code 0201 (DOR Q2 2026 lodging rate flyer)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "The City of Asotin (pop. about 1,200) levies the 2% lodging tax but its 2024 receipts are suppressed as confidential in DOR Table L1, meaning fewer than three lodging taxpayers; the city reported no lodging tax spending to JLARC for 2022-2024. No LTAC, application or grant program appears on the city website or in search results. Use the Asotin County Lodging Tax Grant for an event in or near Asotin.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Asotin (city) 2024 distribution marked confidential (CTI)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Asotin County Lodging Tax Grant",
+    "administrator": "Asotin County Board of Commissioners / Lodging Tax Advisory Committee",
+    "url": "https://www.asotincountywa.gov/407/Lodging-Tax-Grant-Application",
+    "funds": "County received $189,088 in 2024 lodging tax distributions (DOR Table L1); grant pool not published",
+    "eligibility": "Tourism promotion projects in Asotin County; online application form on the county website",
+    "deadline": null,
+    "deadline_pattern": "Application window September 1 to September 30 for the following year (2024 cycle posted); 2026 window not confirmed online",
+    "notes": "The City of Clarkston also runs its own lodging tax distribution (2025: Visit Lewis-Clark Valley $145,000, Valley Vision $10,000, Asotin County Family Aquatic Center $25,000 per Lewiston Tribune, Dec. 2024), but that is for Clarkston projects. Visit Lewis-Clark Valley is the regional DMO.",
+    "contact": "Asotin County Commissioners' office via asotincountywa.gov (no named grant contact posted)"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "La Center",
+  "type": "city",
+  "county": "Clark",
+  "tax_rate": "2% special hotel-motel tax, location code 0603 (DOR Q2 2026 lodging rate flyer)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "La Center levies the 2% lodging tax but its 2024 receipts are confidential in DOR Table L1 (fewer than three taxpayers; the ilani casino hotel sits on Cowlitz tribal trust land outside the city tax base) and it reported no lodging tax spending to JLARC for 2022-2024. No LTAC page, application or award history was found on ci.lacenter.wa.us or in council records. Treat as no program; Clark County itself also has no open grant process, so Visit Vancouver WA marketing support is the practical route.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "La Center 2024 distribution marked confidential (CTI)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Clark County lodging tax (unincorporated county, 2%)",
+    "administrator": "Clark County Council / County Manager's Office",
+    "url": "https://clark.wa.gov/",
+    "funds": "County received $2,028,908 in 2024 lodging tax distributions (DOR Table L1); no published competitive grant pool found",
+    "eligibility": "No open application process found online; county lodging tax has historically supported the county tourism contract (Visit Vancouver WA) and county facilities rather than outside grants",
+    "deadline": null,
+    "deadline_pattern": "No published cycle",
+    "notes": "Clark County does not post an LTAC grant application page; events in north Clark County typically seek sponsorship through Visit Vancouver WA or the City of Vancouver LTAC program (city limits only). Confirm with the County Manager's Office.",
+    "contact": null
+   },
+   {
+    "program": "Visit Vancouver WA (destination marketing organization for Clark County)",
+    "administrator": "Visit Vancouver WA",
+    "url": "https://www.visitvancouverwa.com/about/",
+    "funds": "Funded by city and county lodging tax contracts and the Vancouver TPA; offers event listing, marketing support and limited sponsorships rather than cash grants",
+    "eligibility": "Tourism events and attractions in Clark County",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "Best first call for marketing help for a north Clark County event.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "McCleary",
+  "type": "city",
+  "county": "Grays Harbor",
+  "tax_rate": "3% special hotel-motel tax, location code 1405 (DOR Q2 2026 lodging rate flyer); city budget books it as 'Hotel/Motel Stadium Tax' in the Current Expense fund",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "About $30 per year (2019-2020 city budget)",
+  "url": "https://www.cityofmccleary.com/",
+  "contact": null,
+  "notes": "McCleary's lodging tax is effectively nil: the 2020 city budget (council packet Nov. 13, 2019) shows $0 collected 2016-2018, $32.34 in 2019 and $30 budgeted for 2020, booked straight into the Current Expense fund with no tourism fund or committee. 2024 DOR distributions are confidential. Because McCleary levies a 3% tax of its own, note that Grays Harbor County's tourism grant excludes projects located in cities that manage their own 3% lodging tax, so a McCleary-sited event should confirm eligibility with the county tourism office before applying.",
+  "confidence": "high",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "City budget shows roughly $30 a year in lodging tax; nothing is available to applicants.",
+  "funding_docs": [
+   {
+    "title": "McCleary City Council packet, November 13, 2019 (2020 preliminary budget)",
+    "doc_type": "budget",
+    "year": "2020",
+    "url": "https://www.cityofmccleary.com/sites/default/files/fileattachments/city_council/meeting/packets/5134/council_packet_11-13-2019.pdf",
+    "summary": "Shows Hotel/Motel Stadium Tax revenue of $0 for 2016-2018, $32.34 in 2019 and $30 proposed for 2020 in the Current Expense fund; no lodging tax fund, committee or grants."
+   },
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "McCleary 2024 distribution marked confidential (CTI)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Grays Harbor County Tourism Hospitality Services and Special Projects Grant (lodging tax funded)",
+    "administrator": "Grays Harbor County Department of Tourism (Grays Harbor Tourism), 32 Elma-McCleary Road, Elma",
+    "url": "https://visitgraysharbor.com/wp-content/uploads/2026/08/2027-FILLABLE-Hospitality-Services-and-Special-Projects-Grant-Application.pdf",
+    "funds": "Up to $100,000 available in the category for 2027, maximum $20,000 per application; a separate Major Tourism Project Grant exists for larger capital/attraction projects",
+    "eligibility": "Tax-exempt nonprofits (501(c)(3), 501(c)(6)) and government agencies that do not collect their own 3% lodging tax; projects in cities that manage their own lodging tax (which includes McCleary at 3%) are excluded, so a McCleary-located event may be ineligible; confirm with the tourism office",
+    "deadline": "2026-09-15",
+    "deadline_pattern": "Applications accepted August 15 to September 15 each year for the following year; mailed or hand-delivered only",
+    "notes": "County collected $2,986,793 in 2024 lodging tax (DOR Table L1). Grant workshop held in August.",
+    "contact": "Grays Harbor Tourism, PO Box 1229, Elma, WA 98541, (800) 621-9625"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Metaline",
+  "type": "city",
+  "county": "Pend Oreille",
+  "tax_rate": "2% special hotel-motel tax, location code 2603 (DOR Q2 2026 lodging rate flyer)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "$2,713 (2024 DOR distribution)",
+  "url": null,
+  "contact": null,
+  "notes": "Metaline (pop. under 200) received $2,713 in lodging tax in 2024 per DOR Table L1 and reported no lodging tax spending to JLARC for 2022-2024. The town has no website presence for an LTAC or application process. Any tourism funding for a north-county event should go through the Pend Oreille County hotel/motel tax grant, which takes applications in late fall.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts of $2,713 per DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Metaline 2024 total distribution $2,713."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pend Oreille County Hotel/Motel Tax tourism promotion grants",
+    "administrator": "Pend Oreille County Board of County Commissioners (Hotel/Motel Tax Advisory Board)",
+    "url": "https://www.pendoreilleco.org/board-county-commissioners/page/hotelmotel-tax-advisory-board-meeting",
+    "funds": "County received $79,637 in 2024 lodging tax distributions (DOR Table L1); grant pool not published",
+    "eligibility": "Tourism promotion projects in Pend Oreille County; applications available at the commissioners' office and on the county site under County Commissioners",
+    "deadline": null,
+    "deadline_pattern": "Applications due in early December for the following year (December 2, 2024 for 2025 funds per Pend Oreille River Valley news brief); 2026 date not confirmed",
+    "notes": "County site redirected to pendoreille.gov and could not be fetched; dates come from local news. The advisory board meets after the deadline to recommend awards to the commissioners.",
+    "contact": "Pend Oreille County Commissioners' office, (509) 447-4119"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Metaline Falls",
+  "type": "city",
+  "county": "Pend Oreille",
+  "tax_rate": "Lodging tax levied (not listed separately on the DOR Q2 2026 rate flyer, which lists only Metaline for the north county); DOR Table L1 reports a 2024 distribution to Metaline Falls",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "$390 (2024 DOR distribution)",
+  "url": null,
+  "contact": null,
+  "notes": "Metaline Falls received $390 in lodging tax in 2024 per DOR Table L1 and reported no lodging tax spending to JLARC for 2022-2024. No LTAC, application or grant program exists; the town's lodging base is a single historic hotel. Use the Pend Oreille County hotel/motel tax grant for an event in the Metaline Falls area.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts of $390 per DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Metaline Falls 2024 total distribution $390."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pend Oreille County Hotel/Motel Tax tourism promotion grants",
+    "administrator": "Pend Oreille County Board of County Commissioners (Hotel/Motel Tax Advisory Board)",
+    "url": "https://www.pendoreilleco.org/board-county-commissioners/page/hotelmotel-tax-advisory-board-meeting",
+    "funds": "County received $79,637 in 2024 lodging tax distributions (DOR Table L1); grant pool not published",
+    "eligibility": "Tourism promotion projects in Pend Oreille County; applications available at the commissioners' office and on the county site under County Commissioners",
+    "deadline": null,
+    "deadline_pattern": "Applications due in early December for the following year (December 2, 2024 for 2025 funds per Pend Oreille River Valley news brief); 2026 date not confirmed",
+    "notes": "County site redirected to pendoreille.gov and could not be fetched; dates come from local news. The advisory board meets after the deadline to recommend awards to the commissioners.",
+    "contact": "Pend Oreille County Commissioners' office, (509) 447-4119"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Milton",
+  "type": "city",
+  "county": "Pierce",
+  "tax_rate": "2% lodging excise tax (Pierce County portion, RCW 67.28.180) and 2% special excise tax on lodging with 59 or fewer units in the King County portion (Milton Municipal Code 3.17); DOR location code 2709",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "$2,033 (2024 DOR distribution)",
+  "url": "https://codepublishing.com/WA/Milton/html/Milton03/Milton0317.html",
+  "contact": null,
+  "notes": "Milton Municipal Code chapter 3.17 levies the tax, creates a lodging tax fund and provides for a five-member LTAC (council chair, two lodging collectors, two recipients), but the city has almost no lodging: DOR Table L1 shows $2,033 distributed in 2024 and the city reported no spending to JLARC for 2022-2024. No LTAC roster, application or awards appear on cityofmilton.net. Milton is expressly within the Pierce County Lodging Tax Grant Program's eligible area, which is the real funding route.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts of $2,033 per DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "Milton Municipal Code Chapter 3.17 Lodging Tax",
+    "doc_type": "resolution",
+    "year": null,
+    "url": "https://codepublishing.com/WA/Milton/html/Milton03/Milton0317.html",
+    "summary": "Levies 2% lodging taxes in the Pierce and King County portions of the city, establishes a lodging tax fund for tourism promotion under RCW 67.28, and provides for a five-member lodging tax advisory committee; no application process described."
+   },
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Milton 2024 total distribution $2,033."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pierce County Lodging Tax Grant Program",
+    "administrator": "Pierce County Economic Development Department",
+    "url": "https://www.piercecountywa.gov/5733/Lodging-Tax-Program",
+    "funds": "2027 cycle pool $5,308,730 across six categories (Event Marketing and Operations $540,000; Event Development $118,730; Sports Event Development $60,000; Individual Leisure Marketing $1,500,000; Asset/Product Development $2,290,000; Personnel and Administration $800,000)",
+    "eligibility": "Municipalities and 501(c)(3)/501(c)(6) organizations at least one year old; projects must benefit lodging in areas paying into the county lodging tax, which expressly includes Milton and Orting (only Fife, Gig Harbor, Lakewood, Puyallup and Tacoma are excluded); a one-on-one meeting with staff is required before submitting",
+    "deadline": "2026-07-03",
+    "deadline_pattern": "Applications for the following year open in early June and close in early July (June 4 to July 3, 2026 for 2027 funds); LTAC meets about four times a year",
+    "notes": "County LTAC has 12 members chaired by a County Council member. 2024 county lodging tax distributions were $5.44 million (DOR Table L1).",
+    "contact": "Mike Gommi, Pierce County Economic Development, mike.gommi@piercecountywa.gov; department line (253) 798-6150"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Naches",
+  "type": "city",
+  "county": "Yakima",
+  "tax_rate": "Lodging tax levied (Naches is not listed separately on the DOR Q2 2026 rate flyer; DOR Table L1 reports a 2024 distribution)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "$393 (2024 DOR distribution)",
+  "url": null,
+  "contact": null,
+  "notes": "The Town of Naches received $393 in lodging tax in 2024 per DOR Table L1 and reported no lodging tax spending to JLARC for 2022-2024. No LTAC, application or award history was found for the town. Yakima County's hotel/motel fund has no open application either; the City of Yakima's Tourism Promotion Grant is limited to city projects. Yakima Valley Tourism is the regional marketing partner for a Naches-area event.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts of $393 per DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Naches 2024 total distribution $393."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Yakima County Hotel/Motel Tax fund (Fund 131, 2% unincorporated)",
+    "administrator": "Yakima County Board of County Commissioners",
+    "url": "https://yakimacounty.us/DocumentCenter/View/439",
+    "funds": "County distributions were $878,325 in 2024 (DOR Table L1); historically committed to Sundome debt, Yakima Valley Tourism (visitors bureau), Capitol Theatre and Yakima Valley Museum",
+    "eligibility": "No open application program found online; funds are allocated through the county budget to standing recipients",
+    "deadline": null,
+    "deadline_pattern": "No published cycle",
+    "notes": "The City of Yakima runs a separate Tourism Promotion Grant with a mid-year deadline for city-limits projects only (https://www.yakimawa.gov/services/finance/tourism-promotion-grants-lodging-tax-funded/). Naches-area events should also talk to Yakima Valley Tourism about marketing support.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Orting",
+  "type": "city",
+  "county": "Pierce",
+  "tax_rate": "2% special hotel-motel tax, location code 2710 (DOR Q2 2026 lodging rate flyer)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "$1,392 (2024 DOR distribution)",
+  "url": null,
+  "contact": null,
+  "notes": "Orting received $1,392 in lodging tax in 2024 per DOR Table L1 and reported no lodging tax spending to JLARC for 2022-2024; the city has no hotel and no LTAC page, application or awards on cityoforting.org. Orting is expressly named in the Pierce County Lodging Tax Grant Program's eligible area, so a Mount Rainier-gateway event in Orting should apply to the county (2027 cycle closed July 3, 2026; next window expected June 2027).",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts of $1,392 per DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Orting 2024 total distribution $1,392."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pierce County Lodging Tax Grant Program",
+    "administrator": "Pierce County Economic Development Department",
+    "url": "https://www.piercecountywa.gov/5733/Lodging-Tax-Program",
+    "funds": "2027 cycle pool $5,308,730 across six categories (Event Marketing and Operations $540,000; Event Development $118,730; Sports Event Development $60,000; Individual Leisure Marketing $1,500,000; Asset/Product Development $2,290,000; Personnel and Administration $800,000)",
+    "eligibility": "Municipalities and 501(c)(3)/501(c)(6) organizations at least one year old; projects must benefit lodging in areas paying into the county lodging tax, which expressly includes Milton and Orting (only Fife, Gig Harbor, Lakewood, Puyallup and Tacoma are excluded); a one-on-one meeting with staff is required before submitting",
+    "deadline": "2026-07-03",
+    "deadline_pattern": "Applications for the following year open in early June and close in early July (June 4 to July 3, 2026 for 2027 funds); LTAC meets about four times a year",
+    "notes": "County LTAC has 12 members chaired by a County Council member. 2024 county lodging tax distributions were $5.44 million (DOR Table L1).",
+    "contact": "Mike Gommi, Pierce County Economic Development, mike.gommi@piercecountywa.gov; department line (253) 798-6150"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Pomeroy",
+  "type": "city",
+  "county": "Garfield",
+  "tax_rate": "2% special excise tax on lodging (Pomeroy Municipal Code 3.10, Ord. 834, 2007); DOR rate flyer lists no special hotel-motel code for Pomeroy",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "$864 (2024 DOR distribution)",
+  "url": "https://codepublishing.com/WA/Pomeroy/html/Pomeroy03/Pomeroy0310.html",
+  "contact": null,
+  "notes": "Pomeroy Municipal Code chapter 3.10 levies a 2% lodging tax into a general fund sub-account for advertising and tourism under RCW 67.28 but creates no advisory committee or application process. DOR Table L1 shows $864 distributed in 2024 and the city reported no spending to JLARC for 2022-2024. Garfield County received $0, so there is no county program either; the Pomeroy Chamber of Commerce and Garfield County Fair are the local event partners.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts of $864 per DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "Pomeroy Municipal Code Chapter 3.10 Special Excise Tax on Lodging",
+    "doc_type": "resolution",
+    "year": "2007",
+    "url": "https://codepublishing.com/WA/Pomeroy/html/Pomeroy03/Pomeroy0310.html",
+    "summary": "Ord. 834 levies a 2% lodging tax, deposits it in a general fund sub-account and allows use for tourism advertising and other RCW 67.28 purposes; no advisory committee or grant process."
+   },
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Pomeroy 2024 total distribution $864; Garfield County $0."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Garfield County lodging tax",
+    "administrator": "Garfield County Board of Commissioners",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "funds": "DOR Table L1 shows $0 in 2024 lodging tax distributions to Garfield County, so there is no county pool",
+    "eligibility": "Not applicable",
+    "deadline": null,
+    "deadline_pattern": "None",
+    "notes": "Garfield County has no meaningful lodging tax revenue; the Pomeroy Chamber of Commerce and the Garfield County Fair are the practical partners for an event in Pomeroy.",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Ridgefield",
+  "type": "city",
+  "county": "Clark",
+  "tax_rate": "2% special hotel-motel tax, location code 0604 (DOR Q2 2026 lodging rate flyer)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "$0 (2024 DOR distribution)",
+  "url": "https://ridgefieldwa.us/236/Tax-Payer-Information",
+  "contact": null,
+  "notes": "Ridgefield levies the 2% lodging tax but DOR Table L1 shows $0 distributed in 2024 (the city had no hotel; ilani's hotel is on Cowlitz tribal land outside the city) and the city reported no spending to JLARC for 2022-2024. The city's tax information page does not mention lodging tax and no LTAC, application or awards were found in council records. If a hotel opens inside city limits the city would need to form an LTAC under RCW 67.28.1817 before spending; until then Clark County and Visit Vancouver WA are the only routes.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No lodging tax receipts in 2024 per DOR Table L1.",
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Ridgefield 2024 total distribution $0."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Clark County lodging tax (unincorporated county, 2%)",
+    "administrator": "Clark County Council / County Manager's Office",
+    "url": "https://clark.wa.gov/",
+    "funds": "County received $2,028,908 in 2024 lodging tax distributions (DOR Table L1); no published competitive grant pool found",
+    "eligibility": "No open application process found online; county lodging tax has historically supported the county tourism contract (Visit Vancouver WA) and county facilities rather than outside grants",
+    "deadline": null,
+    "deadline_pattern": "No published cycle",
+    "notes": "Clark County does not post an LTAC grant application page; events in north Clark County typically seek sponsorship through Visit Vancouver WA or the City of Vancouver LTAC program (city limits only). Confirm with the County Manager's Office.",
+    "contact": null
+   },
+   {
+    "program": "Visit Vancouver WA (destination marketing organization for Clark County)",
+    "administrator": "Visit Vancouver WA",
+    "url": "https://www.visitvancouverwa.com/about/",
+    "funds": "Funded by city and county lodging tax contracts and the Vancouver TPA; offers event listing, marketing support and limited sponsorships rather than cash grants",
+    "eligibility": "Tourism events and attractions in Clark County",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "Best first call for marketing help for a north Clark County event.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Riverside",
+  "type": "city",
+  "county": "Okanogan",
+  "tax_rate": "2% special hotel-motel tax, location code 2410 (DOR Q2 2026 lodging rate flyer)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "Confidential/near zero (2024 DOR distribution)",
+  "url": null,
+  "contact": null,
+  "notes": "The Town of Riverside (pop. about 300) levies the 2% lodging tax; DOR Table L1 shows $0 for 2024 with components suppressed as confidential, and the town reported no spending to JLARC for 2022-2024. No LTAC, application or grant program exists. Okanogan County's Lodging Tax Fund grant (mid-August deadline, 50% match for marketing) is the funding route for an event in the Riverside area.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts suppressed as confidential in DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Riverside 2024 total distribution $0 (two components confidential)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Okanogan County Lodging Tax Fund grants",
+    "administrator": "Okanogan County Lodging Tax Advisory Committee / Board of County Commissioners",
+    "url": "https://www.okanogancounty.gov/DocumentCenter/View/7238",
+    "funds": "Pool not published; county distributions were $829,564 in 2024 (DOR Table L1); marketing projects require a 50% match",
+    "eligibility": "Nonprofits and municipally owned entities or visitor information centers promoting tourism in Okanogan County; county tax is 4% in unincorporated areas",
+    "deadline": "2026-08-14",
+    "deadline_pattern": "Applications for the following year due mid-August (August 14, 2026, 5 pm for 2027 funds)",
+    "notes": "LTAC reviews and recommends; commissioners approve. For-profits not eligible directly.",
+    "contact": "Stacy McClellan, LTAC Clerk, smcclellan@okanogancounty.gov, (509) 422-7100"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "South Cle Elum",
+  "type": "city",
+  "county": "Kittitas",
+  "tax_rate": "2% special hotel-motel tax, location code 1905 (DOR Q2 2026 lodging rate flyer)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "Confidential/near zero (2024 DOR distribution)",
+  "url": null,
+  "contact": null,
+  "notes": "South Cle Elum levies the 2% lodging tax; DOR Table L1 shows $0 for 2024 with components suppressed as confidential (the Iron Horse Inn B&B is the main lodging), and the town reported no spending to JLARC for 2022-2024. No LTAC, application or awards were found. Kittitas County's CLTAC program is a joint fund of the county and the cities of Cle Elum, Ellensburg and Roslyn; South Cle Elum is not a listed participant, so confirm with the County Auditor whether a South Cle Elum event (which draws county-wide overnight stays) can apply.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts suppressed as confidential in DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "South Cle Elum 2024 total distribution $0 (two components confidential)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Kittitas County Lodging Tax Fund (CLTAC) grants",
+    "administrator": "Kittitas County Auditor's Office (joint program of Kittitas County and the cities of Cle Elum, Ellensburg and Roslyn)",
+    "url": "https://co.kittitas.wa.us/auditor/accounting/lodging-tax/cltac-guide.aspx",
+    "funds": "Pool not stated on the guide page; county distributions were $2,623,195 in 2024 (DOR Table L1); ongoing events capped at 10% of expense budget",
+    "eligibility": "Nonprofits (501(c)(3), 501(c)(6)) and public entities for tourism marketing, events and festivals, and tourism facilities; South Cle Elum is not listed as a participating city, so confirm with the Auditor whether a South Cle Elum event qualifies (events are scored on county-wide tourism impact)",
+    "deadline": "2026-09-18",
+    "deadline_pattern": "Applications due mid-September (September 18, 2026, 4 pm) for the following year; workshops in mid-August; oral presentations to CLTAC in late November (November 20, 2026)",
+    "notes": "Minimum average score of 50 points; preference for projects that increase overnight stays and show a path to self-sustainability.",
+    "contact": "Kittitas County Auditor, auditorsaccounting@co.kittitas.wa.us, (509) 962-7552"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Washtucna",
+  "type": "city",
+  "county": "Adams",
+  "tax_rate": "2% special hotel-motel tax, location code 0105 (DOR Q2 2026 lodging rate flyer)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "Confidential/near zero (2024 DOR distribution)",
+  "url": null,
+  "contact": null,
+  "notes": "Washtucna (pop. about 200) levies the 2% lodging tax; its 2024 receipts are confidential in DOR Table L1 and it reported no spending to JLARC for 2022-2024. The town has no website LTAC presence, application or awards. Adams County itself collected only $815 in 2024 and has no grant program, so the nearest active lodging tax program is the City of Othello's LTAC.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "2024 receipts suppressed as confidential in DOR Table L1; no grant pool.",
+  "funding_docs": [
+   {
+    "title": "WA Department of Revenue Table L1, 2024 local lodging tax distributions",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf",
+    "summary": "Washtucna 2024 distribution marked confidential (CTI)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Adams County tourism enhancement fund (2% lodging tax)",
+    "administrator": "Adams County Board of Commissioners",
+    "url": "https://codepublishing.com/WA/AdamsCounty/html/AdamsCounty03/AdamsCounty0314.html",
+    "funds": "County received $815 in 2024 lodging tax distributions (DOR Table L1); no grant pool",
+    "eligibility": "No application program",
+    "deadline": null,
+    "deadline_pattern": "None",
+    "notes": "Revenue is negligible; the cities of Othello (which has its own LTAC, https://www.othellowa.gov/lodging-tax-advisory-committee) and Ritzville hold the county's lodging and run their own programs.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ }
+]

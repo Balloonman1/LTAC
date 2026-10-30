@@ -1,0 +1,77 @@
+{
+  "name": "Poulsbo",
+  "type": "city",
+  "county": "Kitsap",
+  "tax_rate": "4% (per city LTAC open house presentation, 2024)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2026-09-03",
+  "funding_year": 2027,
+  "deadline_pattern": "Applications open late June and close in early September for the following calendar year's funding; 2024 cycle also closed in early September",
+  "typical_open": "Late June (June 26, 2026 for the 2027 cycle)",
+  "annual_pool": "2026/2027 pool not published; 2025 cycle awarded $637,350 across 14 organizations (largest: City of Poulsbo $249,000, WWU SEA Discovery Center $105,850)",
+  "url": "https://poulsbo.gov/lodging-tax-grant-program/",
+  "contact": "Emily Hasche, Special Events Coordinator / Lodging Tax Grant Coordinator, ltac@poulsbo.gov, (360) 394-9771; Jeff Ozimek, Parks & Recreation Director, (360) 394-9774; general LTAC line 360-394-9898",
+  "notes": "Program is called the Poulsbo Tourism Grant and is run by Parks & Recreation; 2027 funding applications closed September 3, 2026, applicants presented to LTAC September 30, LTAC deliberated October 15, council review November 4, 2026, with award letters emailed December 30, 2026; weighting favors new applicants, off-season (Oct-Apr) events, and proven overnight stays within city limits.",
+  "confidence": "high",
+  "members": [
+    {"name": "Michael Fitzpatrick", "role": "Elected official (chair)", "affiliation": "Poulsbo City Council", "email": null, "phone": null},
+    {"name": "Ashley Walchok", "role": "Lodging tax collector representative", "affiliation": "Fairfield Inn & Suites by Marriott", "email": null, "phone": null},
+    {"name": "Melissa Smith", "role": "Lodging tax collector representative", "affiliation": "360 Vacation Rentals", "email": null, "phone": null},
+    {"name": "Greg Enright", "role": "Eligible applicant representative", "affiliation": "Cultural Arts Foundation of the Northwest", "email": null, "phone": null},
+    {"name": "Kathi Foresee", "role": "Eligible applicant representative", "affiliation": "Viking Fest Corporation", "email": null, "phone": null},
+    {"name": "Debbie Booher", "role": "Staff (non-voting)", "affiliation": "City of Poulsbo, Assistant City Administrator", "email": null, "phone": null},
+    {"name": "Larissa Campbell", "role": "Staff (non-voting)", "affiliation": "City of Poulsbo, Senior Accountant", "email": null, "phone": null},
+    {"name": "Emily Hasche", "role": "Staff (non-voting), Lodging Tax Grant Coordinator", "affiliation": "City of Poulsbo Parks & Recreation", "email": "ltac@poulsbo.gov", "phone": "(360) 394-9771"},
+    {"name": "Jeff Ozimek", "role": "Staff (non-voting)", "affiliation": "City of Poulsbo Parks & Recreation, Director", "email": null, "phone": "(360) 394-9774"}
+  ],
+  "members_source": "https://poulsbo.gov/lodging-tax-grant-program/ (LTAC Members 2026-2027 section); staff phones from https://poulsbo.gov/contact-parks-recreation/",
+  "members_as_of": "2026-10-29",
+  "presentation": {
+    "required": true,
+    "date": "2026-09-30",
+    "pattern": "Selected applicants present to LTAC in late September, about four weeks after the application deadline (Sept 26, 2024 interviews; Sept 30, 2026 presentations)",
+    "format": "In-person presentation/interview with LTAC; applicants are notified of date, time and place and may be asked to attend; format length not published"
+  },
+  "meeting_schedule": "No standing monthly schedule; LTAC meets as needed per annual timeline: mid-June to set weighting guidelines (June 17, 2026), late September for applicant presentations (Sept 30, 2026), mid-October for award deliberations (Oct 15, 2026); recommendations go to City Council in early November (Nov 4, 2026)",
+  "total_pool_usd": 637350,
+  "competitive_pool_usd": 388350,
+  "pool_note": "2025: $637,350 total awarded (lodging tax revenue and fund budget not published online; the 2025-2026 budget PDF could not be fetched); $249,000 went to the City of Poulsbo itself, leaving $388,350 awarded across 13 outside applicants, of which $105,000 went to DMO-type recipients (Visit Kitsap Peninsula $55,000, Poulsbo Chamber/Visit Poulsbo $50,000) through the same application process.",
+  "funding_docs": [
+    {
+      "title": "Poulsbo Tourism (Lodging Tax) Grant Program page, 2026/2027 cycle",
+      "doc_type": "guidelines",
+      "year": "2027",
+      "url": "https://poulsbo.gov/lodging-tax-grant-program/",
+      "summary": "Program overview with eligible uses under RCW 67.28.1816, the 2026/2027 weighting criteria (new applicants, off-season October-April events, proven overnight stays in city lodging, self-sustainability within 3 years, 25% or less for applicant operations), required application materials, quarterly reimbursement rules and the 2026-2027 LTAC roster. No total pool or award caps are stated."
+    },
+    {
+      "title": "2026/2027 Poulsbo Tourism Grant press release",
+      "doc_type": "guidelines",
+      "year": "2027",
+      "url": "https://poulsbo.gov/wp-content/uploads/2026/07/2026-07-Poulsbo-Tourism-Grant.pdf",
+      "summary": "Announces the 2027 funding cycle with a September 3, 2026 deadline and restates the core and secondary weighting priorities; contact ltac@poulsbo.gov. No dollar amounts stated."
+    },
+    {
+      "title": "2026-2027 LTAC Timeline (updated 6.24.26)",
+      "doc_type": "other",
+      "year": "2027",
+      "url": "https://poulsbo.gov/wp-content/uploads/2026/07/2026-2027-LTAC-Timeline-Updated-6.24.26.pdf",
+      "summary": "Full allocation calendar: staff estimate 2027 grant funding May 29, LTAC sets weighting June 17, applications June 26 to Sept 3, applicant presentations Sept 30, LTAC deliberations Oct 15, council review Nov 4, award letters Dec 30, plus 2026 quarterly claim deadlines. No dollar figures."
+    },
+    {
+      "title": "2025 Poulsbo Tourism Grant Award Summary",
+      "doc_type": "award list",
+      "year": "2025",
+      "url": "https://poulsbo.gov/wp-content/uploads/2024/08/2025-Poulsbo-Tourism-Grant-Award-Summary.pdf",
+      "summary": "Lists $637,350 awarded across 14 organizations for 2025; largest awards were City of Poulsbo $249,000, WWU SEA Discovery Center $105,850, Visit Kitsap Peninsula $55,000, HDPA $50,000 and Poulsbo Chamber/Visit Poulsbo $50,000, with the smallest at $1,000."
+    },
+    {
+      "title": "Poulsbo Tourism Grant Application 2027",
+      "doc_type": "other",
+      "year": "2027",
+      "url": "https://poulsbo.gov/wp-content/uploads/2026/08/Poulsbo-Tourism-Grant-Application-2027.pdf",
+      "summary": "Application form requiring a project budget, most recent financials and economic-impact reporting; awardees must sign a Tourism Promotion Services Agreement and file mid-year and year-end reports. No funding totals or caps stated."
+    }
+  ]
+}

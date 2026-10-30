@@ -50,3 +50,9 @@ Caveats: figures are self-reported by recipients; about a quarter of rows have n
 
 - "Report a correction" on a card writes to the artifact's `corrections` collection. Ask Claude for an export to review them.
 - Visitors who sign in with an email on the artifact get reminder emails 30, 14 and 3 days before each deadline on their follow list, sent by a weekly scheduled task that reads the `lists` collection and this repo's `data.json`.
+
+## Rebuilding
+
+`python3 build/run.py` rebuilds everything from the data files: `build/batches/*.json` (jurisdiction research, one record per jurisdiction), `jlarc/normalized.json`, `awards2526/out_*.json`, `altawards/*.json`, `grants/*.json`. It writes `data.json`, `jlarc/events.json` and `index.html`. The site date (`ASOF` in `build/build2.py`) should be set to the rebuild date. No dependencies beyond Python 3.
+
+To update a jurisdiction, edit its record in the right `build/batches/` file (search by `"name"`). To add a funding program, append to `grants/local.json` or `grants/statewide.json` using the same fields. Then rebuild and commit; Netlify deploys from `main`.

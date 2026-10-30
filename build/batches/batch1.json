@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Seattle",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "City special hotel-motel tax not imposed; 7% King County convention and trade center tax inside Seattle; 2.3% STIA fee at 71 downtown hotels",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": null,
+    "notes": "No city LTAC grant program found; Seattle lodging taxes go to the Washington State Convention Center and the STIA fee goes to Visit Seattle marketing.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "WA Department of Revenue Tax Reference Manual: Convention Center Taxes",
+        "doc_type": "other",
+        "year": "current",
+        "url": "https://www.dor.wa.gov/sites/default/files/2022-03/TRM_07ConventionCenter.pdf",
+        "summary": "Describes the King County convention and trade center tax (7% inside Seattle, 2.8% elsewhere in King County) that funds the Washington State Convention Center; this is where Seattle lodging tax goes rather than to a city grant program."
+      },
+      {
+        "title": "Hotel and Lodging Tax in Seattle 2026 (Roommaster summary)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.roommaster.com/hotel-tax/seattle",
+        "summary": "Secondary summary showing Seattle's combined 15.7% lodging rate, no city special hotel-motel tax imposed, and the 2.3% STIA fee at 71 downtown hotels that funds Visit Seattle marketing."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 0,
+    "pool_note": "No city lodging tax fund: the 7% convention center tax inside Seattle is a King County/state levy committed to Washington State Convention Center debt and the STIA fee goes to Visit Seattle, so nothing is open to outside applicants."
+  },
+  {
+    "name": "Bellevue",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "5.5% city transient occupancy tax (grandfathered) plus $2.50/night TPA fee",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/Econ%20Dev%202021-2022%20Adopted%20Budget.pdf",
+    "contact": null,
+    "notes": "100% of Bellevue's lodging tax passes to the Bellevue Convention Center Authority (Meydenbauer Center) under an agreement running to 2034, so there is no open LTAC application.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "City of Bellevue 2021-2022 Adopted Budget, Economic Development proposals",
+        "doc_type": "budget",
+        "year": "2021-2022",
+        "url": "https://bellevuewa.gov/sites/default/files/media/pdf_document/2021/Econ%20Dev%202021-2022%20Adopted%20Budget.pdf",
+        "summary": "States that 100% of Bellevue's transient occupancy (lodging) tax passes through to the Bellevue Convention Center Authority under an operating agreement running to 2034, paying Meydenbauer Center bonds, capital reinvestment and part of operations."
+      },
+      {
+        "title": "Bellevue Ordinance 5005 (hotel/motel tax)",
+        "doc_type": "ordinance",
+        "year": null,
+        "url": "https://bellevue.municipal.codes/enactments/Ord5005/media/original.pdf",
+        "summary": "City ordinance governing Bellevue's special hotel/motel tax; no outside grant process is created by it."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 0,
+    "pool_note": "Revenue figure not published; per the 2021-22 budget 100% of the city's lodging tax passes through to the Bellevue Convention Center Authority through 2034, leaving nothing for outside applicants."
+  },
+  {
+    "name": "SeaTac",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "1% lodging tax (per city application)",
+    "has_ltac_grants": true,
+    "cycle": "biennial",
+    "deadline": "2026-05-29",
+    "funding_year": "2027-2028",
+    "deadline_pattern": "Around May 31 of the second year of each biennial budget; off-cycle requests due 10 days before a regular Hotel Motel Advisory Committee meeting (2nd Wednesday)",
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://www.seatacwa.gov/government/city-departments/legal/city-clerk/citizen-advisory-committees/hotel-motel-tax-advisory-committee",
+    "contact": "Maria Langbauer, Senior Economic Development Strategist, mlangbauer@seatacwa.gov",
+    "notes": "Only municipalities, PFDs and 501(c)(3)/(c)(6) nonprofits are eligible; reimbursement-based; the special hotel/motel tax brought in about $2.06M in 2025.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Mohamed Egal",
+        "role": "Chair",
+        "affiliation": "Mayor, City of SeaTac",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jeffrey Bauknecht",
+        "role": null,
+        "affiliation": "Museum of Flight",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jamie Stenson",
+        "role": null,
+        "affiliation": "SeaTac BMX",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Luanne Coachman",
+        "role": null,
+        "affiliation": "Highline Garden",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Byron Pihuave",
+        "role": "Lodging representative",
+        "affiliation": "Cedarbrook Lodge (seat listed vacant on March 11, 2026 agenda)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Mollie Mad",
+        "role": "Lodging representative",
+        "affiliation": "BMI Hospitality",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.seatacwa.gov/home/showpublisheddocument/40868/639086662753470000",
+    "members_as_of": "2026-02-11",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "Hotel Motel Advisory Committee reviews applications at its regular monthly meetings; off-cycle requests are heard at the meeting following the 10-day submission cutoff; whether applicants present is not stated",
+      "format": null
+    },
+    "meeting_schedule": "Second Wednesday of each month, 3:00 pm, SeaTac City Hall",
+    "funding_docs": [
+      {
+        "title": "2026/27/28 SeaTac Lodging Tax Funding Application",
+        "doc_type": "guidelines",
+        "year": "2027-2028",
+        "url": "https://www.seatacwa.gov/home/showpublisheddocument/41098/639131425810070000",
+        "summary": "Application and instructions for the 2027-2028 biennial cycle due May 29, 2026; eligible uses are tourism marketing, special events and tourism facility operations or capital, open only to municipalities, PFDs and 501(c)(3)/(c)(6) nonprofits, paid on reimbursement."
+      },
+      {
+        "title": "HMAC meeting packet, March 11, 2026 (agenda, Feb 11 minutes, lodging tax distribution report)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://www.seatacwa.gov/home/showpublisheddocument/40868/639086662753470000",
+        "summary": "Shows special hotel/motel tax receipts of $2.16M (2023), $2.15M (2024) and $2.06M (2025) and the 2027/28 application timeline."
+      },
+      {
+        "title": "HMAC meeting packet, June 12, 2024 (2025-2026 funding request summary)",
+        "doc_type": "ltac packet",
+        "year": "2025-2026",
+        "url": "https://seatacwa.gov/home/showpublisheddocument/37054/638544840389370000",
+        "summary": "HMAC-recommended 2025-2026 awards totaling about $1.45M including WA Brewers Guild ($107K-$112K/yr), Museum of Flight ($100K/yr), The Roadhouse and Highline Botanical Garden ($112K-$116K/yr); estimates $2.2M/yr revenue and a $12.9M fund balance."
+      },
+      {
+        "title": "HMAC meeting packet, November 13, 2024 (2025/26 application, scoring sheet, June 24 minutes)",
+        "doc_type": "ltac packet",
+        "year": "2025-2026",
+        "url": "https://seatacwa.gov/home/showpublisheddocument/38261/638666802703570000",
+        "summary": "Scoring results for 2025/26 requests: SeaTac BMX capital and programming, Seattle Southside RTA shuttle, meetings and BMX incentives, and City TDDP implementation recommended; Highline Heritage Museum, Channel A TV and Highschool GG not recommended."
+      }
+    ],
+    "total_pool_usd": 2061859,
+    "competitive_pool_usd": 690000,
+    "pool_note": "Estimate: 2025 special hotel/motel tax receipts were $2.06M; the HMAC-recommended 2025-26 awards to outside organizations (WA Brewers Guild, Museum of Flight, The Roadhouse, Highline Botanical Garden, NW Symphony) total roughly $690K per year, with the remainder going to Seattle Southside RTA programs, city TDDP implementation and a $12.9M fund balance."
+  },
+  {
+    "name": "Spokane",
+    "type": "city",
+    "county": "Spokane",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-03-31",
+    "funding_year": "July 2026 - June 2027 events",
+    "deadline_pattern": "Two rounds per year: late March (events July-June) and early-mid October (2025 round due Oct 10 for January-June events)",
+    "typical_open": "March 1 for the spring round; mid-September for the fall round",
+    "annual_pool": null,
+    "url": "https://my.spokanecity.org/bcc/committees/tourism-and-cultural-investment-committee/",
+    "contact": "Council Member Zack Zappone (chair), taciapp@spokanecity.org",
+    "notes": "Run as Tourism and Cultural Investment (TACI) grants through the Neighborly portal; nonprofits, for-profits and public agencies can apply, up to $10,000 per organization.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Zack Zappone",
+        "role": "Chair",
+        "affiliation": "Spokane City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Rose Noble",
+        "role": "Activity representative",
+        "affiliation": "Tourism Representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Ginger Ewing",
+        "role": "Activity representative",
+        "affiliation": "Tourism Representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Rowena Pineda",
+        "role": "Activity representative",
+        "affiliation": "Tourism Representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jon Erickson",
+        "role": "Lodging representative",
+        "affiliation": "Hotel/Motel Representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Cami Aguayo",
+        "role": "Lodging representative",
+        "affiliation": "Hotel/Motel Representative",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Matt Jensen",
+        "role": "Lodging representative",
+        "affiliation": "Hotel/Motel Representative",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://my.spokanecity.org/bcc/committees/tourism-and-cultural-investment-committee/",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "TACI committee reviews written applications submitted through the Neighborly portal after each deadline and notifies awards about 4 weeks later (April 27, 2026 for the March round); no applicant presentation is described",
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "TACI Grant Flyer 2026",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/2026-02-taci-grant-flyer.pdf",
+        "summary": "Announces the spring 2026 round (open March 1, due March 31) with grants up to $10,000 per organization for events held July 2026 through June 2027."
+      },
+      {
+        "title": "TACI Grant Workshop Presentation, March 2026",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/taci-grant-workshop-presentation-march-2026.pdf",
+        "summary": "Technical assistance deck covering eligibility, the Neighborly portal and scoring for the 2026 TACI round."
+      },
+      {
+        "title": "TACI Committee minutes, November 21, 2025 (Spring 2026 awards)",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/minutes/2025/11/tcic-minutes-2025-11-21.pdf",
+        "summary": "Committee approved $81,000 for 15 spring 2026 grants plus $5,000 for Bloomsday's 50th, awards ranging $2,500-$10,000 with the largest $10,000 to The Family Guide, Blue Door Theatre and MasterClass Big Band Foundation."
+      },
+      {
+        "title": "FAQs for TACI Grant Application",
+        "doc_type": "guidelines",
+        "year": "2025",
+        "url": "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/faqs-for-taci-grant-application-2025-03-03.pdf",
+        "summary": "Explains the twice-yearly application rounds, that nonprofits, for-profits and public agencies may apply, and that the committee recommends awards to City Council."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 86000,
+    "pool_note": "Revenue not published; the Nov 21, 2025 TACI minutes awarded $86,000 across 16 outside grants for the spring 2026 round (max $10K each), and a second round of similar size runs each fall."
+  },
+  {
+    "name": "Tacoma",
+    "type": "city",
+    "county": "Pierce",
+    "tax_rate": "2% special hotel/motel tax; 5% at properties with 26+ rooms (includes 3% convention center tax)",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": null,
+    "notes": "No City of Tacoma LTAC application found; Tacoma is not in the Pierce County LTAC grant program, and the city's Special Events Funding ($90K, due Oct 21, 2025 for 2026) is paid from venue food-and-beverage tax, not lodging tax.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "WA Department of Revenue: Tacoma lodging tax rate change notice (July 2021)",
+        "doc_type": "other",
+        "year": "2021",
+        "url": "https://dor.wa.gov:443/sites/default/files/2022-02/2021_July_TacomaLodging.pdf",
+        "summary": "Lists Tacoma lodging taxes: 5% special hotel/motel tax at 26+ room properties (13.6% combined) and 2% at 25 or fewer rooms (12.3% combined)."
+      },
+      {
+        "title": "City of Tacoma 2026 Special Events Funding announcement",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://tacoma.gov/?p=31492",
+        "summary": "The city's only open event grant program: $90,000 to 28 organizations at $2,500-$5,000 each for free public events, funded by Tacoma Dome and Convention Center food-and-beverage tax, not lodging tax."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 0,
+    "pool_note": "No City of Tacoma lodging tax grant program was found and lodging tax revenue is not published; the city's $90K Special Events Funding comes from venue food-and-beverage tax, so lodging tax dollars open to outside applicants are 0."
+  },
+  {
+    "name": "Vancouver",
+    "type": "city",
+    "county": "Clark",
+    "tax_rate": "4% lodging tax (plus $2/night TPA fee)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-20",
+    "funding_year": "2027",
+    "deadline_pattern": "Around September 20 each year for the following calendar year; LTAC reviews in Oct-Nov, Council approves in December",
+    "typical_open": "Early August",
+    "annual_pool": null,
+    "url": "https://www.cityofvancouver.us/economic-prosperity-and-housing/lodging-tax-grant-program/",
+    "contact": "Andrew Westlund, Economic Development Management Analyst, andrew.westlund@cityofvancouver.us",
+    "notes": "Four grant types (Cultural Enrichment up to about $5K, Large Event/Festival for 2,500+ attendees, Tourism Program/Facilities, Tourism Organization Operating); requires a 501(c)(3)/(c)(6) host or fiscal sponsor.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Kim Harless",
+        "role": "Chair",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Steve Bowers",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Temple Lentz",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Janet Kenefsky",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jennifer Kenney",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Christie Rust",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Terry Goldman",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Ryan Hart",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Carla Rise",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.cityofvancouver.us/wp-content/uploads/2024/01/Final-LTAC-Minutes-24-02-14-Signed.pdf",
+    "members_as_of": "2024-02-14",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "LTAC reviews applications in October and November, about 3 to 8 weeks after the September 20 deadline, and sends recommendations to City Council in December; applicant presentations are not described",
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Advisory Committee Grant Program Guidelines (2026 update, for 2027 cycle)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.cityofvancouver.us/wp-content/uploads/2026/08/Lodging-Tax-Advisory-Committee-Grant-Program-Guidelines-2026-Update.pdf",
+        "summary": "Four categories: Cultural Enrichment targeted at $5,000 or less, Large Event/Festival typically $10,000-$25,000 (past awards up to $95,000), Tourism Program/Facilities ($15,000-$40,000 past program awards) and Tourism Organization Operating ($1M-$1.3M/yr to the DMO); no match required, scoring favors overnight stays, off-peak and outside-downtown events."
+      },
+      {
+        "title": "Lodging Tax Advisory Grants Flyer 2027",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.cityofvancouver.us/wp-content/uploads/2026/07/Lodging-Tax-Advisory-Grants_Flyer_2027.pdf",
+        "summary": "One-page notice: applications open Aug 4 and close Sept 20, 2026, with a virtual Q&A Aug 19."
+      },
+      {
+        "title": "LTAC Budget Memo (FY 2025)",
+        "doc_type": "budget",
+        "year": "2025",
+        "url": "https://cityofvancouver.us/wp-content/uploads/2024/05/LTAC-Budget-Memo-Final-1.pdf",
+        "summary": "Lodging tax revenue of about $3M/yr (3.7M in 2023); 50% is committed to Convention Center debt service and about $1.5M/yr is available for LTAC grant awards, with $6.3M cash reserves and a $2.9M debt guarantee."
+      },
+      {
+        "title": "Lodging Tax Grant Program page (links to 2026 award recommendations and scoring rubric)",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.cityofvancouver.us/economic-prosperity-and-housing/lodging-tax-grant-program/",
+        "summary": "Program page listing the 2026 award recommendations, scoring rubric and partnering-with-hotels guide; LTAC reviews in Oct-Nov and Council approves in December."
+      }
+    ],
+    "total_pool_usd": 3000000,
+    "competitive_pool_usd": 350000,
+    "pool_note": "Estimate: FY2025 memo shows about $3M/yr revenue with 50% to Convention Center debt and about $1.5M for LTAC awards, but the Tourism Organization Operating grant to the DMO takes $1M-$1.3M of that, leaving roughly $200K-$500K for outside events, programs and facilities."
+  },
+  {
+    "name": "Redmond",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "1% lodging tax",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-10",
+    "funding_year": "2027",
+    "deadline_pattern": "Early-to-mid August each year for the following calendar year (2027 cycle due Aug 10 at 5 p.m.)",
+    "typical_open": "Late July (July 20 for the 2027 cycle)",
+    "annual_pool": null,
+    "url": "https://www.redmond.gov/650/Tourism-Grants",
+    "contact": "Jackie Lalor, Economic Development & Tourism Program Administrator, 425-556-2209",
+    "notes": "Open to public or private organizations; grants may not exceed 50% of project cost and must attract overnight visitors.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Vanessa Kritzer",
+        "role": "Chair",
+        "affiliation": "Redmond City Council (Council Chair)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "George Manojlovic",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kim Saunderson",
+        "role": null,
+        "affiliation": "Also a BRTPA member",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Latha Sambamurti",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Nancy Heard",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Nate Moore",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Rashed Kanaan",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.redmond.gov/AgendaCenter/ViewFile/Minutes/_06022026-1498",
+    "members_as_of": "2026-06-02",
+    "presentation": {
+      "required": false,
+      "date": "2026-09-01",
+      "pattern": "Staff score written applications and LTAC adopts funding recommendations at a meeting about 3 weeks after the August deadline (Sept 1, 2026; Aug 26, 2025); agendas list no invited applicants",
+      "format": "written only"
+    },
+    "meeting_schedule": "Roughly quarterly on a Tuesday afternoon at Redmond City Hall with a call-in option (2026: Feb 24, Apr 27, Jun 2, Sep 1)",
+    "funding_docs": [
+      {
+        "title": "2027 Tourism Promotion Program Application",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.redmond.gov/DocumentCenter/View/42226/2027-Tourism-Promotion-Program-Application_FINAL",
+        "summary": "Application due Aug 10, 2026 at 5 p.m.; grants may not exceed 50% of project cost and must bring overnight visitors to Redmond; late submissions not accepted."
+      },
+      {
+        "title": "LTAC agenda, September 1, 2026 (2027 Tourism Grants funding recommendations)",
+        "doc_type": "ltac packet",
+        "year": "2027",
+        "url": "https://www.redmond.gov/AgendaCenter/ViewFile/Agenda/_09012026-1517",
+        "summary": "Meeting at which LTAC adopted its 2027 tourism grant funding recommendations for Council; the agenda itself does not print the award table."
+      },
+      {
+        "title": "LTAC minutes, August 26, 2025 (2026 grant recommendations)",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.redmond.gov/AgendaCenter/ViewFile/Minutes/_08262025-1401",
+        "summary": "LTAC approved $175,000 in 2026 event grant recommendations 6-0 after a record number of applications, including $17,000 to Surf Cup and $5,000 to Young Professionals Theater, with $25,000 available above staff recommendations."
+      },
+      {
+        "title": "LTAC minutes, April 27, 2026 (2027-2028 budget priorities)",
+        "doc_type": "ltac packet",
+        "year": "2027-2028",
+        "url": "https://www.redmond.gov/AgendaCenter/ViewFile/Minutes/_04272026-1488",
+        "summary": "Sets the event grant line at roughly $175,000/yr (a $25,000 add was one-time) and $30,000/yr for strategic marketing partnerships, with more advertising investment under discussion."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 175000,
+    "pool_note": "Revenue not published; LTAC approved $175,000 in 2026 event grants to outside applicants (Aug 26, 2025 minutes) and budgets about $175K/yr for 2027-28 plus $30K/yr in strategic marketing partnerships."
+  },
+  {
+    "name": "Kirkland",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "1% lodging tax",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-06-01",
+    "funding_year": "2026",
+    "deadline_pattern": "Varies year to year; 2026 grants were due June 1, 2026 and earlier cycles were due in late July (2024) and August (2025)",
+    "typical_open": "Spring (application open by April 14, 2026)",
+    "annual_pool": "$110K (2026 awards)",
+    "url": "https://www.kirklandwa.gov/Government/City-Managers-Office/Tourism-Program/Tourism-Events-Grant-Funding",
+    "contact": "Jen Davis Hayes, Economic Development Manager, jdavishayes@kirklandwa.gov, 425-587-3038; tourism@kirklandwa.gov",
+    "notes": "Run by the Tourism Development Committee for events that draw visitors from 50+ miles; the city page says the 2027 application period is closed, but the 2027 due date is not posted.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": "2026-07-02",
+      "pattern": "Tourism Development Committee reviews applications at its monthly meeting roughly a month after the deadline (July 2, 2026 for the June 1 deadline); applicant presentations are not described",
+      "format": null
+    },
+    "meeting_schedule": "First Thursday of the month (2026: Feb 5, Mar 5, Apr 2, May 7, Jul 2, Aug 6)",
+    "funding_docs": [
+      {
+        "title": "Tourism Events Grant Funding program page",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.kirklandwa.gov/Government/City-Managers-Office/Tourism-Program/Tourism-Events-Grant-Funding",
+        "summary": "Grants for marketing or operations of events that draw visitors from 50+ miles and generate overnight stays; $110,000 awarded for 2026 with reimbursement requests due Dec 15, 2026."
+      },
+      {
+        "title": "2025-2026 Outside Agencies and Tourism Funding issue paper (2025-26 budget)",
+        "doc_type": "budget",
+        "year": "2025-2026",
+        "url": "https://www.kirklandwa.gov/files/sharedassets/public/v/1/finance-and-administration/budget-documents/25-26-budget/2025-2026-outside-agencies-and-tourism-funding-issue-paper.pdf",
+        "summary": "TDC recommended a $694,704 tourism budget for 2025-2026 from the 1% lodging tax, with a $60,000 annual grant program; for 2025 it recommended $60,000 across ten organizations against $98,300 requested."
+      },
+      {
+        "title": "City news release: 2026 Explore Kirkland tourism grants (April 14, 2026)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.kirklandwa.gov/Whats-Happening/News/Apply-for-a-Kirkland-Tourism-Grant-to-Bring-Your-Event-to-Life",
+        "summary": "Announces about $60,000 in 2026 grants for marketing and operations, applications due June 1, 2026 at noon."
+      }
+    ],
+    "total_pool_usd": 347352,
+    "competitive_pool_usd": 110000,
+    "pool_note": "2025-26 budget sets a $694,704 biennial tourism budget (about $347K/yr) from the 1% lodging tax, most of it Explore Kirkland staffing and marketing; $110,000 was awarded to outside events for 2026 against a published $60K annual grant line."
+  },
+  {
+    "name": "Everett",
+    "type": "city",
+    "county": "Snohomish",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2025-12-15",
+    "funding_year": "2026",
+    "deadline_pattern": "Mid-December for the following calendar year; awards announced by end of January",
+    "typical_open": "Early November",
+    "annual_pool": "$200K",
+    "url": "https://everettwa.gov/LTAC",
+    "contact": "Tyler Chism, Placemaking Program Manager, tchism@everettwa.gov, 425-257-7107",
+    "notes": "Nonprofits and public agencies can apply, and for-profits can join through a nonprofit or public sponsor; operations are prioritized and marketing-only requests go to the Snohomish County TPA.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": false,
+      "date": "2026-02-12",
+      "pattern": "Written applications submitted through Euna are scored by LTAC in January, with awards announced by end of January; no interviews or presentations",
+      "format": "written only"
+    },
+    "meeting_schedule": "As needed; the 2026 LTAC meeting was February 12, 2026 at 2 pm",
+    "funding_docs": [
+      {
+        "title": "LTAC 2026 Info Guide",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.everettwa.gov/DocumentCenter/View/44318/LTAC-2026-Info-Guide_V10312025",
+        "summary": "$200,000 pool for 2026; applications open Nov 3 and close Dec 15, 2025 via Euna; operations prioritized, marketing-only requests referred to the Snohomish County TPA; nonprofits and public agencies eligible, for-profits via a sponsor."
+      },
+      {
+        "title": "Resolution 8283: approving LTAC recommendations for 2026 lodging tax allocations",
+        "doc_type": "resolution",
+        "year": "2026",
+        "url": "https://lfportal.everettwa.gov/WebLink/0/doc/2081394/Page1.aspx",
+        "summary": "Council adopted $200,000 in 2026 awards recommended Feb 12, 2026, including Cruzin' to Colby $16,000, AMGRAF gallery season $12,000, Eventuris 3on3 $11,000, Downtown Everett Association $10,000, Downtown Flower Program $6,000 and 4th of July Parade $5,000."
+      },
+      {
+        "title": "Resolution 8137 (2025 lodging tax allocations)",
+        "doc_type": "resolution",
+        "year": "2025",
+        "url": "https://lfportal.everettwa.gov/WebLink/0/edoc/1831777/Resolution 8137.pdf",
+        "summary": "Prior-year council resolution adopting the LTAC's 2025 lodging tax award recommendations."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 200000,
+    "pool_note": "Revenue not published; Resolution 8283 adopted the LTAC's $200,000 in 2026 grant awards to outside organizations, the full published pool."
+  },
+  {
+    "name": "Tukwila",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "1% lodging tax",
+    "has_ltac_grants": true,
+    "cycle": "rolling",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": "Rolling; due by noon on the second Thursday of a month for that month's LTAC meeting (fourth Tuesday, 1 p.m.)",
+    "typical_open": "Year-round",
+    "annual_pool": null,
+    "url": "https://www.tukwilawa.gov/?p=8332",
+    "contact": "Brandon Miles, Business Relations Manager, Brandon.Miles@tukwilawa.gov, 206-431-3684",
+    "notes": "Only government entities and nonprofits are eligible, and applications need visitor projections; contracts over $40K need City Council approval.",
+    "confidence": "high",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "Applications received by noon on the second Thursday are reviewed at that month's LTAC meeting on the fourth Tuesday; whether applicants present is not stated",
+      "format": null
+    },
+    "meeting_schedule": "Fourth Tuesday of each month, 1:00 pm, rotating City locations",
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Funding program page",
+        "doc_type": "guidelines",
+        "year": "current",
+        "url": "https://www.tukwilawa.gov/?p=8332",
+        "summary": "Rolling applications from governments and nonprofits for events, marketing and tourism facilities funded by the 1% lodging tax, reviewed monthly by LTAC; contracts over $40,000 go to Council."
+      },
+      {
+        "title": "2025 LTAC Application (blank)",
+        "doc_type": "guidelines",
+        "year": "2025",
+        "url": "https://www.tukwilawa.gov/wp-content/uploads/2025-Blank-Application_LTAC.pdf",
+        "summary": "Application form requiring visitor and overnight-stay projections for each request."
+      },
+      {
+        "title": "City of Tukwila 2023-2024 Biennial Budget, Lodging Tax Fund (Fund 101)",
+        "doc_type": "budget",
+        "year": "2023-2024",
+        "url": "https://www.tukwilawa.gov/wp-content/uploads/Tab13.pdf",
+        "summary": "Hotel/motel tax budgeted at $720,000 (2023) and $750,000 (2024); spending of about $940,000/yr including $250,000 sponsorships, $50,000 advertising, $50,000 marketing and $375,000 contracted services, with a $1.6M-$1.8M fund balance."
+      }
+    ],
+    "total_pool_usd": 750000,
+    "competitive_pool_usd": null,
+    "pool_note": "2024 budget projects $750,000 hotel/motel tax revenue against about $945K in Lodging Tax Fund spending ($250K sponsorships, $375K contracted services, $100K advertising and marketing, staff); no award list separates outside grants from the city's own Experience Tukwila and RTA spending, so the competitive share is unknown."
+  }
+]

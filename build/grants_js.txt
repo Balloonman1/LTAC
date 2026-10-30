@@ -1,0 +1,59 @@
+
+/* ================= other funding (grant catalog) ================= */
+const GRANTS=JSON.parse(document.getElementById('grants').textContent);
+let grantsDone=false;
+function gNext(g){ const ds=(g.deadlines||[]).map(d=>d.date).filter(d=>d&&daysUntil(d)>=0).sort(); return g.next_deadline&&daysUntil(g.next_deadline)>=0?g.next_deadline:(ds[0]||null); }
+function gWhere(g){ if(g.level==='statewide') return 'Statewide'; const geo=g.geography||{}; if(g.level==='city') return (geo.cities||[]).join(', ')||'City'; if(g.level==='county') return (geo.counties||[]).map(c=>c+' County').join(', ')||'County'; return geo.region||(geo.counties||[]).map(c=>c+' County').join(', ')||'Regional'; }
+function gApplies(g,city,county,region){
+  if(g.level==='statewide') return true; const geo=g.geography||{};
+  if(city && (geo.cities||[]).some(c=>c.toLowerCase()===city.toLowerCase())) return true;
+  if(county && (geo.counties||[]).some(c=>c.toLowerCase()===county.toLowerCase())) return true;
+  if(g.level==='regional' && region && (geo.region||'').toLowerCase().includes(region.toLowerCase())) return true;
+  if(g.level==='regional' && county && (geo.region||'').toLowerCase().includes(county.toLowerCase())) return true;
+  return false;
+}
+function gCard(g){
+  const nd=gNext(g); const du=nd?daysUntil(nd):null;
+  const badge=g.rolling?'<span class="gb roll">Rolling</span>':(nd?`<span class="gb ${du<=30?'hot':''}">Due ${fmt(nd)}${du<=60?' · '+du+' days':''}</span>`:'<span class="gb off">Next date not posted</span>');
+  const fp=(g.applicants||[]).includes('for-profit')?'<span class="gb ok">For-profit OK</span>':((g.applicants||[]).includes('fiscal sponsor accepted')?'<span class="gb">Via fiscal sponsor</span>':'');
+  const dl=(g.deadlines||[]).filter(d=>d.date).sort((a,b)=>a.date.localeCompare(b.date)).map(d=>`${fmt(d.date)}${d.label?' ('+esc(d.label)+')':''}`).join('; ');
+  const rec=(g.recent_recipients||[]).slice(0,4).map(r=>typeof r==='string'?esc(r):`${esc(r.recipient||r.name||'')}${r.amount!=null?' '+money(r.amount):''}`).join('; ');
+  return `<div class="fr gr"><h4>${g.url?`<a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.name)}</a>`:esc(g.name)}</h4><span class="score">${esc(gWhere(g))}</span>
+    <div class="why">${badge} ${fp} ${g.award?`<b>${esc(g.award)}</b>`:''}${g.match?` · match: ${esc(g.match)}`:''}${g.reimbursement?' · reimbursement':''}</div>
+    <div class="why">${esc(g.funder||'')}${g.kinds&&g.kinds.length?' · '+g.kinds.map(esc).join(', '):''}${g.applicants&&g.applicants.length?' · '+g.applicants.map(esc).join(', '):''}</div>
+    ${g.notes?`<div class="why">${esc(g.notes)}</div>`:''}
+    <div class="meta">${g.opens?`<span>Opens: ${esc(String(g.opens))}</span>`:''}${dl?`<span>Deadlines: ${dl}</span>`:''}${g.contact?`<span>Contact: ${esc(g.contact)}</span>`:''}${rec?`<span>Recent: ${rec}</span>`:''}${g.confidence?`<span class="dimtxt">${esc(g.confidence)} confidence</span>`:''}</div></div>`;
+}
+function initGrants(){
+  grantsDone=true;
+  const sel=document.getElementById('g-city');
+  data.slice().sort((a,b)=>a.name.localeCompare(b.name)).forEach(r=>{const o=document.createElement('option');o.value=r.name;o.textContent=r.name+(r.type==='county'?'':' ('+r.county+' County)');sel.appendChild(o);});
+  const form=document.getElementById('grantForm');
+  form.addEventListener('submit',e=>{e.preventDefault();drawGrants();});
+  ['g-city','g-kind','g-app','g-when'].forEach(id=>document.getElementById(id).addEventListener('change',drawGrants));
+  // calendar
+  const rows=GRANTS.map(g=>({g,nd:gNext(g)})).filter(x=>x.nd||x.g.rolling).sort((a,b)=>{if(a.g.rolling&&!b.g.rolling)return 1;if(!a.g.rolling&&b.g.rolling)return -1;if(!a.nd)return 1;if(!b.nd)return -1;return a.nd.localeCompare(b.nd);});
+  document.querySelector('#gcal tbody').innerHTML=rows.map(({g,nd})=>`<tr><td class="num">${g.rolling?'Rolling':fmt(nd)}</td><td><a href="${esc(g.url||'#')}" target="_blank" rel="noopener">${esc(g.name)}</a></td><td>${esc(g.funder||'')}</td><td>${esc(gWhere(g))}</td><td>${esc(g.award||'')}</td><td>${(g.kinds||[]).slice(0,3).map(esc).join(', ')}</td></tr>`).join('');
+  drawGrants();
+}
+function drawGrants(){
+  const city=document.getElementById('g-city').value, kind=document.getElementById('g-kind').value, app=document.getElementById('g-app').value, when=document.getElementById('g-when').value;
+  const r=city?data.find(x=>x.name===city):null; const county=r?r.county:null; const region=r?r.region:null; const cityName=r&&r.type==='city'?r.name:null;
+  let list=GRANTS.filter(g=>!city||gApplies(g,cityName,county,region));
+  if(kind) list=list.filter(g=>(g.kinds||[]).includes(kind)||(kind==='cultural'&&(g.kinds||[]).some(k=>k==='heritage')));
+  if(app) list=list.filter(g=>{const a=g.applicants||[]; if(app==='for-profit') return a.includes('for-profit')||a.includes('fiscal sponsor accepted'); if(app==='public agency') return a.includes('public agency')||a.includes('tribe'); return a.includes(app);});
+  if(when==='rolling') list=list.filter(g=>g.rolling);
+  if(when==='open') list=list.filter(g=>g.rolling||(gNext(g)&&daysUntil(gNext(g))>=0));
+  if(when==='90') list=list.filter(g=>gNext(g)&&daysUntil(gNext(g))<=90);
+  const key=g=>g.rolling?1e6:(gNext(g)?daysUntil(gNext(g)):1e7);
+  list.sort((a,b)=>key(a)-key(b));
+  // lodging tax programs for the location, from the directory
+  let ltac='';
+  if(r){
+    const here=[r].concat(r.type==='city'?data.filter(x=>x.type==='county'&&x.county===r.county):[]).filter(x=>x.has_ltac_grants);
+    if(here.length) ltac=`<div class="gband"><h3>Lodging tax programs here</h3>${here.map(x=>{const s=status(x);return `<div class="fr gr"><h4><a href="#j-${slug(x.name)}">${esc(x.name)} lodging tax grants</a></h4><span class="score">${x.type==='county'?'County':'City'}</span><div class="why"><span class="gb ${s.key==='open'?'ok':''}">${s.label}${x.deadline?' · '+fmt(x.deadline):''}</span> ${x.competitive_pool_usd!=null?`<b>${money(x.competitive_pool_usd)} open to applicants</b>`:''} ${x.for_profit==='yes'?'<span class="gb ok">For-profit OK</span>':(x.for_profit==='sponsor'?'<span class="gb">Via fiscal sponsor</span>':'')}</div>${x.deadline_pattern?`<div class="why">${esc(x.deadline_pattern)}</div>`:''}</div>`;}).join('')}</div>`;
+  }
+  const bands=[['city','City programs'],['county','County programs'],['regional','Regional programs'],['statewide','Statewide and national programs']];
+  const html=bands.map(([lv,t])=>{const L=list.filter(g=>g.level===lv); return L.length?`<div class="gband"><h3>${t} <span class="dimtxt">${L.length}</span></h3>${L.map(gCard).join('')}</div>`:'';}).join('');
+  document.getElementById('grantRes').innerHTML=(ltac+html)||'<p class="empty">Nothing in the catalog matches. Loosen a filter.</p>';
+}

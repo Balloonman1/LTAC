@@ -1,0 +1,326 @@
+[
+  {
+    "name": "City of Chelan",
+    "alternatives": [
+      {
+        "program": "Chelan County Lodging Tax Event and Marketing Grants",
+        "administrator": "Chelan County Lodging Tax Advisory Committee (Board of County Commissioners)",
+        "funds": "Marketing and operations of special events/festivals and tourism marketing countywide; 2026 round totaled $221,638 across 43 awards, typically $500 to $20,000 per award (events in Chelan and Manson received $500 to $10,000)",
+        "eligibility": "Nonprofits, municipalities, public facilities districts; events inside the City of Chelan and Manson were funded in the 2025 and 2026 rounds; reimbursement-based, must draw visitors 50+ miles, preference for shoulder season (Nov-May) and matching funds",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "Opens late August, due about October 10 at 5 pm each year for the following calendar year (2026-funding round was Aug 29 to Oct 10; 2027 application form is posted). The 2027 round has closed; next window expected late summer 2027 for 2028 events.",
+        "url": "https://www.co.chelan.wa.us/board-of-commissioners/pages/lodging-tax-advisory-committee",
+        "contact": "Paula Mikkelsen, Chelan County Commissioners' Office, CM.LTAC@co.chelan.wa.us, 400 Douglas St Suite 201, Wenatchee WA 98801",
+        "notes": "Best direct substitute for a City of Chelan LTAC program; a winter or shoulder-season balloon glow scores well on the county's seasonality criterion.",
+        "confidence": "high"
+      },
+      {
+        "program": "Partnership in Economic Development Program (community/event grants)",
+        "administrator": "Chelan Douglas Regional Port Authority (Port of Chelan County)",
+        "funds": "Grants of $5,000 to $20,000 to nonprofits for events and projects in rural Chelan and Douglas counties; event funds may only cover deficits; gave $10,000 to the Lake Chelan Wine and Jazz Festival",
+        "eligibility": "Nonprofit organizations; event must draw attendees from outside Chelan and Douglas counties",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": "No published deadline; commissioners said in 2024 they would refocus the program away from tourism toward community events and smaller municipalities, so confirm current criteria before applying.",
+        "url": "https://www.cdrpa.org/",
+        "contact": "Chelan Douglas Regional Port Authority, Wenatchee (main office phone on website)",
+        "notes": "Funding exists but program direction was under review in 2024; treat as a sponsorship ask rather than a formal grant cycle.",
+        "confidence": "low"
+      },
+      {
+        "program": "Tourism Marketing Support Program",
+        "administrator": "Port of Seattle",
+        "funds": "Tier 1 up to $20,000 and Tier 2 up to $10,000 per awardee with a 2:1 match (Port pays $2 per $1 of match) for marketing that attracts out-of-state visitors through SEA Airport, cruise terminals or Port marinas; 2024-2025 cycle totaled $600,000",
+        "eligibility": "Washington cities, counties, ports, DMOs, chambers, tribes and nonprofits, including nonprofits running events that draw out-of-state visitors; statewide, not limited to King County",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "2026-2027 cycle posted February 10, 2026 with applications due March 3, 2026 at 2 pm; next cycle expected to open in early 2027.",
+        "url": "https://www.portseattle.org/programs/tourism-marketing-support-program",
+        "contact": "William Zhou, Zhou.W@portseattle.org",
+        "notes": "Usable by a Lake Chelan event marketed to out-of-state fly-in visitors; a chamber or DMO co-applicant strengthens the case.",
+        "confidence": "high"
+      },
+      {
+        "program": "Partner co-op marketing and event promotion packages",
+        "administrator": "State of Washington Tourism (SWT)",
+        "funds": "Discounted paid placements rather than cash: Premier Media Group event promotion bundle $3,100, 1889 Magazine branding package with one free $500 social post, Expedia co-op campaigns, Datafy research co-op with 20% discount plus 30% rural subsidy",
+        "eligibility": "SWT member and partner organizations promoting a Washington event or destination",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": "Opportunities are posted through the year; Expedia co-op has seasonal sign-up windows (spring and fall).",
+        "url": "https://industry.stateofwatourism.com/partnership-opportunities/",
+        "contact": "SWT industry team via industry.stateofwatourism.com; Melia Wilkinson (Premier Media Group bundle)",
+        "notes": "Not a grant, but subsidized reach for an event; pair with a county LTAC award that allows marketing spend.",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "name": "King County",
+    "alternatives": [
+      {
+        "program": "Projects grants (Art Projects, Heritage Projects, Preservation Special Projects)",
+        "administrator": "4Culture (King County cultural development authority)",
+        "funds": "Project-based funding for arts, heritage and preservation activities in King County; amounts not posted on the overview page (prior rounds have funded a few thousand to roughly $10,000 to $15,000 per project)",
+        "eligibility": "Individuals and groups with arts, heritage or preservation at the heart of the project; project must occur in King County; groups must be based in King County or partner with a qualifying artist/heritage professional",
+        "cycle": "annual",
+        "deadline": "2027-03-10",
+        "deadline_pattern": "Final application due in early to mid March each year (March 11, 2026; March 10, 2027).",
+        "url": "https://www.4culture.org/grants-artist-calls/project-grants",
+        "contact": "Art Projects (groups): Scott Oshima 206-477-8064; Heritage Projects: Megumi Nagata 206-263-3474; Preservation: Emily P. Lawsin 206-477-3110; general 206-296-7580",
+        "notes": "A balloon glow framed as an arts presentation or a ballooning-history heritage exhibit is the realistic angle; pure tourism events are not a fit.",
+        "confidence": "high"
+      },
+      {
+        "program": "Open 4Culture",
+        "administrator": "4Culture",
+        "funds": "Up to $2,500 plus a possible Equity Investment add-on for arts, heritage or preservation projects by first-time 4Culture applicants",
+        "eligibility": "Individuals 18+ living in King County or King County-based groups new to 4Culture; fiscally sponsored groups allowed; no food, equipment or capital costs",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": "Ongoing; applications due at least 3 months before the event; program reopens April 2027.",
+        "url": "https://4culture.org/grants/open-4culture",
+        "contact": "Scott Oshima, 206-296-7580, 101 Prefontaine Pl S, Seattle WA 98104",
+        "notes": "Small but low-barrier entry point for an organization that has never received 4Culture money.",
+        "confidence": "high"
+      },
+      {
+        "program": "Sustained Support",
+        "administrator": "4Culture",
+        "funds": "Two-year general operating support for King County arts, heritage and preservation organizations with an ongoing public program track record; amount scaled to organization budget",
+        "eligibility": "Organizations (not individuals) with a sustained public cultural program in King County",
+        "cycle": "annual",
+        "deadline": "2027-05-19",
+        "deadline_pattern": "Letter of interest April 28, 2027; final application May 19, 2027; awards cover two-year cycles.",
+        "url": "https://4culture.org/sustained-support",
+        "contact": "4Culture, 206-296-7580",
+        "notes": "Only relevant if the organizer is a cultural nonprofit with recurring programming, not a one-off festival.",
+        "confidence": "high"
+      },
+      {
+        "program": "Tourism Marketing Support Program",
+        "administrator": "Port of Seattle",
+        "funds": "Tier 1 up to $20,000 and Tier 2 up to $10,000 per awardee at a 2:1 match for marketing aimed at out-of-state visitors arriving through SEA Airport, cruise terminals or Port marinas; 2024-2025 pool $600,000",
+        "eligibility": "Washington cities, counties, ports, DMOs, chambers, tribes, nonprofit attractions and nonprofits running events that draw out-of-state visitors",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "2026-2027 cycle applications were due March 3, 2026 at 2 pm; next cycle expected to post in early 2027.",
+        "url": "https://www.portseattle.org/programs/tourism-marketing-support-program",
+        "contact": "William Zhou, Zhou.W@portseattle.org",
+        "notes": "The most natural tourism-marketing substitute for a King County LTAC grant for a large glow event marketed to visitors.",
+        "confidence": "high"
+      },
+      {
+        "program": "Partner co-op marketing and event promotion packages",
+        "administrator": "State of Washington Tourism (SWT)",
+        "funds": "Subsidized or discounted placements: Premier Media Group event bundle $3,100, 1889 Magazine package with a free $500 social post, Expedia co-op campaigns, Datafy research discount",
+        "eligibility": "SWT member and partner organizations promoting a Washington event",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": "Posted throughout the year; Expedia co-op has spring and fall sign-up windows.",
+        "url": "https://industry.stateofwatourism.com/partnership-opportunities/",
+        "contact": "SWT industry team via industry.stateofwatourism.com",
+        "notes": "Cost-share rather than a grant; useful once an event has a marketing budget from another source.",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "name": "Spokane County",
+    "alternatives": [
+      {
+        "program": "Tourism and Cultural Investment (TACI) Grant",
+        "administrator": "City of Spokane Grants Department, Tourism and Cultural Investment Committee",
+        "funds": "$5,000 minimum to $10,000 maximum per request from city lodging tax for free public events, festivals, sports, arts, culinary and music programs inside Spokane city limits; reimbursement-based",
+        "eligibility": "Nonprofit or for-profit organizations with a City of Spokane business license (or exemption) and public agencies; event must be free and open to the public, in city limits, not primarily a fundraiser",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "2026 NOFA opened Sept 12 and closed Oct 10, 2025 for events Jan 1 to Jun 30, 2026; earlier rounds opened March or June. Check the committee page for the 2027 NOFA.",
+        "url": "https://my.spokanecity.org/bcc/committees/lodging-tax-advisory-committee",
+        "contact": "Caleb Stanton, Grants Analyst, taciapp@spokanecity.org; tourism questions to Rose Noble, rnoble@visitspokane.com",
+        "notes": "Visit Spokane's TPA page directs all event and festival organizers here because TPA event grants are paused through 2027.",
+        "confidence": "high"
+      },
+      {
+        "program": "Spokane Sports Community Grant",
+        "administrator": "Spokane Sports (TPA-funded sports commission)",
+        "funds": "Up to $10,000 total per organization per year, up to $3,000 per event for event costs, up to $3,000 marketing support, plus equipment loans and discounted hotel blocks via EventConnect",
+        "eligibility": "Local nonprofit and for-profit organizations hosting competitive sporting events that attract overnight visitors; non-sport events reviewed case by case",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "Applications accepted November 1 to 30 each year, review in December, decisions in January; final report due 45 days after the event.",
+        "url": "https://spokanesports.org/community/grant-program",
+        "contact": "Spokane Sports, questions via the grant page",
+        "notes": "A balloon competition or race framed as a sporting event could qualify; a glow alone is a case-by-case ask.",
+        "confidence": "high"
+      },
+      {
+        "program": "Spokane Arts Grant Awards (SAGA)",
+        "administrator": "Spokane Arts",
+        "funds": "Up to $10,000 per request, multiple awards per round, $166,000 total in 2026, one-year non-renewable project funding for arts and culture",
+        "eligibility": "Artists, nonprofits, collectives, community arts programs and culture/heritage groups based in the Spokane region",
+        "cycle": "quarterly",
+        "deadline": "2027-02-01",
+        "deadline_pattern": "Three rounds each year with deadlines February 1, June 1 and October 1 at 11:59 pm; portal opens one month before each deadline.",
+        "url": "https://spokanearts.org/SAGA-grants/",
+        "contact": "grants@spokanearts.org, 509-321-9614, 801 W Riverside Ave Suite 100, Spokane WA 99201",
+        "notes": "Fits a glow with a music, light-art or community arts component; three chances a year.",
+        "confidence": "high"
+      },
+      {
+        "program": "City of Spokane Valley Lodging Tax Grant",
+        "administrator": "City of Spokane Valley, Lodging Tax Advisory Committee and City Council",
+        "funds": "Lodging tax grants for tourism events and marketing that bring overnight visitors to Spokane Valley; amounts vary by application and Council goals",
+        "eligibility": "Organizations and public agencies promoting tourism in Spokane Valley",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "Application period opens early September, due 4 pm around September 30 (2026 round: Sept 3 to Sept 30, 2025); Council approval in December.",
+        "url": "https://spokanevalleywa.gov/190/Grant-Funding-Opportunities",
+        "contact": "Sarah Farr, Accounting and Finance Program Manager, sfarr@SpokaneValleyWA.gov, 509-720-5041",
+        "notes": "Spokane Valley is the largest city in the county with an open LTAC program; an event at a Valley venue is eligible.",
+        "confidence": "high"
+      },
+      {
+        "program": "Spokane County Tourism Promotion Area (TPA) event grants",
+        "administrator": "Spokane Hotel and Motel Commission, managed by Visit Spokane",
+        "funds": "$5 per room night assessment funds tourism promotion, convention marketing and major sporting event recruitment; direct event grants historically available",
+        "eligibility": "Not currently accepting event grant applications",
+        "cycle": null,
+        "deadline": null,
+        "deadline_pattern": "Event Grants are paused through 2027 under the new Spokane County and City of Spokane interlocal agreement; organizers are referred to the City TACI program.",
+        "url": "https://www.visitspokane.com/industry/industry-resources/tpa/",
+        "contact": "Rose Noble, Visit Spokane, 509-742-9380, rnoble@visitspokane.com",
+        "notes": "Listed so the organizer knows not to pursue it before 2028; Spokane Sports is the TPA-funded route for sports-style events.",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "name": "Clark County",
+    "alternatives": [
+      {
+        "program": "City of Vancouver Lodging Tax Grant Program",
+        "administrator": "City of Vancouver Economic Development, Lodging Tax Advisory Committee",
+        "funds": "Lodging tax grants for local events and festivals, tourism promotion and marketing, and one-time tourism programs or facility projects that increase day and overnight visits; award ranges published on the program page",
+        "eligibility": "Event and tourism organizations serving Vancouver; priority for events outside June-August, outside downtown, serving diverse or underserved communities, supporting small businesses or climate action",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "2027 round ran August 4 to September 20, 2026 with a virtual Q&A August 19; next window expected August to September 2027 for 2028 events.",
+        "url": "https://www.cityofvancouver.us/lodgingtaxgrants",
+        "contact": "Callie Taylor, Callie.Taylor@cityofvancouver.us; Chris Harder, Deputy Economic Development Director, chris.harder@cityofvancouver.us",
+        "notes": "The largest open LTAC in Clark County; an off-season balloon glow at a Vancouver park or the waterfront matches the stated priorities.",
+        "confidence": "high"
+      },
+      {
+        "program": "Historical Promotion Grants",
+        "administrator": "Clark County Community Planning, Historic Preservation Commission and County Council",
+        "funds": "Reimbursement grants from the $1 document recording surcharge (RCW 36.22.170) for exhibits, programs and preservation activities that build public awareness of local heritage; about $50,000 awarded countywide per year",
+        "eligibility": "Tax-exempt nonprofits or public entities that operate a museum/historical institution in Clark County or conduct educational or interpretive heritage activities in the county",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "Applications open July to August with a September 1 deadline; awards in early the following year; projects complete by December 31 of the grant year.",
+        "url": "https://clark.wa.gov/community-planning/historical-promotion-grants-program",
+        "contact": "historicpreservation@clark.wa.gov; Bart Catching 564-397-4909; Susan Ellinger 564-397-4516",
+        "notes": "Only fits an event with a heritage interpretation element, such as an aviation or ballooning history exhibit alongside the glow.",
+        "confidence": "high"
+      },
+      {
+        "program": "Destination and event services (non-cash support)",
+        "administrator": "Visit Vancouver WA (Clark County DMO, TPA-funded)",
+        "funds": "No cash grants; provides hotel RFP distribution, vendor and press referrals, promotional materials, regional travel magazine and website/social promotion, and sports event services",
+        "eligibility": "Event organizers and meeting planners bringing visitors to Vancouver and Clark County",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": "No deadlines; contact the sales or marketing team directly.",
+        "url": "https://www.visitvancouverwa.com/about/services",
+        "contact": "360-750-1553 ext. 515 or 877-600-0800; https://www.visitvancouverwa.com/trip-planning/contact-us/",
+        "notes": "Useful as a marketing partner and as a letter of support for the City of Vancouver LTAC application.",
+        "confidence": "medium"
+      },
+      {
+        "program": "Tourism Marketing Support Program",
+        "administrator": "Port of Seattle",
+        "funds": "Tier 1 up to $20,000 and Tier 2 up to $10,000 per awardee at a 2:1 match for marketing aimed at out-of-state visitors arriving through SEA Airport, cruise terminals or Port marinas",
+        "eligibility": "Washington cities, counties, ports, DMOs, chambers, tribes, nonprofit attractions and event nonprofits statewide",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "2026-2027 cycle applications were due March 3, 2026 at 2 pm; next cycle expected early 2027.",
+        "url": "https://www.portseattle.org/programs/tourism-marketing-support-program",
+        "contact": "William Zhou, Zhou.W@portseattle.org",
+        "notes": "Clark County applicants are eligible; emphasize fly-in visitors through SEA.",
+        "confidence": "high"
+      },
+      {
+        "program": "Port of Vancouver USA Community Fund",
+        "administrator": "Port of Vancouver USA",
+        "funds": "Small competitive awards (inaugural 2020 budget $5,000) for projects inside the port district that support trade promotion, tourism generation, economic or workforce development",
+        "eligibility": "Projects located within Port of Vancouver district boundaries",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "Inaugural round due February 7, 2020 with awards by February 28; 2023 round also opened early in the year; confirm whether the program is still running.",
+        "url": "https://www.portvanusa.com/community/community-fund/",
+        "contact": "info@portvanusa.com, 360-693-3611",
+        "notes": "Small dollars and uncertain status; treat as a sponsorship ask.",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "name": "Pacific County",
+    "alternatives": [
+      {
+        "program": "City of Long Beach Lodging Tax Funds",
+        "administrator": "City of Long Beach, WA (Lodging Tax Advisory Committee and City Council)",
+        "funds": "City lodging tax for tourism promotion/marketing, operation of special events and festivals that attract tourists, and tourism facilities; awards sized by request and budget, reimbursement under a services contract",
+        "eligibility": "Tourism marketing entities, 501(c)(3) or 501(c)(6) nonprofits with WA Secretary of State registration, or municipalities; must carry liability insurance naming the City and file an economic impact report within 60 days",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "Applications due the first Friday of October at 5 pm (October 1 for 2022 funds, October 3 for 2026 funds); the 2027 round has likely closed, next window expected September to early October 2027.",
+        "url": "https://www.longbeachwa.gov/media/7731",
+        "contact": "Ariel Smith, 360-642-4421, asmith@longbeachwa.gov, PO Box 310, Long Beach WA 98631",
+        "notes": "The main open lodging-tax door on the peninsula; the city asks events to brand as Long Beach, WA and to target overnight visitors from 50+ miles.",
+        "confidence": "high"
+      },
+      {
+        "program": "Partner grant programs and marketing support",
+        "administrator": "Washington's Evergreen Coast / Pacific County Tourism Bureau (official Pacific County DMO, 501(c)(6), funded by county and city lodging tax)",
+        "funds": "The bureau lists grant programs described as financial support for initiatives that enhance visitor experiences, plus marketing templates, co-op advertising, visitor passports, event calendar listings and newsletter promotion; amounts not published",
+        "eligibility": "Pacific County tourism partners (businesses, events and organizations registered in the Partner Portal)",
+        "cycle": null,
+        "deadline": null,
+        "deadline_pattern": "No published cycle; contact the executive director for current grant criteria and timing.",
+        "url": "https://www.evergreencoastwa.com/plan/contact/",
+        "contact": "Josh Phillips, Executive Director; 360-642-2400; communications@evergreencoastwa.com; 3914 Pacific Way, Seaview WA 98644",
+        "notes": "This is where Pacific County's own lodging tax share is spent, so a direct conversation with the bureau is the practical route to county-level support.",
+        "confidence": "medium"
+      },
+      {
+        "program": "Tourism Marketing Support Program",
+        "administrator": "Port of Seattle",
+        "funds": "Tier 1 up to $20,000 and Tier 2 up to $10,000 per awardee at a 2:1 match for marketing aimed at out-of-state visitors arriving through SEA Airport, cruise terminals or Port marinas",
+        "eligibility": "Washington cities, counties, ports, DMOs, chambers, tribes, nonprofit attractions and event nonprofits statewide; rural destinations have been funded in past cycles",
+        "cycle": "annual",
+        "deadline": null,
+        "deadline_pattern": "2026-2027 cycle applications were due March 3, 2026 at 2 pm; next cycle expected early 2027.",
+        "url": "https://www.portseattle.org/programs/tourism-marketing-support-program",
+        "contact": "William Zhou, Zhou.W@portseattle.org",
+        "notes": "A good fit for a coastal event marketed to Portland- and Seattle-airport visitors; apply with the Evergreen Coast bureau as partner.",
+        "confidence": "high"
+      },
+      {
+        "program": "Partner co-op marketing and event promotion packages",
+        "administrator": "State of Washington Tourism (SWT)",
+        "funds": "Discounted placements: Premier Media Group event bundle $3,100, 1889 Magazine package with a free $500 social post, Expedia co-op campaigns, Datafy research co-op with 20% discount plus an extra 30% subsidy for rural counties under 100,000 residents (Pacific County qualifies)",
+        "eligibility": "SWT member and partner organizations promoting a Washington event or destination",
+        "cycle": "rolling",
+        "deadline": null,
+        "deadline_pattern": "Posted throughout the year; Expedia co-op has spring and fall sign-up windows.",
+        "url": "https://industry.stateofwatourism.com/partnership-opportunities/",
+        "contact": "SWT industry team via industry.stateofwatourism.com",
+        "notes": "The rural subsidy makes the Datafy and co-op tools cheaper for Pacific County partners than for urban counties.",
+        "confidence": "medium"
+      }
+    ]
+  }
+]

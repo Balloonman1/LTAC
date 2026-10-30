@@ -1,0 +1,789 @@
+[
+  {
+    "name": "Yakima",
+    "type": "city",
+    "county": "Yakima",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-07-01",
+    "funding_year": "2027",
+    "deadline_pattern": "July 1 each year for the following calendar year",
+    "typical_open": "June 1",
+    "annual_pool": null,
+    "url": "https://www.yakimawa.gov/services/finance/tourism-promotion-grants-lodging-tax-funded/",
+    "contact": "Finance Department, financeinfo@yakimawa.gov, (509) 575-6070",
+    "notes": "Nonprofits and public agencies only; preference for city-owned tourism facilities and year-round promotion through the DMO.",
+    "confidence": "high",
+    "members": [],
+    "members_source": "https://www.yakimawa.gov/media/news/wp-content/blogs.dir/6/files/sites/6/Volunteers-Sought-for-Boards-Committees-and-Commissions-News-Release.pdf",
+    "members_as_of": "2026-08-25",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "City staff and the LTAC review written applications after the July 1 deadline; no applicant presentation is mentioned",
+      "format": "written only"
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "Tourism Promotion Grants (Lodging Tax funded) program page",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.yakimawa.gov/services/finance/tourism-promotion-grants-lodging-tax-funded/",
+        "summary": "Applications accepted June 1 to July 1, 2026 for 2027 grants; limited to nonprofits and public agencies, with preference for city-owned facilities generating overnight stays and year-round promotion through the DMO. No dollar total is published."
+      },
+      {
+        "title": "FY 2027 Lodging Tax Grant Funds application",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.yakimawa.gov/services/finance/files/Tourism-Promotion-Application-6.29.26CW.docx",
+        "summary": "Official 2027 application form (Word); requires a contract with the City and a final report. Amount available not stated."
+      },
+      {
+        "title": "City of Yakima Opens 2027 Tourism Promotion Grant Applications",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://www.yakimawa.gov/media/news/city-of-yakima-opens-2027-tourism-promotion-grant-applications/",
+        "summary": "June 4, 2026 news release: applications due July 1, 2026; LTAC and staff review, Council makes final awards."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No lodging tax revenue, grant pool or award list is published on the city's grant pages; 2027 applications closed July 1, 2026."
+  },
+  {
+    "name": "Wenatchee",
+    "type": "city",
+    "county": "Chelan",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "rolling",
+    "deadline": null,
+    "funding_year": "2026",
+    "deadline_pattern": "Rolling; applications due one week before each joint LTAC/TPA meeting until funds run out",
+    "typical_open": "Year-round",
+    "annual_pool": "$100K",
+    "url": "https://wenatcheewa.gov/government/mayor-s-office/tourism-promotion-area-lodging-tax",
+    "contact": null,
+    "notes": "Event-focused reimbursement grants reviewed jointly with the Tourism Promotion Area board; 2026 LTAC budget of $100K was nearly spent by May 2026.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Top Rojanasthien",
+        "role": "Chair",
+        "affiliation": "Wenatchee City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Nadine Stika",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kyle McCubbin",
+        "role": "Lodging representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Rosa Pulido",
+        "role": "Activity representative",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Aidan Long",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kendall Long",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.wenatcheewa.gov/home/showpublisheddocument/31342/639168571568270000",
+    "members_as_of": "2026-05-20",
+    "presentation": {
+      "required": true,
+      "date": "2026-06-17",
+      "pattern": "Applicants present to the joint LTAC/TPA meeting following their submission; applications due one week before the meeting",
+      "format": "in person"
+    },
+    "meeting_schedule": "Joint LTAC/TPA meetings roughly monthly on a Wednesday at 12:00 pm, City Hall 2nd floor meeting room (2026: May 20, June 17; 2024: May 15, Jun 26, Jul 17, Aug 21, Sep 18)",
+    "funding_docs": [
+      {
+        "title": "Tourism Promotion Area / Lodging Tax program page",
+        "doc_type": "guidelines",
+        "year": "2024",
+        "url": "https://wenatcheewa.gov/government/mayor-s-office/tourism-promotion-area-lodging-tax",
+        "summary": "Grants fund marketing or operations of events and festivals that attract tourists; applications due one week before each joint LTAC/TPA meeting, first come first served; reimbursement with a 60-day post-event report. Lists 2024 awards such as $19,330 to Tour de Bloom and $15,000 to Apple Cup."
+      },
+      {
+        "title": "Joint LTAC/TPA meeting packet, June 17, 2026",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://www.wenatcheewa.gov/home/showpublisheddocument/31342/639168571568270000",
+        "summary": "Funding tracker shows a 2026 LTAC budget of $100,000 (fully committed by May 31) and a TPA budget of $45,000 with $25,361 remaining; includes pending requests from Pybus Market ($3,510) and the YMCA ($25,000) and recent awards of $10,000 to Wenatchee Youth Baseball and $6,000 to La Terraza."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 100000,
+    "pool_note": "2026: the LTAC grant budget was $100,000 (fully committed by May 31) plus a separate $45,000 TPA budget; total lodging tax revenue and standing commitments are not in the packet, so the competitive figure is the grant budget only."
+  },
+  {
+    "name": "Leavenworth",
+    "type": "city",
+    "county": "Chelan",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-10",
+    "funding_year": "2027",
+    "deadline_pattern": "Summer each year (August 10 in 2026; June 10 in 2024) for the following calendar year",
+    "typical_open": "Late June to July",
+    "annual_pool": "$150K",
+    "url": "https://cityofleavenworth.com/community/leavenworth-fund/",
+    "contact": "Courtney Porter (2027 cycle); Sue Cragun, Executive Assistant, (509) 668-9077",
+    "notes": "Run as the Leavenworth Fund Lodging Tax Fund; 501(c) nonprofits or fiscally sponsored groups only, max $10K for events and $5K for secondary attractions, reimbursement basis.",
+    "confidence": "high",
+    "members": [],
+    "members_source": "https://cityofleavenworth.com/community/leavenworth-fund/lodging-tax-grant-program/",
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "City Council Economic Development Committee reviews written applications and forwards recommendations to Council; no presentation mentioned",
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "Leavenworth Fund Grant Program 2027 Overview and Guidelines",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cityofleavenworth.com/wp-content/uploads/2026/07/Overview-Guidelines-LFGP-2027.pdf",
+        "summary": "$150,000 Lodging Tax Fund; caps of $10,000 for Primary Draw events and festivals and $5,000 for Secondary Attractions; 501(c) nonprofits only; priority when the grant is 50% or less of project cost."
+      },
+      {
+        "title": "Which Fund? Leavenworth Fund Grant Program 2027",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cityofleavenworth.com/wp-content/uploads/2026/07/Which-Fund-LFGP2027.pdf",
+        "summary": "Explains the split between the Lodging Tax Fund (tourism projects inside the lodging tax boundary, visitors from 50+ miles) and the General Fund ($5,000 cap, resident benefit); lists ineligible costs and the 50% match expectation."
+      },
+      {
+        "title": "The 2027 Leavenworth Fund Grant Program is now open",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://cityofleavenworth.com/your-city-hall/news-notices/the-2027-leavenworth-fund-grant-program-is-now-open-and-accepting-applications/",
+        "summary": "Announces $150,000 Lodging Tax Fund and $75,000 General Fund for 2027 with applications due 11:59 pm August 10, 2026."
+      },
+      {
+        "title": "Lodging Tax Boundary Map 2027",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://cityofleavenworth.com/wp-content/uploads/2026/07/Map-LT-Boundary-2027.pdf",
+        "summary": "Map of the area in which Lodging Tax Fund projects must take place."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 150000,
+    "pool_note": "2027: $150,000 Lodging Tax Fund grant pool for nonprofits, capped at $10,000 per event; the city's total lodging tax revenue and its share kept for other tourism uses are not published."
+  },
+  {
+    "name": "Ocean Shores",
+    "type": "city",
+    "county": "Grays Harbor",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2024-03-29",
+    "funding_year": null,
+    "deadline_pattern": "Proposals accepted September 1-30 each year per LTAC page; extra rounds when excess funds exist (e.g., March 2024)",
+    "typical_open": "September 1",
+    "annual_pool": "$1.5M",
+    "url": "https://osgov.com/government/boards___commissions___committees/lodging_tax_advisory_committee.php",
+    "contact": "Denise Siers, LTAC Chair, dsiers@osgov.com; City Clerk, slogan@osgov.com, 360-289-2022",
+    "notes": "Most of the pool goes to the Ocean Shores Convention Center ($1.1M of $1.5M in 2025), leaving a small amount for outside groups.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Denise Siers",
+        "role": "Chair",
+        "affiliation": "Ocean Shores City Council",
+        "email": "dsiers@osgov.com",
+        "phone": null
+      }
+    ],
+    "members_source": "https://osgov.com/government/boards___commissions___committees/lodging_tax_advisory_committee.php",
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "LTAC meets two or three times in October after the September 30 proposal deadline to review proposals before Council",
+      "format": null
+    },
+    "meeting_schedule": "Meets as necessary, no regular schedule; typically two or three meetings in October",
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Advisory Committee page",
+        "doc_type": "guidelines",
+        "year": "None",
+        "url": "https://osgov.com/government/boards___commissions___committees/lodging_tax_advisory_committee.php",
+        "summary": "Written proposals go to the City Clerk September 1-30; the City sets the amount available from the lodging tax pool each year; committee is five members appointed by the Mayor with Councilmember Denise Siers as chair."
+      },
+      {
+        "title": "Public Notice: Lodging Tax Program applications (March 2024 round)",
+        "doc_type": "other",
+        "year": "2024",
+        "url": "https://www.osgov.com/news_detail_T6_R1074.php",
+        "summary": "Excess-funds round open March 1-29, 2024; applicants must show other funding sources, community benefit, board list, schedule and past experience; projects that increase overnight stays favored."
+      },
+      {
+        "title": "Ocean Shores Awards $1.5M for 'heads in beds' (The Daily World)",
+        "doc_type": "award list",
+        "year": "2025",
+        "url": "https://thedailyworld.com/news/ocean-shores-awards-1-5m-for-heads-in-beds",
+        "summary": "Council approved $1.5 million in 2025 lodging tax awards to 10 recipients on the LTAC's recommendation, with $1.1 million going to the Ocean Shores Convention Center."
+      }
+    ],
+    "total_pool_usd": 1500000,
+    "competitive_pool_usd": 400000,
+    "pool_note": "2025: $1.5M awarded across 10 recipients, with $1.1M to the city's Ocean Shores Convention Center, leaving about $400,000 for the other nine recipients (estimate; the 2021 cycle left only about $19,000 for outside groups)."
+  },
+  {
+    "name": "Long Beach",
+    "type": "city",
+    "county": "Pacific",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2025-10-03",
+    "funding_year": "2026",
+    "deadline_pattern": "Early October each year (Oct 1-3) for the following calendar year",
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://www.longbeachwa.gov/media/7731",
+    "contact": "Ariel Smith, asmith@longbeachwa.gov, (360) 642-4421",
+    "notes": "Requires liability insurance naming the City and an economic impact report within 60 days of the event; 2027 cycle not found online.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "2026 Lodging Tax Funds application",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.longbeachwa.gov/media/7731",
+        "summary": "Application for tourism events, facilities and marketing due October 3 at 5:00 pm; eligible applicants are tourism marketing entities, 501(c)(3)/(c)(6) nonprofits and municipalities; awardees sign a services contract, carry liability insurance and file an economic impact report within 60 days. No total stated."
+      },
+      {
+        "title": "2022 Lodging Tax Funds application",
+        "doc_type": "guidelines",
+        "year": "2022",
+        "url": "https://www.longbeachwa.gov/media/196",
+        "summary": "Earlier version of the same form with an October 1 deadline; same eligibility categories and a 30-day economic impact report."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No funding total, award list or budget for the lodging tax fund was found online; only the application form is posted."
+  },
+  {
+    "name": "Olympia",
+    "type": "city",
+    "county": "Thurston",
+    "tax_rate": "4% special excise tax (first 2% credited against state sales tax)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": null,
+    "funding_year": "2027",
+    "deadline_pattern": "Annual cycle; committee reviews applications in June/July and early October",
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://www.olympiawa.gov/government/advisory_committees/lodging_tax_advisory_committee.php",
+    "contact": "Amelia Layton, Staff Liaison, alayton@ci.olympia.wa.us, 360.507.6035",
+    "notes": "Nonprofits and government entities only; promotion must target audiences outside Thurston County; applications through Submittable, reimbursement basis.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Yến Huỳnh",
+        "role": "Chair",
+        "affiliation": "Olympia City Council (Mayor Pro-tem)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Janine Phillips",
+        "role": "Lodging representative",
+        "affiliation": "Hampton Inn & Suites",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Greg Taylor",
+        "role": "Lodging representative",
+        "affiliation": "DoubleTree by Hilton",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kelly Campbell",
+        "role": "Activity representative",
+        "affiliation": "Experience Olympia and Beyond",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Theresa Thorning",
+        "role": "Activity representative",
+        "affiliation": "Olympic Flight Museum Airshow",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.olympiawa.gov/government/advisory_committees/lodging_tax_advisory_committee.php",
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "Committee reviews applications at its June/July meeting and finalizes recommendations in early October",
+      "format": null
+    },
+    "meeting_schedule": "Usually meets three times a year, including June/July and early October",
+    "funding_docs": [
+      {
+        "title": "2027 Tourism Funding Application Guidelines",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.olympiawa.gov/Document_center/Government/Advisory%20Committees/LTAC/2027%20Tourism%20Funding%20Application%20Guidelines%20090326.pdf",
+        "summary": "Official 2027 guidelines (PDF dated Sept 3, 2026); the LTAC page summarizes priorities as overnight stays in Olympia lodging, promotion to out-of-county visitors, economic benefit, no duplication, City-owned facilities, and applicants not relying solely on LTAC funds. Dollar total not available from the page."
+      },
+      {
+        "title": "LTAC Budget Workbook 2027",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://www.olympiawa.gov/Document_center/Government/Advisory%20Committees/LTAC/LTAC%20Budget%20workbook%202027.xlsx",
+        "summary": "Required budget workbook for 2027 applicants submitted through Submittable."
+      },
+      {
+        "title": "Lodging Tax Advisory Committee page",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.olympiawa.gov/government/advisory_committees/lodging_tax_advisory_committee.php",
+        "summary": "Governmental entities and nonprofits may apply; reimbursement only for contracted costs; Council may approve, reject or return recommendations but cannot add recipients or change amounts."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No pool or award total is published on the LTAC page; the 2027 guidelines PDF could not be read in this pass."
+  },
+  {
+    "name": "Lacey",
+    "type": "city",
+    "county": "Thurston",
+    "tax_rate": "4%",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-21",
+    "funding_year": "2027",
+    "deadline_pattern": "Late August each year for the following calendar year; presentations mid-September",
+    "typical_open": "July",
+    "annual_pool": "$685K",
+    "url": "https://cityoflacey.org/government/lacey-city-council/boards-commissions/ltac/",
+    "contact": "Sadie Siglin, Management Analyst, Lodging.Tax@CityofLacey.org, 360-456-7788",
+    "notes": "Covers Lacey and its Urban Growth Area; reimbursement-only with a Professional Services Agreement; pool is the 2026 awards total.",
+    "confidence": "high",
+    "members": [],
+    "members_source": "https://cityoflacey.org/government/lacey-city-council/boards-commissions/ltac/",
+    "members_as_of": "2026-09-09",
+    "presentation": {
+      "required": false,
+      "date": "2026-09-17",
+      "pattern": "LTAC may request a supplemental presentation from applicants about four weeks after the late-August deadline (anticipated Sept 17, 2026)",
+      "format": "in person"
+    },
+    "meeting_schedule": "No fixed schedule; meets in September for application review (hybrid: Lacey City Hall Executive Board Room, Zoom and YouTube), with awards in January",
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Advisory Committee page with 2026 awards",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://cityoflacey.org/government/lacey-city-council/boards-commissions/ltac/",
+        "summary": "2026 awards total about $685,239: $278,739 to the Regional Athletic Complex, $100,000 to Experience Olympia and Beyond, $80,000 to the Olympia/Lacey Fan Zone, $40,000 to Oly Soccer and $35,000 to the Lacey Visitors Center; events category totals about $191,500."
+      },
+      {
+        "title": "2027 Lodging Tax Funding Scoring Rubric",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cityoflacey.org/wp-content/uploads/sites/3/2026/07/2027-Lodging-Tax-Funding-Socring-Rubric.pdf",
+        "summary": "160-point rubric: activity frequency (30), location inside Lacey/UGA (30), tourism promotion with 50 points for visitors from 50+ miles, and community collaboration (50)."
+      },
+      {
+        "title": "DRAFT 2027 Lodging Tax Funding Application",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cityoflacey.org/wp-content/uploads/sites/3/2026/07/DRAFT-2027-Lodging-Tax-Funding-Application.docx",
+        "summary": "Question set for the 2027 cycle (closed August 21, 2026); reimbursement-only funding under a Professional Services Agreement."
+      },
+      {
+        "title": "2025 Adopted Budget (lodging tax recipients)",
+        "doc_type": "budget",
+        "year": "2025",
+        "url": "https://cityoflacey.org/wp-content/uploads/sites/3/2025/01/2025-Adopted-Budget-Final.pdf",
+        "summary": "Adopted budget listing 2025 lodging tax recipients and amounts."
+      }
+    ],
+    "total_pool_usd": 685239,
+    "competitive_pool_usd": 265500,
+    "pool_note": "2026: $685,239 awarded in total; about $319,739 went to City of Lacey facilities and events (Regional Athletic Complex $278,739, Lacey Museum $30,000, July 3 fireworks $11,000) and $100,000 to the Experience Olympia DMO, leaving about $265,500 across 15 outside recipients (estimate)."
+  },
+  {
+    "name": "Bellingham",
+    "type": "city",
+    "county": "Whatcom",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-04",
+    "funding_year": "2027",
+    "deadline_pattern": "Early September each year for the following calendar year",
+    "typical_open": "Early June",
+    "annual_pool": null,
+    "url": "https://cob.org/tourism-funding-opportunities",
+    "contact": "Tourism program, tourism@cob.org, 360-778-8300 (staff tkwebb@cob.org)",
+    "notes": "Tiers: Visitor-Generating Events up to $100K/yr (2-year term), Destination Experience up to $35K, Small Grant up to $5K, plus Signature Event grants; LTAC is a subcommittee of the Tourism Commission.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Todd Elsworth",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Peter Frazier",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Christine Jenkins",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Matt Lesinski",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Craig Jewell",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Marc Blake",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Stephanie Morrell",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kevin Coleman",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Nick Kelly",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kimberly Anderson",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Katy Willis",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Lindsey Payne Johnstone",
+        "role": "Tourism Commission member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://cob.org/gov/public/bc/tourism",
+    "members_as_of": "2026-10-28",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "Tourism Commission reviews proposals after the early-September deadline; no applicant presentation mentioned",
+      "format": null
+    },
+    "meeting_schedule": "Tourism Commission typically meets the fourth Tuesday of each month, Mayor's Boardroom, Bellingham City Hall",
+    "funding_docs": [
+      {
+        "title": "Tourism Grant Application (2027 cycle)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cob.org/services/business/tourism-program/tourism-funding-opportunities/tourism-grant-application",
+        "summary": "Due September 4, 2026 at noon; Visitor-Generating Events up to $100,000/yr (two-year term, average about $40,000), Destination Experience up to $35,000, Small Grant up to $5,000; staff estimate about $400,000 went to events and $300,000 to destination experience projects last cycle; 100-point scoring led by economic impact and Bellingham identity."
+      },
+      {
+        "title": "Tourism Grant Program overview",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cob.org/services/business/tourism-program/tourism-grants",
+        "summary": "Describes the three grant tiers plus Signature Event grants for experienced producers; funded by the City's share of lodging tax."
+      },
+      {
+        "title": "Tourism Eligible Expenses and Marketing Requirements",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cob.org/wp-content/uploads/Tourism-Eligible-Expenses-Marketing-Requirements.docx",
+        "summary": "Lists eligible costs and the pre- and post-contract marketing meetings required with Bellingham Whatcom County Tourism."
+      },
+      {
+        "title": "Tourism Grant Application Budget Form",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://cob.org/wp-content/uploads/Tourism-Grant-Application-Budget-Form.xlsx",
+        "summary": "Required project budget template for applicants."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 700000,
+    "pool_note": "2026 cycle: staff estimate about $400,000 went to Visitor-Generating Events and $300,000 to Destination Experience grants, roughly $700,000 to outside applicants (estimate); total city lodging tax revenue not published on the grant pages."
+  },
+  {
+    "name": "Mount Vernon",
+    "type": "city",
+    "county": "Skagit",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-08",
+    "funding_year": "2027",
+    "deadline_pattern": "Early September each year for the following calendar year",
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://mountvernonwa.gov/704/Lodging-TaxTourism-Promotion-Application",
+    "contact": "Finance Department, mvfinance@mountvernonwa.gov, 360-419-3253",
+    "notes": "Applications go to the Finance Office by 4:30 pm; prior-year recipients must file a post-event report by December 31.",
+    "confidence": "high",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "2027 Lodging Tax/Tourism Promotion application packet",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.mountvernonwa.gov/DocumentCenter/View/20225/2027-Lodging-Tax-application-packet",
+        "summary": "2027 application packet due to the Finance Office by 4:30 pm September 8, 2026. Amount available not stated on the page."
+      },
+      {
+        "title": "Lodging Tax information and instructions",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.mountvernonwa.gov/DocumentCenter/View/20226/Lodging-Tax-information-and-instructions",
+        "summary": "General program information and instructions for applicants (content not retrievable in this pass)."
+      },
+      {
+        "title": "2026 Post Event Report Form",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.mountvernonwa.gov/DocumentCenter/View/20224/2026-Post-Event-Report-Form",
+        "summary": "Required of 2026 recipients by December 31, 2026."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No funding total or award list is published with the 2027 application packet."
+  },
+  {
+    "name": "Burlington",
+    "type": "city",
+    "county": "Skagit",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-14",
+    "funding_year": "2027",
+    "deadline_pattern": "Mid-September each year for the following calendar year, with occasional second rounds (Nov 14, 2025 for 2026)",
+    "typical_open": "August",
+    "annual_pool": null,
+    "url": "https://burlingtonwa.gov/154/Lodging-Tax-Advisory-Committee",
+    "contact": "Kristen Bachhuber, HR & Admin Manager, kristenb@burlingtonwa.gov, 360-755-0531",
+    "notes": "Paper or emailed applications to City Hall or the Finance Department; seven voting LTAC members plus alternates.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Elizabeth Turman-Bryant",
+        "role": "Chair",
+        "affiliation": "Burlington City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Dan Mitzel",
+        "role": "Lodging representative",
+        "affiliation": "Candlewood Suites & Hampton Inn & Suites",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kevin McEntee",
+        "role": "Lodging representative",
+        "affiliation": "Trimark Hospitality/LaQuinta",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jeff Bae",
+        "role": "Lodging representative",
+        "affiliation": "Holiday Inn Express",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Steph Rees",
+        "role": "Activity representative",
+        "affiliation": "Burlington Chamber of Commerce",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Cate Anderson",
+        "role": "Activity representative",
+        "affiliation": "Children's Museum of Skagit County",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Nicole Roozen",
+        "role": "Activity representative",
+        "affiliation": "Skagit Valley Tulip Festival",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Joe DeGloria",
+        "role": "Alternate",
+        "affiliation": "Burlington City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jessica Waggoner",
+        "role": "Alternate",
+        "affiliation": "Lincoln Theatre",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Rebecca Horner",
+        "role": "Ex officio",
+        "affiliation": "City Administrator",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://burlingtonwa.gov/154/Lodging-Tax-Advisory-Committee",
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "Meets as needed at City Hall",
+    "funding_docs": [
+      {
+        "title": "2026 Burlington Lodging Tax Application",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://burlingtonwa.gov/DocumentCenter/View/6624/2026-Burlington-Lodging-Tax-Application",
+        "summary": "Application form for 2026 lodging tax funds for organizations that promote tourism in Burlington."
+      },
+      {
+        "title": "News Release: 2026 Lodging Tax Applications (second round)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://burlingtonwa.gov/DocumentCenter/View/6822/NEWS-RELEASE---2026-Lodging-Tax-Applications-20",
+        "summary": "Second-round applications due 5:00 pm November 14, 2025 to City Hall or kristenb@burlingtonwa.gov."
+      },
+      {
+        "title": "Burlington City Council allocates lodging tax funds (goSkagit)",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.goskagit.com/news/local_news/burlington-city-council-allocates-lodging-tax-funds/article_a74bd6f7-0041-4c7c-82ef-a80f55b21c10.html",
+        "summary": "Council approved $700,000 for 2026 (LTAC had recommended $650,000): about $240,000 to the Chamber/Visitor Center including Berry Dairy Days, about $147,000 to Parks tournament support at Skagit River Park, $57,000 to the Skagit Tourism Bureau sports commission and $50,000 to the Children's Museum."
+      },
+      {
+        "title": "Lodging Tax Advisory Committee page",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://burlingtonwa.gov/154/Lodging-Tax-Advisory-Committee",
+        "summary": "Roster of the seven-member committee and link to the 2027 Lodging Tax Application Process document."
+      }
+    ],
+    "total_pool_usd": 700000,
+    "competitive_pool_usd": 313000,
+    "pool_note": "2026: Council allocated $700,000 (LTAC recommended $650,000); about $240,000 went to the Chamber/Visitor Information Center contract and $147,000 to city Parks tournament support, leaving roughly $313,000 for outside groups such as the Skagit Tourism Bureau ($57,000) and Children's Museum ($50,000) (estimate)."
+  }
+]

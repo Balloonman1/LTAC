@@ -1,0 +1,1203 @@
+[
+ {
+  "name": "La Conner",
+  "type": "city",
+  "county": "Skagit",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10.7%; $2.00/night Skagit TPA fee on properties with 40+ units) per DOR Q1 2026 lodging flyer; 2024 DOR distributions $200,676 ($100,344 state-shared + $100,332 special)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Applications ('Lodging Tax Fund Request for Proposal') due at Town Hall in early September, received not postmarked (Sept 9, 2024, 3:30 pm for 2025 funds); Town Council votes in late September (Sept 26, 2023 for 2024 funds). The 2027-cycle deadline (expected early September 2026) has passed; next expected early September 2027 for 2028 funds.",
+  "typical_open": "August (Town posts the RFP on the Finance Department page and the La Conner Weekly News runs a call for proposals in mid-August)",
+  "annual_pool": "2024 awards: $342,111 total, of which $124,650 to community organizations ($90,000 La Conner Chamber of Commerce plus $34,650 across nine nonprofits) and $217,461 for Town projects. 2025 cycle: $284,986 available against $382,480 in full requests. Approximately $260,000 approved for 2026.",
+  "url": "https://www.townoflaconner.org/DocumentCenter/View/2208/La-Conner-Application-for-funding-2026",
+  "contact": "Maria DeGoede, Finance Director, Town of La Conner, 360-466-3125, PO Box 400 / 204 Douglas St, La Conner, WA 98257; Scott G. Thomas, Town Administrator",
+  "notes": "La Conner does not use a standing LTAC: the council finance committee and mayor review the Lodging Tax Fund RFP responses and recommend to the Town Council, which awards competitively in late September. Historically about one third goes to outside applicants (Chamber of Commerce $90,000-$95,000 plus small arts, museum and event grants of $750-$12,000) and the rest to Town restrooms, Maple Hall, advertising and the La Conner Downtown Association. 2025 requests exceeded available funds by about $97,000. The Town website blocked direct retrieval in this session; the application PDF link was confirmed but its text could not be read.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No applicant presentation documented; council finance committee reviews written proposals and council votes at a regular or special meeting (Sept 17, 2024 special meeting packet; Sept 26, 2023 vote)",
+   "format": null
+  },
+  "meeting_schedule": "Town Council meets 2nd and 4th Tuesdays, 6 pm, Maple Hall; lodging tax awards handled at a September meeting",
+  "total_pool_usd": 342111,
+  "competitive_pool_usd": 124650,
+  "pool_note": "Most recent itemized year is 2024 funding (voted Sept 2023): $342,111 total, $217,461 internal Town projects, $124,650 to outside organizations including $90,000 to the Chamber; roughly $34,650 was spread across nine other nonprofits. For 2025 the Town had $284,986 to distribute; about $260,000 was approved for 2026 (itemization not published in retrieved sources).",
+  "funding_docs": [
+   {
+    "title": "La Conner Application for Funding 2026 (Lodging Tax Fund RFP)",
+    "doc_type": "application",
+    "year": "2026",
+    "url": "https://www.townoflaconner.org/DocumentCenter/View/2208/La-Conner-Application-for-funding-2026",
+    "summary": "Town's application form for lodging tax funding; retrieved only as binary in this session so contents are unverified."
+   },
+   {
+    "title": "Sept 17, 2024 Special Meeting packet: 2025 Hotel/Motel fund requests",
+    "doc_type": "minutes",
+    "year": "2025",
+    "url": "https://www.townoflaconner.org/DocumentCenter/View/1924/91724-Special-Meeting-2025-HM-Packet",
+    "summary": "Town Administrator memo and spreadsheet: $284,986 available for 2025, $382,480 full requests from 13 applicants (Chamber $100,000, Downtown Association $131,900, Public Works restrooms $71,740, MoNA $10,000, La Conner Live $12,000, Art's Alive $8,000, Thrives six events $29,300, others $1,000-$5,000). Finance Committee and Mayor recommend; council decides; post-event report and JLARC reporting required."
+   },
+   {
+    "title": "La Conner Weekly News: 'Nonprofits: apply for grants tapping tourist tax funds' (Aug 14, 2024)",
+    "doc_type": "guidelines",
+    "year": "2025",
+    "url": "https://www.laconnerweeklynews.com/story/2024/08/14/news/nonprofits-apply-for-grants-tapping-tourist-tax-funds-for-your-projects/10832.html",
+    "summary": "Call for 2025 proposals: due Sept 9, 2024, 3:30 pm, received not postmarked; 2023 revenue $195,784; 2024 budget $140,000; contact Finance Director Maria DeGoede."
+   },
+   {
+    "title": "La Conner Weekly News: '2024 hotel-motel fund grants' (Oct 11, 2023)",
+    "doc_type": "award list",
+    "year": "2024",
+    "url": "https://www.laconnerweeklynews.com/story/2023/10/11/news/2024-hotel-motel-fund-grants/9623.html",
+    "summary": "Council voted $342,111 for 2024: Chamber $90,000, MoNA $8,250, Arts Foundation $8,000, Lincoln Theatre $1,000, Skagit Artists Together $1,000, nine organizations $34,650 total; Maple Hall $132,866, restrooms/landscaping $63,995, Town advertising $20,600."
+   },
+   {
+    "title": "Skagit Valley Herald: 'La Conner approves tourism fund allocations'",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://www.goskagit.com/news/local_news/la-conner-approves-tourism-fund-allocations/article_208fd098-f365-425b-9f69-76e684e9d813.html",
+    "summary": "Council approved about $260,000 in hotel/motel funds to MoNA, public restrooms, Thrive Association, Northwest Agriculture Business Center, La Conner Live, Skagit River Poetry Festival, Lincoln Theatre and a bicycle repair station; individual amounts not reported."
+   }
+  ],
+  "alternatives": [],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Elma",
+  "type": "city",
+  "county": "Grays Harbor",
+  "tax_rate": "3% special hotel/motel tax (total lodging tax rate 12%) per DOR Q1 2026 lodging flyer; 2024 DOR distributions $89,388 (state-shared only)",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "Elma City Hall (clerk name, phone and email not retrievable in this session)",
+  "notes": "Elma's lodging tax (about $89,000 in 2024, from a 3% rate that includes the state-shared credit) has historically been awarded by direct council vote on requests: in Nov 2017 the council authorized $21,000 to the Elma Chamber of Commerce for the Winter Wine Festival after the chamber asked for funds (The Vidette). No application form, LTAC page or recent award record was found across six searches of the city site, The Vidette and Grays Harbor sources, and the Elma municipal code page (ecode360) failed to load. Treat as a request-to-council process until City Hall confirms; the chamber's wine festival appears to be the main recurring recipient.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "The Vidette: Elma City Council meeting notes (Nov 2017)",
+    "doc_type": "minutes",
+    "year": "2018",
+    "url": "https://thevidette.com/?p=3346",
+    "summary": "Council voted $21,000 in lodging tax funds to the Elma Chamber of Commerce for the Winter Wine Festival on the chamber's request; no application process described."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Grays Harbor County Lodging Tax funding",
+    "administrator": "Grays Harbor County Board of Commissioners / LTAC",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County program not researched in this session (search budget exhausted); verify directly with Grays Harbor County.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Sumner",
+  "type": "city",
+  "county": "Pierce",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 11.6% for 25 or fewer units, 13.6% for 26+ units including the 3% county convention center tax; $0.50/night TPA fee on 40+ units) per DOR Q1 2026 flyer; 2024 DOR distributions $153,373 (state-shared)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No city application; Sumner's lodging tax grants page directs event organizers to the Pierce County Lodging Tax Program (2027 applications were due July 3, 2026)",
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://sumnerwa.gov/lodging-tax-grants/",
+  "contact": "City of Sumner, 1104 Maple Street, Sumner, WA 98390, 253-863-8300 (no program-specific staff contact posted)",
+  "notes": "Sumner keeps a five-member LTAC under SMC 2.82 (one councilmember chair, two lodging collectors, two funded-activity reps, one-year terms) that meets roughly once a year (Aug 27, 2026, 10 am, City Hall) to review use of the city's 2% tax, but the city does not run a competitive grant round: its page states that most of Sumner's lodging tax goes to Pierce County and tells tourism-generating efforts in Sumner to apply to the county. The city's own lodging tax spending supports its Strategic Tourism Plan. Committee member names are not published.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "https://sumnerwa.gov/?p=31325 (composition only; names not listed)",
+  "members_as_of": "2026-10-30",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "LTAC meets about once a year; last posted meeting Aug 27, 2026, 10-11 am, City Hall First Floor Conference Room (Teams option)",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "Sumner Lodging Tax Grants page",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://sumnerwa.gov/lodging-tax-grants/",
+    "summary": "States Pierce County is accepting lodging tax applications (2027 grants due July 3, 2026) and that most of Sumner's lodging tax revenue goes to the county; refers to Sumner's Strategic Tourism Plan."
+   },
+   {
+    "title": "SMC Chapter 2.82 Lodging Tax Advisory Committee",
+    "doc_type": "resolution",
+    "year": null,
+    "url": "https://www.codepublishing.com/WA/Sumner/html/Sumner02/Sumner0282.html",
+    "summary": "Five voting members appointed by the mayor: one elected official as chair, two tax collectors, two funded-activity reps; reviews proposals to change use of revenue under SMC 3.14."
+   },
+   {
+    "title": "Sumner LTAC meeting notice, Aug 27, 2026",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://sumnerwa.gov/?p=31325",
+    "summary": "Meeting notice describing the committee's role reviewing use of the 2% occupancy tax; no awards listed."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pierce County Lodging Tax Program (2027 funding cycle)",
+    "administrator": "Pierce County Economic Development Department",
+    "url": "https://www.piercecountywa.gov/5733/Lodging-Tax-Program",
+    "funds": "$5,308,730 total for 2027 across six sub-applications: Asset/Product Development (capital) $2,290,000; Individual Leisure Marketing $1,500,000; Personnel & Administration $800,000; Event Marketing & Operations $540,000; Event Development $118,730; Sports Event Development $60,000",
+    "eligibility": "Application requires a nonprofit/federal tax-exempt determination letter; a one-on-one meeting with staff is required before portal access is granted",
+    "deadline": "2026-07-03",
+    "deadline_pattern": "Opens early June, closes early July (June 5 to July 3, 2026, 4:00 pm) for the following year's funding; LTAC/TPA committee meets in the fall (Nov 19, 2025; May 20, 2026 agendas posted)",
+    "notes": "Sumner's city page tells applicants that most of Sumner's lodging tax goes to Pierce County and points them to this program; the county program page itself returned an error during this check, figures come from the county's 2027 application guide (DocumentCenter/View/158782).",
+    "contact": "Mike Gommi, Pierce County Economic Development, 253-798-6914, mike.gommi@piercecountywa.gov"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Washougal",
+  "type": "city",
+  "county": "Clark",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10.5%) per DOR Q1 2026 flyer; 2024 DOR distributions $166,130 ($83,222 state-shared + $82,908 special)",
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": null,
+  "funding_year": "2026",
+  "deadline_pattern": "No fixed deadline: proposals are considered on an ongoing basis and must be received at least two weeks before the event; funds must be spent by December 31 of the fiscal year with no carryover",
+  "typical_open": "Open year-round, subject to remaining budget",
+  "annual_pool": null,
+  "url": "https://cityofwashougal.us/184/Lodging-Tax-Advisory-Committee",
+  "contact": "Rose Jewell, Community Engagement Manager, rose.jewell@cityofwashougal.us, City of Washougal, 1701 C Street, Washougal, WA 98671, 360-835-8501 (applications addressed Attn: Finance; reimbursements to the Community Engagement Manager)",
+  "notes": "Washougal runs a rolling Hotel/Motel Tax Application (one form per event or project) reviewed by its Lodging Tax Committee as long as the request fits the adopted budget; the City makes the final call. Committee weighs projected room nights, reliability of the information, promotion of Washougal beyond its borders and spending in the city, and gives priority to broad tourism promotion and large overnight-generating sporting, cultural and leisure events over small single-day events. Awards are reimbursement-only after hard-copy proof of advertising and a post-event room-night evaluation; recipients must credit city hotel/motel funds in advertising. Annual pool and award caps are not published.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Ernie Suggs",
+    "role": "Elected official (chair)",
+    "affiliation": "Washougal City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Michelle Wagner",
+    "role": "Alternate (non-voting)",
+    "affiliation": "Washougal City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Chuck Carpenter",
+    "role": "Lodging tax activity representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jennifer Senescu",
+    "role": "Lodging tax activity representative",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Best Western (representative name not listed)",
+    "role": "Business / lodging tax collector representative",
+    "affiliation": "Best Western",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://cityofwashougal.us/184/Lodging-Tax-Advisory-Committee (one business seat listed as vacant)",
+  "members_as_of": "2026-10-30",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No applicant presentation required; written application reviewed by the committee",
+   "format": null
+  },
+  "meeting_schedule": "Not published; committee meets as needed to review applications (agendas at https://cityofwashougal.us/129/2239/Agendas-Minutes)",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "Washougal Lodging Tax Advisory Committee page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://cityofwashougal.us/184/Lodging-Tax-Advisory-Committee",
+    "summary": "Lists allowable uses under RCW 67.28.1815, ongoing application basis, advertising credit requirement, committee roster and links to the application, media kit and reimbursement form."
+   },
+   {
+    "title": "Washougal Hotel/Motel Tax Application page",
+    "doc_type": "application",
+    "year": "2026",
+    "url": "https://cityofwashougal.us/185/Hotel-Motel-Tax-Application",
+    "summary": "Application instructions: one form per project, two-week lead time, review criteria (room nights, reliability, out-of-area promotion, local spending), reimbursement-only with proof of advertising and post-event room-night evaluation."
+   },
+   {
+    "title": "2018 Hotel/Motel Tax Application (PDF)",
+    "doc_type": "application",
+    "year": "2018",
+    "url": "https://www.cityofwashougal.us/DocumentCenter/View/142/2018-Hotel--Motel-Tax-Application-PDF",
+    "summary": "Older form with the same policy text: priority to broad tourism promotion, preference for large overnight events, no advance payments, no stated caps."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Clark County Lodging Tax funding",
+    "administrator": "Clark County / LTAC",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County program not researched in this session; verify with Clark County.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Ferndale",
+  "type": "city",
+  "county": "Whatcom",
+  "tax_rate": "Rate not confirmed (Whatcom County rows were missing from the DOR flyer retrieved); 2024 DOR distributions $59,249 ($29,625 state-shared + $29,625 special), consistent with a 2% special tax",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2028",
+  "deadline_pattern": "Application window runs roughly June 20 to July 31 (June 22 to Aug 1 in 2022; June 20 to July 31 per FY2026 instructions); LTAC reviews in August and City Council approves awards in early September (Sept 2026 for FY2027). FY2027 window is closed; city says check back June 2027 for the next cycle.",
+  "typical_open": "Late June (city posts the application in June; next expected June 2027)",
+  "annual_pool": "FY2027 (approved Sept 2026): $50,000 awarded to 8 of 10 applicants out of $89,500 requested. Prior round: $81,000 to 10 organizations out of 14 requests totaling $171,350.",
+  "url": "https://cityofferndale.org/401/Lodging-Tax-Grant-Program",
+  "contact": "Michelle Williams, Deputy City Clerk, michellewilliams@cityofferndale.org, 360-384-4302 (City Hall) / 360-685-2358 (Deputy City Clerk line in instructions), City of Ferndale, PO Box 936 / 2095 Main Street, Ferndale, WA 98248",
+  "notes": "Small annual program run by the Deputy City Clerk: applications are taken in a June 20 to July 31 window, the LTAC scores them on economic impact (visits, overnight stays, off-peak, first-time events), matching resources, fit with community assets and objectives, and compliance with the lodging tax statute, and the council adopts awards in September. The committee can consider off-cycle requests but approval is less likely. Grants are reimbursement-only with 20% withheld until a final written report (documenting tourists and overnight stays) and an oral report to City Council are delivered. Recent awards skew to the Chamber visitor center ($30,000) and city Pioneer Village ($10,000), with events getting $500 to $3,000; Whatcom Frightmare and Rock the Block were declined for FY2027.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Erin Gunter",
+    "role": "Elected official",
+    "affiliation": "Ferndale City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Greg Hansen",
+    "role": "Elected official (Mayor)",
+    "affiliation": "City of Ferndale",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Katy Klein",
+    "role": "Recipient representative",
+    "affiliation": "Ferndale Chamber of Commerce (Executive Director)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Linda Harkleroad",
+    "role": "Recipient representative",
+    "affiliation": "Ferndale Heritage Society",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kevin VandeKamp",
+    "role": "Lodging tax collector representative",
+    "affiliation": "SpringHill Suites (Sales Manager)",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.lyndentribune.com/ferndale_record/ferndale-events-organizations-receive-tourism-funding/article_369de047-0531-44ba-ac79-6c731dee5dc8.html (Ferndale Record, Sept 2, 2026)",
+  "members_as_of": "2026-09-02",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation at application; grantees must give an oral report to City Council after the project (20% of reimbursement withheld until written and oral reports are complete)",
+   "format": "Post-project oral report to City Council"
+  },
+  "meeting_schedule": "LTAC meets after the July 31 application deadline (August) to score applications; council acts in early September; no standing monthly schedule published",
+  "total_pool_usd": 50000,
+  "competitive_pool_usd": 40000,
+  "pool_note": "FY2027 round (council approval Sept 2026): $50,000 awarded; $10,000 went to the City of Ferndale itself (Pioneer Village tour guides), leaving $40,000 to outside applicants, of which $30,000 went to the Chamber visitor center and $10,000 was split among six event grants ($500-$3,000). Prior round was larger ($81,000 to 10 organizations). Total lodging tax revenue was about $59,000 in 2024 per DOR.",
+  "funding_docs": [
+   {
+    "title": "Ferndale Lodging Tax Grant Program page",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://cityofferndale.org/401/Lodging-Tax-Grant-Program",
+    "summary": "Program overview; FY2027 application window closed, check back June 2027; administered by the Deputy City Clerk; LTAC recommends, council decides."
+   },
+   {
+    "title": "LTAC Grant Application Instructions (FY2026)",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.cityofferndale.org/DocumentCenter/View/1618/LTAC-Grant-Application-Instructions",
+    "summary": "June 20 to July 31 application period, five scoring criteria, reimbursement with 20% holdback pending final written report and oral report to council, no stated pool or caps."
+   },
+   {
+    "title": "LTAC Grant Application 2022",
+    "doc_type": "application",
+    "year": "2022",
+    "url": "https://www.cityofferndale.org/wp-content/uploads/2022/06/LTAC-Grant-Application-2022.pdf",
+    "summary": "Form lists nonprofit, public agency and for-profit business applicant types; for-profits must attach a Ferndale business license, IRS EIN, mission statement and balance sheet; deadline Aug 1, 2022."
+   },
+   {
+    "title": "Ferndale Record: Council approves $50,000 in grants of lodging tax funds (Sept 2, 2026)",
+    "doc_type": "award list",
+    "year": "2027",
+    "url": "https://www.lyndentribune.com/ferndale_record/ferndale-events-organizations-receive-tourism-funding/article_369de047-0531-44ba-ac79-6c731dee5dc8.html",
+    "summary": "Awards: Chamber visitor center $30,000; City Pioneer Village guides $10,000; Heritage Society Olde Fashioned Christmas $3,000, Lighted Christmas Stroll $1,000, Stars Stripes and Spokes $500; Arts Commission Block Party $1,500; Old Settlers Pioneer Days $2,000; Downtown Association $2,000; Whatcom Frightmare and Rock the Block not funded; names the five LTAC members."
+   },
+   {
+    "title": "Ferndale Municipal Code Chapter 2.31 Lodging Tax Advisory Committee",
+    "doc_type": "resolution",
+    "year": null,
+    "url": "https://www.codepublishing.com/WA/Ferndale/html/Ferndale02/Ferndale0231.html",
+    "summary": "Establishes the LTAC; not retrieved in full during this check."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Whatcom County Lodging Tax Fund Program",
+    "administrator": "Whatcom County Executive's Office / Lodging Tax Advisory Committee",
+    "url": "https://whatcomcounty.getanchor.io/2288/Lodging-Tax-Advisory-Committee.html",
+    "funds": "For 2026 the committee recommended about $1.2M for events, festivals, chambers and tourism promotion (12 event/festival awards totaling about $275,500; 6 tourism-promotion awards about $812,000) plus about $2.3M one-time capital from reserves",
+    "eligibility": "Not stated on the county page; 2026 round funded nonprofits, chambers, the DMO and county parks; priorities favor the primary DMO, staffed chambers, year-round services, infrastructure and unincorporated-area events with overnight stays",
+    "deadline": null,
+    "deadline_pattern": "Annual; applications reviewed at an October LTAC session (Oct 13 and 15, 2025 for 2026 funds), recommendations to County Council; committee meets spring and fall at dates set by the chair",
+    "notes": "County page lists a 2025 Funding Application and a July 15, 2024 press release but no 2027 dates at this check. Whatcom Frightmare (a Ferndale-area event) was told in 2025 to seek Ferndale LTAC funding instead.",
+    "contact": "Satpal Sidhu, County Executive and LTAC chair (no direct email/phone posted)"
+   }
+  ],
+  "for_profit": "yes",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Oroville",
+  "type": "city",
+  "county": "Okanogan",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10.4%) per DOR Q1 2026 flyer; 2024 DOR distributions $34,402 ($16,953 state-shared + $17,448 special)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Written Hotel/Motel Tax applications are submitted to City Hall in the fall and reviewed at the council's November budget workshop (Nov 12, 2024 for 2025 funds), with final approval at the mid-November regular meeting and adoption in the annual budget. The 2027-cycle review (expected November 2026) is imminent; no published deadline.",
+  "typical_open": "September-October (no formal call; applicants submit written requests to the City Clerk ahead of the November budget workshop)",
+  "annual_pool": "2025: $50,925 approved across 8 requests (Oroville Chamber of Commerce $15,000; The Oroville Initiative $10,000, cut from $20,750; Recreation Land/Vacationland/Info Book/ATV guide advertising $8,000; Oroville May Festival $5,000; Whistler Canyon trailhead vault toilet (Okanogan County Public Works) $5,000; Visitor Information Services $3,000; Oroville Market Association $2,900; Molson Museums $2,025). Council noted revenue is roughly $25,000 a year, so 2025 drew on fund balance and 'large approvals cannot be made every year.'",
+  "url": "https://oroville-wa.com/wp-content/uploads/2024-11-12-budget-workshop-minutes-1.pdf",
+  "contact": "JoAnn Denney, City Clerk, City of Oroville (phone/email not in retrieved documents; City Hall 1308 Ironwood St, Oroville, WA 98844); Mayor Ed Naillon",
+  "notes": "Oroville takes written Hotel/Motel Tax applications each fall and the full City Council reviews them at its November budget workshop, then adopts the amounts in the budget; no separate LTAC is referenced (population under 5,000). Awards go to the chamber, May Festival, market association, museums, visitor information services, regional guide advertising and even a county trailhead toilet, so the program is open to a range of nonprofit and public applicants. Revenue is about $25,000 a year (DOR shows $34,402 in 2024) and the council has warned that 2025's $50,925 drew down reserves, so expect smaller awards. In Dec 2025 the council approved a chamber billing-insert flyer paid from the chamber's lodging tax award.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "Applications discussed by the council at the November budget workshop; applicants may attend but no presentation requirement is documented",
+   "format": "Council budget workshop"
+  },
+  "meeting_schedule": "Council reviews hotel/motel applications at its November budget workshop (Nov 12, 2024) and acts at the following regular meeting (Nov 19, 2024); regular council meetings are the first and third Tuesdays",
+  "total_pool_usd": 50925,
+  "competitive_pool_usd": 50925,
+  "pool_note": "2025 approvals totaled $50,925 to eight outside applicants (the city kept nothing for its own projects), but annual revenue is only about $25,000, so the sustainable competitive pool is closer to $25,000; the $15,000 chamber grant is a recurring item that effectively reduces what is open to others to roughly $10,000-$35,000 depending on reserves.",
+  "funding_docs": [
+   {
+    "title": "Oroville City Council budget workshop minutes, Nov 12, 2024",
+    "doc_type": "minutes",
+    "year": "2025",
+    "url": "https://oroville-wa.com/wp-content/uploads/2024-11-12-budget-workshop-minutes-1.pdf",
+    "summary": "Hotel/Motel Tax applications reviewed; 2025 approvals totaling $50,925 listed by recipient; chamber request to add $10,000 to 2024 and 2025 awards referred to Nov 19 meeting; council noted ~$25,000 annual revenue."
+   },
+   {
+    "title": "Gazette-Tribune: Oroville City Council approves 2026 budget of $11.2 million",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://www.gazette-tribune.com/?p=88409",
+    "summary": "Dec 16, 2025 meeting: council approved a chamber billing-insert flyer to be paid from the chamber's lodging tax funds; names Clerk JoAnn Denney and council members."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Okanogan County Lodging Tax (Hotel/Motel) Tourism Promotion Funding",
+    "administrator": "Okanogan County Board of County Commissioners / Lodging Tax Advisory Committee",
+    "url": "https://www.okanogancounty.gov/170/2717/Lodging-Tax-Advisory-Committee",
+    "funds": null,
+    "eligibility": "Any nonprofit organization or municipally owned visitor information center using funds to promote tourism in Okanogan County",
+    "deadline": null,
+    "deadline_pattern": "Annual; county page posts a '2026 Application & Instructions' packet but no deadline was stated on the page at this check",
+    "notes": "LTAC advises the BOCC on the annual appropriation. Committee: Andy Hover (county commissioner, chair), Steve Devin (collector), Janet Warner (collector), Angela Larson (receiver), Allen Jircik (receiver), two at-large tourism seats vacant.",
+    "contact": "Lanie Johns, 509-422-7105 (application packets by request)"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Ilwaco",
+  "type": "city",
+  "county": "Pacific",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10.2%) per DOR Q1 2026 flyer; 2024 DOR distributions $63,597 ($31,781 state-shared + $31,815 special)",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://ilwaco-wa.gov/budget",
+  "contact": "Samantha Baker, Clerk/Treasurer; Holly Beller, City Administrator; Terri Staples, Deputy City Clerk; City of Ilwaco, 120 First Ave N / PO Box 548, Ilwaco, WA 98624, 360-642-3145 (emails not displayed on the city site)",
+  "notes": "Ilwaco collected $65,597 in lodging tax in 2025 (Chinook Observer, Mar 2026; DOR shows $63,597 for 2024), but the city website has no lodging tax, LTAC or application page, its budget page links only to annual budget-message PDFs hosted off-site that could not be fetched, and no council action on hotel/motel allocations surfaced in Chinook Observer coverage of the 2025 or 2026 budgets. Cities under 5,000 are not required to have an LTAC, so allocations are most likely set in the council budget. Ask Clerk/Treasurer Samantha Baker whether outside requests are accepted; the Long Beach Peninsula Visitors Bureau and Pacific County are the regional alternatives.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "City of Ilwaco budget page (budget message PDFs 2016-2026)",
+    "doc_type": "budget",
+    "year": "2026",
+    "url": "https://ilwaco-wa.gov/budget",
+    "summary": "Links to annual budget messages; the 2026 PDF is hosted on storage.googleapis.com and was not retrievable in this session."
+   },
+   {
+    "title": "Chinook Observer: Long Beach, Ilwaco buoyed by strong sales tax revenue in 2025 (Mar 7, 2026)",
+    "doc_type": "other",
+    "year": "2025",
+    "url": "https://chinookobserver.com/2026/03/07/headline-long-beach-ilwaco-buoyed-by-strong-sales-tax-revenue-in-2025/",
+    "summary": "Reports Ilwaco lodging tax of $65,597 in 2025, second-lowest of the past five years but 34% above 2015; no spending detail."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pacific County Lodging Tax funding",
+    "administrator": "Pacific County Board of Commissioners / LTAC",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County program not located in this session; verify with Pacific County.",
+    "contact": null
+   },
+   {
+    "program": "Long Beach Peninsula Visitors Bureau (regional DMO)",
+    "administrator": "Long Beach Peninsula Visitors Bureau",
+    "url": "https://www.visitlongbeachpeninsula.com/",
+    "funds": null,
+    "eligibility": "Event marketing partnership rather than a grant",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Linked from the Ilwaco city site as the area's tourism promoter; funded by county and city lodging tax. Approach for event listing and co-promotion.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Enumclaw",
+  "type": "city",
+  "county": "King",
+  "tax_rate": "0.9% special hotel/motel tax (reduced from 1% because the King County mental health sales tax pushed the combined rate to the 12% cap) plus 2.8% King County convention center tax; total lodging tax rate 12.1% per DOR Q1 2026 flyer; 2024 DOR distributions $30,078",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Applications posted in mid-September and due in late September (posted Sept 12, due Sept 29, 2025 for 2026 funds; Oct 8, 2021 deadline for 2022 funds); LTAC reviews and recommends at an early-October meeting (Oct 2, 2025) and council adopts with the budget. The 2027-cycle deadline (expected late September 2026) has passed; next expected September 2027.",
+  "typical_open": "Mid-September",
+  "annual_pool": "LTAC voted to allocate up to $39,000 for 2026; prospective applicants discussed requests totaling about $37,000 at the Sept 11, 2025 meeting",
+  "url": "https://cityofenumclaw.net/AgendaCenter/ViewFile/Minutes/_09112025-2224",
+  "contact": "Kristan Reed, Finance Director (LTAC staff liaison), City of Enumclaw; general City Hall 360-825-3591 (2021 contact was Finance Director Chris Anderson, canderson@ci.enumclaw.wa.us, 360-615-5629)",
+  "notes": "Enumclaw runs a small annual round: the LTAC (which meets at the Guesthouse Inn) sets the amount available in September, applications are posted and due within about two weeks, and the committee reviews and recommends in early October for the next budget year. For 2026 it capped allocations at $39,000 against about $37,000 of anticipated requests, so nearly everything requested was likely funded. The committee discussed a possible Tourism Promotion Area in 2025. Application form and guidelines are posted only during the window; the city's Agenda Center could not be opened directly in this session so the 2026 (FY2027) dates are unverified.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Anthony Wright",
+    "role": "Elected official (chair)",
+    "affiliation": "Enumclaw City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Meilee Anderson",
+    "role": "Recipient representative",
+    "affiliation": "Visit Rainier",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kerry Solmonsen",
+    "role": "Recipient representative",
+    "affiliation": "Enumclaw Chamber of Commerce",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Gurkirat Sidhu",
+    "role": "Lodging tax collector representative",
+    "affiliation": "Guesthouse Inn",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jessica (last name not listed)",
+    "role": "Lodging tax collector representative",
+    "affiliation": "Guesthouse Inn",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://cityofenumclaw.net/AgendaCenter/ViewFile/Minutes/_09112025-2224 (LTAC minutes, Sept 11, 2025)",
+  "members_as_of": "2025-09-11",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "Prospective applicants discussed their proposals informally with the LTAC at the September meeting in 2025; no formal presentation requirement documented",
+   "format": "Discussion at LTAC meeting, Guesthouse Inn, 1000 Griffin Ave"
+  },
+  "meeting_schedule": "Two meetings a year in the application season: mid-September to set the pool and timeline (Sept 11, 2025, 2 pm) and early October to review applications (Oct 2, 2025, 2 pm), both at the Guesthouse Inn",
+  "total_pool_usd": 39000,
+  "competitive_pool_usd": 39000,
+  "pool_note": "LTAC authorized up to $39,000 for 2026 awards; requests floated at the September 2025 meeting totaled about $37,000. No standing commitments were recorded in the minutes, so the full amount is treated as competitive. DOR distributions were $30,078 in 2024.",
+  "funding_docs": [
+   {
+    "title": "Enumclaw LTAC minutes, Sept 11, 2025",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://cityofenumclaw.net/AgendaCenter/ViewFile/Minutes/_09112025-2224",
+    "summary": "Committee set up to $39,000 for 2026, application posting (Sept 12) and closing (Sept 29) dates, Oct 2 review meeting, 0.9% tax rate note, TPA discussion; roster of members present."
+   },
+   {
+    "title": "Patch: City of Enumclaw Lodging Tax Funding Applications (Sept 2021)",
+    "doc_type": "guidelines",
+    "year": "2022",
+    "url": "https://patch.com/washington/enumclaw/city-enumclaw-lodging-tax-funding-applications",
+    "summary": "2022-cycle press release: applications due Oct 8, 2021; LTAC reviews and recommends to council; contact Finance Director."
+   },
+   {
+    "title": "DOR Enumclaw lodging and transportation tax notice (Q2 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://dor.wa.gov/sites/default/files/2026-02/Q226-Enumclaw-Lodging-Transp-Tax.pdf",
+    "summary": "Department of Revenue rate change notice for Enumclaw lodging tax; not retrieved in full."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "4Culture (King County lodging tax funded cultural grants)",
+    "administrator": "4Culture",
+    "url": "https://www.4culture.org",
+    "funds": null,
+    "eligibility": "King County's lodging tax share for arts, heritage and preservation flows through 4Culture's grant programs rather than a county LTAC event round",
+    "deadline": null,
+    "deadline_pattern": "Multiple programs with their own annual deadlines",
+    "notes": "Not verified in this session; check 4Culture program calendar.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Morton",
+  "type": "city",
+  "county": "Lewis",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10%) per DOR Q1 2026 flyer; 2024 DOR distributions $15,047 state-shared (special tax amount withheld as confidential)",
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": null,
+  "funding_year": "2026",
+  "deadline_pattern": "No application window: requesters appear on a regular council agenda as a New Business item (Dan Mortensen for the Morton Historical Society, Oct 28, 2024; Fred Schwindt for Fire Mountain Arts Council and the Roxy Theater, Nov 25, 2024) and the council votes directly",
+  "typical_open": "Any time; requests are scheduled through the City Clerk for a regular council meeting (fall requests line up with budget adoption)",
+  "annual_pool": null,
+  "url": "https://visitmorton.com/cityofmorton/docs/2024/Morton-City-Council-Agenda-11-25-2024.pdf",
+  "contact": "LuAnn Ward, City Clerk, City of Morton, 360-496-6881, PO Box 1089 / 250 Main Street, Morton, WA 98356",
+  "notes": "Morton has no LTAC or application form; local organizations ask the City Council directly for lodging tax money and the request is heard as a New Business item at a regular meeting (7 pm, fourth Monday). The 2024 agendas show requests from the Morton Historical Society and from Fire Mountain Arts Council/Roxy Theater; amounts and outcomes are in minutes that were not retrieved. Revenue is only about $15,000 a year, so awards are small. For larger event money use the Lewis County lodging tax grant.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": true,
+   "date": null,
+   "pattern": "Requester presents the ask to the City Council at a regular meeting",
+   "format": "Verbal request at council meeting, 7:00 pm"
+  },
+  "meeting_schedule": "Morton City Council regular meetings at 7:00 pm (Oct 28 and Nov 25, 2024 agendas); agendas posted at visitmorton.com/cityofmorton",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No pool published; DOR shows $15,047 state-shared distributions in 2024 (special tax amount confidential). Requests are funded individually by council vote.",
+  "funding_docs": [
+   {
+    "title": "Morton City Council agenda, Oct 28, 2024",
+    "doc_type": "minutes",
+    "year": "2025",
+    "url": "https://visitmorton.com/cityofmorton/docs/2024/Morton-City-Council-Agenda-10-28-2024.pdf",
+    "summary": "New Business: Dan Mortensen request for lodging tax funds for the Morton Historical Society; City Clerk LuAnn Ward."
+   },
+   {
+    "title": "Morton City Council agenda, Nov 25, 2024",
+    "doc_type": "minutes",
+    "year": "2025",
+    "url": "https://visitmorton.com/cityofmorton/docs/2024/Morton-City-Council-Agenda-11-25-2024.pdf",
+    "summary": "New Business: Fred Schwindt request for lodging tax funds for Fire Mountain Arts Council and the Roxy Theater; 2025 budget ordinance second reading on the same agenda."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Lewis County Lodging Tax (Tourism Promotion) Grant",
+    "administrator": "Lewis County Board of County Commissioners / Lodging Tax Advisory Committee",
+    "url": "https://lewiscountywa.gov/offices/commissioners/tourism-promotion-funding-application/",
+    "funds": null,
+    "eligibility": "Convention and visitors bureaus, destination marketing organizations, nonprofits (main street organizations, lodging associations, chambers), and municipalities; for-profit businesses not listed as eligible",
+    "deadline": "2026-09-30",
+    "deadline_pattern": "Opens around August 1, closes September 30 at 4 pm for the following year's funding (2027 cycle closed Sept 30, 2026); applicant presentations mid-October (Oct 15-16, 2026: 5-minute presentation plus 9-minute Q&A); BOCC decides mid-November",
+    "notes": "Reimbursement-only. LTAC scores applications and recommends; BOCC may raise or lower amounts but cannot fund an application the LTAC scored at zero. Next cycle expected to open August 2027.",
+    "contact": "TourismPromotion@lewiscountywa.gov; Rudy Rodriguez, Budget Analyst, 360-740-1233; Rieva Lester, Clerk of the Board, 360-740-1419; general 360-740-1120"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Okanogan",
+  "type": "city",
+  "county": "Okanogan",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10.5%) per DOR Q1 2026 flyer; 2024 DOR distributions $3,815 ($1,907 state-shared + $1,907 special)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Requests are gathered in the fall and reviewed by the council's Business and Tourism Committee in mid/late October (Oct 15, 2022; Oct 23, 2025); council adopts a hotel/motel allocation resolution in November with the next year's budget. 2027-cycle review (expected October 2026) has likely occurred; no posted deadline.",
+  "typical_open": "September-October (no published call; applicants submit written requests to the Clerk Treasurer)",
+  "annual_pool": "2026 recommendations: $19,878 (Okanogan Chamber of Commerce $15,000; The Chronicle advertising $3,478; City of Okanogan event staffing $1,400). 2024: $23,666; 2023: $26,239.",
+  "url": "https://www.okanogancity.com/media/16646",
+  "contact": "Jessica Blake, Clerk Treasurer, City of Okanogan (phone/email not in retrieved documents); Mayor Wayne Turner",
+  "notes": "Very small program run through the City Council's Business and Tourism Committee (Chair Denise Varner, Councilmembers John Lyles and Steve Streeter) rather than a formal LTAC. Each fall the committee reviews written requests against the Tourism Promotion Fund (No. 101) and recommends amounts the council adopts by resolution for the next budget year; the Chamber of Commerce gets $15,000 annually and the Chronicle a few thousand for regional guide advertising. In 2025 the committee rejected an Okanogan Grange request because the applicant lacked 501(c)(3) or 501(c)(6) status, which the city treats as required. Annual allocations ($20,000-$26,000) exceed the DOR-reported 2024 distributions, suggesting fund balance is being used.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Denise Varner",
+    "role": "Elected official (committee chair)",
+    "affiliation": "Okanogan City Council Business and Tourism Committee",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "John Lyles",
+    "role": "Elected official",
+    "affiliation": "Okanogan City Council Business and Tourism Committee",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Steve Streeter",
+    "role": "Elected official",
+    "affiliation": "Okanogan City Council Business and Tourism Committee",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.okanogancity.com/media/16646 (Business and Tourism Committee memo, Oct 30, 2025)",
+  "members_as_of": "2025-10-30",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "Written requests reviewed at a committee meeting; no presentation documented",
+   "format": null
+  },
+  "meeting_schedule": "Business and Tourism Committee meets once in October to review lodging tax requests (Oct 23, 2025, 3:15 pm); council adopts the allocation resolution in November",
+  "total_pool_usd": 19878,
+  "competitive_pool_usd": 4878,
+  "pool_note": "2026 allocation $19,878: $15,000 is the standing Chamber of Commerce grant and $1,400 covers city event staffing, leaving about $3,478 (the Chronicle advertising buy) that resembles an outside award; the $4,878 figure counts both non-Chamber outside items. Prior years were $23,666 (2024) and $26,239 (2023, including $2,500 to the county historical museum).",
+  "funding_docs": [
+   {
+    "title": "Business and Tourism Committee memo: Lodging Tax (Hotel Motel) Allocation Recommendations for 2026",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://www.okanogancity.com/media/16646",
+    "summary": "Oct 30, 2025 memo recommending Chronicle $3,478, City $1,400, Chamber $15,000 (total $19,878) and denying Okanogan Grange $3,500 for lack of 501(c) status."
+   },
+   {
+    "title": "Resolution No. 2023-06 Hotel/Motel Allocations (2024 budget)",
+    "doc_type": "resolution",
+    "year": "2024",
+    "url": "https://www.okanogancity.com/sites/default/files/fileattachments/city_council/meeting/packets/3040/10_-_5b_resolution_no._2023-06_hotel_motel_allocations.pdf",
+    "summary": "Allocates $23,666 from Tourism Promotion Fund 101: Chronicle $2,666, Chamber $15,000, City $6,000."
+   },
+   {
+    "title": "Resolution No. 2022-06 Hotel/Motel Allocations memo (2023 budget)",
+    "doc_type": "resolution",
+    "year": "2023",
+    "url": "https://www.okanogancity.com/media/7166",
+    "summary": "Nov 16, 2022 memo: Historical Museum $2,500, Chronicle $3,739, Chamber $15,000, City $5,000, total $26,239."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Okanogan County Lodging Tax (Hotel/Motel) Tourism Promotion Funding",
+    "administrator": "Okanogan County Board of County Commissioners / Lodging Tax Advisory Committee",
+    "url": "https://www.okanogancounty.gov/170/2717/Lodging-Tax-Advisory-Committee",
+    "funds": null,
+    "eligibility": "Any nonprofit organization or municipally owned visitor information center using funds to promote tourism in Okanogan County",
+    "deadline": null,
+    "deadline_pattern": "Annual; county page posts a '2026 Application & Instructions' packet but no deadline was stated on the page at this check",
+    "notes": "LTAC advises the BOCC on the annual appropriation. Committee: Andy Hover (county commissioner, chair), Steve Devin (collector), Janet Warner (collector), Angela Larson (receiver), Allen Jircik (receiver), two at-large tourism seats vacant.",
+    "contact": "Lanie Johns, 509-422-7105 (application packets by request)"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "South Bend",
+  "type": "city",
+  "county": "Pacific",
+  "tax_rate": "4% local lodging tax under SBMC 3.20 (2% state-shared credit plus an additional 2% special tax); DOR flyer lists the special tax at 2% with a 10.2% total lodging rate; 2024 DOR distributions $7,188 (state-shared only)",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "City of South Bend Administration (contacts page lists departments only; clerk name and phone not displayed), https://southbend-wa.gov/contacts/",
+  "notes": "South Bend Municipal Code 3.20 levies the tax and directs proceeds to a special fund for tourism facilities, bonds and tourism advertising, but names no committee or application process, and the city website (southbend-wa.gov) has no lodging tax, tourism or forms page. Five searches of council records and Willapa Harbor Herald coverage returned nothing on how the roughly $7,000 a year is spent; the site links to the Willapa Harbor Chamber of Commerce, the likely recipient. Verify with City Hall; Pacific County is the realistic route for event funding.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "South Bend Municipal Code Chapter 3.20 Lodging Tax",
+    "doc_type": "resolution",
+    "year": null,
+    "url": "https://codepublishing.com/WA/SouthBend/html/SouthBend03/SouthBend0320.html",
+    "summary": "2% plus additional 2% special excise tax on lodging; proceeds to a special fund for tourism facilities, bonds and advertising/promotion; no committee or application process described."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pacific County Lodging Tax funding",
+    "administrator": "Pacific County Board of Commissioners / LTAC",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County program not located in this session; verify with Pacific County.",
+    "contact": null
+   },
+   {
+    "program": "Willapa Harbor Chamber of Commerce",
+    "administrator": "Willapa Harbor Chamber of Commerce",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Linked from the South Bend city site; likely recipient of the city's tourism promotion dollars and the local partner for event promotion.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Coulee Dam",
+  "type": "city",
+  "county": "Okanogan",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10%) per DOR Q1 2026 flyer; 2024 DOR distributions $14,471 ($7,236 state-shared + $7,236 special)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No application round: the town budgets a lump sum to the Grand Coulee Dam Area Chamber of Commerce each year and directs other requests to the chamber; the balance funds town parks and the visitor center",
+  "typical_open": null,
+  "annual_pool": "2016 preliminary budget: $22,000 to the chamber; about $28,000 kept by the town for Douglas Park and Mason City Memorial Park upkeep (2015 reporting)",
+  "url": "https://www.grandcoulee.com/story/2015/11/25/news/towns-tourism-fund-plans-detailed/6576.html",
+  "contact": "Town of Coulee Dam Clerk-Treasurer (Stefanie Bowden in 2014 reporting; current staff not verified)",
+  "notes": "Per The Star's coverage (2014-2015), Coulee Dam's council adopted a policy of handing most of its tourism marketing money to the Grand Coulee Dam Area Chamber of Commerce in a lump sum with the understanding that other groups (Ridge Riders Saddle Club, park district, Okanogan County Tourism) request funds from the chamber, while the town spends the rest on park maintenance, restrooms and visitor center staffing. No later policy change was found, and the town has no posted application, so outside applicants should approach the chamber. The town also sits partly in Grant and Douglas counties. Sources are a decade old; confidence is low.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Town Council sets allocations through the annual budget (hearings in November)",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "No competitive pool: 2016 plan was $22,000 lump sum to the chamber (which redistributed roughly $9,000 to Ridge Riders, Okanogan County Tourism and the park district the prior year) and about $28,000 retained for town parks. Current-year figures not published.",
+  "funding_docs": [
+   {
+    "title": "The Star: Towns' tourism fund plans detailed (Nov 25, 2015)",
+    "doc_type": "budget",
+    "year": "2016",
+    "url": "https://www.grandcoulee.com/story/2015/11/25/news/towns-tourism-fund-plans-detailed/6576.html",
+    "summary": "Coulee Dam gives its lodging tax to the chamber in a lump sum ($22,000 proposed for 2016), other requests go through the chamber; ~$28,000 used for park upkeep; also lists Grand Coulee and Electric City allocations."
+   },
+   {
+    "title": "The Star: Coulee Dam open to new tourism spending approach (Nov 19, 2014)",
+    "doc_type": "minutes",
+    "year": "2015",
+    "url": "https://www.grandcoulee.com/story/2014/11/19/news/coulee-dam-open-to-new-tourism-spending-approach/4953.html",
+    "summary": "Council endorsed Mayor Wilder's plan: $30,000 to the chamber for marketing, 25% reserve until fund reaches $50,000, town retains ~$39,000 for parks and visitor center; fund held ~$78,000."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Grand Coulee Dam Area Chamber of Commerce (distributes Coulee Dam, Grand Coulee and Electric City tourism funds)",
+    "administrator": "Grand Coulee Dam Area Chamber of Commerce",
+    "url": null,
+    "funds": null,
+    "eligibility": "Area events and organizations; chamber has redistributed town lodging tax to Ridge Riders Saddle Club, the park district and Okanogan County Tourism",
+    "deadline": null,
+    "deadline_pattern": "Requests to the chamber ahead of the towns' fall budget cycles",
+    "notes": "Role documented in 2014-2015 Star coverage; confirm current practice with the chamber.",
+    "contact": null
+   },
+   {
+    "program": "Okanogan County Lodging Tax (Hotel/Motel) Tourism Promotion Funding",
+    "administrator": "Okanogan County Board of County Commissioners / Lodging Tax Advisory Committee",
+    "url": "https://www.okanogancounty.gov/170/2717/Lodging-Tax-Advisory-Committee",
+    "funds": null,
+    "eligibility": "Any nonprofit organization or municipally owned visitor information center using funds to promote tourism in Okanogan County",
+    "deadline": null,
+    "deadline_pattern": "Annual; county page posts a '2026 Application & Instructions' packet but no deadline was stated on the page at this check",
+    "notes": "LTAC advises the BOCC on the annual appropriation. Committee: Andy Hover (county commissioner, chair), Steve Devin (collector), Janet Warner (collector), Angela Larson (receiver), Allen Jircik (receiver), two at-large tourism seats vacant.",
+    "contact": "Lanie Johns, 509-422-7105 (application packets by request)"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Newport",
+  "type": "city",
+  "county": "Pend Oreille",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 9.7%) per DOR Q1 2026 flyer; 2024 DOR distributions $16,297 ($8,148 state-shared + $8,148 special)",
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": null,
+  "funding_year": "2026",
+  "deadline_pattern": "No fixed deadline: applications accepted on an ongoing basis and must be received at least two weeks before the event; funds must be used by December 31 with no carryover",
+  "typical_open": "Open year-round while funds remain",
+  "annual_pool": "Not published; awards capped at $1,000 per entity per calendar year, so the roughly $16,000 annual revenue supports a handful of small grants",
+  "url": "https://newport-wa.org/wp-content/uploads/2023/02/HotelMotelApp.pdf",
+  "contact": "Nickole (City Clerk/Treasurer office), City of Newport, 509-447-6429, 200 S. Washington Ave, Newport, WA 99156 (mail applications Attn: City Clerk/Treasurer)",
+  "notes": "Newport uses a one-page Hotel/Motel Tax Fund Application modeled on Washougal's: City Administration reviews requests (room nights, reliability, promotion of Newport beyond its borders, local spending) and recommends to the City Council, which decides. Awards are capped at $1,000 per entity per year and should not exceed 25% of the event's promotion budget unless the event is all-volunteer; broad tourism promotion and large overnight events are preferred. Reimbursement only, after hard-copy proof of advertising carrying the required city hotel/motel tax credit line. No LTAC is referenced on the form (cities under 5,000 population are not required to have one).",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation; written application reviewed by City Administration",
+   "format": null
+  },
+  "meeting_schedule": "No committee; council acts on administration recommendations at regular meetings",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "Annual pool not published; DOR shows $16,297 in 2024 distributions and the per-entity cap is $1,000.",
+  "funding_docs": [
+   {
+    "title": "City of Newport Hotel/Motel Tax Fund Application",
+    "doc_type": "application",
+    "year": "2023",
+    "url": "https://newport-wa.org/wp-content/uploads/2023/02/HotelMotelApp.pdf",
+    "summary": "Ongoing application, two-week lead time, $1,000 per entity per year cap, 25% of promotion budget limit, administration review criteria, reimbursement after proof of advertising, required credit line."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pend Oreille County Lodging Tax funding",
+    "administrator": "Pend Oreille County Board of Commissioners / LTAC",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County program not researched in this session; verify with Pend Oreille County.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Stanwood",
+  "type": "city",
+  "county": "Snohomish",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 11.3%) per DOR Q1 2026 flyer; 2024 DOR distributions withheld as confidential (too few lodging taxpayers to disclose)",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "Stanwood created a Lodging Tax Advisory Committee by Ordinance 1513 in 2023 (SMC 2.14.050 gives it the standard 45-day review of proposals to impose, change or spend lodging tax), but four further searches of the city site, budget and Stanwood Camano News found no application, grant page, award record or committee roster, and DOR suppresses the city's revenue figure because it has too few lodging taxpayers. The committee exists to review the council's use of a very small fund, not to run a grant round. Verify with Stanwood City Hall; Snohomish County's Hotel-Motel Small Fund is the practical route for Stanwood-Camano events.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "Stanwood Municipal Code 2.14.050 Recommendations on lodging tax funds",
+    "doc_type": "resolution",
+    "year": "2023",
+    "url": "https://stanwood.municipal.codes/SMC/2.14.050",
+    "summary": "LTAC review duties under Ord. 1513 (2023): proposals submitted at least 45 days before council action; comments on tourism impact and fund stability."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Snohomish County Hotel-Motel 'Small Fund' Lodging Tax Grant",
+    "administrator": "Snohomish County (administered with Seattle NorthCountry / Snohomish County Tourism Bureau)",
+    "url": "https://www.seattlenorthcountry.com/industry-resources/lodging-tax-grants/hotel-motel-small-fund/",
+    "funds": "Average award about $10,000, range $5,000 to $50,000; total pool not stated on the county page",
+    "eligibility": "Eligibility 'defined broadly'; projects must fit RCW 67.28 and SCC 4.40.060; reimbursement-only",
+    "deadline": null,
+    "deadline_pattern": "Annual competitive cycle; timeline posted on the Seattle NorthCountry page (not retrieved in this check)",
+    "notes": "County LTAC page: https://www.snohomishcountywa.gov/152/Lodging-Tax-Advisory-Committee. Committee is a county councilmember chair, two lodging reps, two recipient reps and a non-voting city ex officio.",
+    "contact": "Harry Birak, Snohomish County, 425-388-3460"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Tonasket",
+  "type": "city",
+  "county": "Okanogan",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10.5%) per DOR Q1 2026 flyer; 2024 DOR distributions $8,075 ($4,038 state-shared + $4,038 special)",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "Tonasket City Clerk, 509-486-2132 (name not posted on agendas)",
+  "notes": "No lodging tax application, committee or allocation record for the City of Tonasket was found; the city's posted council agendas (Sept 24, 2024 revenue hearing) do not mention hotel/motel funds and four searches of tonasketwa.gov and regional news returned nothing. With about $8,000 a year in revenue, any allocation is almost certainly set in the council budget (neighboring Okanogan and Oroville fund chambers and guide advertising that way). Call the City Clerk at 509-486-2132; Okanogan County's lodging tax program is the realistic route for events.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "Tonasket City Council agenda, Sept 24, 2024",
+    "doc_type": "minutes",
+    "year": "2025",
+    "url": "https://www.tonasketwa.gov/media/4711",
+    "summary": "2025 revenue sources hearing and tax levy ordinance; no lodging tax item; City Clerk 509-486-2132."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Okanogan County Lodging Tax (Hotel/Motel) Tourism Promotion Funding",
+    "administrator": "Okanogan County Board of County Commissioners / Lodging Tax Advisory Committee",
+    "url": "https://www.okanogancounty.gov/170/2717/Lodging-Tax-Advisory-Committee",
+    "funds": null,
+    "eligibility": "Any nonprofit organization or municipally owned visitor information center using funds to promote tourism in Okanogan County",
+    "deadline": null,
+    "deadline_pattern": "Annual; county page posts a '2026 Application & Instructions' packet but no deadline was stated on the page at this check",
+    "notes": "LTAC advises the BOCC on the annual appropriation. Committee: Andy Hover (county commissioner, chair), Steve Devin (collector), Janet Warner (collector), Angela Larson (receiver), Allen Jircik (receiver), two at-large tourism seats vacant.",
+    "contact": "Lanie Johns, 509-422-7105 (application packets by request)"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Ritzville",
+  "type": "city",
+  "county": "Adams",
+  "tax_rate": "2% special hotel/motel tax (total lodging tax rate 10%) per DOR Q1 2026 flyer; 2024 DOR distributions $60,169 ($30,084 state-shared + $30,084 special)",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "No lodging tax application, LTAC page, council record or news coverage for the City of Ritzville was found in six searches of the city site, the Ritzville Adams County Journal and regional sources; results returned only DOR tables and unrelated cities. Ritzville's I-90 motels generate about $60,000 a year, among the largest sums in this batch, so an allocation process certainly exists but is not online. Ritzville's population (about 1,700) is under the 5,000 LTAC threshold, so expect council-budget allocations (chamber, Wheat Land Communities Fair, downtown events) rather than a published grant round. Contact Ritzville City Hall directly.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Adams County Lodging Tax funding",
+    "administrator": "Adams County Board of Commissioners",
+    "url": null,
+    "funds": null,
+    "eligibility": null,
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County program not researched in this session; verify with Adams County.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ },
+ {
+  "name": "Index",
+  "type": "city",
+  "county": "Snohomish",
+  "tax_rate": "2% special hotel/motel tax under Index Municipal Code 3.32 (Ord. 511, 2024), applying to hotels, motels, trailer camps and short-term rentals; total lodging tax rate 11.1% per DOR Q1 2026 flyer; 2024 DOR distributions $13,526 (state-shared only)",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "The Town of Index (population under 200) re-enacted its 2% lodging tax in 2024 (Ord. 511) with proceeds to a special fund for tourist promotion and tourism facilities under RCW 67.28; the code names no committee or application process and four searches of town records and regional sources found no grant round or award record. Revenue is about $13,500 a year and is most likely allocated in the town budget. Verify with Index Town Hall; Snohomish County's Hotel-Motel Small Fund is the practical route for Skykomish Valley events.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": null,
+  "funding_docs": [
+   {
+    "title": "Index Municipal Code Chapter 3.32 Lodging Tax (Ord. 511, 2024)",
+    "doc_type": "resolution",
+    "year": "2024",
+    "url": "https://www.codepublishing.com/WA/Index/html/Index03/Index0332.html",
+    "summary": "2% special excise tax on lodging including short-term rentals; proceeds to a special fund for tourist promotion and tourism-related facilities; no committee or application process."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Snohomish County Hotel-Motel 'Small Fund' Lodging Tax Grant",
+    "administrator": "Snohomish County (administered with Seattle NorthCountry / Snohomish County Tourism Bureau)",
+    "url": "https://www.seattlenorthcountry.com/industry-resources/lodging-tax-grants/hotel-motel-small-fund/",
+    "funds": "Average award about $10,000, range $5,000 to $50,000; total pool not stated on the county page",
+    "eligibility": "Eligibility 'defined broadly'; projects must fit RCW 67.28 and SCC 4.40.060; reimbursement-only",
+    "deadline": null,
+    "deadline_pattern": "Annual competitive cycle; timeline posted on the Seattle NorthCountry page (not retrieved in this check)",
+    "notes": "County LTAC page: https://www.snohomishcountywa.gov/152/Lodging-Tax-Advisory-Committee. Committee is a county councilmember chair, two lodging reps, two recipient reps and a non-voting city ex officio.",
+    "contact": "Harry Birak, Snohomish County, 425-388-3460"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-10-30"
+ }
+]

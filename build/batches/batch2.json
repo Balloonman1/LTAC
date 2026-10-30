@@ -1,0 +1,733 @@
+[
+  {
+    "name": "Renton",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "1%",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-11-06",
+    "funding_year": "2027",
+    "deadline_pattern": "Late October to early November each year for the following calendar year (2026 cycle was due 2025-10-24, 4:30 p.m.)",
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://www.rentonwa.gov/Government/Departments-and-Offices/Community-and-Economic-Development/Economic-Development/LTAC",
+    "contact": "Jessie Kotarski, Economic Development Manager, jkotarski@rentonwa.gov, 425-430-7271",
+    "notes": "Nonprofits and municipal bodies only (IRS letter, Renton business license and $1M/$2M insurance naming the City required); reimbursement-based, project completed in the same calendar year, 25% match scored.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "James Alberson Jr.",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Cathy Martinez",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Menka Soni",
+        "role": null,
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.rentonwa.gov/Government/Boards-Committees-Commissions/MembersVacancies",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "LTAC evaluates applications after the early-November deadline and sends recommendations to Council; no applicant presentation step is described",
+      "format": null
+    },
+    "meeting_schedule": "Scheduled as needed",
+    "funding_docs": [
+      {
+        "title": "City of Renton Lodging Tax Grant Guidelines",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://edocs.rentonwa.gov/Documents/DocView.aspx?id=12725500&dbid=0&repo=CityofRenton",
+        "summary": "Eligible uses are tourism marketing, event marketing and operations, and nonprofit tourism facility operations; applicants need an IRS determination letter, a Renton business license and $1M/$2M liability insurance naming the City, and awards are reimbursement-based with a 25% match used in scoring."
+      },
+      {
+        "title": "2026 LTAC Funding Allocation (presentation to Committee of the Whole, Nov 2025)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://www.rentonwa.gov/files/assets/city/v/2/ced/economic-development/documents/ltac-allocation/11-24-ltac-presentation-to-cow_web.pdf",
+        "summary": "20 applications asked for $1,446,444 and LTAC recommended $900,000 to 7 projects, led by $600,000 for the City's Legacy Square Activation, $100,000 for the City marketing campaign and $75,000 for the Chamber's Visitors Center; 13 applicants got $0."
+      },
+      {
+        "title": "2025 LTAC Funding Allocation",
+        "doc_type": "award list",
+        "year": "2025",
+        "url": "https://edocs.rentonwa.gov/Documents/DocView.aspx?id=11463025&dbid=0&repo=CityofRenton",
+        "summary": "Prior-year allocation table of 2025 lodging tax awards by organization; amounts not extracted."
+      },
+      {
+        "title": "Full list of previously awarded organizations of LTAC funding",
+        "doc_type": "award list",
+        "year": "2021-2025",
+        "url": "https://edocs.rentonwa.gov/Documents/DocView.aspx?id=11424784",
+        "summary": "Historical list of every organization that received Renton lodging tax funding; amounts not extracted."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 200000,
+    "pool_note": "2026: fund revenue not published; LTAC recommended $900,000 total, of which $700,000 went to the City's own Legacy Square activation and marketing campaign, leaving $200,000 awarded across 5 outside projects (Chamber $105,000, Niu Wave $55,000, two others $20,000 each)."
+  },
+  {
+    "name": "Lynnwood",
+    "type": "city",
+    "county": "Snohomish",
+    "tax_rate": null,
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://www.lynnwoodwa.gov/Government/Boards-and-Commissions/Tourism-Advisory-Committee",
+    "contact": "Ryan Bush, 425-670-5046",
+    "notes": "No outside-organization grant application found; the 2025-2026 budget shows the Lodging Tax Fund ($1.73M for the biennium) funding the city's own tourism program 100%, advised by a Tourism Advisory Committee rather than a grant LTAC.",
+    "confidence": "low",
+    "members": [
+      {
+        "name": "Isabel Mata",
+        "role": "Position 1",
+        "affiliation": "Lynnwood City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Chip Peterson",
+        "role": "Position 2",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Emily Sorenson",
+        "role": "Position 3",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Janet Pope",
+        "role": "Position 4",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Frank Percival",
+        "role": "Position 5",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Anthony Angel",
+        "role": "Position 6",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jerry Irwin",
+        "role": "Position 7",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.lynnwoodwa.gov/Government/Boards-and-Commissions/Tourism-Advisory-Committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "City of Lynnwood 2025-2026 Biennial Budget, Lodging Tax Fund 101",
+        "doc_type": "budget",
+        "year": "2025-2026",
+        "url": "https://www.lynnwoodwa.gov/files/sharedassets/public/v/1/finance/budget-docs/2025-2026-budget-book_1.pdf",
+        "summary": "Lodging tax revenue of $1,730,800 for the biennium funds the city's tourism program 100% ($1,902,404 in expenditures, of which $1,734,390 is services and charges and about $168K is staff); no grant program line is shown."
+      }
+    ],
+    "total_pool_usd": 865400,
+    "competitive_pool_usd": 0,
+    "pool_note": "2025-2026 budget: $1,730,800 biennial lodging tax revenue (about $865,400 per year) funds the city's own tourism program 100%, with no outside grant pool."
+  },
+  {
+    "name": "Federal Way",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "1%",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-11",
+    "funding_year": "2026-2027 (second round, Council approval early November)",
+    "deadline_pattern": "Two rounds per year: February 10 (Council approval early May) and August 11 (Council approval early November), 5:00 p.m.",
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://www.federalwaywa.gov/page/lodging-tax-advisory-committee",
+    "contact": "Julianna La Brake, Economic Development, EconomicDevelopment@federalwaywa.gov, (253) 835-2408",
+    "notes": "Tourism Enhancement Grant runs twice a year (cycle field set to annual) for events and non-event tourism programs; reimbursement-based, with interviews before the LTAC; the official page lists dates without years.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Lydia Assefa-Dawson",
+        "role": "Chair",
+        "affiliation": "Federal Way City Council (Position 1)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Chris Jordan",
+        "role": "Activity representative",
+        "affiliation": "King County Aquatic Center (Position 2)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kristin Wells",
+        "role": "Lodging representative",
+        "affiliation": "Courtyard by Marriott (Position 3)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Stacia Winters",
+        "role": "Activity representative",
+        "affiliation": "Federal Way Performing Arts & Events Center (Position 4)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Harrington Griffin",
+        "role": "Lodging representative",
+        "affiliation": "Hilton (Position 5)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Janie Bube",
+        "role": "Activity representative",
+        "affiliation": "Pacific Bonsai Museum (Position 6)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Juliana Bliss",
+        "role": "Lodging representative",
+        "affiliation": "Holiday Inn Express & Staybridge Suites (Position 7)",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.federalwaywa.gov/content/Lodging-committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": true,
+      "date": "2026-09-08",
+      "pattern": "Applicants submit a presentation about two weeks after the deadline (Feb 24 / Aug 25) and are interviewed by the LTAC about four weeks after the deadline (Mar 10 / Sep 8, 2:00 p.m.); LTAC decides about five weeks later (Apr 14 / Oct 13)",
+      "format": "in person"
+    },
+    "meeting_schedule": "Regular meetings at City Hall, Hylebos Conference Room, 2:00-4:00 p.m. (next listed 2026-12-08); recurrence not published",
+    "funding_docs": [
+      {
+        "title": "Tourism Enhancement Grant Application (JotForm)",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://form.jotform.com/260284882123053",
+        "summary": "Online application for the twice-yearly Tourism Enhancement Grant funded from the City's 1% lodging tax; reimbursement-based, for events and non-event tourism programs."
+      },
+      {
+        "title": "Lodging Tax Advisory Committee Overview, Instructions and TEG Key Meeting Dates",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://docs.federalwaywa.gov/WebLink/Browse.aspx?id=2359084&dbid=0&repo=CityOfFederalWay",
+        "summary": "Laserfiche folder holding the LTAC overview, application instructions and the TEG schedule (Feb 10 and Aug 11 deadlines, interviews, LTAC decision, FEDRAC and Council approval); amounts not stated."
+      },
+      {
+        "title": "LTAC meeting packets and agendas",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://docs.federalwaywa.gov/WebLink/Browse.aspx?id=1878660&dbid=0&repo=CityOfFederalWay",
+        "summary": "Current and past LTAC agendas and packets, where TEG award recommendations and funding tables are recorded; could not be opened in this session."
+      },
+      {
+        "title": "City approves $39,050 in tourism enhancement grants (Federal Way Mirror)",
+        "doc_type": "award list",
+        "year": "2013",
+        "url": "https://federalwaymirror.com/?p=17175",
+        "summary": "Example of a spring round: 11 events shared $39,050, the largest being $9,000 (Northwest Global Fest) and $8,850 (Apple Festival Run); indicates typical awards of $700 to $9,000."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No current fund total or award list found; the only published award round (spring 2013) split $39,050 across 11 outside events, so the per-round pool is small."
+  },
+  {
+    "name": "Kent",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "1%",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": "Historically September 1-30 for the following calendar year (2018 cycle for 2019 funding)",
+    "typical_open": "September 1 (historical)",
+    "annual_pool": "$500K (2019 awards; $200K in 2022)",
+    "url": "https://www.kentwa.gov/government/boards-commissions-task-forces/lodging-tax-advisory-committee",
+    "contact": "Michelle Wilmot, Economic Development Manager, mwilmot@KentWA.gov, 253-856-5709 (2018 listing, verify)",
+    "notes": "Business and leisure tourism promotion grants; applicants were nonprofits, CVBs, PFDs, DMOs, chambers and municipalities; no current-cycle page could be reached, so dates and contact need confirmation.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "Biannually or as needed (2019 listing)",
+    "funding_docs": [
+      {
+        "title": "Kent City Council awards $500,600 in lodging tax grants (Kent Reporter)",
+        "doc_type": "award list",
+        "year": "2019",
+        "url": "https://kentreporter.com/news/kent-city-council-awards-500000-in-grants-to-promote-business-tourism",
+        "summary": "33 groups requested about $1.4M; $500,600 of a $546,000 budget went to 23 groups, led by Visit Kent marketing ($96,500), City business marketing ($75,000), Seattle Thunderbirds ($63,555) and accesso ShoWare Center ($60,000)."
+      },
+      {
+        "title": "City of Kent to award $200,000 in lodging tax grants (Kent Reporter)",
+        "doc_type": "award list",
+        "year": "2022",
+        "url": "https://kentreporter.com/news/city-of-kent-to-award-200000-in-lodging-tax-grants",
+        "summary": "Seven grants totaling $200,000, the largest $60,000 to the Seattle Thunderbirds and others from $9,000 to $50,000; funded that year with federal relief dollars."
+      },
+      {
+        "title": "City of Kent seeks applicants for tourism grants (Kent Reporter)",
+        "doc_type": "guidelines",
+        "year": "2019",
+        "url": "https://www.kentreporter.com/news/city-of-kent-seeks-applicants-for-tourism-grants",
+        "summary": "Applications accepted online September 1-30 for the following year; eligible applicants are nonprofits, CVBs, PFDs, DMOs, chambers and municipalities, and funds must go to marketing and promotion of business or leisure tourism."
+      }
+    ],
+    "total_pool_usd": 546000,
+    "competitive_pool_usd": 329100,
+    "pool_note": "2019 estimate: $546,000 lodging tax budget; $500,600 awarded, of which $96,500 went to the Visit Kent DMO contract and $75,000 to City business marketing, leaving about $329,100 for roughly 20 outside events and organizations (a City website item of unknown size is still inside that figure)."
+  },
+  {
+    "name": "Bothell",
+    "type": "city",
+    "county": "King",
+    "tax_rate": null,
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": null,
+    "notes": "No open grant program found; about $425K/yr in lodging tax mostly funds a Street Sense destination marketing contract (6-month extension approved September 2026), and the LTAC has discussed funding targeted events for 2027-2028.",
+    "confidence": "medium",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "Monthly (per March 2026 LTAC minutes); met 2026-03-17, 2026-06-16, 2026-09-15",
+    "funding_docs": [
+      {
+        "title": "Bothell LTAC meeting summary, April 14, 2026 (Govly)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://app.govly.com/public/meetings/23929",
+        "summary": "2026 lodging tax expenditures budgeted at about $500,000 against a $41,712 beginning fund balance; a two-year $430,000 Street Sense marketing contract is the main commitment, with no grant awards listed."
+      },
+      {
+        "title": "Bothell LTAC meeting summary, March 17, 2026 (Govly)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://app.govly.com/public/meetings/19317",
+        "summary": "2025 revenue was projected at about $425,000 against $470,000 in expenses; the Street Sense contract is about half the budget and the committee discussed shifting toward targeted events for 2027-2028."
+      },
+      {
+        "title": "Bothell LTAC meeting summary, September 15, 2026 (Govly)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://app.govly.com/public/meetings/87973",
+        "summary": "Committee approved a six-month, roughly $133,000 extension of the Street Sense marketing contract (two-year value about $412,000)."
+      }
+    ],
+    "total_pool_usd": 500000,
+    "competitive_pool_usd": 0,
+    "pool_note": "2026: about $500,000 budgeted lodging tax spending (2025 revenue about $425,000), committed to the Street Sense marketing contract, visitor center support and holiday lighting, with no outside grant pool."
+  },
+  {
+    "name": "Issaquah",
+    "type": "city",
+    "county": "King",
+    "tax_rate": "1%",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-07-12",
+    "funding_year": "Projects August 2026 to April 2027",
+    "deadline_pattern": "Two rounds for the May-April funding year: early February (2026 round due 2026-02-06, fixed tiers of $7,500/$10,000/$15,000) and a mid-July second round (due 2026-07-12, up to $55,000)",
+    "typical_open": "Early January and mid-June",
+    "annual_pool": null,
+    "url": "https://www.issaquahwa.gov/FormCenter/Grants-12/Lodging-Tax-Advisory-Committee-20267-Fun-348",
+    "contact": "Economic Development (Jack Pedlow), ED@issaquahwa.gov, 425-837-3000",
+    "notes": "Issaquah businesses and nonprofits only; first round offers $7,500/$10,000/$15,000 tiers, second round up to $55,000; reimbursement-only, must coordinate with Issaquah hotels and draw visitors from 50+ miles.",
+    "confidence": "high",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": false,
+      "date": null,
+      "pattern": "No presentation at application; LTAC reviews in late July about two weeks after the deadline, but grant recipients must present to the LTAC at a later meeting",
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "LTAC 2026-7 Funding Initiative: Second Funding Opportunity (application and criteria)",
+        "doc_type": "guidelines",
+        "year": "2026-2027",
+        "url": "https://www.issaquahwa.gov/FormCenter/Grants-12/Lodging-Tax-Advisory-Committee-20267-Fun-348",
+        "summary": "Issaquah businesses and nonprofits may request up to $55,000 for projects run August 2026 to April 2027; reimbursement only, must coordinate with Issaquah hotels and draw visitors from 50+ miles, and recipients must present to the LTAC."
+      },
+      {
+        "title": "LTAC accepting applications for tourism funding (first 2026 round, posted Jan 6, 2026)",
+        "doc_type": "guidelines",
+        "year": "2026-2027",
+        "url": "https://www.issaquahwa.gov/m/newsflash/home/detail/6326",
+        "summary": "First 2026 round, due February 6, 2026, offered fixed request tiers of $7,500, $10,000 or $15,000 for projects run May 2026 to April 2027; reimbursement only."
+      },
+      {
+        "title": "Tourism Grant Funding Opportunity news release (June 12, 2026)",
+        "doc_type": "other",
+        "year": "2026-2027",
+        "url": "https://www.issaquahwa.gov/CivicAlerts.aspx?AID=6464",
+        "summary": "Announces the second round due July 12, 2026 with requests up to $55,000, reimbursement-based."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No fund total or award list found for 2026; the February round offered fixed $7,500/$10,000/$15,000 awards and the July round allowed requests up to $55,000, so the pool is likely low six figures (estimate)."
+  },
+  {
+    "name": "Spokane Valley",
+    "type": "city",
+    "county": "Spokane",
+    "tax_rate": "2% basic + 1.3% special",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-10-30",
+    "funding_year": "2027",
+    "deadline_pattern": "Late October each year (4:00 p.m.) for the following calendar year",
+    "typical_open": "Late September (opened 2026-09-28)",
+    "annual_pool": "$250K (anticipated 2027)",
+    "url": "https://www.spokanevalleywa.gov/813/Lodging-Tax-Grants",
+    "contact": "Sarah Farr, Accounting and Finance Program Manager, sfarr@SpokaneValleyWA.gov, 509-720-5041",
+    "notes": "For-profit and nonprofit applicants are eligible; the 1.3% capital portion is limited to municipalities and PFDs; the online application cannot be saved, so prepare the eight required PDFs first.",
+    "confidence": "high",
+    "members": [],
+    "members_source": "https://spokanevalleywa.gov/200/Lodging-Tax-Advisory-Committee-LTAC",
+    "members_as_of": null,
+    "presentation": {
+      "required": true,
+      "date": "2026-11-18",
+      "pattern": "Every applicant gives a 10-minute oral presentation at the LTAC meeting about three weeks after the late-October deadline; slides or video must be submitted with the application",
+      "format": "in person"
+    },
+    "meeting_schedule": "Not published; LTAC meets after the grant deadline (2026-11-18 for the 2027 cycle)",
+    "funding_docs": [
+      {
+        "title": "2027 Lodging Tax Request for Proposals",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://spokanevalleywa.gov/DocumentCenter/View/5114/2027-Lodging-Tax-RFP-Final",
+        "summary": "Up to $250,000 available, no cap per award, open to local jurisdictions, for-profits and nonprofits for event and tourism-facility marketing and operations; projects are ranked by LTAC within category, reimbursement-based with no match requirement, and every applicant must give a 10-minute oral presentation on November 18, 2026."
+      },
+      {
+        "title": "2027 Council Goals and Priorities for Lodging Tax",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://spokanevalleywa.gov/DocumentCenter/View/5113/2027-Council-Goals-and-Priorities-FINAL",
+        "summary": "Council guidance LTAC uses to rank proposals, emphasizing events and facilities that build a sports and outdoor recreation identity per the Tourism Strategic Plan."
+      },
+      {
+        "title": "2025 Lodging Tax Grant Recipients",
+        "doc_type": "award list",
+        "year": "2025",
+        "url": "https://www.spokanevalleywa.gov/DocumentCenter/View/4002",
+        "summary": "$393,000 from the 2% tax went to 11 recipients, led by Spokane Valley HUB ($147,000) and JAKT Foundation's Crave! ($50,000); up to $2.5M from the 1.3% capital portion went to the City and Spokane Sports for the Cross Country Course."
+      },
+      {
+        "title": "2027 Impact on Tourism Template",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://spokanevalleywa.gov/DocumentCenter/View/5115/Item-5---2027-Tourism-Impact-Estimates",
+        "summary": "Required attachment for estimating overnight stays and visitor counts that LTAC uses in scoring."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 393000,
+    "pool_note": "2025 award list: $393,000 from the 2% tax went to 11 outside recipients (HUB $147,000, Crave! $50,000), with a separate $2.5M from the 1.3% capital portion to the City and Spokane Sports; the 2027 competitive pool is capped at $250,000."
+  },
+  {
+    "name": "Kennewick",
+    "type": "city",
+    "county": "Benton",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-09-30",
+    "funding_year": "2027",
+    "deadline_pattern": "September 30 each year (4:00 p.m.) for the following calendar year",
+    "typical_open": "September 1",
+    "annual_pool": null,
+    "url": "https://www.go2kennewick.com/1574/Lodging-Tax-Advisory-Committee",
+    "contact": "Senior Accounting Specialist (staff liaison), Kennewick City Hall, 509-585-4200",
+    "notes": "2027 window is closed; LTAC reviewed 2026-10-22 and Council decides 2026-11-18; Visit Tri-Cities is a major recipient.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Jim Millbauer",
+        "role": "Chair",
+        "affiliation": "Kennewick City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Loren Anderson",
+        "role": "Alternate (elected official)",
+        "affiliation": "Kennewick City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Corey Pearson",
+        "role": "Activity representative",
+        "affiliation": "VenuWorks (Executive Director)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Gretchen Guerrero",
+        "role": "Activity representative",
+        "affiliation": "Visit Tri-Cities (Vice President)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Michael Garza",
+        "role": "Lodging representative",
+        "affiliation": "Holiday Garden Inn Kennewick",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Heather Bennett",
+        "role": "Lodging representative",
+        "affiliation": "Comfort Suites",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.go2kennewick.com/1574/Lodging-Tax-Advisory-Committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": "2026-10-22",
+      "pattern": "LTAC discusses and votes on each application in a public session about three weeks after the September 30 deadline; applicant presentations not described",
+      "format": null
+    },
+    "meeting_schedule": "Once or twice each fall, dates posted on the public meetings portal",
+    "funding_docs": [
+      {
+        "title": "Kennewick LTAC and City Council agendas (public meetings portal)",
+        "doc_type": "ltac packet",
+        "year": "2027",
+        "url": "https://kennewickwa.portal.civicclerk.com/",
+        "summary": "The October 22, 2026 LTAC agenda and the November 18, 2026 Council agenda carry the 2027 lodging tax funding table; amounts were not retrievable in this session."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No fund total or 2027 award table retrieved; Visit Tri-Cities and the VenuWorks-run convention center are standing recipients, so the outside pool is likely a minority of revenue (estimate)."
+  },
+  {
+    "name": "Richland",
+    "type": "city",
+    "county": "Benton",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2025-10-10",
+    "funding_year": "2026",
+    "deadline_pattern": "Early to mid-October for the following calendar year",
+    "typical_open": "Late September to early October",
+    "annual_pool": null,
+    "url": "https://www.richlandbusiness.com/lodgingtax",
+    "contact": "Mandy Wallner, Economic Development Manager (LTAC staff liaison); Economic Development Office 509-942-7725",
+    "notes": "Reimbursement-based grants covering up to 30% of a project's total cash expenses; the 2027 deadline was not yet published and applications were expected to open between July and October 2026.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Pat Holten",
+        "role": "Chair",
+        "affiliation": "Richland City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Douglas Sako",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Todd Nelson",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Hector Cruz",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Lacey Stephens",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://www.richlandwa.gov/government/advisory-boards-commissions-and-committees/lodging-tax-advisory-committee",
+    "members_as_of": "2026-10-29",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "funding_docs": [
+      {
+        "title": "Richland Lodging Tax Grant Program page",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.richlandbusiness.com/lodgingtax",
+        "summary": "Reimbursement-based grants covering up to 30% of a project's total cash expenses for tourism promotion and tourism-related facilities; page could not be opened in this session."
+      },
+      {
+        "title": "City of Richland release: 2026 Lodging Tax Grant Program applications (Oct 3, 2025)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://flashalert.net/id/CityofRichland/184174",
+        "summary": "Applications due October 10, 2025 at 5:00 p.m.; grants reimburse up to 30% of total cash expenses; no pool total given."
+      },
+      {
+        "title": "City of Richland release: 2027 Funding Opportunities Open House (June 10, 2026)",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "https://flashalert.net/id/CityofRichland/189097",
+        "summary": "Lodging Tax Grant Program listed among 2027 programs with applications opening between July and October 2026; contact Economic Development at (509) 942-7725."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No fund total or award list found; grants reimburse up to 30% of a project's cash expenses, and the 2026 round closed October 10, 2025."
+  },
+  {
+    "name": "Pasco",
+    "type": "city",
+    "county": "Franklin",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-07-31",
+    "funding_year": "2027",
+    "deadline_pattern": "July 1-31 each year (30-day window) for the following calendar year",
+    "typical_open": "July 1",
+    "annual_pool": null,
+    "url": "https://www.pasco-wa.gov/1043/Lodging-Tax-Advisory-Committee-LTAC",
+    "contact": "Laurel McQuade, Communications Program Lead, mcquadeL@pasco-wa.gov, 509-975-9683; Richa Sigdel, Deputy City Manager",
+    "notes": "2027 window closed and LTAC reviewed in September; prior expenditure plans posted show past awards.",
+    "confidence": "high",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": "2026-09-17",
+      "pattern": "LTAC reviews applications at a September meeting about seven weeks after the July 31 deadline; applicant presentations not described",
+      "format": "in person"
+    },
+    "meeting_schedule": "Not published; 2027-cycle meeting 2026-09-17, 1:30 p.m., Pasco City Hall, with virtual option on request",
+    "funding_docs": [
+      {
+        "title": "2026 Final Lodging Tax Expenditure Plan",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.pasco-wa.gov/DocumentCenter/View/69162",
+        "summary": "$985,223 allocated against $850,000 estimated revenue (gap from fund balance): committed items take $739,723 (GESA Stadium debt $290,000, Tri-Cities VCB $235,220, HAPO Center $200,000), with $46,500 spread over 8 events ($1,000 to $12,500 each), $64,000 for marketing and $135,000 for facility projects."
+      },
+      {
+        "title": "2027 Lodging Tax Online Application",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.pasco-wa.gov/DocumentCenter/View/71289",
+        "summary": "No request cap, match or point scoring; HAPO Center, Gesa Stadium and tourism promotion contracts have priority, and applicants state full and minimum funding levels, overnight-stay estimates and prior-year success; due July 31 by email to mcquadeL@pasco-wa.gov."
+      },
+      {
+        "title": "2025 Final Lodging Tax Expenditure Plan",
+        "doc_type": "award list",
+        "year": "2025",
+        "url": "https://www.pasco-wa.gov/DocumentCenter/View/67366",
+        "summary": "Prior-year allocation table of Pasco lodging tax expenditures by recipient; amounts not extracted."
+      },
+      {
+        "title": "LTAC meeting packets (CivicWeb)",
+        "doc_type": "ltac packet",
+        "year": "2027",
+        "url": "https://pasco.civicweb.net/Portal/MeetingInformation.aspx?Id=665",
+        "summary": "Agendas and packets including the September 17, 2026 meeting where 2027 requests were reviewed."
+      }
+    ],
+    "total_pool_usd": 850000,
+    "competitive_pool_usd": 29000,
+    "pool_note": "2026: $850,000 estimated revenue; $739,723 pre-committed to Gesa Stadium debt, the Tri-Cities VCB and HAPO Center, plus City-run events, marketing and $135,000 of facility projects, leaving $29,000 awarded to 6 outside events and Franklin County history ($39,000 more went to the Pasco Chamber for marketing)."
+  }
+]

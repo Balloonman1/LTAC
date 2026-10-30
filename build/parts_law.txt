@@ -1,0 +1,35 @@
+<section class="law" id="law">
+  <h2>What hotel tax dollars can legally fund</h2>
+  <p class="lede2">The rules are state law, not local preference. Bring this to the committee when a jurisdiction says it only funds nonprofits: the statute sets the use, not the applicant's tax status.</p>
+  <div class="cols">
+    <div><h3>Permitted uses, RCW 67.28.1816(1)</h3><ul>
+      <li>Tourism marketing</li>
+      <li>Marketing <b>and operations</b> of special events and festivals designed to attract tourists (operations were added by the Legislature in 2007; an older 2006 AG opinion limiting events to marketing only predates that change)</li>
+      <li>Operations and capital costs of tourism-related facilities owned or operated by a municipality or public facilities district</li>
+      <li>Operations of tourism-related facilities owned or operated by 501(c)(3) or 501(c)(6) nonprofits</li>
+    </ul></div>
+    <div><h3>Who can apply</h3>
+      <p class="quote">MRSC, asked whether for-profit entities can apply for lodging tax funds: <b>"Yes. The statute does not explicitly prohibit for-profit entities from applying."</b></p>
+      <ul>
+        <li>The statute keys eligibility to the <b>activity</b> (tourism marketing, a tourist-drawing event, a tourism facility), not to the applicant's legal form.</li>
+        <li>Nonprofit status matters in exactly one place: lodging tax may pay <b>operations</b> of a tourism facility only if a public body or a 501(c)(3)/(c)(6) owns or runs it. Events and marketing carry no such limit.</li>
+        <li>"Nonprofits only" rules are local policy choices made by the council or the LTAC. They can be changed by the same bodies.</li>
+      </ul></div>
+    <div><h3>What every applicant must show, RCW 67.28.1816(2)</h3><ul>
+      <li>An estimate of how the funds will increase <b>overnight stays in paid lodging</b>, visitors who travel <b>50+ miles</b>, and visitors from <b>another state or country</b>, plus the tourism-related economic benefit</li>
+      <li>A post-event report comparing actual numbers to the estimate, which the jurisdiction files with JLARC and shares with its LTAC and the public</li>
+      <li>Payment after the fact on documented costs (reimbursement), usually under a written contract that names deliverables, which is how jurisdictions avoid a gift of public funds</li>
+    </ul></div>
+    <div><h3>How the decision works, RCW 67.28.1817</h3><ul>
+      <li>Every jurisdiction of 5,000+ with the tax must have an LTAC: an elected chair, at least two lodging-business members, and at least two members from activities the tax funds, in equal numbers</li>
+      <li>The LTAC recommends a list of recipients and amounts; the council may fund some, all or none of that list but cannot add anyone the LTAC did not recommend, and must send changed amounts back to the LTAC for a 45-day review</li>
+      <li>Jurisdictions under 5,000 may take applications straight to the council</li>
+    </ul></div>
+  </div>
+  <details><summary>How to raise it with a committee</summary><div class="talk">
+    <p>Lead with the statutory test, not the business structure: how many paid room nights the event books, how far attendees travel, and which hotels you work with. A for-profit event that fills every room in town meets the purpose of RCW 67.28 better than a nonprofit event that draws residents.</p>
+    <p>If the application says nonprofits only, ask the staff liaison whether that is in the city code or in the program guidelines. Guidelines are set by the council or LTAC and can be amended for the next cycle; cite MRSC's answer above and the statute's silence on applicant type.</p>
+    <p>Offer the structure the committee is used to: a reimbursement contract with deliverables, the overnight-stay estimate on the application, and the post-event report. Where the rule will not move this cycle, a nonprofit or chamber fiscal sponsor is the standard workaround (Everett, Leavenworth and Vancouver spell this out).</p>
+  </div></details>
+  <p class="src">Sources: <a href="https://mrsc.org/explore-topics/finance/revenues/lodging-tax" target="_blank" rel="noopener">MRSC, Lodging Tax (Hotel-Motel Tax)</a> · <a href="https://mrsc.org/stay-informed/mrsc-insight/april-2022/can-we-spend-lodging-tax-funds-on-that" target="_blank" rel="noopener">MRSC Insight, "Can We Spend Lodging Tax Funds on That?" (Apr 2022)</a> · <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=67.28.1816" target="_blank" rel="noopener">RCW 67.28.1816</a> · <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=67.28.1817" target="_blank" rel="noopener">RCW 67.28.1817</a> · <a href="https://app.leg.wa.gov/RCW/default.aspx?cite=67.28.080" target="_blank" rel="noopener">RCW 67.28.080 definitions</a> · <a href="https://www.atg.wa.gov/ago-opinions/authority-municipality-allocate-lodging-tax-revenues-facilities-which-municipality-has" target="_blank" rel="noopener">AGO 2006 No. 4</a></p>
+</section>

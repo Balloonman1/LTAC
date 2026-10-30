@@ -1,0 +1,891 @@
+[
+  {
+    "name": "Pullman",
+    "type": "city",
+    "county": "Whitman",
+    "tax_rate": "4%",
+    "has_ltac_grants": true,
+    "cycle": "rolling",
+    "deadline": null,
+    "funding_year": "2026",
+    "deadline_pattern": "No published deadline; a standing Lodging Tax Grant Application (revised April 2026) is posted and the commission meets monthly",
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://pullman-wa.gov/government/boards_commissions___committees/lodging_tax_advisory_commission.php",
+    "contact": "Shantel Sanders, Administrative Liaison, City of Pullman, 509-334-4555 (no email published)",
+    "notes": "Pullman posts a standing Lodging Tax Grant Application PDF and the Lodging Tax Advisory Commission meets monthly, but the application PDF and meeting portal could not be opened to confirm deadlines, pool size or presentation rules.",
+    "confidence": "low",
+    "members": [
+      {
+        "name": "Pat Wright",
+        "role": "Chair",
+        "affiliation": "Pullman City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Trevor Vance",
+        "role": "Elected official",
+        "affiliation": "Pullman City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Meghan Wiley",
+        "role": "Lodging representative",
+        "affiliation": "Hampton by Hilton Pullman / Crimson Bar + Bites",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Isabel Potter",
+        "role": "Lodging representative",
+        "affiliation": "Cougar Land Motel",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Rachelle Simons",
+        "role": "Lodging representative",
+        "affiliation": "Short Term Rental",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Angela Lenssen",
+        "role": "Activity representative",
+        "affiliation": "Cougs First!",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Enamul Khan",
+        "role": "Activity representative",
+        "affiliation": "International Community / Mela",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Ginger Flynn",
+        "role": "Activity representative",
+        "affiliation": "Pullman Chamber of Commerce",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Shantel Sanders",
+        "role": "Staff (non-voting)",
+        "affiliation": "City of Pullman, Administrative Liaison",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://pullman-wa.gov/government/boards_commissions___committees/lodging_tax_advisory_commission.php",
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "Not published; commission meets 2nd Tuesday monthly at 2:00 p.m. and applications are reviewed at those public meetings",
+      "format": null
+    },
+    "meeting_schedule": "2nd Tuesday of each month, 2:00 p.m., Palus Room, 190 SE Crestview St, Building A, Pullman",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Pullman Lodging Tax Grant Application (rev. April 2026)",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.pullman-wa.gov/LTAC%20Grant%20Application%200426.pdf?t=202604081439310",
+        "summary": "Standing application form linked from the Lodging Tax Advisory Commission page; funded by the city's 4% lodging tax. The PDF could not be opened, so totals, caps and scoring priorities are unconfirmed."
+      },
+      {
+        "title": "Pullman Lodging Tax Advisory Commission page (RCW 67.28.1817, PCC 1.50.010)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://pullman-wa.gov/government/boards_commissions___committees/lodging_tax_advisory_commission.php",
+        "summary": "States the 4% lodging tax rate, the commission's advisory role on uses of the revenue, and the monthly meeting schedule where recommendations to Council are recorded in minutes."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No lodging tax budget, award list or grant pool figure was found for Pullman's 4% tax; the application PDF and meeting minutes could not be opened."
+  },
+  {
+    "name": "Centralia",
+    "type": "city",
+    "county": "Lewis",
+    "tax_rate": "2% (additional special lodging tax dedicated to tourism)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-11-23",
+    "funding_year": "2027",
+    "deadline_pattern": "Applications open late summer/fall, due to City Clerk in fall (Sept 19, 2025 for 2026; Nov 23, 2026 for 2027); LTAC reviews in late fall, Council approves in December/January",
+    "typical_open": "August to October",
+    "annual_pool": "$248K",
+    "url": "https://cityofcentralia.com/490/HotelMotel-Lodging-Tax-Grants",
+    "contact": "Bret Brodersen, Finance Director, bbrodersen@cityofcentralia.com, 360-330-7671; City Clerk's office 360-330-7670",
+    "notes": "For 2026 the city approved $247,567 in lodging tax awards (about $96,000 available above Fox Theatre and event center debt payments) to seven nonprofit applicants after presentations to LTAC on Dec 3, 2025; the 2027 application is posted with a Nov 23, 2026 noon deadline.",
+    "confidence": "high",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": true,
+      "date": "2025-12-03",
+      "pattern": "Applicants presented to the LTAC at its evaluation meeting in early December (Dec 3, 2025 for the 2026 cycle); expect a similar meeting in December 2026 for 2027 requests",
+      "format": "in person"
+    },
+    "meeting_schedule": "LTAC meets two to three times per year, typically fall and early December",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2027 Lodging Tax Application (City of Centralia)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://cityofcentralia.com/490/HotelMotel-Lodging-Tax-Grants",
+        "summary": "Application for the city's 2% special lodging tax grants, due Nov 23, 2026 at noon; nonprofits and government agencies eligible, with preference for projects that increase overnight stays. No pool or cap stated."
+      },
+      {
+        "title": "Centralia City Council approves nearly $250K in lodging tax funding (Jan 2026 award list)",
+        "doc_type": "award list",
+        "year": "2026",
+        "url": "https://www.chronline.com/stories/centralia-city-council-approves-nearly-250k-in-lodging-tax-funding-for-fox-theatre-bond-debt,394657",
+        "summary": "Council unanimously approved LTAC's recommendation of $247,567 against $345,721 requested: $84,600 event center bond debt, $66,967 Fox Theatre loan, and grants led by Downtown Centralia Festivals Association ($33,000) and Centralia Downtown Association ($28,000)."
+      },
+      {
+        "title": "City of Centralia accepting applications for 2026 hotel/motel lodging tax grants (Aug 2025 notice)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://www.chronline.com/stories/city-of-centralia-accepting-applications-for-2026-hotelmotel-lodging-tax-grants,384949",
+        "summary": "Prior-cycle call for applications with a Sept 19, 2025 noon deadline; confirms the annual pattern and nonprofit/government eligibility."
+      }
+    ],
+    "total_pool_usd": 247567,
+    "competitive_pool_usd": 96000,
+    "pool_note": "2026: $247,567 available and approved; $84,600 event center bond debt and $66,967 Fox Theatre loan are standing commitments, leaving $96,000 awarded across seven outside nonprofit applicants."
+  },
+  {
+    "name": "Aberdeen",
+    "type": "city",
+    "county": "Grays Harbor",
+    "tax_rate": "2%",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2025-11-06",
+    "funding_year": "2026",
+    "deadline_pattern": "Applications open early October, due first week of November at 4:00 p.m.; LTAC hears presentations and recommends in December; contracts issued in January",
+    "typical_open": "early October",
+    "annual_pool": "$90K",
+    "url": "https://aberdeenwa.gov/292/Lodging-Tax-Committee",
+    "contact": "Stacie Barnum, Parks and Recreation Director, sbarnum@aberdeenwa.gov, 360-537-3229; Katy Williamsen, Finance Director, kwilliamsen@aberdeenwa.gov, 360-537-3201",
+    "notes": "The 2026 cycle (apps due Nov 6, 2025) budgeted $90,000 for projects against $161,200 requested, with each applicant given a 3-minute presentation at the Dec 9, 2025 LTAC meeting; the 2027 packet was not yet found online so dates shown are from the prior cycle.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Scott Prato",
+        "role": "Chair",
+        "affiliation": "Aberdeen City Council (Finance Committee Chair)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Lee Bacon",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Bobbi McCracken",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Jackie Elsos",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Navpreet Saroya",
+        "role": "Member",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Stacie Barnum",
+        "role": "Staff (non-voting)",
+        "affiliation": "City of Aberdeen Parks Director",
+        "email": "sbarnum@aberdeenwa.gov",
+        "phone": "360-537-3229"
+      },
+      {
+        "name": "Katy Williamsen",
+        "role": "Staff (non-voting)",
+        "affiliation": "City of Aberdeen Finance Director",
+        "email": "kwilliamsen@aberdeenwa.gov",
+        "phone": "360-537-3201"
+      }
+    ],
+    "members_source": "https://www.aberdeenwa.gov/DocumentCenter/View/2769",
+    "members_as_of": "2025-12-09",
+    "presentation": {
+      "required": true,
+      "date": "2025-12-09",
+      "pattern": "Each applicant gives a 3-minute presentation at the December LTAC meeting (5:30 p.m., City Hall 3rd floor council chambers)",
+      "format": "in person"
+    },
+    "meeting_schedule": "One to three times per year, mainly a December review meeting at 5:30 p.m., Aberdeen City Hall, 200 E Market St",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2026 Lodging Tax Fund Application Packet (Aberdeen Parks and Recreation)",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.aberdeenwa.gov/DocumentCenter/View/2726",
+        "summary": "Guidelines for the 2% lodging tax grants: nonprofit or government applicants, 25% cash or in-kind match, reimbursement-only contracts, itemized budget and board list required, final report due within 3 weeks of the event."
+      },
+      {
+        "title": "2026 LTAC Grant Application (fillable) with timeline",
+        "doc_type": "guidelines",
+        "year": "2026",
+        "url": "https://www.aberdeenwa.gov/DocumentCenter/View/2727",
+        "summary": "Sets the cycle: applications open Oct 3, 2025, due Nov 6, 2025 at 4 p.m., decisions in December, contracts in January for a Jan 1 to Dec 31, 2026 contract period; eligible uses are marketing, events and tourism facilities."
+      },
+      {
+        "title": "Lodging Tax Committee agenda, Dec 9, 2025 (funding request table)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://www.aberdeenwa.gov/DocumentCenter/View/2769",
+        "summary": "Lists 14 requests totaling $161,200 against $90,000 budgeted for projects and an estimated $409,474 fund balance; largest asks were Pacific NW Music Project $30,000, City traffic control $20,000 and ghOST Project $20,000, each with a 3-minute presentation."
+      },
+      {
+        "title": "Aberdeen seeks LTAC members (Daily World, Apr 2025)",
+        "doc_type": "award list",
+        "year": "2025",
+        "url": "https://thedailyworld.com/news/aberdeen-seeks-ltac-members",
+        "summary": "Reports the prior round awarded $110,000 to 11 applicants for festivals, beautification and art."
+      }
+    ],
+    "total_pool_usd": 90000,
+    "competitive_pool_usd": 90000,
+    "pool_note": "2026: LTAC agenda showed $90,000 budgeted for projects (fund balance about $409,474) against $161,200 requested, including $50,000 of city Parks and traffic/decoration requests, so the outside share is an estimate at or below $90,000; the prior round awarded $110,000 to 11 applicants."
+  },
+  {
+    "name": "Longview",
+    "type": "city",
+    "county": "Cowlitz",
+    "tax_rate": null,
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": null,
+    "contact": null,
+    "notes": "No city lodging tax grant application, LTAC page or roster was found on mylongview.com or in news coverage; the city appears not to run an open application process, and the regional lodging tax grants for Longview-area events are run by Cowlitz County Tourism.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": null,
+    "alternatives": [
+      {
+        "program": "Cowlitz County Tourism Grant (Lodging Tax)",
+        "administrator": "Cowlitz County Tourism Department (LTAC recommends, Board of County Commissioners approves)",
+        "funds": "County hotel/motel lodging tax under RCW 67.28; reimbursement-based, 25% match required",
+        "eligibility": "Public agencies and nonprofits (501c3/501c6, chambers, museums, historical societies) running events that draw visitors from beyond 50 miles and generate hotel stays",
+        "cycle": "annual",
+        "deadline": "2024-11-06",
+        "deadline_pattern": "Notice late September, applications due first week of November at 4:30 p.m., awards announced by Dec 31 for the following calendar year",
+        "url": "https://visitmtsthelens.com/wp-content/uploads/2024/10/Grant_Application_2025.pdf",
+        "contact": "Dawn Smith, Tourism Coordinator, smithd@cowlitzwa.gov, 360-577-3137; Kim Bowcutt, Tourism Director",
+        "notes": "Office is at 1900 7th Avenue, Longview; the 2025 packet is the most recent one found, so confirm the 2027 cycle dates.",
+        "confidence": "medium"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Cowlitz County Tourism Grant Application for 2025 Funds",
+        "doc_type": "guidelines",
+        "year": "2025",
+        "url": "https://visitmtsthelens.com/wp-content/uploads/2024/10/Grant_Application_2025.pdf",
+        "summary": "County lodging tax grant guidelines: public agencies and nonprofits, events drawing visitors from beyond 50 miles, 25% match, reimbursement basis, applications due Nov 6, 2024; no total pool stated. No City of Longview lodging tax allocation document was found."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "No City of Longview lodging tax budget or allocation document was found, so neither the revenue nor any committed uses could be confirmed."
+  },
+  {
+    "name": "Camas",
+    "type": "city",
+    "county": "Clark",
+    "tax_rate": "2%",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2025-05-09",
+    "funding_year": "2025",
+    "deadline_pattern": "Window opens late March and closes early May (May 6, 2024; May 9, 2025) for same-year funding; LTAC reviews at a spring meeting and Council confirms",
+    "typical_open": "late March",
+    "annual_pool": "$30K",
+    "url": "https://www.cityofcamas.us/node/18934",
+    "contact": "Carrie Davis, Executive Assistant to the Mayor and City Administrator, Administration@CityofCamas.us, 360-834-6864; City Clerk's Office 360-817-1591",
+    "notes": "Camas runs a small spring application window funded by a 2% lodging tax (about $30,000 awarded in 2024) and asks applicants to be available in person or via Zoom at the LTAC review meeting; the 2026 window was not found online so the 2025 dates are shown.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "Marilyn Boerke",
+        "role": "Elected official",
+        "affiliation": "Camas City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Samantha Horner",
+        "role": "Activity representative",
+        "affiliation": "Camas-Washougal Chamber of Commerce",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Prashant Gupta",
+        "role": "Lodging representative",
+        "affiliation": "Camas Hotel",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Bobby Sachdeva",
+        "role": "Lodging representative",
+        "affiliation": "Camas Hotel",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://cityofcamas.us/bc-ltac",
+    "members_as_of": null,
+    "presentation": {
+      "required": false,
+      "date": "2024-05-21",
+      "pattern": "Applicants are asked to be available at the LTAC review meeting (mid/late May, Council Chambers) to answer questions, in person or via Zoom; attendance is welcomed, not mandatory",
+      "format": "in person"
+    },
+    "meeting_schedule": "Annually, usually early spring to review applications; hybrid Zoom/in person at City Hall, 616 NE 4th Ave",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Funds Availability (City of Camas program overview)",
+        "doc_type": "guidelines",
+        "year": "2025",
+        "url": "https://www.cityofcamas.us/node/18934",
+        "summary": "Describes the 2% lodging tax program: government and nonprofit applicants, permitted uses under RCW 67.28, priority for overnight stays, outside promotion, economic benefit and partnerships; 2025 window Mar 24 to May 9 with Council consensus and a municipal services contract. No pool stated."
+      },
+      {
+        "title": "Lodging Tax Application Window Opens 3/25/24",
+        "doc_type": "other",
+        "year": "2024",
+        "url": "https://www.cityofcamas.us/city-clerk/page/lodging-tax-application-window-opens-32524",
+        "summary": "2024 cycle notice: applications due May 6, 2024 at 5 p.m., LTAC review meeting May 21, 2024 in Council Chambers."
+      },
+      {
+        "title": "Camas awards $30K from lodging taxes (Camas-Washougal Post-Record, June 2024)",
+        "doc_type": "award list",
+        "year": "2024",
+        "url": "https://www.camaspostrecord.com/news/2024/jun/13/camas-awards-30k-from-lodging-taxes/",
+        "summary": "Reports about $30,000 in 2024 lodging tax awards approved by Council on LTAC's recommendation; the article could not be opened to list individual recipients."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": 30000,
+    "pool_note": "2024: about $30,000 awarded to outside applicants from the 2% lodging tax per the Post-Record; total annual revenue was not published."
+  },
+  {
+    "name": "Winthrop",
+    "type": "city",
+    "county": "Okanogan",
+    "tax_rate": "3%",
+    "has_ltac_grants": false,
+    "cycle": "none",
+    "deadline": null,
+    "funding_year": null,
+    "deadline_pattern": null,
+    "typical_open": null,
+    "annual_pool": null,
+    "url": "https://codepublishing.com/WA/Winthrop/html/Winthrop02/Winthrop0252.html",
+    "contact": "Town of Winthrop Clerk, 509-996-2320",
+    "notes": "Winthrop Municipal Code 2.52 creates an LTAC that recommends uses of the town's lodging tax, but the funds are budgeted for town marketing through a contracted marketing committee rather than an open grant round, and no application form or deadline was found.",
+    "confidence": "low",
+    "members": [],
+    "members_source": null,
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": null,
+      "format": null
+    },
+    "meeting_schedule": "LTAC must meet at least quarterly per WMC 2.52",
+    "alternatives": [
+      {
+        "program": "Okanogan County Lodging Tax grants",
+        "administrator": "Okanogan County Commissioners / County LTAC",
+        "funds": "County hotel/motel tax collected on lodging outside town limits, including the Methow Valley",
+        "eligibility": "Nonprofits and public agencies promoting tourism in Okanogan County",
+        "cycle": null,
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": null,
+        "contact": null,
+        "notes": "Methow Valley organizations such as Methow Trails have received county lodging tax funds; details were not verified in this pass.",
+        "confidence": "low"
+      },
+      {
+        "program": "Winthrop town marketing budget (lodging tax)",
+        "administrator": "Town of Winthrop via its contracted marketing program and LTAC",
+        "funds": "About $85,000 per year budgeted from the 3% hotel/motel tax (2012 figure) for marketing only",
+        "eligibility": "Not an open grant; event promotion requests go to the town council or LTAC directly",
+        "cycle": null,
+        "deadline": null,
+        "deadline_pattern": null,
+        "url": "https://methownet.com/grist/features/winthrop3tax.html",
+        "contact": "Town of Winthrop, 509-996-2320",
+        "notes": "Figure is from a 2012 article and should be refreshed.",
+        "confidence": "low"
+      }
+    ],
+    "funding_docs": [
+      {
+        "title": "Winthrop Municipal Code Chapter 2.52, Lodging Tax Advisory Committee",
+        "doc_type": "ordinance",
+        "year": null,
+        "url": "https://codepublishing.com/WA/Winthrop/html/Winthrop02/Winthrop0252.html",
+        "summary": "Creates a 5 to 8 member LTAC (two lodging tax collectors, two business owners, a Chamber board member, an elected chair) that recommends uses of lodging tax funds to Council and monitors contracted tourism marketing; no grant process or allocation amounts."
+      },
+      {
+        "title": "Winthrop's Three Percent Tax (Methow Grist, Aug 2012)",
+        "doc_type": "other",
+        "year": "2012",
+        "url": "https://methownet.com/grist/features/winthrop3tax.html",
+        "summary": "Reports the town's 3% hotel-motel tax of roughly $85,000 per year is budgeted for marketing only and overseen by a seven-member marketing committee; figures are dated."
+      }
+    ],
+    "total_pool_usd": 85000,
+    "competitive_pool_usd": 0,
+    "pool_note": "2012 estimate: roughly $85,000 a year from the 3% tax, all budgeted to the town's contracted marketing program with no open grant round; current revenue not found."
+  },
+  {
+    "name": "Lynden",
+    "type": "city",
+    "county": "Whatcom",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-07",
+    "funding_year": "2027",
+    "deadline_pattern": "Applications open June 30 and are due first week of August; LTAC reviews mid-September; Council approves in November; contracts in December",
+    "typical_open": "June 30",
+    "annual_pool": null,
+    "url": "https://lyndenwa.org/434/Lodging-Tax-Advisory-Committee",
+    "contact": "Lynden Finance Department, lyndenfinance@lyndenwa.org, 360-354-2829",
+    "notes": "Lynden runs one annual round (2027 apps were due Aug 7, 2026 and reviewed Sept 15, 2026) on a reimbursement basis, with no formal presentation required.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Brent Lenssen",
+        "role": "Chair",
+        "affiliation": "Lynden City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Teri Treat",
+        "role": "Lodging representative",
+        "affiliation": "Inn at Lynden",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Maria Folsom",
+        "role": "Lodging representative",
+        "affiliation": "Cobblestone Hotel",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Selena Burgess",
+        "role": "Activity representative",
+        "affiliation": "Northwest Washington Fair",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Dylan Deane-Boyle",
+        "role": "Activity representative",
+        "affiliation": "Bellingham Whatcom County Tourism",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://lyndenwa.org/434/Lodging-Tax-Advisory-Committee",
+    "members_as_of": null,
+    "presentation": {
+      "required": false,
+      "date": "2026-09-15",
+      "pattern": "No formal presentation; applicants may attend the September LTAC review meeting and may be asked questions",
+      "format": "in person"
+    },
+    "meeting_schedule": "Once a year in late summer (Sept 15, 2026), date set by the Chair",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Lynden Lodging Tax Advisory Committee program page and 2027 application timeline",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://lyndenwa.org/434/Lodging-Tax-Advisory-Committee",
+        "summary": "One project per application, full program budget required, reimbursement only, eligible uses are tourism promotion and tourism facilities; applications open June 30, due Aug 7, 2026, LTAC review Sept 15, Council approval November, reports due Jan 31. No pool or cap stated."
+      },
+      {
+        "title": "Lynden City Council minutes, Mar 17, 2025 (LTAC appointments)",
+        "doc_type": "other",
+        "year": "2025",
+        "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/lynden-meet-aa86735ae8844a82a7978ce76fb67c92/ITEM-Attachment-001-7b46da9d4d4f4677b5d361a26b390811.pdf",
+        "summary": "Confirms the five-member LTAC appointments through Dec 31, 2025 and that LTAC recommendations feed the annual budget; no dollar amounts."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "Lynden publishes the application timeline but no lodging tax revenue, pool or award list was found."
+  },
+  {
+    "name": "Blaine",
+    "type": "city",
+    "county": "Whatcom",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-08-31",
+    "funding_year": "2027",
+    "deadline_pattern": "Applications due by email around the end of August / first business day of September (Sept 1, 2025 for 2026; Aug 31, 2026 for 2027); BTAC recommends in October, Council approves in November",
+    "typical_open": "July",
+    "annual_pool": "$83K",
+    "url": "https://ci.blaine.wa.us/248/Blaine-Tourism-Advisory-Committee",
+    "contact": "Alex Wenger, AICP, Community Development Services Director, awenger@cityofblaine.com, 360-332-8311 ext. 2001",
+    "notes": "Blaine's Tourism Advisory Committee (BTAC) awards roughly $80,000 to $83,000 a year in reimbursable event grants from lodging tax, prefers multi-day events, and the 2027 application closed Aug 31, 2026.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Sonia Hurt",
+        "role": "Chair",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Raymond Maxon",
+        "role": "Citizen-at-large",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Marisa Piccolo",
+        "role": "Citizen-at-large",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Todd Woodyard",
+        "role": "Lodging representative",
+        "affiliation": "Large hotel",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Mangal Samra",
+        "role": "Lodging representative",
+        "affiliation": "Small hotel",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kimberli Shea",
+        "role": "Activity representative",
+        "affiliation": "Blaine Chamber of Commerce",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Nikola Berzenji",
+        "role": "Activity representative",
+        "affiliation": "Blaine Chamber of Commerce",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Danielle Gaughen",
+        "role": "Ex officio",
+        "affiliation": null,
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Dylan Deane-Boyle",
+        "role": "Ex officio",
+        "affiliation": "Bellingham Whatcom County Tourism",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Alex Wenger",
+        "role": "Staff (non-voting)",
+        "affiliation": "City of Blaine CDS Director",
+        "email": "awenger@cityofblaine.com",
+        "phone": "360-332-8311 ext. 2001"
+      }
+    ],
+    "members_source": "https://ci.blaine.wa.us/248/Blaine-Tourism-Advisory-Committee",
+    "members_as_of": null,
+    "presentation": {
+      "required": false,
+      "date": null,
+      "pattern": "Application packet does not require a presentation; BTAC reviews written applications at its fall meeting and recommends to Council",
+      "format": "written only"
+    },
+    "meeting_schedule": "Quarterly, generally the 2nd Tuesday of the month at 8:30 a.m., Blaine City Hall",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2027 BTAC Grant Proposal Application (City of Blaine)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.cityofblaine.com/DocumentCenter/View/23976/BTAC-Funding-Application-for-2027",
+        "summary": "Due Aug 31, 2026 by email; reimbursable grants only, preference for multi-day events tied to the Blaine by the Sea theme and 2019 Tourism Plan, applicants must report overnight stays and 50-mile visitors and show a path off lodging tax reliance. No pool or cap stated."
+      },
+      {
+        "title": "Blaine City Council approves tourism budget (The Northern Light, Nov 2024)",
+        "doc_type": "award list",
+        "year": "2025",
+        "url": "https://www.thenorthernlight.com/stories/blaine-city-council-approves-tourism-budget,35449",
+        "summary": "Council approved $206,400 in tourism spending including $83,000 in event grants (vs $80,000 in 2024): largest were Old Fashioned Fourth of July $24,000, Blaine Harbor Music Festival $10,000 and Scottish Gathering $10,000, with $50,000 each for Welcome Center lease and management."
+      },
+      {
+        "title": "Blaine Tourism Advisory Committee page (2026 grant cycle notice)",
+        "doc_type": "other",
+        "year": "2026",
+        "url": "https://ci.blaine.wa.us/248/Blaine-Tourism-Advisory-Committee",
+        "summary": "States BTAC reviews the hotel/motel tax budget and recommends grants; 2026 applications were due Sept 1, 2025 to Alex Wenger."
+      }
+    ],
+    "total_pool_usd": 206400,
+    "competitive_pool_usd": 83000,
+    "pool_note": "2025: $206,400 total tourism spending approved from lodging tax; Welcome Center lease and management ($100,000), events costs, marketing and staff absorb the rest, leaving $83,000 awarded across 11 event grants (seven routed through the Chamber/parks district)."
+  },
+  {
+    "name": "Liberty Lake",
+    "type": "city",
+    "county": "Spokane",
+    "tax_rate": "2% (LTAC page cites 3.3%)",
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2024-12-05",
+    "funding_year": "2025",
+    "deadline_pattern": "Applications released in late summer/fall and due early December at 5:00 p.m. (Dec 2, 2022; Nov 8, 2023; Dec 5, 2024) for the following calendar year; LTAC reviews in spring",
+    "typical_open": "September to November",
+    "annual_pool": null,
+    "url": "https://libertylakewa.gov/204/Lodging-Tax-Advisory-Committee",
+    "contact": "Kyle Dixon, Finance Director, kdixon@libertylakewa.gov, 509-755-6702",
+    "notes": "Liberty Lake awards competitive, reimbursement-based Tourism Fund grants with applications due in early December; 2024 requests totaled $80,550 across six applicants, and the 2026 or 2027 application was not found online so the 2025 cycle dates are shown.",
+    "confidence": "medium",
+    "members": [
+      {
+        "name": "David Himebaugh",
+        "role": "Chair",
+        "affiliation": "HUB Sports Center",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Linda Ball",
+        "role": "Elected official",
+        "affiliation": "Liberty Lake City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Laura DeMott",
+        "role": "Lodging representative",
+        "affiliation": "Best Western",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Andy Cho",
+        "role": "Lodging representative",
+        "affiliation": "Garner Hotels",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Shannon Deonier",
+        "role": "Activity representative",
+        "affiliation": "Liberty Lake Community Theatre",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kyle Dixon",
+        "role": "Staff (non-voting)",
+        "affiliation": "City of Liberty Lake Finance Director",
+        "email": "kdixon@libertylakewa.gov",
+        "phone": "509-755-6702"
+      }
+    ],
+    "members_source": "https://libertylakewa.gov/204/Lodging-Tax-Advisory-Committee",
+    "members_as_of": null,
+    "presentation": {
+      "required": null,
+      "date": "2024-04-30",
+      "pattern": "LTAC holds a special review meeting in spring (Apr 30, 2024, 1:00 p.m., City Hall council chambers); written public comment accepted; presentation requirement not stated",
+      "format": null
+    },
+    "meeting_schedule": "As needed; typically a late-summer meeting to release the application and a spring special meeting to review requests",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "2025 Lodging Tax Grant Application and Guidelines (City of Liberty Lake)",
+        "doc_type": "guidelines",
+        "year": "2025",
+        "url": "https://www.libertylakewa.gov/DocumentCenter/View/7478",
+        "summary": "Competitive, reimbursement-based grants from the 2% Tourism Fund, due Dec 5, 2024 at 5 p.m.; eligible uses are tourism promotion, event marketing and tourism facilities; applicants must estimate room nights and show marketing to Liberty Lake lodging. No pool or cap stated."
+      },
+      {
+        "title": "LTAC special meeting agenda packet, Apr 30, 2024 (2024 funding requests)",
+        "doc_type": "ltac packet",
+        "year": "2024",
+        "url": "https://www.libertylakewa.gov/AgendaCenter/ViewFile/Agenda/_04302024-978",
+        "summary": "Six 2024 requests totaling $80,550: HUB Sports Center $15,000, Centennial Rotary $20,000, TAC at the Lake $20,000, Winter Glow Spectacular $20,000, two Kiwanis events $5,550 combined; includes Aug 2023 minutes approving the application release."
+      },
+      {
+        "title": "2023 Tourism Promotion Funding notice and application",
+        "doc_type": "other",
+        "year": "2023",
+        "url": "https://www.libertylakewa.gov/CivicAlerts.aspx?AID=690",
+        "summary": "Prior-cycle notice (due Dec 2, 2022) confirming the early-December pattern, 2% tax source and LTAC-recommends, Council-decides process."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "2024: six outside requests totaled $80,550 but the award amounts and annual 2% tax revenue were not published in the documents found."
+  },
+  {
+    "name": "Stevenson",
+    "type": "city",
+    "county": "Skamania",
+    "tax_rate": null,
+    "has_ltac_grants": true,
+    "cycle": "annual",
+    "deadline": "2026-10-12",
+    "funding_year": "2027",
+    "deadline_pattern": "Tourism promotion proposals due mid-October at 4:00 p.m. (Oct 13, 2025 for 2026; Oct 12, 2026 for 2027); Tourism Advisory Committee recommends, Council approves in December/January",
+    "typical_open": "September",
+    "annual_pool": null,
+    "url": "https://www.stevensonwa.gov/1434/Apply-for-TAC-Funding",
+    "contact": "Ben Shumaker, City of Stevenson (TAC staff), 509-427-5970, 7121 E. Loop Road, Stevenson, WA 98648",
+    "notes": "Stevenson's Tourism Advisory Committee (TAC) takes online applications in four categories each fall from a Tourism Promotion fund with a roughly $1.6M balance; the 2027 round closed Oct 12, 2026 and a late 2026 Kite & Wing Festival request was still approved in January 2026.",
+    "confidence": "high",
+    "members": [
+      {
+        "name": "Dave Cox",
+        "role": "Elected official",
+        "affiliation": "Stevenson City Council",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Kara Owen",
+        "role": "Lodging representative",
+        "affiliation": "Skamania Lodge",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Tom Sikora",
+        "role": "Lodging representative",
+        "affiliation": "Artbliss Hotel",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Angie Waiss",
+        "role": "Activity representative",
+        "affiliation": "Skamania County Chamber of Commerce",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Chris Kellogg-Clark",
+        "role": "Activity representative",
+        "affiliation": "Lewie's (funding recipient representative)",
+        "email": null,
+        "phone": null
+      },
+      {
+        "name": "Ben Shumaker",
+        "role": "Staff (non-voting)",
+        "affiliation": "City of Stevenson",
+        "email": null,
+        "phone": null
+      }
+    ],
+    "members_source": "https://mccmeetings.blob.core.usgovcloudapi.net/stevwa-pubu/MEET-Packet-1999ca49401f4ab8846da79d07f8b39a.pdf",
+    "members_as_of": "2026-01-15",
+    "presentation": {
+      "required": null,
+      "date": null,
+      "pattern": "Not stated; TAC meets at least once a year after the October deadline to score proposals and recommend awards to Council",
+      "format": null
+    },
+    "meeting_schedule": "At least once a year, after the mid-October proposal deadline; see the TAC & Tourism Calendar on the city site",
+    "alternatives": [],
+    "funding_docs": [
+      {
+        "title": "Lodging Tax Application Information and Guidelines (Apply for TAC Funding)",
+        "doc_type": "guidelines",
+        "year": "2027",
+        "url": "https://www.stevensonwa.gov/1434/Apply-for-TAC-Funding",
+        "summary": "Online portal with four funding categories; 2027 proposals due Oct 12, 2026; links a 2027 TAC and Tourism Calendar. No pool or cap stated on the page."
+      },
+      {
+        "title": "Stevenson City Council agenda packet, Jan 15, 2026 (TAC appointments and Kite & Wing Festival award)",
+        "doc_type": "ltac packet",
+        "year": "2026",
+        "url": "https://mccmeetings.blob.core.usgovcloudapi.net/stevwa-pubu/MEET-Packet-1999ca49401f4ab8846da79d07f8b39a.pdf",
+        "summary": "Shows the Tourism Promotion Fund (Fund 103) ending 2025 at about $1.61M, a $10,000 final TAC 2025 contract payment, TAC's unanimous $3,000 recommendation for the 2026 Bridge of the Gods Kite & Wing Festival, and the Oct 13, 2025 proposal deadline for 2026."
+      },
+      {
+        "title": "City of Stevenson 2024 Adopted Budget Book",
+        "doc_type": "budget",
+        "year": "2024",
+        "url": "https://www.ci.stevenson.wa.us/sites/default/files/fileattachments/city_hall/page/3277/2024_adopted_budget_book_12.5.23.pdf",
+        "summary": "Adopted budget containing the Tourism Promotion and Development Fund appropriations; not opened in this pass, so amounts are unconfirmed."
+      }
+    ],
+    "total_pool_usd": null,
+    "competitive_pool_usd": null,
+    "pool_note": "The Tourism Promotion Fund (Fund 103) ended 2025 with about $1.61M in reserves, but annual revenue, standing commitments and the award list were not found; only a $3,000 festival award and a $10,000 TAC contract payment are documented."
+  }
+]

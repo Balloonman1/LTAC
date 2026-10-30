@@ -1,0 +1,15 @@
+function localOnlyHtml(r){
+  const la=r.local_awards.years; const yrs=Object.keys(la).sort().reverse();
+  const rows=yrs.map(y=>{const s=la[y];const amts=s.awards.map(a=>a.amount).filter(a=>typeof a==='number').sort((p,q)=>p-q);return `<tr class="loc"><td>${y}<span class="src">minutes</span></td><td>${s.awards.length||'–'}</td><td>${s.total!=null?money(s.total):'–'}</td><td>${amts.length?money(amts[Math.floor(amts.length/2)]):'–'}</td><td>${amts.length?money(amts[amts.length-1]):'–'}</td></tr>`;}).join('');
+  return `<details><summary>Award history (local records) <span>${yrs.length} yr</span></summary><div class="awards"><button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards</th><th>Total</th><th>Median</th><th>Largest</th></tr></thead><tbody>${rows}</tbody></table></div><div class="top">From council and committee records; the state dataset has no rows for this jurisdiction.</div></div></details>`;
+}
+function localSection(r){
+  const la=r.local_awards; if(!la||!la.years) return '';
+  const yrs=Object.keys(la.years).sort().reverse();
+  const blocks=yrs.map(y=>{const s=la.years[y];const rows=s.awards.slice().sort((p,q)=>(q.amount||0)-(p.amount||0)).map(a=>`<tr class="${a.dmo?'dim':''}"><td>${esc(a.recipient||'')}${a.dmo?' <span class="tag">jurisdiction / DMO</span>':''}</td><td>${esc(a.event||'')}</td><td class="num">${a.amount!=null?money(a.amount):'–'}</td><td class="meth">${esc(a.notes||'')}</td></tr>`).join('');
+    return `<h4>${y} awards from council and committee records${s.total!=null?` · ${money(s.total)} total`:''}${s.decided?` · decided ${esc(String(s.decided))}`:''}</h4>${s.note?`<p class="hint2">${esc(s.note)}</p>`:''}${rows?`<div class="tw"><table class="dt"><thead><tr><th>Recipient</th><th>Event or project</th><th>Amount</th><th>Notes</th></tr></thead><tbody>${rows}</tbody></table></div>`:'<p class="hint2">Per-award list not published; only the total was found.</p>'}`;}).join('');
+  return `${blocks}${la.upcoming?`<p class="hint2"><b>Coming cycle:</b> ${esc(la.upcoming)}</p>`:''}${la.not_found?`<p class="hint2">Not found: ${esc(la.not_found)}</p>`:''}<p class="hint2">Sources: ${(la.sources||[]).slice(0,8).map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\//,'').slice(0,50))}</a>`).join(' · ')}</p>`;
+}
+function localDetailHtml(r){
+  return `<div class="detail"><p class="eyebrow2">${r.type==='county'?'County':'City'} · ${esc(r.county)} County</p><h3>${esc(r.name)}</h3><p class="hint2">The state dataset has no rows for ${esc(r.name)}; these awards come from local records. <a href="#j-${slug(r.name)}" onclick="closeModal()">Open the directory card</a>.</p>${localSection(r)}</div>`;
+}
