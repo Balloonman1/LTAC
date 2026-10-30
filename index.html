@@ -1,6 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Lodging tax (LTAC) grant deadlines, committees, award history and application tools for the 100 largest hotel-tax cities and counties in Washington.">
 <title>WA Lodging Tax Grants</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+</head>
+<body>
 <style>
 /* Layout: evergreen masthead with stat tiles and an "up next" deadline rail, a sticky toolbar (search, county picker, type and cycle chips), then cards grouped by funding cycle. Amber marks anything time-sensitive. */
 html{color-scheme:light only}
@@ -14,7 +22,7 @@ html{color-scheme:light only}
   --mono:"JetBrains Mono",Menlo,Consolas,monospace;
 }
 *{box-sizing:border-box}
-html{scroll-behavior:smooth}
+html{scroll-behavior:auto}
 body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;margin:0}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--ink)}
 .gutter{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
@@ -265,6 +273,28 @@ table.bench td a{font-weight:600}
 .modalbox h3{font-family:var(--display);font-weight:600;font-size:20px;margin:0 0 8px}
 .modalbox textarea,.modalbox input{width:100%;font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line-strong);border-radius:7px;background:var(--bg);color:var(--fg);margin-bottom:8px}
 @media (max-width:720px){.calc{grid-template-columns:1fr}.calcin{grid-template-columns:1fr}.bars .b{grid-template-columns:110px 1fr auto}}
+
+/* phones: compact masthead, larger tap targets */
+@media (max-width:600px){
+  .mast{padding-block:22px 18px}
+  .mast h1{font-size:30px;margin-bottom:10px}
+  .mast .lede{font-size:14px;opacity:.85}
+  .tiles{grid-template-columns:repeat(3,1fr);gap:6px;margin-top:16px}
+  .tile{padding:8px 9px;border-radius:8px}
+  .tile b{font-size:20px}
+  .tile span{font-size:11px;line-height:1.25;display:block}
+  .acct{margin-top:12px;padding:10px 12px;font-size:13px}
+  .acct .hint{font-size:12px}
+  .tabs a{padding:12px 11px;font-size:13.5px}
+  .vhead{padding-block:18px 6px}
+  .vhead h2{font-size:24px}
+  .kitsec{padding:14px}
+  .finder{padding:14px;gap:10px}
+  .finder button[type=submit]{width:100%;justify-self:stretch}
+  .post{padding:14px}
+  table.bench{font-size:12.5px}
+  .btn{padding:10px 14px}
+}
 </style>
 <header class="mast gutter"><div class="inner">
   <p class="eyebrow">Washington State · RCW 67.28 · updated <span id="asof"></span></p>
@@ -760,13 +790,14 @@ function showView(v){
   if(v==='board' && !boardLoaded) loadBoard();
   if(v==='kit') initKit();
 }
+let firstRoute=true;
 function route(){
   const h=(location.hash||'').replace('#','');
-  if(VIEWS.includes(h)) { showView(h); window.scrollTo({top:0}); return; }
+  if(VIEWS.includes(h)) { showView(h); const tabs=document.querySelector('.tabs'); if(window.innerWidth<720 && tabs && !firstRoute){ const m=document.querySelector('.mast'); const go=()=>window.scrollTo({top:m?m.offsetTop+m.offsetHeight:0,behavior:'instant'}); go(); requestAnimationFrame(go); setTimeout(go,60); setTimeout(go,250); } else window.scrollTo({top:0,behavior:'instant'}); firstRoute=false; return; }
   if(h.startsWith('j-')){ showView('directory'); const t=document.getElementById(h); if(t){ t.scrollIntoView({block:'start'}); t.classList.add('lead'); } return; }
   showView('directory');
 }
-window.addEventListener('hashchange',route);
+window.addEventListener('hashchange',()=>{firstRoute=false;route();});
 document.getElementById('asof').textContent=fmt(META.asof); document.querySelectorAll('.asof2').forEach(e=>e.textContent=fmt(META.asof));
 
 /* ================= award history (JLARC) ================= */
@@ -1008,3 +1039,6 @@ document.getElementById('boardFilter').addEventListener('click',e=>{const b=e.ta
 
 route();
 </script>
+
+</body>
+</html>
