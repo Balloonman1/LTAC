@@ -1,0 +1,3039 @@
+[
+  {
+    "name": "Pierce County Tourism Promotion Area (TPA) Grant Program",
+    "funder": "Pierce County Economic Development",
+    "url": "https://www.piercecountywa.gov/5732/Tourism-Promotion-Area-TPA-Program",
+    "contact": "Mike Gommi, mike.gommi@piercecountywa.gov",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Pierce"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "tourism marketing",
+      "sports",
+      "festival",
+      "music"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "No per-award range published; 2027 pool $1,021,450 total (Event Marketing $42,950, Sports Event Marketing $55,500, Conventions $67,500, Leisure Marketing $55,500, Personnel/Admin $800,000)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-07-03",
+        "label": "2027 cycle (closed; application window Jun 5 to Jul 3, 2026)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually early June; 2027 cycle opened June 5, 2026",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Funds tourism marketing that produces hotel room nights at Pierce County hotels with 40+ rooms; sub-applications for Event Marketing (300 room nights on peak or 500 total), Sports Event Marketing (200+ room nights per event), Conventions, and Leisure Marketing. Applicant must be a 501(c)(3) or 501(c)(6) at least one year old whose primary mission is year-round countywide tourism promotion, which excludes most single-event producers and all for-profits. A required one-on-one meeting with staff precedes submission through the Grants Management portal; funding is reimbursement-based. Pattern: opens early June, due early July for the following calendar year.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.piercecountywa.gov/DocumentCenter/View/158806/2027-TPA-Grant-Program-Master-Application",
+      "https://www.piercecountywa.gov/5732/Tourism-Promotion-Area-TPA-Program"
+    ]
+  },
+  {
+    "name": "Snohomish County Tourism Promotion Area (TPA) Grant",
+    "funder": "Snohomish County TPA Advisory Board",
+    "url": "https://www.snohomishcountywa.gov/5416/Tourism-Promotion-Area-Advisory-Board",
+    "contact": "Sarah Strozyk, 425-312-0890",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Snohomish"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "tourism marketing",
+      "sports",
+      "festival",
+      "music",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "for-profit"
+    ],
+    "award": "No published range; $50,000 is the threshold that changes the lead time",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [
+      {
+        "date": "2026-11-01",
+        "label": "Monthly intake: applications due 11:59 p.m. on the first day of each month"
+      },
+      {
+        "date": "2026-12-01",
+        "label": "Monthly intake"
+      },
+      {
+        "date": "2027-01-01",
+        "label": "Monthly intake"
+      }
+    ],
+    "next_deadline": "2026-11-01",
+    "opens": "Ongoing; submit by the 1st of any month",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Funded by a per-room-night charge on county lodging; supports events and marketing that generate overnight stays in Snohomish County, with special consideration for off-season (Jan to May, Sep to Dec). Apply at least 4 months before the event for requests under $50,000 and 6 months before for larger requests; the board votes at its monthly meeting (third Tuesday, Zoom) and applicants are encouraged to present. Funding is annual (reapply each calendar year), reimbursement-based with proof of payment, and final reports are due Dec 31 of the project year. Eligibility of applicant type is not restricted on the page; confirm for-profit eligibility with staff.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.snohomishcountywa.gov/5416/Tourism-Promotion-Area-Advisory-Board"
+    ]
+  },
+  {
+    "name": "Spokane County TPA Event Grants (paused through 2027)",
+    "funder": "Spokane Hotel and Motel Commission / Visit Spokane",
+    "url": "https://www.visitspokane.com/industry/industry-resources/tpa/",
+    "contact": "Rose Noble, 509-742-9380, maureen@visitspokane.com",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Spokane"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "tourism marketing",
+      "sports",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "Not applicable while paused",
+    "cycle": "one-time",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Paused; no application window through 2027",
+    "match": null,
+    "reimbursement": null,
+    "notes": "The Spokane Hotel and Motel Commission has paused TPA event grants for 2025 through 2027 and directs festival and event organizers to the City of Spokane Tourism and Cultural Investment (TACI) grant instead. TPA revenue currently funds Visit Spokane and Spokane Sports budgets. Listed so users in Spokane County know this source is closed; check back for a 2028 reopening.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.visitspokane.com/industry/industry-resources/tpa/"
+    ]
+  },
+  {
+    "name": "Spokane Sports Community Grant",
+    "funder": "Spokane Sports (Spokane Sports Commission)",
+    "url": "https://spokanesports.org/community/grant-program",
+    "contact": null,
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Spokane"
+      ],
+      "cities": [],
+      "region": "Spokane County"
+    },
+    "kinds": [
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit"
+    ],
+    "award": "Up to $10,000 event/equipment support plus up to $3,000 marketing support per event; hotel rate support",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2024-11-30",
+        "label": "2025 events cycle (last posted; application window Nov 1 to 30, 2024)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually November 1; 2026 window not yet confirmed on site",
+    "match": "Cash or in-kind match encouraged, not required",
+    "reimbursement": true,
+    "notes": "Offsets costs of hosting competitive sporting events (tournaments and competitions) that bring overnight visitors to Spokane; other sports event formats considered case by case. Open to local nonprofits and for-profits. Eligible costs include venue, officials, equipment rental, security, signage, insurance, permits and awards; not operating costs, prize money or alcohol. Final report with budget, attendance and photos due within 45 days after the event; missing it disqualifies future funding. Pattern: applications Nov 1 to 30, decisions in January.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://spokanesports.org/community/grant-program"
+    ]
+  },
+  {
+    "name": "City of Spokane Tourism and Cultural Investment (TACI) Grant",
+    "funder": "City of Spokane Grants Department / Tourism and Cultural Investment Committee",
+    "url": "https://my.spokanecity.org/bcc/committees/tourism-and-cultural-investment-committee/",
+    "contact": "taciapp@spokanecity.org; Visit Spokane tourism questions grants@visitspokane.com",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Spokane"
+      ],
+      "cities": [
+        "Spokane"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "festival",
+      "arts",
+      "music",
+      "cultural",
+      "community event",
+      "sports",
+      "tourism marketing"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "$5,000 to $10,000 per request; City may add event-marketing funds",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-31",
+        "label": "2026-02 cycle for events Jul 1, 2026 to Jun 30, 2027 (closed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually March 1 (2026 cycle opened Mar 1, 2026); a prior cycle opened June 1, 2024",
+    "match": "No fixed match; describe leverage (sponsorships, in-kind, volunteers)",
+    "reimbursement": true,
+    "notes": "Funded by Spokane's lodging excise tax (so it may also appear in LTAC catalogs) and is the designated replacement for paused Spokane County TPA event grants. Events must be within Spokane city limits, free and open to the public (registration fees allowed), not primarily fundraisers, and the applicant needs a City business license and liability insurance. Reimbursement only, with advance payment available in limited cases; post-event evaluation due within 90 days. Pattern: opens March 1, due March 31, awards late April, for events in the fiscal year starting July 1.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/2026-02-taci-nofa.pdf",
+      "https://my.spokanecity.org/news/releases/2025/03/03/2025-tourism-and-cultural-investment-grant-applications-open/"
+    ]
+  },
+  {
+    "name": "Bellevue Festivals & Events Incubator Program",
+    "funder": "Visit Bellevue / Bellevue Tourism Promotion Area / City of Bellevue",
+    "url": "https://www.visitbellevue.com/bellevue-festivals-events-incubator-program/",
+    "contact": "jkantor@visitbellevue.com, (877) 425-2075",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Bellevue"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "festival",
+      "music",
+      "cultural",
+      "sports",
+      "food/ag",
+      "tourism marketing"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "$7,500 to $50,000, tiered to projected hotel room nights (250-500 nights: $7,500-$15,000; 500-1,000: $15,000-$25,000; 1,000-3,000: $25,000-$50,000; 3,000+: $50,000)",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Ongoing; decisions once per quarter, 90 to 120 days after application",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Cash grants paid 60% up front (four months before the event) and 40% after the final report, so this is not a reimbursement program. Favors multi-day events that fill Bellevue hotels on weekend nights, draw out-of-region visitors, fall in Jan to Apr or Nov to Dec, and fit focus areas (technology, wellness, culinary, multicultural, shopping, creative economy). Recipients display the Visit Bellevue logo, promote Visit Bellevue hotel room blocks, collect attendee data and complete an economic impact report. Awards follow a three-year funding cycle for growing events. Applicant type is not restricted.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.visitbellevue.com/bellevue-festivals-events-incubator-program/"
+    ]
+  },
+  {
+    "name": "City of Wenatchee Tourism Promotion Area (TPA) Funds",
+    "funder": "City of Wenatchee TPA Board (joint with Lodging Tax Advisory Committee)",
+    "url": "https://www.wenatcheewa.gov/",
+    "contact": null,
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Chelan"
+      ],
+      "cities": [
+        "Wenatchee"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "tourism marketing",
+      "festival",
+      "sports",
+      "music",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Recent requests $3,510 to $25,000; 2026 TPA budget $45,000 (LTAC budget $100,000 separate)",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Ongoing; applications are reviewed at monthly joint LTAC/TPA board meetings as funds remain",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Wenatchee's $2 per room night TPA fee funds a small tourism events pool administered alongside the city's lodging tax grants and reviewed at monthly joint meetings. Applicants indicate nonprofit status, hold a city business license, sign a municipal services contract with insurance naming the City, use the approved Wenatchee logo, and file a post-event economic impact report (attendance, travel distance, overnight stays). Reimbursement only after costs are incurred. Funds tend to run out mid-year (the 2026 tracker showed about $25,000 TPA remaining in June), so apply early in the calendar year.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wenatcheewa.gov/home/showpublisheddocument/31342/639168571568270000"
+    ]
+  },
+  {
+    "name": "Port of Walla Walla Tourism Fund",
+    "funder": "Port of Walla Walla",
+    "url": "https://portwallawalla.com/business/economic-development/port-tourism-fund",
+    "contact": "(509) 525-3100; contact form at portwallawalla.com/contact/email-port",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Walla Walla"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "tourism marketing",
+      "festival",
+      "sports",
+      "music",
+      "food/ag"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "Up to $2,000 per request; annual pool about $40,000 (Jan 1 to Dec 31)",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Ongoing year-round; apply early because funds are allocated until exhausted",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Pays only for advertising, publicizing or distributing information to attract out-of-county visitors to Walla Walla County tourism events; cannot underwrite general event expenses. Staff review, then the Port Commission approves at a regular meeting and notifies the applicant. Applicant type is not restricted on the page. Submit the fillable PDF application and acknowledge the Port Tourism Policy.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://portwallawalla.com/business/economic-development/port-tourism-fund"
+    ]
+  },
+  {
+    "name": "Yakima Valley Community Foundation Sponsorship Grants",
+    "funder": "Yakima Valley Community Foundation",
+    "url": "https://grantable.co/grants/yakima-valley-sponsorship-grants-19e109d30577",
+    "contact": null,
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Yakima",
+        "Kittitas"
+      ],
+      "cities": [],
+      "region": "Yakima Valley (Kittitas County eligible but limited)"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "arts",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Up to $3,000",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Year-round, subject to funding; submit at least 60 days before the event",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Small event sponsorships for 501(c)(3) nonprofits and government entities serving the Yakima Valley. Submit a letter or email describing the organization, the event and the amount requested at least 60 days ahead. Does not fund capital construction, endowments, debt, political or religious activity, or individual classrooms.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantable.co/grants/yakima-valley-sponsorship-grants-19e109d30577"
+    ]
+  },
+  {
+    "name": "Port of Vancouver USA Community Fund",
+    "funder": "Port of Vancouver USA",
+    "url": "http://www.portvanusa.com/community/community-fund/",
+    "contact": "Gigi Harker-Olguin, gigi.harkerolguin@portvanusa.com, 360-518-2550",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Clark"
+      ],
+      "cities": [
+        "Vancouver"
+      ],
+      "region": "Port of Vancouver district (Vancouver area, Clark County)"
+    },
+    "kinds": [
+      "tourism marketing",
+      "festival",
+      "community event",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "No per-award range; FY2026 pool $10,000 (one or several awards, partial funding possible)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-01-16",
+        "label": "2026 cycle (closed); 2027 cycle not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually posted in late fall; 2026 cycle was due Jan 16, 2026 with awards by Feb 13",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Reimbursement grants for economic development and tourism projects inside the port district; tourism projects must draw visitors from outside the district to an event, program or activity. For-profits, churches (for religious use) and government entities are ineligible; community groups, nonprofits and publicly supported education groups may apply. No operating costs (rent, salaries, utilities). A short interview may be part of selection. Pattern: application due mid-January, awards mid-February.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.portvanusa.com/assets/2026-Community-Fund-program-description.pdf",
+      "https://www.vbjusa.com/news/in-our-community/port-of-vancouver-accepting-applications-for-2025-community-fund-grants/"
+    ]
+  },
+  {
+    "name": "Port of Everett Community Sponsorship Program",
+    "funder": "Port of Everett",
+    "url": "https://portofeverett.com/communitysponsorship",
+    "contact": "Emma Leedy, Events & Outreach Coordinator, 425-388-0635, emmal@portofeverett.com",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Snohomish"
+      ],
+      "cities": [
+        "Everett"
+      ],
+      "region": "Port of Everett district"
+    },
+    "kinds": [
+      "tourism marketing",
+      "festival",
+      "community event",
+      "cultural",
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "for-profit"
+    ],
+    "award": "Not published per award; 2024 pool $35,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2024-05-07",
+        "label": "2024 cycle (last confirmed deadline; 2025-2027 dates not found)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually mid-April; deadlines have fallen May 1 to May 14 each year",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual sponsorships for events and programs that support tourism or economic development within the Port District, with priority for projects that promote Port properties, countywide tourism, economic development, or public awareness of ports. Awards are conditional and must be used in the award year; cancelled events forfeit funds. Applicant type is not restricted on the page. Pattern: opens mid-April, due early May, awards mid-May.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://portofeverett.com/news_detail_T31_R1949.php",
+      "https://portofeverett.com/news_detail_T31_R1552.php"
+    ]
+  },
+  {
+    "name": "Port of Olympia Community Advertising and Promotion Sponsorships",
+    "funder": "Port of Olympia",
+    "url": "https://portolympia.com/",
+    "contact": null,
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Thurston"
+      ],
+      "cities": [
+        "Olympia",
+        "Tumwater",
+        "Lacey"
+      ],
+      "region": "Port of Olympia district (Thurston County)"
+    },
+    "kinds": [
+      "tourism marketing",
+      "festival",
+      "community event",
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "Not published; set to match anticipated benefit to the Port, funded in the annual budget",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-08-15",
+        "label": "Annual request deadline for the following budget year (policy date; late requests may be considered)"
+      }
+    ],
+    "next_deadline": "2027-08-15",
+    "opens": "Requests accepted any time; annual cutoff August 15 for inclusion in the November budget",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Policy-based sponsorship program: the Port funds events that give it prominent advertising and positively market Port businesses (maritime, aviation, commercial, industrial). Written requests on the Port's form are due August 15 for the Commission's November budget adoption; later requests go to Marketing and Outreach staff and the Executive Director. No published award range; confirm current form and contact with Port staff before applying.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://portolympia.com/wp-content/Public-Archives/Community%20Advertising%20&%20Promotion/0502%20ADVERTISING%20AND%20PROMOTION%20(1).pdf"
+    ]
+  },
+  {
+    "name": "Port of Port Angeles Community Partner Program",
+    "funder": "Port of Port Angeles",
+    "url": "https://portofpa.com/347/Community-Support",
+    "contact": "Katharine Frazier, katharinef@portofpa.com, 360-457-8527",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Clallam"
+      ],
+      "cities": [
+        "Port Angeles",
+        "Sequim",
+        "Forks"
+      ],
+      "region": "Clallam County"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "tourism marketing",
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Matching funds up to $25,000; 2026 pool $25,000 total",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [
+      {
+        "date": "2026-12-08",
+        "label": "2026 window closes at the first December Commission meeting (awards by Dec 8, 2026)"
+      }
+    ],
+    "next_deadline": "2026-12-08",
+    "opens": "Window opens January 1 each year and runs until funds are committed or the December meeting",
+    "match": "Matching funds (applicant must bring other resources)",
+    "reimbursement": null,
+    "notes": "Funds community events that attract non-Clallam County residents and let the Port market itself to attendees, plus economic development, workforce education and environmental projects. Eligible: public or nonprofit groups and small cities under 10,000 residents; the Commission is emphasizing first-time applicants. Applications are considered through the year while the pool lasts, so apply early in the calendar year. 2027 policy and application are typically posted in late fall.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://portofpa.com/347/Community-Support",
+      "https://portofpa.com/wp-content/uploads/2025/10/2026-Community-Partner-Program-Policy.pdf"
+    ]
+  },
+  {
+    "name": "Port of Skagit Community Sponsorships",
+    "funder": "Port of Skagit",
+    "url": "https://portofskagit.com/?p=3416",
+    "contact": "(360) 757-0011, 15400 Airport Drive, Burlington",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Skagit"
+      ],
+      "cities": [
+        "Burlington",
+        "Mount Vernon",
+        "La Conner",
+        "Anacortes",
+        "Sedro-Woolley",
+        "Concrete"
+      ],
+      "region": "Skagit County"
+    },
+    "kinds": [
+      "festival",
+      "community event",
+      "tourism marketing",
+      "food/ag",
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "No posted window; contact the Port",
+    "match": null,
+    "reimbursement": null,
+    "notes": "The Port sponsors regional events such as the Skagit Valley Tulip Festival, Skagit Highland Games, Skagit County Fair, Skagit River Salmon Festival and La Conner Smelt Derby, and has made grants to local chambers. No formal application, amounts or deadlines are posted; request by contacting the administrative office.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://portofskagit.com/?p=3416"
+    ]
+  },
+  {
+    "name": "Chelan Douglas Regional Port Authority Partners in Economic Development Grants",
+    "funder": "Chelan Douglas Regional Port Authority",
+    "url": "https://www.cdrpa.org/",
+    "contact": null,
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Chelan",
+        "Douglas"
+      ],
+      "cities": [],
+      "region": "Chelan and Douglas counties"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "tourism marketing",
+      "food/ag",
+      "music"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "$5,000 to $30,000 typical (older guidance $5,000 to $20,000); e.g., $10,000 to Lake Chelan Wine and Jazz Festival",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2019-11-22",
+        "label": "Last documented deadline (Nov 22, 2019); current cycle dates not found"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Not confirmed; historically fall",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Port Authority donations to nonprofits and municipalities for projects that support rural economic development in Chelan and Douglas counties; commissioners have discussed refocusing the program on sustaining community events that draw attendees from outside the two counties and need backing (covering deficits rather than profits). Program details and deadlines were not current on the web; contact the Port's business development staff to confirm the 2027 process.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://kpq.com/port-authority-revamps-grant-program/",
+      "https://kpq.com/chelan-douglas-regional-port-unveils-new-funding-programs/"
+    ]
+  },
+  {
+    "name": "Clark County Historical Promotion Grants",
+    "funder": "Clark County Community Planning / County Council",
+    "url": "https://clark.wa.gov/community-planning/historical-promotion-grants-program",
+    "contact": "historicpreservation@clark.wa.gov; Bart Catching 564-397-4909",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Clark"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "heritage",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published per award; about $50,000 awarded in 2020",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-09-01",
+        "label": "Typical deadline shown for 2026 cycle (Sep 1, 2025); 2027 dates not posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually July to August; county suggests summer/fall 2026 for 2027 grants",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Funded by the $1 document-recording surcharge for historic preservation; pays for exhibits, programs, events and preservation activities that interpret and celebrate Clark County history. Eligible applicants are tax-exempt nonprofits and public entities that operate a local history museum or run educational or interpretive heritage activities; for-profits are excluded. Reimbursed after completion. Pattern: applications July to early September, awards in the fall for the following year.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://clark.wa.gov/community-planning/historical-promotion-grants-program"
+    ]
+  },
+  {
+    "name": "Pierce County Art Grant Program",
+    "funder": "Pierce County Arts Commission / Economic Development Department",
+    "url": "https://www.piercecountywa.gov/3333/Art-Grant-Program",
+    "contact": "Kari Rinn, 253-798-7365",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Pierce"
+      ],
+      "cities": [],
+      "region": "Pierce County outside Tacoma city limits"
+    },
+    "kinds": [
+      "arts",
+      "youth",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "$500 to $5,000; $22,000 funded seven projects in 2024",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-01-21",
+        "label": "2026 cycle (closed); 2027 cycle expected on the same pattern"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually early December (2026 cycle opened Dec 2, 2025)",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Reimbursable grants for arts education, programming and experiences serving lower-income youth or underserved residents in unincorporated and underserved Pierce County outside Tacoma. Applicant must be a 501(c)(3) physically located in Pierce County; projects run Jan 1 to Dec 31. Not for admission-charged performances, food, capital, fundraisers or scholarships. Pattern: opens early December, due about Jan 21 at 2 p.m., decisions early March.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.piercecountywa.gov/3333/Art-Grant-Program"
+    ]
+  },
+  {
+    "name": "4Culture Projects (Art Projects, Heritage Projects, Preservation Special Projects)",
+    "funder": "4Culture (King County cultural development authority)",
+    "url": "https://www.4culture.org/project-grants/",
+    "contact": "(206) 296-7580, 101 Prefontaine Pl S, Seattle",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural",
+      "music",
+      "festival",
+      "film"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual",
+      "fiscal sponsor accepted",
+      "tribe",
+      "public agency"
+    ],
+    "award": "Not published on the calendar page; project grants have historically ranged from a few thousand dollars to roughly $10,000-$15,000 depending on discipline",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-03-10",
+        "label": "2027 Projects final application (Art, Heritage and Preservation Special Projects)"
+      }
+    ],
+    "next_deadline": "2027-03-10",
+    "opens": "Usually late January to early February",
+    "match": null,
+    "reimbursement": true,
+    "notes": "4Culture's main project grant line for King County: Art Projects fund creating and presenting new work including festivals and performances, Heritage Projects fund documenting and sharing King County history, and Preservation Special Projects fund work protecting historic places. Individuals and groups may apply; funded through lodging tax under state cultural authority rules, with payment on completion. Applications must be in person at a workshop or via the online portal before the March 10, 2027 deadline. Check each program page for award ranges when the 2027 guidelines post.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://4culture.org/grants-artist-calls",
+      "https://4culture.org/project-grants"
+    ]
+  },
+  {
+    "name": "Open 4Culture",
+    "funder": "4Culture",
+    "url": "https://www.4culture.org/grants/open-4culture/",
+    "contact": "Scott Oshima, (206) 296-7580",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": "King County; extra Equity Investment for projects outside Seattle or in Seattle Communities of Opportunity"
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural",
+      "community event",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit",
+      "public agency",
+      "tribe",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $2,500 (plus possible Equity Investment)",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [
+      {
+        "date": "2027-04-01",
+        "label": "2027 applications open April 2027 (ongoing after opening; submit at least 3 months before the event)"
+      }
+    ],
+    "next_deadline": "2027-04-01",
+    "opens": "April 2027 (ongoing thereafter)",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Entry-level grant for applicants new to 4Culture: individuals (King County residents 18+), arts groups, nonprofits, municipalities, Tribal governments and businesses with an arts, heritage or preservation mission or an artist partnership. Ongoing intake with a 3-month lead time; staff pre-approve applicants, then review takes 2 to 4 weeks and contracting 2 to 4 months, so plan 4 to 5 months from first contact to payment. Reimbursement, with 50% upfront possible. Past 4Culture grantees (except Cultural Relief and Recovery Fund) are ineligible.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.4culture.org/grants/open-4culture/",
+      "https://sococulture.org/open-4culture/"
+    ]
+  },
+  {
+    "name": "4Culture Touring Arts Roster Presenter Incentive Program (TAR PIP)",
+    "funder": "4Culture",
+    "url": "https://www.4culture.org/grants/tar-pip/",
+    "contact": "Scott Oshima, (206) 477-8064",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Up to $2,500 per calendar year (can cover multiple events)",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [
+      {
+        "date": "2027-01-01",
+        "label": "2027 applications open January 2027; ongoing, submit at least 1 month before the earliest event"
+      }
+    ],
+    "next_deadline": "2027-01-01",
+    "opens": "January 2027",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Reimburses performer fees when a King County nonprofit, fiscally sponsored group, city or Tribe hires artists on 4Culture's Touring Arts Roster for free or low-cost public events in King County. Award notices within 1 to 2 weeks; contracting can take months, so apply early. Not for fundraising events or religious programs.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.4culture.org/grants/tar-pip/"
+    ]
+  },
+  {
+    "name": "4Culture Sustained Support (Arts, Heritage, Preservation, Science and Technology)",
+    "funder": "4Culture",
+    "url": "https://4culture.org/sustained-support",
+    "contact": "Liz Reyes, (206) 296-7580",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published; unrestricted two-year operating support scaled to organization budget",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-04-28",
+        "label": "Intent to apply / LOI"
+      },
+      {
+        "date": "2027-05-19",
+        "label": "Final application"
+      }
+    ],
+    "next_deadline": "2027-04-28",
+    "opens": "Usually March",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Unrestricted operating support for established King County arts, heritage, preservation and science organizations (including festival producers with an ongoing public program). Two-year award cycle; current awardees reapply. Not for individuals or one-off events; new organizations should look at Launch.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://4culture.org/sustained-support",
+      "https://4culture.org/grants-artist-calls"
+    ]
+  },
+  {
+    "name": "4Culture Launch",
+    "funder": "4Culture",
+    "url": "https://www.4culture.org/grants/launch/",
+    "contact": "(206) 296-7580, 101 Prefontaine Pl S, Seattle",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted",
+      "tribe"
+    ],
+    "award": "Not published; multi-year support for new and emerging organizations",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-04-14",
+        "label": "Intent to apply"
+      },
+      {
+        "date": "2027-05-05",
+        "label": "Final application"
+      }
+    ],
+    "next_deadline": "2027-04-14",
+    "opens": "Usually March",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Operating-style support for new and emerging King County cultural and science organizations not yet eligible for Sustained Support. Good fit for a young festival or cultural organization with a track record of a few public events.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://4culture.org/grants-artist-calls"
+    ]
+  },
+  {
+    "name": "4Culture Public Free Access",
+    "funder": "4Culture",
+    "url": "https://www.4culture.org/grants/public-free-access/",
+    "contact": "(206) 296-7580, 101 Prefontaine Pl S, Seattle",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-02-10",
+        "label": "Intent to apply"
+      },
+      {
+        "date": "2027-02-24",
+        "label": "Final application"
+      }
+    ],
+    "next_deadline": "2027-02-10",
+    "opens": "Usually January",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds organizations to reduce barriers (free or reduced admission, access services) to their public programming in King County. Useful for festivals that want to offer free or subsidized access.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://4culture.org/grants-artist-calls"
+    ]
+  },
+  {
+    "name": "4Culture Building for Equity: Facilities",
+    "funder": "4Culture",
+    "url": "https://www.4culture.org/grants/building-for-equity-facilities/",
+    "contact": "(206) 296-7580, 101 Prefontaine Pl S, Seattle",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "capital"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Not published; projects with budgets of $10M and under encouraged",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-06-03",
+        "label": "Intent to apply"
+      },
+      {
+        "date": "2027-06-17",
+        "label": "Final application"
+      }
+    ],
+    "next_deadline": "2027-06-03",
+    "opens": "Usually spring",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Capital grants to buy, build or renovate cultural facilities in King County. A separate Anchoring Community track for $10M+ projects had 2026 deadlines (LOI Jul 30, final Nov 5, 2026). Not for event operations.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://4culture.org/grants-artist-calls"
+    ]
+  },
+  {
+    "name": "4Culture Building for Equity: Project Development",
+    "funder": "4Culture",
+    "url": "https://www.4culture.org/grants/project-development/",
+    "contact": "(206) 296-7580, 101 Prefontaine Pl S, Seattle",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "capital"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-03-25",
+        "label": "Intent to apply"
+      },
+      {
+        "date": "2027-04-08",
+        "label": "Final application"
+      }
+    ],
+    "next_deadline": "2027-03-25",
+    "opens": "Usually February",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Builds organizational capacity (planning, feasibility, predevelopment) for long-term facility needs of King County cultural organizations.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://4culture.org/grants-artist-calls"
+    ]
+  },
+  {
+    "name": "4Culture Cultural Support Services Projects",
+    "funder": "4Culture (County Connected)",
+    "url": "https://www.4culture.org/grants/cultural-support-services-projects/",
+    "contact": "(206) 296-7580, 101 Prefontaine Pl S, Seattle",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "tribe"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-08-25",
+        "label": "Intent to apply"
+      },
+      {
+        "date": "2027-09-15",
+        "label": "Final application"
+      }
+    ],
+    "next_deadline": "2027-08-25",
+    "opens": "Usually summer",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds organizations and Tribes that provide services supporting quality of life and career development for cultural workers in King County (training, convenings, professional development). Not direct event funding.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://4culture.org/grants-artist-calls"
+    ]
+  },
+  {
+    "name": "Tacoma Creates Impact Funding",
+    "funder": "City of Tacoma Arts and Cultural Vitality Office (Tacoma Creates)",
+    "url": "https://cityoftacoma.org/tacomacreates",
+    "contact": "Lisa Jaret, ljaret@tacoma.gov, 253-591-5161; tacomacreates@tacoma.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Pierce"
+      ],
+      "cities": [
+        "Tacoma"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage",
+      "youth",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$3,000 to $60,000 per funding cycle (Level A $3,000-$19,999; Level B $20,000-$60,000); request up to 50% of program cost",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-23",
+        "label": "2026-27 cycle (closed; eligibility review portion due Mar 4, 2026)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually mid-January; 2027-28 guidelines expected January 2027",
+    "match": "At least 1:1 match from other resources (cash, earned income, in-kind, volunteer time)",
+    "reimbursement": true,
+    "notes": "Tacoma's sales-tax-funded cultural access program; Impact Funding supports public arts, culture, heritage and science programs (including festivals) delivered in Tacoma by 501(c)(3) nonprofits or fiscally sponsored groups based in Tacoma. For-profits and government agencies are ineligible. Payments follow delivered services (initial payment at contract, remainder after programming and reports), so cash flow is needed. Funding period runs July 1 to June 30. Pattern: applications open January, due second half of March.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://cms.cityoftacoma.org/CEDD/TacomaCulture/arts/TC_2026-27ImpactFundingGuidelines.pdf",
+      "https://cityoftacoma.org/tacomacreates"
+    ]
+  },
+  {
+    "name": "Tacoma Creates Comprehensive Organizational Support",
+    "funder": "City of Tacoma Arts and Cultural Vitality Office (Tacoma Creates)",
+    "url": "https://cityoftacoma.org/tacomacreates",
+    "contact": "Lisa Jaret, ljaret@tacoma.gov, 253-591-5161; tacomacreates@tacoma.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Pierce"
+      ],
+      "cities": [
+        "Tacoma"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Up to 15% of the organization's most recent annual income, capped at $400,000 per calendar year",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-09",
+        "label": "2026-27 cycle (closed; 2025-26 was due Mar 10, 2025)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually mid-January",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Operating support for established Tacoma arts, culture, heritage and science nonprofits that meet all Tacoma Creates eligibility requirements and run neighborhood programming, public access and youth education year-round. Not for single events; organizations producing annual festivals as part of broader programming can qualify. Pattern: due early to mid-March for the July to June funding year.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://cms.cityoftacoma.org/CEDD/TacomaCulture/arts/TC_2026-27ComprehensiveOrganizationalSupportGuidelines.pdf",
+      "https://cityoftacoma.org/tacomacreates"
+    ]
+  },
+  {
+    "name": "Tacoma Arts Commission Community Arts Projects Funding",
+    "funder": "City of Tacoma Arts and Cultural Vitality Office / Tacoma Arts Commission",
+    "url": "https://tacoma.gov/news/application-for-2026-community-arts-projects-funding-now-available/",
+    "contact": "Naomi Strom-Avila, nstrom-avila@tacoma.gov, 253-591-5191",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Pierce"
+      ],
+      "cities": [
+        "Tacoma"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "music",
+      "festival",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "individual",
+      "tribe",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$3,000, $6,000 or $9,000 request levels (2026 news release cited $4,000 or $6,000)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-10-27",
+        "label": "2026 projects cycle (closed); 2027 cycle expected late October 2026, not confirmed"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually mid-September",
+    "match": "No cash match; budget must balance and in-kind counts",
+    "reimbursement": true,
+    "notes": "Funds free, public-benefit community arts projects that take place in Tacoma during the calendar year. Open to nonprofits, organized groups, tribes, and for-profit businesses or schools producing nonprofit-style projects with an EIN; applicant must have a Tacoma place of business or conduct most activity in the city. Optional preliminary feedback deadline about 10 days before the final deadline; decisions in mid-December. Pattern: opens mid-September, due late October at 11:59 p.m.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://cms.tacoma.gov/CEDD/TacomaCulture/arts/TA_ArtsProjects_2026APDraft.pdf",
+      "https://tacoma.gov/news/application-for-2026-community-arts-projects-funding-now-available/"
+    ]
+  },
+  {
+    "name": "Tacoma Special Events Funding Program",
+    "funder": "City of Tacoma Venues and Events / City Events and Recognitions Committee",
+    "url": "https://tacoma.gov/special-events-funding",
+    "contact": "Tacoma Venues and Events Special Events Office, (253) 573-2523",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Pierce"
+      ],
+      "cities": [
+        "Tacoma"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "festival",
+      "community event",
+      "cultural",
+      "music",
+      "arts"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "for-profit"
+    ],
+    "award": "$2,500 to $5,000 per awardee; $90,000 pool funded 28 events in 2026",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-11-30",
+        "label": "Estimated 2026 events cycle deadline (program has used a Nov 30 fall deadline; 2027 cycle not confirmed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually fall (mid-October to November) for the following calendar year",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funded by the food and beverage tax at the Tacoma Dome and convention center; covers direct costs such as traffic control, performers and marketing for free, all-ages public festivals and community events in Tacoma. Competitive panel review by the volunteer CERC with emphasis on merit, capacity, community impact and belonging. Applicant type is not formally restricted; business districts, museums and neighborhood councils have been funded. Pattern: applications open in the fall for next year's events; permits still required separately (60 days before event).",
+    "recent_recipients": [
+      "Rainbow Center (Tacoma Pride Festival), 2026",
+      "Museum of Glass (Glass Fest Northwest), 2026",
+      "LTD Presents (Downtown Tacoma Blues & Jazz Festival), 2026",
+      "Asia Pacific Cultural Center (Asia Pacific New Year Celebration), 2026",
+      "Proctor Business District Association (Proctor Arts Fest), 2026"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://tacoma.gov/?p=31492",
+      "https://www.cityoftacoma.org/specialevents",
+      "https://lists.ctbirding.org/empathy/thread/YGK6DLM3QH2F2CTPDYVWLJOHKQFT5IDC"
+    ]
+  },
+  {
+    "name": "Spokane Arts Grant Awards (SAGA)",
+    "funder": "Spokane Arts",
+    "url": "https://spokanearts.org/SAGA-grants/",
+    "contact": "grants@spokanearts.org, 509-321-9614",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Spokane"
+      ],
+      "cities": [
+        "Spokane",
+        "Spokane Valley"
+      ],
+      "region": "Spokane region"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "heritage",
+      "festival",
+      "film"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $10,000 per application; $166,000 total planned for 2026",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-02-01",
+        "label": "Round 1 (deadlines are Feb 1, Jun 1 and Oct 1 every year; portal opens one month before)"
+      },
+      {
+        "date": "2027-06-01",
+        "label": "Round 2"
+      },
+      {
+        "date": "2027-10-01",
+        "label": "Round 3"
+      }
+    ],
+    "next_deadline": "2027-02-01",
+    "opens": "Portal opens one month before each deadline (Jan 1, May 1, Sep 1)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Three rounds a year for artists, collectives, arts organizations, culture and heritage groups and creative businesses based in the Spokane region; non-renewable one-year project grants across visual, performing, literary, media and folk arts. Awards announced two months after each deadline. Eligibility guidelines PDF covers for-profit specifics.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://spokanearts.org/SAGA-grants/"
+    ]
+  },
+  {
+    "name": "Bellevue Arts & Culture Project Grants",
+    "funder": "City of Bellevue Arts & Culture Program",
+    "url": "https://bellevuewa.gov/city-government/departments/community-development/arts-and-culture/arts-grants",
+    "contact": "Manette Stamm, 425-452-4064, mstamm@bellevuewa.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Bellevue"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "music",
+      "festival",
+      "community event",
+      "film"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "$3,000, $5,000 or $7,000, plus optional $1,000 BelRed Arts District bonus",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-10-10",
+        "label": "2027 Project Grant (closed Oct 10, 2026)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually late August or September",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Funds arts and culture projects taking place in Bellevue in the grant year; open to individuals 18+, groups, businesses and organizations acting as primary project lead. Paid on completion after the post-grant report (due Nov 30), with up to half available once work begins. Pattern: due early to mid-October for the following year.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://bellevuewa.gov/sites/default/files/media/pdf_document/2026/cdd-26-82283-project-grant-guidelines-web.pdf",
+      "https://bellevuearts.submittable.com/submit/d842b321-73c3-461c-ab4c-c7d3863ff1c6/2027-project-grant"
+    ]
+  },
+  {
+    "name": "Bellevue Community Programming Fund",
+    "funder": "City of Bellevue Community Development (Public Space Management)",
+    "url": "https://bellevuewa.gov/city-government/departments/community-development/economic-development/public-space-grand-connection/community-programming-fund",
+    "contact": "Emily Sherman, 425-452-4270, esherman@bellevuewa.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Bellevue"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "community event",
+      "arts",
+      "music",
+      "cultural",
+      "festival"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit"
+    ],
+    "award": "$2,500, $5,000, $7,500 or $10,000",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-27",
+        "label": "Winter Activation round (closed; opened Sep 3, 2026)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Rounds announced by season; winter round opened Sep 3, 2026",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Pays for free public programming (performances, markets, cultural events, activations) in Bellevue public spaces and business districts. Individuals, community organizations, nonprofits and small businesses (50 or fewer FTE, non-promotional programming) can apply; partnering with a community organization is encouraged. Reimbursed after a post-grant report and receipts (winter round reimbursed January 2027). Watch for spring/summer rounds; the program launched in April 2025.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://bellevuewa.gov/sites/default/files/media/pdf_document/2026/cdd-26-85547-cpf-guidelines-web.pdf",
+      "https://bellevuewa.gov/city-news/programming-fund-launch"
+    ]
+  },
+  {
+    "name": "Bellevue Cross-Cultural Center Without Walls Programming Grants",
+    "funder": "City of Bellevue Diversity Advantage Initiative",
+    "url": "https://bellevuewa.gov/city-government/departments/city-managers-office/diversity-advantage-initiative/cross-cultural-center",
+    "contact": "Sara Boyle, sboyle@bellevuewa.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Bellevue"
+      ],
+      "region": "Bellevue (Eastside partners accepted)"
+    },
+    "kinds": [
+      "cultural",
+      "community event",
+      "arts",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "individual"
+    ],
+    "award": "$2,500 to $10,000 single applicant; up to $15,000 for partnered projects",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-10-15",
+        "label": "2026 programming cycle (closed; opened Sep 15, 2025). 2027 cycle not confirmed"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually mid-September",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds free, public cross-cultural events, workshops and programs held in Bellevue during the calendar year, with a required two-way exchange between cultures (not just display). Any legal entity may apply (nonprofit, for-profit, LLC, sole proprietor) with a Bellevue or Eastside connection. Notifications in early November. Pattern: RFP Sep 15 to Oct 15.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://bellevuewa.gov/sites/default/files/media/pdf_document/2025/2026-ccp-rfp-document-package.pdf"
+    ]
+  },
+  {
+    "name": "Bellevue Art and Cultural Facilities Grant Program (2027-28)",
+    "funder": "City of Bellevue Arts & Culture Program",
+    "url": "https://bellevuewa.gov/city-government/departments/community-development/arts-and-culture",
+    "contact": "Manette Stamm, 425-452-4064, mstamm@bellevuewa.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Bellevue"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "capital"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Up to $499,999 per request (more for acquisition/construction, capped at 40% of project budget); $2,000,000 pool",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-06-15",
+        "label": "2027-28 cycle (closed; opened Apr 13, 2026)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Biennial; next cycle expected 2028",
+    "match": "City share capped at 40% of total cost for land/facility/construction projects",
+    "reimbursement": true,
+    "notes": "Capital and facility-maintenance grants for 501(c)(3) arts and cultural organizations (not fiscally sponsored, two years in good standing) with a primary facility in Bellevue and public programming. Site-control commitments of 5 or 10 years apply. Not for events.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://bellevuewa.gov/sites/default/files/media/pdf_document/2026/cdd-26-71567-en-facility-grant-guidelines-web.pdf",
+      "https://www.4culture.org/listings/2027-28-art-and-cultural-facilities-grant-program/"
+    ]
+  },
+  {
+    "name": "Seattle Arts in Parks",
+    "funder": "Seattle Office of Arts & Culture with Seattle Parks and Recreation",
+    "url": "https://www.seattle.gov/arts/programs/grants/arts-in-parks-program",
+    "contact": "Zach Frimmel, 206-963-9226, Zach.Frimmel@seattle.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$2,000, $4,000, $6,000 or $8,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-10-27",
+        "label": "2027 cycle (closed; opened Sep 15, 2026)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually mid-September",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Funds free, in-person arts and cultural events (2 to 16 hours of programming) in eligible Seattle neighborhood parks between May 1 and Oct 30 of the grant year; downtown and Center City parks are excluded. Open to individual artists, collectives, community groups and organizations of any size with a King County address and tax ID; no 501(c)(3) or fiscal sponsor needed. Park use fees are waived; reimbursement after the final report; Seattle business license and UBI required for payment. Pattern: opens mid-September, due late October for next summer.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.seattle.gov/documents/departments/arts/downloads/grants/arts in parks/2027-artsinparks-guidelines.pdf"
+    ]
+  },
+  {
+    "name": "Seattle SmART Ventures",
+    "funder": "Seattle Office of Arts & Culture",
+    "url": "https://www.seattle.gov/arts/programs/grants/smart-ventures-grant",
+    "contact": "SmARTVentures@seattle.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle"
+      ],
+      "region": "Greater Seattle (project must be in or benefit Seattle)"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "community event",
+      "festival",
+      "film",
+      "youth"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit"
+    ],
+    "award": "$500 to $1,500",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [
+      {
+        "date": "2026-11-27",
+        "label": "Monthly deadline: 5 p.m. last Friday of each month"
+      },
+      {
+        "date": "2026-12-25",
+        "label": "Monthly deadline (confirm holiday timing)"
+      },
+      {
+        "date": "2027-01-29",
+        "label": "Monthly deadline"
+      }
+    ],
+    "next_deadline": "2026-11-27",
+    "opens": "Year-round; attend a virtual info session (1st and 3rd Thursdays) before applying",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Small, quick grants for exhibitions, festivals, concerts, performances, workshops, films and publications, with priority for underserved communities and applicants ineligible for other city arts funding. Applicants must be locally based; organizations currently funded by CARE, Youth Arts or NCA are ineligible, and you may receive it only twice. A required info session precedes application; payment 3 to 4 weeks after the final invoice and report. Seattle business license required.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.seattle.gov/arts/programs/grants/smart-ventures-grant"
+    ]
+  },
+  {
+    "name": "Seattle Youth Arts Grant",
+    "funder": "Seattle Office of Arts & Culture",
+    "url": "https://www.seattle.gov/arts/programs/grants/youth-arts-grant",
+    "contact": null,
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "youth",
+      "arts"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published for 2026; past awards $1,400 to $10,000 (commonly $6,000)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-10",
+        "label": "2026 cycle (closed; opened Jan 27, 2026). Reopens 2027"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Late January 2027 (exact date not posted)",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Two-year out-of-school arts programs for Seattle middle and high school youth led by teaching artists. Not an event grant, but relevant to festivals with youth education tracks. Pattern: opens late January, due about March 10.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.seattle.gov/arts/programs/grants/youth-arts-grant",
+      "https://seattle.gov/arts/programs/grants"
+    ]
+  },
+  {
+    "name": "Seattle Centering Art & Racial Equity (CARE) Grant (formerly Civic Partners)",
+    "funder": "Seattle Office of Arts & Culture",
+    "url": "https://www.seattle.gov/arts/programs/grants/centering-art-and-racial-equity-grant",
+    "contact": "Kathy Hsieh, 206-733-9926, Kathy.Hsieh@seattle.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Three consecutive years of funding; prior Civic Partners awards ranged $460 to $69,600 and Community Partners up to $360,000; $2.9M invested in 2025",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-08-05",
+        "label": "2026-28 cycle (closed). Next cycle not posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Next multi-year cycle not announced; prior cycle opened spring 2025",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Seattle's successor to the Civic Partners and Community Partners programs: multi-year operating support for Seattle-based arts, culture, heritage and arts-service organizations with at least three years of accessible programming. Festival producers such as cultural festival organizations have been funded. Three-year cycles, so the next open application is unlikely before 2028.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.seattle.gov/arts/programs/grants/centering-art-and-racial-equity-grant"
+    ]
+  },
+  {
+    "name": "Seattle Neighborhood & Community Arts (NCA) Grant (paused)",
+    "funder": "Seattle Office of Arts & Culture",
+    "url": "https://www.seattle.gov/x97448",
+    "contact": null,
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "festival",
+      "community event",
+      "arts",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual"
+    ],
+    "award": "$1,300 per group when last run (2018-2019)",
+    "cycle": "one-time",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Program on pause; no reopening date posted",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Historically funded recurring neighborhood festivals and events that promote arts participation and neighborhood visibility. The program has been paused since the pandemic and is listed as inactive; Arts in Parks and SmART Ventures are the current alternatives. Listed so festival producers know its status.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.seattle.gov/x97448",
+      "https://seattle.gov/arts/programs/grants"
+    ]
+  },
+  {
+    "name": "Seattle Neighborhood Matching Fund: Community Partnership Fund",
+    "funder": "Seattle Department of Neighborhoods",
+    "url": "https://www.seattle.gov/neighborhoods/community-grants/neighborhood-matching-fund",
+    "contact": "NMFund@seattle.gov, (206) 233-0093",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "cultural",
+      "arts",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $50,000 per project",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-10",
+        "label": "2026 round 1 (closed); both 2026 rounds closed. 2027 calendar not yet announced"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually early January for a March deadline, with a second round mid-year",
+    "match": "Community match required in volunteer time, donated goods, in-kind services and/or cash (dollar-for-dollar expected)",
+    "reimbursement": false,
+    "notes": "Seattle's long-running neighborhood grant for community-initiated projects, including cultural festivals and events, planned and implemented by neighborhood groups and organizations (for-profit businesses cannot be the applicant). Decisions within 10 weeks; contract within 6 weeks. Workshops are posted when the 2027 calendar is announced. Pattern: round 1 due about March 10, round 2 in summer.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.seattle.gov/neighborhoods/community-grants/neighborhood-matching-fund",
+      "https://frontporch.seattle.gov/2026/01/06/your-neighborhood-has-an-idea-the-city-can-help-bring-it-to-life/"
+    ]
+  },
+  {
+    "name": "Seattle Neighborhood Matching Fund: Small Sparks Fund",
+    "funder": "Seattle Department of Neighborhoods",
+    "url": "https://www.seattle.gov/neighborhoods/community-grants/neighborhood-matching-fund",
+    "contact": "NMFund@seattle.gov, (206) 233-0093",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "arts",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $5,000 per project",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [
+      {
+        "date": "2026-10-30",
+        "label": "2026 rolling intake closed Oct 30, 2026 (or when funds ran out); 2027 intake not yet announced"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually early January through late October, rolling until funds are allocated",
+    "match": "Community match required (volunteer time, in-kind, cash)",
+    "reimbursement": false,
+    "notes": "Small rolling grants for neighborhood-scale community events and projects in Seattle; decisions within six weeks. General applications are closed for 2026 except Government 101 civic-education projects. Pattern: reopens in January.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.seattle.gov/neighborhoods/community-grants/neighborhood-matching-fund",
+      "https://frontporch.seattle.gov/2026/01/06/your-neighborhood-has-an-idea-the-city-can-help-bring-it-to-life/"
+    ]
+  },
+  {
+    "name": "Seattle Center Festál Cultural Festival Partnership",
+    "funder": "Seattle Center (City of Seattle)",
+    "url": "https://www.seattlecenter.com/festal",
+    "contact": "Seattle Center, (206) 684-7200, seattlecenter.com/connect/contact",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "festival",
+      "cultural",
+      "heritage",
+      "music"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "In-kind venue, production and marketing support; no published cash award",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "No posted application; contact Seattle Center to propose a festival",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Festál is a year-round series of about 25 free cultural festivals produced in partnership between Seattle Center and community-based organizations, with support from 4Culture, ArtsFund and others. There is no public grant application or deadline; a community organization proposes a festival through Seattle Center's event booking and contact channels and, if accepted, receives campus venue and production partnership. Sign up for Festál News for schedule announcements (the 2026 schedule was announced in November 2025).",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.seattlecenter.com/festal",
+      "https://centerspotlight.seattle.gov/2026/01/21/seattle-center-festal-returns-in-2026-with-25-free-cultural-festivals/"
+    ]
+  },
+  {
+    "name": "Kirkland Cultural Arts Commission Arts Activation Grants",
+    "funder": "City of Kirkland Cultural Arts Commission",
+    "url": "https://www.kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Cultural-Arts",
+    "contact": "Kirkland Parks and Community Services Cultural Arts, 425-587-3300",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Kirkland"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage",
+      "community event",
+      "music"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "individual"
+    ],
+    "award": "Up to $6,000 total pool when last documented (2019), funding 2 to 4 programs",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2019-05-13",
+        "label": "Last documented cycle (2019); current status not confirmed"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Not confirmed",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Small reimbursement grants for public arts, culture and heritage activations in Kirkland (performances, literary arts, community art) that reach new audiences; recipients need a Kirkland business license and must offer public benefit. No current cycle could be confirmed online; Kirkland's larger Tourism Events Grant is lodging-tax funded and covered in the LTAC catalog. Verify with the Cultural Arts program before relying on this.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://patch.com/washington/kirkland/6-000-arts-grants-available-kirkland"
+    ]
+  },
+  {
+    "name": "Bothell Creative Arts Grant Program",
+    "funder": "City of Bothell Arts and Festivals Commission",
+    "url": "https://app.entrythingy.com/calls/external/20252026-creative-arts-grant-program/",
+    "contact": null,
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King",
+        "Snohomish"
+      ],
+      "cities": [
+        "Bothell"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "music",
+      "youth"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "$500 to $10,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-08-04",
+        "label": "2025/2026 cycle (closed); 2026/2027 cycle not confirmed"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually summer (June to July)",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Funds performances, arts access, youth and senior participation, free or discounted tickets and temporary public art with a culminating public event benefiting Bothell residents; projects must finish by December 1 of the following year. Applicants need not live in Bothell and need not be 501(c)(3); a Bothell business license may be required. Funds are released after the final report. Pattern: due early August via CaFE.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://app.entrythingy.com/calls/external/20252026-creative-arts-grant-program/",
+      "https://artisttrust.org/opportunities/creative-arts-grant-program-funding"
+    ]
+  },
+  {
+    "name": "Issaquah Arts Grants (Arts Partnerships and Arts Projects)",
+    "funder": "City of Issaquah Arts Program",
+    "url": "https://app.entrythingy.com/calls/external/2026-issaquah-arts-grants/",
+    "contact": null,
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Issaquah"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "festival",
+      "community event",
+      "music"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual",
+      "for-profit"
+    ],
+    "award": "Arts Projects up to $5,000; Arts Partnerships up to $25,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-10-30",
+        "label": "2026 cycle (closed); 2027 cycle expected around the same date, not confirmed"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually late September",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Arts Partnerships support Issaquah-based nonprofit arts organizations (one application each); Arts Projects are open to any group or individual with cultural arts programming, including events and festivals, delivered inside Issaquah city limits (up to three applications). Scored on public benefit, artistic value and feasibility; schools not eligible. Pattern: due about Oct 30 via CaFE for the following calendar year.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://app.entrythingy.com/calls/external/2026-issaquah-arts-grants/"
+    ]
+  },
+  {
+    "name": "Sammamish Arts Commission Grants",
+    "funder": "City of Sammamish Arts Commission",
+    "url": "https://www.sammamish.us/government/commissions/arts/grants/",
+    "contact": "Britt Bowman, bbowman@sammamish.us, (206) 963-0296",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Sammamish"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth",
+      "music"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "public agency",
+      "for-profit"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-01-22",
+        "label": "2027 grant cycle application deadline (portal opens Jan 1, 2027)"
+      }
+    ],
+    "next_deadline": "2027-01-22",
+    "opens": "2027-01-01",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Four categories: Neighborhood & Community, City Artist, Educational and Cultural focus; projects must serve Sammamish residents, take place in the city, and be delivered within 12 months (2027 cycle Jan 1 to Dec 17, 2027, funds disbursed Mar 22 to Dec 1). Organizations, individuals, youth, schools and PTSAs may apply; a 70% score threshold applies. Email application materials to the coordinator by the deadline.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.sammamish.us/government/commissions/arts/grants/"
+    ]
+  },
+  {
+    "name": "Shoreline Love Your Community Grant",
+    "funder": "City of Shoreline",
+    "url": "https://shorelinewa.gov/our-city/neighborhoods/love-your-community-grant-program",
+    "contact": "Constance Perenyi, cperenyi@shorelinewa.gov, 206-801-2253",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Shoreline"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "arts",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual"
+    ],
+    "award": "$200 to $1,000 (most $200 to $500)",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Rolling while funds last; apply 4 to 6 weeks before the event",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Micro-grants for Shoreline residents acting through community, cultural, senior, youth, faith or multifamily-building groups to run cultural events, art projects, trainings and gatherings inside Shoreline. Projects must be completed within two months of approval and documented with receipts and a short report. Recognized neighborhood associations use the separate Neighborhood Mini-Grant instead.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://shorelinewa.gov/our-city/neighborhoods/love-your-community-grant-program"
+    ]
+  },
+  {
+    "name": "Kent Community Arts Support Program",
+    "funder": "City of Kent Arts Commission",
+    "url": "https://kentwa.gov/",
+    "contact": "Ronda Billerbeck, Rbillerbeck@kentwa.gov, (253) 856-5050",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Kent"
+      ],
+      "region": "Kent and Kent School District service area"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "music",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual",
+      "for-profit"
+    ],
+    "award": "$1,500 to $3,500 (2024: $8,530 to four organizations)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2024-10-18",
+        "label": "2025 cycle (last documented); 2026 and 2027 cycles not confirmed"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually September",
+    "match": "Must show additional revenue or community support; in-kind counts",
+    "reimbursement": null,
+    "notes": "Annual support for arts organizations, community groups and independent artists producing performances, exhibits, events and educational programs for Kent residents; nonprofit status encouraged but not required. One application per year. Pattern: due mid-October for the following calendar year.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://kentwa.gov/home/showpublisheddocument/21930/638610486469830000",
+      "https://www.kentreporter.com/2018/08/16/kent-arts-commission-offers-funding-for-2019-community-art-projects/"
+    ]
+  },
+  {
+    "name": "Kent Give Me Culture Grants",
+    "funder": "City of Kent Arts Commission",
+    "url": "https://sococulture.org/give-me-culture-grants-2/",
+    "contact": "Rbillerbeck@kentwa.gov, 253-856-5050",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Kent"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "festival",
+      "music"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit"
+    ],
+    "award": "Up to $1,000",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Year-round; apply at least 3 months before the project start",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Small flexible grants for arts and culture projects and events serving the Kent public, especially ethnically diverse or underserved communities. Reviewed as received.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://sococulture.org/give-me-culture-grants-2/"
+    ]
+  },
+  {
+    "name": "Renton Municipal Arts Commission Grants",
+    "funder": "City of Renton Municipal Arts Commission",
+    "url": "https://rentonwa.gov/city_hall/mayor/boards__commissions__committees/renton_municipal_arts_commission/arts___culture_grants",
+    "contact": null,
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Renton"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit"
+    ],
+    "award": "Not published",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2024-07-19",
+        "label": "Last documented quarterly deadline (2024 rounds: Feb 2, Apr 19, Jul 19); 2026-2027 rounds not posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Quarterly; check the RMAC page for current round dates",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Quarterly grants for individuals, organizations and community groups producing accessible arts and culture projects and events in Renton, with emphasis on projects bridging cultural gaps for underserved groups. Applications are submitted electronically by 4:30 p.m. on each deadline; details are in the current Grant Guidelines PDF.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://rentonwa.gov/city_hall/mayor/boards__commissions__committees/renton_municipal_arts_commission/arts___culture_grants",
+      "https://www.rentonwa.gov/UserFiles/Servers/Server_7922657/File/City Hall/CED/Economic Development/2024 RMAC Grant Guidelines_FINAL.pdf"
+    ]
+  },
+  {
+    "name": "Federal Way Arts Commission Grant (FY2027)",
+    "funder": "City of Federal Way Arts Commission",
+    "url": "https://www.federalwaywa.gov/page/arts-commission",
+    "contact": "Cassie Swan, (253) 835-6928, cassie.swan@federalwaywa.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Federal Way"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage",
+      "community event",
+      "music"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-27",
+        "label": "FY2027 cycle (closed; opened Jul 17, 2026)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually mid-July",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Contract-for-services funding for 501(c)(3) organizations (and individuals with 501(c)(3) status) delivering arts, events and cultural heritage activities in Federal Way between Jan 1 and Dec 31, 2027. Excludes tuition, travel, school activities, administrative costs and salaries. Reimbursed after events with an event report; final invoices due Dec 20, 2027. Pattern: opens mid-July, due late August.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.federalwaywa.gov/sites/default/files/2026-07/FW%20Arts%20Commission%202027%20Grant%20Guidelines%2B%20Questions.pdf",
+      "https://form.jotform.com/261974518988176"
+    ]
+  },
+  {
+    "name": "Auburn Postmark Arts & Cultural Programming Grant",
+    "funder": "City of Auburn Parks, Arts & Recreation",
+    "url": "https://www.auburnwa.gov/city_hall/parks_arts_recreation/arts_and_entertainment/calls_to_artists_and_opportunities",
+    "contact": null,
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Auburn"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "music"
+    ],
+    "applicants": [
+      "individual",
+      "nonprofit",
+      "for-profit"
+    ],
+    "award": "Typically $500 to $2,000 per project",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Posted on Auburn's calls-to-artists page; 2024 cycle documented, current dates not confirmed",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds free, public arts and cultural programming held at Auburn's Postmark Center for the Arts, proposed by artists, cultural groups, neighborhood or business organizations. Auburn also runs an Artist Project Support Grant for individual artists. Check the city's opportunities page for the current call.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.4culture.org/listings/postmark-programming-grant/",
+      "https://artisttrust.org/opportunities/2024-postmark-arts-cultural-programming-grant-funding"
+    ]
+  },
+  {
+    "name": "Everett Cultural Arts Grants",
+    "funder": "City of Everett / Everett Cultural Arts Commission",
+    "url": "https://everettwa.gov/370/Cultural-Arts-Grants",
+    "contact": "Tyler Chism, tchism@everettwa.gov",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Snohomish"
+      ],
+      "cities": [
+        "Everett"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "music",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$2,000 to $5,000; city aims for a $40,000 annual pool subject to budget",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-11-15",
+        "label": "Approximate 2026 cycle deadline (page says applications are typically due in November); 2027 application released only once 2027 funding is secured"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually October; 2027 application pending budget",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Reimbursement grants for arts projects and events in Everett during the calendar year that are free and open to the public or primarily serve low-income or vulnerable residents. Applicant must be a 501(c)(3), fiscally sponsored by one, or a recognized Everett neighborhood association. The city notes the 2027 application will be released once funding is secured, so confirm before planning.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://everettwa.gov/370/Cultural-Arts-Grants"
+    ]
+  },
+  {
+    "name": "Lynnwood Community Event Collaboration Grant / Event Partnership (in-kind only)",
+    "funder": "City of Lynnwood Parks, Recreation & Cultural Arts",
+    "url": "https://www.lynnwoodwa.gov/Community/Play-Lynnwood/Healthy-Lynnwood/Community-Events/Community-Event-Collaboration-Grant",
+    "contact": "Events@lynnwoodwa.gov, 425-670-5504",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Snohomish"
+      ],
+      "cities": [
+        "Lynnwood"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit"
+    ],
+    "award": "Cash grant suspended for budget reasons; in-kind support only (promotion, staff, facility use, Mayor appearance)",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Ongoing via online form",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Lynnwood partners with businesses, organizations and nonprofits hosting free public events for 250+ people inside city limits by providing promotion through city channels, facility or space use, staff participation and elected-official appearances. The cash grant component is suspended; no amounts or deadlines apply. For lodging-tax funded Lynnwood tourism grants see the LTAC catalog.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.lynnwoodwa.gov/Community/Play-Lynnwood/Healthy-Lynnwood/Community-Events/Community-Event-Collaboration-Grant",
+      "https://www.lynnwoodwa.gov/Community/Play-Lynnwood/Healthy-Lynnwood/Community-Events/Event-Partnership"
+    ]
+  },
+  {
+    "name": "Lacey Community and Cultural Events Grant",
+    "funder": "City of Lacey (Equity & Inclusion)",
+    "url": "https://cityoflacey.org/community-and-cultural-events-grants/",
+    "contact": "Veronica Hand, 360-486-8753, Veronica.Hand@CityofLacey.org",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Thurston"
+      ],
+      "cities": [
+        "Lacey"
+      ],
+      "region": "Lacey and Lacey Urban Growth Area"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "festival",
+      "arts"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$500 to $5,000 reimbursement grants",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-06-30",
+        "label": "2026 pilot cycle (closed; exact deadline not shown). 2027 cycle not announced"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Not announced; pilot program launched 2026",
+    "match": "Not required; matching funds get additional consideration",
+    "reimbursement": true,
+    "notes": "Pilot program funding free, public, nonprofit-led events in Lacey that build connection and belonging. 501(c)(3) registered in Washington or applying through an eligible fiscal sponsor; one application per organization per cycle; partial awards possible. Funded 2026 events run July 2026 to February 2027.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://cityoflacey.org/community-and-cultural-events-grants/"
+    ]
+  },
+  {
+    "name": "Inspire Olympia Cultural Access Funding (Comprehensive and Impact)",
+    "funder": "City of Olympia (Inspire Olympia cultural access program)",
+    "url": "https://www.olympiawa.gov/",
+    "contact": null,
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Thurston"
+      ],
+      "cities": [
+        "Olympia"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage",
+      "music",
+      "festival",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Comprehensive: up to 20% of two-year average income, capped at $85,000 per year for two years; Impact: $5,000 to $50,000",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Next cycle dates not published; the first cycle funded 49 organizations",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Olympia's voter-approved cultural access sales tax funds Olympia-based nonprofit cultural organizations: Comprehensive (operating support for larger organizations with year-round public and youth programming) and Impact (contracts for services for specific programs, which can include festivals and events). Confirm current cycle and deadlines with the City's Cultural Access Program staff.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://grantable.co/grants/inspire-olympia-comprehensive-funding-grant-78b8c1efaa10",
+      "https://grantable.co/grants/inspire-olympia-impact-funding-grant-c20af82ba352",
+      "https://olyarts.org/?p=71746"
+    ]
+  },
+  {
+    "name": "Port Townsend Arts Commission Project Funding",
+    "funder": "City of Port Townsend Arts Commission (PTAC)",
+    "url": "https://cityofpt.us/artscommission",
+    "contact": "artscomm@cityofpt.us",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Jefferson"
+      ],
+      "cities": [
+        "Port Townsend"
+      ],
+      "region": "Port Townsend and East Jefferson County"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual",
+      "for-profit"
+    ],
+    "award": "Not published; Commission sets amounts per project (direct costs only)",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-08-20",
+        "label": "Last posted round (2025 deadlines Feb 27, May 20, Aug 20); 2026-2027 dates not posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Three rounds a year, due roughly one week before PTAC's March, June and September meetings",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds direct costs (artist fees, rentals, marketing, production) of performances, exhibits and workshops with artistic merit and public benefit for the Port Townsend/East Jefferson community, or that bring visitors to benefit locals. No capital, operating, hospitality or fundraising-only events. Applications are decided at open public meetings; payment after invoice, W-9 and follow-up report. Check the PTAC page each year for the three deadlines.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://cityofpt.us/sites/default/files/fileattachments/arts_commission/page/24121/ptac_funding_guidelines_rev_013025.pdf"
+    ]
+  },
+  {
+    "name": "Inspire Vancouver Cultural Access Grants (Innovation, Impact, Comprehensive)",
+    "funder": "City of Vancouver (Inspire Vancouver Cultural Access Program)",
+    "url": "https://www.inspirevancouver.org/",
+    "contact": "Abby Ketcham, abby.ketcham@cityofvancouver.us, 360-726-0720",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Clark"
+      ],
+      "cities": [
+        "Vancouver"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage",
+      "music",
+      "festival",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published per grant; first-year program budget about $3.85M (typical annual budget about $7M)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-10",
+        "label": "First cycle (closed; opened Aug 6, 2026) for Nov 2026 to Jun 2027 funding"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Capital grants open in 2027; next operating/program cycle expected mid-2027",
+    "match": null,
+    "reimbursement": false,
+    "notes": "New cultural access program for arts, culture, heritage and science nonprofits based in Vancouver or delivering at least 55% of programming there; individual artists apply through a fiscal sponsor. Innovation, Impact and Comprehensive tracks mirror Tacoma Creates and Inspire Olympia; awards announced in October with funding in November. Festivals and events run by eligible nonprofits fit the Impact track.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.cityofvancouver.us/inspire-vancouver-opens-first-grant-applications-for-community-organizations/"
+    ]
+  },
+  {
+    "name": "Vancouver Culture, Arts and Heritage Grants",
+    "funder": "City of Vancouver Parks, Recreation and Cultural Services",
+    "url": "https://cityofvancouver.us/government/department/parks-recreation-and-cultural-services/culture-arts-and-heritage/culture-arts-and-heritage-grants",
+    "contact": "parksrecculture@cityofvancouver.us",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Clark"
+      ],
+      "cities": [
+        "Vancouver"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural",
+      "music",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$1,000 to $10,000",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "No dates posted; last documented cycle funded projects July 2024 through December 2025",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Reimbursement grants for community arts, culture and heritage projects in Vancouver judged on artistic quality and innovation; individual artists are matched with a sponsoring organization on request. Recent highlight: Vancouver Ballet Folklórico's Día de Muertos celebration. With Inspire Vancouver launching in 2026, confirm whether this program continues.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://cityofvancouver.us/government/department/parks-recreation-and-cultural-services/culture-arts-and-heritage/culture-arts-and-heritage-grants",
+      "https://www.cityofvancouver.us/application-process-now-open-for-culture-arts-and-heritage-grants/"
+    ]
+  },
+  {
+    "name": "Vancouver Community and Neighborhood Grants (Microgrants)",
+    "funder": "City of Vancouver Office of Neighborhoods",
+    "url": "https://www.cityofvancouver.us/city-managers-office/community-and-neighborhood-grants/",
+    "contact": "neighborhoods@cityofvancouver.us",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Clark"
+      ],
+      "cities": [
+        "Vancouver"
+      ],
+      "region": "Vancouver city limits and urban growth area"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "arts"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Level One microgrants up to $500; Level Two up to $5,000 (unavailable since April 2026)",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-01",
+        "label": "2026 September review period (closed; reviews in April, June and September). 2027 dates not posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually early in the year, with review periods in April, June and September until funds run out",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Small grants for free community events (block parties, picnics, carnivals, cultural and education events) and projects in Vancouver by nonprofits, neighborhood associations, clubs, PTAs and informal groups; for-profits, schools and governments are ineligible. Pays for supplies, rentals, insurance, nonalcoholic food and professional services; not admission-charging events. Impact report due within 30 days.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.cityofvancouver.us/city-managers-office/community-and-neighborhood-grants/"
+    ]
+  },
+  {
+    "name": "Woods Family Music & Arts Grant",
+    "funder": "Community Foundation of North Central Washington",
+    "url": "https://cfncw.org/woodsfamilymusicandartsgrant/",
+    "contact": null,
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Chelan",
+        "Douglas",
+        "Okanogan"
+      ],
+      "cities": [],
+      "region": "Chelan, Douglas and Okanogan counties excluding the Methow Valley"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "heritage",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $5,000 (listing header says $1,000 to $10,000; confirm with funder)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-01",
+        "label": "2026 cycle (closed); 2027 expected on the same date"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually summer",
+    "match": null,
+    "reimbursement": false,
+    "notes": "General operating and project support for music and arts programs that expand youth and underrepresented access, celebrate regional cultural heritage and bring quality arts to north central Washington. 501(c)(3)s, government entities and schools eligible; others via fiscal sponsor; one application per organization. Funds must be spent within a year; nothing retroactive.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-woods-family-music-and-arts-grants-2026-washington/"
+    ]
+  },
+  {
+    "name": "Okanogan Valley Fund Grant",
+    "funder": "Community Foundation of North Central Washington",
+    "url": "https://cfncw.org/",
+    "contact": null,
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Okanogan"
+      ],
+      "cities": [],
+      "region": "Okanogan County excluding the Methow Valley"
+    },
+    "kinds": [
+      "arts",
+      "community event",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$2,000 minimum",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-02-15",
+        "label": "2027 cycle"
+      }
+    ],
+    "next_deadline": "2027-02-15",
+    "opens": "Usually January",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Annual fund for 501(c)(3) public charities (government and faith-based groups for project-specific, non-religious work) serving Okanogan County residents in arts, education, environment, health and nonprofit support. Fiscal sponsorship allowed. CFNCW also runs the Chelan Valley Fund and other regional funds on similar cycles.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantable.co/grants/okanogan-valley-fund-grant-cc0cdb46d245"
+    ]
+  },
+  {
+    "name": "San Juan Island Community Foundation Grants (SJI Cares spring and fall cycles)",
+    "funder": "San Juan Island Community Foundation",
+    "url": "https://sjicf.org/",
+    "contact": "info@sjicf.org, (360) 378-1001",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "San Juan"
+      ],
+      "cities": [
+        "Friday Harbor"
+      ],
+      "region": "San Juan Island"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Varies; 2024 grants had a median of about $15,000 (range about $5,000 to $267,000)",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-05-15",
+        "label": "Spring SJI Cares giving period May 1 to 15 (nonprofit requests are submitted in advance; 2027 application date not posted)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Nonprofit applications precede the May 1-15 spring and fall giving periods; confirm with the foundation",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Island nonprofits submit funding needs for the SJI Cares catalog (spring and fall cycles) and the foundation's general grant program; grants have supported arts, youth, food security and environmental groups. Recipients file a grant evaluation report. Contact the foundation for the 2027 application calendar.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://grantable.co/grants/2026-grant-application-967d05583a8d",
+      "https://www.sanjuanjournal.com/?p=58742"
+    ]
+  },
+  {
+    "name": "Orcas Island Community Foundation GiveOrcas Grants",
+    "funder": "Orcas Island Community Foundation",
+    "url": "https://oicf.us/",
+    "contact": "info@oicf.us, (360) 376-6423",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "San Juan"
+      ],
+      "cities": [
+        "Eastsound"
+      ],
+      "region": "Orcas Island"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Varies; 2025 grants had a median of about $19,000",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-05-15",
+        "label": "Spring GiveOrcas (May 6-15 campaign; last listed deadline)"
+      },
+      {
+        "date": "2026-11-15",
+        "label": "Holiday GiveOrcas (late October/November, dates vary; info posted early September)"
+      }
+    ],
+    "next_deadline": "2026-11-15",
+    "opens": "Applications accepted only during active GiveOrcas campaign periods",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Bi-annual GiveOrcas campaigns fund 501(c)(3) nonprofits serving Orcas Island, including arts and cultural programs and community events. Grant information typically appears in early September for the holiday campaign and early spring for May.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantable.co/grants/giveorcas-grants-73d481d9f404",
+      "https://www.islandssounder.com/?p=56986"
+    ]
+  },
+  {
+    "name": "Community Foundation of South Puget Sound Community Grants",
+    "funder": "Community Foundation of South Puget Sound",
+    "url": "https://www.thecommunityfoundation.com/grants/grantmaking-overview",
+    "contact": "info@thecommunityfoundation.com",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Thurston",
+        "Lewis",
+        "Mason"
+      ],
+      "cities": [],
+      "region": "Thurston, Lewis and Mason counties"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Listing cites $100,000 to $500,000 over a two-year cycle; confirm with funder",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-01-01",
+        "label": "Deadline per third-party listing; not confirmed on the foundation's site"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Two-year cycles; confirm with the foundation",
+    "match": null,
+    "reimbursement": false,
+    "notes": "Signature capacity and program grants for nonprofits in Thurston, Lewis and Mason counties across arts and culture, environment, health, education and civic engagement. Details and the Jan 1, 2027 date come from a third-party listing; verify before applying.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://grantedai.com/grants/community-foundation-of-south-puget-sound-community-grants-community-foundation-of-south-puget-soun-d33e4dc5"
+    ]
+  }
+]

@@ -32,6 +32,7 @@ Data was compiled from official city and county pages, application packets, agen
 - **Application kit**: a room-night and visitor estimator, a budget template with totals and a reduced-award table, and a post-event report template, all copyable.
 - **Benchmarks**: charts and a sortable table comparing pools, award counts, event award sizes, event room nights and event dollars per room night.
 - **Top events**: the 300 largest lodging-tax-funded events ranked by reported paid room nights (or attendance, tax dollars, dollars per night), with organizer, every funder, and estimate-versus-actual from each year's post-event report. Built from `jlarc/events.json`, which groups Event/Festival rows by organizer and activity name, merges name variants, counts nights once across co-funders, and drops marketing and facility contracts filed as events.
+- **Other funding**: a catalog of non-lodging-tax programs (TPAs, arts commissions, city event funds, port districts, community and corporate foundations, tribal funds, state and federal programs) from `grants/statewide.json` and `grants/local.json` plus the per-card alternatives. A finder takes a location, event type, applicant type and timing and returns city, county, regional and statewide programs with next deadlines; a calendar lists every posted future deadline and the rolling programs.
 - **Guidelines**: the statute and MRSC summary plus a model set of LTAC guidelines a city can adopt.
 - **Board**: cities post what events they want; producers post what they bring. Posts are stored in the artifact's `board` collection (public read, contributor write). On the static copy posts stay in the browser only.
 
@@ -40,6 +41,10 @@ Data was compiled from official city and county pages, application packets, agen
 `jlarc/normalized.json` holds 4,985 rows from the Joint Legislative Audit and Review Committee's lodging tax reporting (years 2022 to 2024), downloaded from https://leg.wa.gov/media/du0f2rmj/alldata2025.xlsx. Fields: year, jurisdiction, recipient, activity_type (Event/Festival, Marketing, Facility), amount_awarded, attendance and overnight figures, paid_lodging_nights and predicted variants, attendance_method, recipient_is_jurisdiction. `jlarc/compliance_2022_2024.json` lists which jurisdictions reported each year.
 
 Caveats: figures are self-reported by recipients; about a quarter of rows have no lodging-night figure; 19 jurisdictions did not report for 2024; Seattle and King County have no rows. Room nights on cards and benchmarks count only Event/Festival recipients because marketing and facility recipients (DMOs, chambers) report county-wide totals. Rows where the recipient is the jurisdiction itself are excluded from award counts.
+
+## 2025 and 2026 award lists
+
+`awards2526/out_*.json` hold award lists for funding years 2025 and 2026 (and 2027 where decided) pulled from council and commissioner minutes, LTAC recommendation memos, resolutions and local news for the 128 programs, since JLARC suspended 2025 reporting. They appear on cards as "minutes" rows in the award history table, in the jurisdiction detail view, and in event details where the recipient matches.
 
 ## Corrections and deadline reminders
 

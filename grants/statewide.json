@@ -1,0 +1,2659 @@
+[
+  {
+    "name": "Community Accelerator Grant",
+    "funder": "ArtsFund (funded by Allen Family Philanthropies)",
+    "url": "https://www.artsfund.org/accelerator/",
+    "contact": "accelerator@artsfund.org",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "festival",
+      "music",
+      "heritage",
+      "film"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted",
+      "tribe"
+    ],
+    "award": "$2,500 to $25,000 unrestricted; $10 million pool (2026)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-21",
+        "label": "2026 cycle (closed); 2027 dates not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2026 cycle opened July 15, 2026; 2027 window expected mid-July",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Unrestricted general operating grants to Washington arts and culture nonprofits, fiscally sponsored groups and tribal entities whose primary mission is producing or supporting arts and culture, established on or before Dec 31, 2022, with average annual budgets between $25,000 and $1 million (FY2023-FY2025). For-profits, government entities (other than tribes) and churches are not eligible. Prioritizes BIPOC, LGBTQ+, disabled and rural-led organizations. Pattern: info session early July, application open mid-July to late August, notification by Dec 1, funds by Dec 31.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.artsfund.org/accelerator/"
+    ]
+  },
+  {
+    "name": "Creative Equity Fund",
+    "funder": "ArtsFund (with City of Seattle Office of Arts & Culture, Seattle Foundation, Satterberg Foundation and others)",
+    "url": "https://www.artsfund.org/",
+    "contact": "grants@artsfund.org",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [],
+      "region": "King County"
+    },
+    "kinds": [
+      "arts",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted",
+      "tribe"
+    ],
+    "award": "$70,000 per year for three years ($210,000 total) to three grantees",
+    "cycle": "one-time",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-06-12",
+        "label": "2026 round 1 (closed)"
+      },
+      {
+        "date": "2026-09-08",
+        "label": "2026 round 2, by invitation (closed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2026 round opened May 26, 2026",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Multi-year unrestricted funding for King County arts and culture organizations that are BIPOC, LGBTQ+ or disability-led (50%+ of staff or board), founded on or before Dec 31, 2021, with average budgets of $50,000 to $500,000. ArtsFund states there are no plans for another round after 2026, so treat this as closed unless re-announced.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantedai.com/grants/creative-equity-fund-artsfund-collaboratively-supported-by-ci-9ec43fee"
+    ]
+  },
+  {
+    "name": "Annual Allocations (Cultural Partners general operating grants)",
+    "funder": "ArtsFund",
+    "url": "https://www.artsfund.org/",
+    "contact": "info@artsfund.org",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "King",
+        "Pierce"
+      ],
+      "cities": [],
+      "region": "King and Pierce counties"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "music",
+      "film"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Varies; $2.48 million distributed to 58 organizations in a recent cycle",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Invitations emailed mid-December; past deadlines late February",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Invitation-only general operating support for arts and culture nonprofits with at least three years of continuous operation in King County (budget $200,000+) or Pierce County (budget $100,000+). Art festivals running fewer than 10 days, historic preservation, children's museums and individual artists are excluded. Contact ArtsFund staff to be considered for an invitation; dates not publicly posted.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.insidephilanthropy.com/washington-grants/artsfund"
+    ]
+  },
+  {
+    "name": "Grants to Organizations: Art Project Grant (FY2027)",
+    "funder": "Washington State Arts Commission (ArtsWA)",
+    "url": "https://www.arts.wa.gov/grants-to-organizations/",
+    "contact": "Miguel Guillén, Grants to Organizations Program Manager, 360-753-3860; Ashley Marshall, Program Assistant",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage",
+      "festival",
+      "music",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted",
+      "tribe",
+      "public agency"
+    ],
+    "award": "$1,000 to $3,000 (FY2027 requests); amounts vary with available funds",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-04-16",
+        "label": "FY2027 cycle (closed); FY2028 dates not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY2027 opened March 9, 2026; programs usually announced in January and open about six weeks between February and April",
+    "match": null,
+    "reimbursement": true,
+    "notes": "One-year project support for public arts, heritage or culture projects in Washington taking place July 1 to June 30 of the fiscal year. Open to 501(c)(3)s, fiscally sponsored groups, designated Local Arts Agencies and tribal governments; for-profits and individuals are not eligible. Ongoing programs are not funded; first consideration goes to organizations with budgets of $0 to $50,000 and to applicants outside King County and the City of Tacoma. Reimbursement grant: reimbursement form due June 30, 2027, final report July 31, 2027. Requires WA UBI, UEI and Statewide Vendor number.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.arts.wa.gov/grants-to-organizations/",
+      "https://grantedai.com/grants/artswa-art-project-grant-artswa-washington-state-arts-commission-e478cce7",
+      "https://artswagto.submittable.com/submit/346063/gto-art-project-grant-fy27"
+    ]
+  },
+  {
+    "name": "Grants to Organizations: General Operating Support (FY26-FY27 two-year; small, midsized and large tiers)",
+    "funder": "Washington State Arts Commission (ArtsWA)",
+    "url": "https://www.arts.wa.gov/grants-to-organizations/",
+    "contact": "Miguel Guillén, Grants to Organizations Program Manager, 360-753-3860; Ashley Marshall, Program Assistant",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted",
+      "tribe",
+      "public agency"
+    ],
+    "award": "Midsized tier: up to $6,000 over two years ($3,000 per year); other tiers vary by budget size",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-04-07",
+        "label": "FY26-FY27 two-year cycle (closed); next two-year cycle (FY28-29) expected spring 2027"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY26-27 opened March 3, 2025; next cycle expected to open around March 2027",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Two-year operating support for Washington organizations whose mission focuses on art, culture and/or heritage with at least three years of publicly accessible programming. Tiers by annual budget (midsized is $100,000 to $350,000). Eligible: 501(c)(3)s, fiscally sponsored groups, designated Local Arts Agencies and tribal governments; for-profits, religious organizations, schools and most government agencies are not. Priority for distressed counties and organizations with 25%+ underserved constituencies. Final reports due July 31, 2026 and July 31, 2027.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.arts.wa.gov/?p=12348",
+      "https://arts.wa.gov/wp-content/uploads/2025/01/FY26_27_GTO_GOS-Midsized-Guidelines.pdf"
+    ]
+  },
+  {
+    "name": "Grants to Organizations: Arts Service Organization Support",
+    "funder": "Washington State Arts Commission (ArtsWA)",
+    "url": "https://www.arts.wa.gov/grants-to-organizations/",
+    "contact": "Miguel Guillén, Grants to Organizations Program Manager, 360-753-3860; Ashley Marshall, Program Assistant",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published for FY27; two-year grants",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Two-year cycle; FY26-27 round closed in spring 2025, next expected spring 2027",
+    "match": null,
+    "reimbursement": true,
+    "notes": "Two-year support limited to regional and statewide arts service organizations that provide services to the arts field (not event producers themselves). Reimbursement-based like all GTO grants. Watch the ArtsWA newsletter for the FY28-29 announcement.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.arts.wa.gov/grants-to-organizations/",
+      "https://arts.wa.gov/wp-content/uploads/2024/12/FY26_27_GTO_ASO-Guidelines.pdf"
+    ]
+  },
+  {
+    "name": "Creative Districts Capital Projects (CDCP) Grant FY26-27",
+    "funder": "Washington State Arts Commission (ArtsWA)",
+    "url": "https://www.arts.wa.gov/wp-content/uploads/2025/09/CDCP-FY26-27-Grant-Guidelines.pdf",
+    "contact": "ArtsWA Creative Districts program (request forms by email); 360-753-3860",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "capital",
+      "arts",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Up to $50,000 per community; $445,000 pool",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-11-20",
+        "label": "FY26-27 cycle (closed); next biennial cycle expected fall 2027"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY26-27 opened September 23, 2025",
+    "match": "100% match (cash or in-kind), reduced to 50% to 80% for communities below state median income; match must be secured before award",
+    "reimbursement": true,
+    "notes": "Only administering organizations of Washington State Certified Creative Districts may apply (cities, nonprofits, special districts, tribes). Funds bricks-and-mortar projects such as stages, performance spaces, wayfinding, lighting and murals that benefit the public for at least five years. Reimbursement only, prevailing wage applies. Project work complete and final report due June 30, 2027.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.arts.wa.gov/wp-content/uploads/2025/09/CDCP-FY26-27-Grant-Guidelines.pdf"
+    ]
+  },
+  {
+    "name": "Tribal Cultural Grant",
+    "funder": "Washington State Arts Commission (ArtsWA) Tribal Cultural Affairs Program",
+    "url": "https://www.arts.wa.gov/?p=15109",
+    "contact": "Cheryl Wilcox, 360-485-1278, cheryl.wilcox@arts.wa.gov; Todd Clark, 360-485-1223, todd.clark@arts.wa.gov",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "cultural",
+      "heritage",
+      "arts"
+    ],
+    "applicants": [
+      "tribe"
+    ],
+    "award": "About $18,000 per tribe (non-competitive, if all 29 federally recognized tribes apply); additional requests considered",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-03-31",
+        "label": "FY2026 cycle (closed); FY2027 dates not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY2026 opened February 4, 2025; next cycle expected to open early February",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Non-competitive formula funding for Washington's federally recognized tribes for tribal cultural activities as the tribe defines them (language, foodways, regalia, cultural events, tribal museums). One application per tribe per year. Spending period July 1 to June 30. Only tribes may apply.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.arts.wa.gov/?p=15109"
+    ]
+  },
+  {
+    "name": "Opportunity Grants",
+    "funder": "Humanities Washington",
+    "url": "https://www.humanities.org/grants/",
+    "contact": "206-682-1770; 130 Nickerson St, Suite 312, Seattle",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "cultural",
+      "heritage",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted",
+      "tribe"
+    ],
+    "award": "Up to $1,000 (per most recent published guidelines); no match required",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Ongoing; apply at least eight weeks before the event",
+    "match": "None",
+    "reimbursement": null,
+    "notes": "Small grants for public humanities presentations and events (talks, panels, discussions, festival humanities programming) open to the general public. Applicant must be a nonprofit or public agency organized in Washington; incorporation and tax-exempt status not required but the group must be organized for nonprofit purposes; individuals ineligible. Each project must involve at least one humanities scholar and conclude within one year. Prior grantees must file a final report before reapplying. Confirm the current cap on humanities.org since the program guidelines are updated periodically.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://us.fundsforngos.org/grant-size/less-than-50000/humanities-washingtons-opportunity-grants/",
+      "https://theshareway.com/grant/humanities-washington-84703-humanities-washington-opportunity-grants"
+    ]
+  },
+  {
+    "name": "Spark Grants",
+    "funder": "Humanities Washington",
+    "url": "https://www.humanities.org/grants/",
+    "contact": "206-682-1770",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "cultural",
+      "heritage",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted",
+      "tribe"
+    ],
+    "award": "Not confirmed in this research; larger than Opportunity Grants (verify on humanities.org)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Not confirmed",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Humanities Washington's larger project grant for public humanities programming (community conversations, exhibits, lecture series, cultural festivals with humanities content). Same general eligibility as Opportunity Grants (Washington nonprofits and public agencies, scholar involvement). The program page could not be retrieved during this research, so amounts and the 2027 deadline must be verified directly with Humanities Washington.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.humanities.org/grants/"
+    ]
+  },
+  {
+    "name": "Washington Stories Fund",
+    "funder": "Humanities Washington",
+    "url": "https://www.humanities.org/grants/",
+    "contact": "206-682-1770",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "cultural",
+      "heritage",
+      "film"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted",
+      "tribe"
+    ],
+    "award": "$2,500 to $7,500; up to five grants per state region (Central, Central Puget Sound, Eastern, Northwestern, Southwestern)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "2025 cycle closed; 2026/2027 dates not posted",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds projects that record and share little-known stories of people and groups who contributed to Washington's cultural richness (oral histories, documentaries, exhibits, storytelling events). Any nonprofit organization, public agency or group organized for nonprofit purposes may apply; individuals cannot. Awards are distributed regionally so rural applicants compete within their own region.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantedai.com/grants/washington-stories-fund-grants-washington-state-humanities-dfcdb9be"
+    ]
+  },
+  {
+    "name": "SWT Grant Programs (Rural Tourism Marketing and Production, Sports Incentivization, Arts and Culture, Tourism Regeneration, Technical Assistance, Sustainability)",
+    "funder": "State of Washington Tourism (SWT)",
+    "url": "https://industry.stateofwatourism.com/swt-grant-programs/",
+    "contact": "Matthew Ozuna, matthew@stateofwatourism.com",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "tourism marketing",
+      "sports",
+      "arts",
+      "festival",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Historically up to $50,000 (Rural Marketing and Production, Tourism Regeneration), $30,000 (Sports Incentivization, Arts and Culture, Sustainability), $15,000 (Technical Assistance)",
+    "cycle": "one-time",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2024-12-01",
+        "label": "Rural Tourism Marketing and Production 2024-25 cycle (closed); SWT states no grant programs will be offered in 2026"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Not offered in 2026; EDA pandemic-recovery funding has ended",
+    "match": "Match strongly encouraged but not required (prior cycles)",
+    "reimbursement": true,
+    "notes": "SWT's grant suite (local governments, tribes, chambers, DMOs and tourism nonprofits) was funded by a federal EDA pass-through via Commerce and all programs are now marked closed; SWT says it will not offer grants in 2026. Sports Incentivization and Arts and Culture grants previously supported events that drew overnight visitors. Monitor the SWT industry site for any new state-funded round. SWT also runs paid co-op marketing programs for partners (not grants).",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://industry.stateofwatourism.com/swt-grant-programs/",
+      "https://industry.stateofwatourism.com/?p=1510"
+    ]
+  },
+  {
+    "name": "Building for the Arts (2027-29 biennium)",
+    "funder": "Washington State Department of Commerce",
+    "url": "https://www.commerce.wa.gov/funding/building-for-the-arts-funding-now-open/",
+    "contact": "Michele.Manu@Commerce.wa.gov; CAPPrograms@Commerce.wa.gov",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "capital",
+      "arts",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "tribe"
+    ],
+    "award": "Up to $2,000,000 per project; $18,000,000 requested pool",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-07-09",
+        "label": "2027-29 biennium application (closed); next biennium (2029-31) expected summer 2028"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027-29 applications accepted spring 2026 via ZoomGrants",
+    "match": "State grant covers up to 33% of eligible capital costs; applicant funds the remainder through an active capital campaign",
+    "reimbursement": true,
+    "notes": "Capital grants for acquisition, construction and major renovation of arts and cultural facilities (performing arts, art museums, cultural organizations). Applicants must be federally recognized tribes or Washington nonprofits with site control (ownership or 15-year recorded lease), LEED commitment, prevailing wage compliance and demonstrated capital campaign progress. Awards depend on legislative appropriation in the 2027-29 capital budget.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.commerce.wa.gov/funding/building-for-the-arts-funding-now-open/",
+      "https://fundhub.wa.gov/funding/building-for-the-arts-funding/"
+    ]
+  },
+  {
+    "name": "Heritage Capital Projects Grant",
+    "funder": "Washington State Historical Society",
+    "url": "https://www.washingtonhistory.org/",
+    "contact": "heritage.capitalprojects@wshs.wa.gov; Jay Baersten, jay.baersten@wshs.wa.gov",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "capital",
+      "heritage",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Not published in this research; biennial capital awards tied to the state capital budget",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Biennial; applications open February 1 of even-numbered years with two-stage submission (eligibility stage in spring, full plans in early summer)",
+    "match": "Match required (details in program guidelines)",
+    "reimbursement": true,
+    "notes": "Capital funding for construction, rehabilitation or acquisition of facilities and landscapes that provide public access to Washington history (museums, historic venues, interpretive sites). Eligible: nonprofits, local governments, tribes and public development authorities. Applications go through the Washington Heritage Portal. The 2027-29 cycle would have run spring 2026; confirm status and the 2029-31 timeline with WSHS.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://sococulture.org/?p=51611",
+      "https://ictnews.org/the-press-pool/grants-available-for-heritage-projects-deadline-soon/"
+    ]
+  },
+  {
+    "name": "Valerie Sivinski Fund",
+    "funder": "Washington Trust for Historic Preservation",
+    "url": "https://preservewa.org/programs/grants/valerie-sivinski-fund/how-to-apply/",
+    "contact": "(206) 462-2999",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "heritage",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "individual",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $3,000 per application",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-10-22",
+        "label": "2027 grant cycle (closed); 2028 cycle expected October 2027"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Applications typically open late summer; notification by end of December",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Small grants for community-level historic preservation in Washington, including public education and interpretive programs and events about a specific historic or cultural resource. Applicants must be Washington Trust members at the nonprofit level or above; eligible applicants include nonprofits, unincorporated citizen groups, public agencies, school districts, civic and religious organizations. Projects must finish within one year; no general operating or expenses before January 1 of the award year.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://preservewa.org/programs/grants/valerie-sivinski-fund/how-to-apply/"
+    ]
+  },
+  {
+    "name": "Tourism Marketing Support Program (2026-2027)",
+    "funder": "Port of Seattle",
+    "url": "https://www.portseattle.org/programs/tourism-marketing-support-program",
+    "contact": "William Zhou, Zhou.W@portseattle.org",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "tourism marketing",
+      "festival",
+      "cultural",
+      "sports",
+      "music",
+      "film"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Up to $20,000 per awardee (Tier 1) or $10,000 (Tier 2); $600,000 pool in 2024-25",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-03",
+        "label": "2026-2027 program (closed); 2027-2028 round not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Usually announced December to January, due late February or early March",
+    "match": "2:1 (Port provides $2 for every $1 of applicant funds; up to 50% of match may be administrative costs in Tier 2)",
+    "reimbursement": true,
+    "notes": "Funds out-of-state and international marketing of Washington destinations and events that use Port facilities (SEA Airport, cruise terminals, marinas). Eligible: chambers, DMOs, cities, counties, ports, tribes, nonprofit attractions and nonprofits producing events that attract out-of-state visitors. Festivals are regularly funded. Statewide, not limited to King County. For-profits cannot apply.",
+    "recent_recipients": [
+      "Anacortes Arts Festival $20,000 (2024-25)",
+      "Freakout Music Festival $20,000 (2024-25)",
+      "Seattle Flying Dragon Boat Club $19,333 (2024-25)",
+      "Northwest Maritime Center Wooden Boat Festival $11,200 (2024-25)",
+      "Refuge Outdoor Festival (Golden Bricks Events) $20,000 (2024-25)"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://omwbe.wa.gov/bid-opportunities/2026-2027-tourism-marketing-support-program",
+      "https://www.portseattle.org/programs/tourism-marketing-support-program",
+      "https://wwwpub.pre.portseattle.org/sites/default/files/2024-05/2024-2025_Tourism_Marketing_Support_Program_Awarded_Organizations2.pdf"
+    ]
+  },
+  {
+    "name": "Airport Community Ecology (ACE) Fund Small Matching Grants",
+    "funder": "Port of Seattle",
+    "url": "https://www.portseattle.org/programs/airport-community-ecology-ace-fund",
+    "contact": "Port of Seattle Community Engagement",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Burien",
+        "Des Moines",
+        "SeaTac",
+        "Federal Way",
+        "Normandy Park",
+        "Tukwila"
+      ],
+      "region": "Airport-adjacent cities in south King County"
+    },
+    "kinds": [
+      "community event",
+      "youth",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Small matching grants (not verified in this research)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Not verified",
+    "match": "Matching contribution (cash or in-kind) required",
+    "reimbursement": null,
+    "notes": "Small matching grants for community-led environmental and community projects in the six cities near SEA Airport. Details could not be verified during this research (the Port's page was not reachable); confirm the current cycle, award cap and eligibility at portseattle.org before listing to users.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.portseattle.org/business/tourism"
+    ]
+  },
+  {
+    "name": "Grants for Arts Projects (GAP)",
+    "funder": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/grants/grants-for-arts-projects",
+    "contact": "arts.gov; discipline specialists listed in guidelines",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "festival",
+      "cultural",
+      "film",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "$10,000 to $100,000 ($30,000 to $150,000 for Local Arts Agency subgranting)",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-02-12",
+        "label": "FY2027 GAP 1 Part 1 (closed; projects start Jan 1, 2027)"
+      },
+      {
+        "date": "2026-07-09",
+        "label": "FY2027 GAP 2 Part 1 (closed; projects start June 1, 2027)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY2028 guidelines expected late 2026 with Part 1 deadlines in February and July 2027",
+    "match": "1:1 cost share (cash or in-kind, non-federal)",
+    "reimbursement": null,
+    "notes": "Federal project grants for nonprofits, units of state or local government and federally recognized tribes with at least five years of arts programming and $20,000+ in operating expenses in the most recent fiscal year. Festivals apply under the relevant discipline (Folk and Traditional Arts, Music, Presenting and Multidisciplinary Works, etc.). Fiscal-sponsored and for-profit applicants are ineligible; one application per year. Two-part submission via Grants.gov then the NEA Applicant Portal; Part 2 deadlines fall about two weeks after Part 1.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.arts.gov/grants/grants-for-arts-projects",
+      "https://www.arts.gov/news/press-releases/2025/nea-fy-2027-grants-arts-projects-guidelines-now-available"
+    ]
+  },
+  {
+    "name": "Challenge America",
+    "funder": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/grants/challenge-america",
+    "contact": "challengeamerica@arts.gov",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "festival",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "$10,000 fixed request",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-02-12",
+        "label": "FY2027 February cycle Part 1 (closed)"
+      },
+      {
+        "date": "2026-07-09",
+        "label": "FY2027 July cycle Part 1 (closed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY2028 cycle expected with the GAP February 2027 and July 2027 deadlines",
+    "match": "Minimum 1:1 non-federal cost share (at least $10,000); total project at least $20,000",
+    "reimbursement": null,
+    "notes": "Small federal grants for organizations with operating budgets under $250,000 that project arts programming to underserved communities (by geography, ethnicity, economic status or disability). Requires five years of arts programming history. Applied through the GAP system by selecting the Challenge America discipline. Good fit for small rural festival producers.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.arts.gov/sites/default/files/fy27-gap-challenge-america-instructions.pdf"
+    ]
+  },
+  {
+    "name": "Tulalip Cares Charitable Fund",
+    "funder": "The Tulalip Tribes",
+    "url": "https://www.tulalipcares.org/",
+    "contact": "Tulalip Tribes Charitable Fund, Tulalip, WA (mailed applications)",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Statewide, priority to Snohomish County"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "community event",
+      "youth",
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published; no more than 50% of an organization's operating budget; typically non-recurring",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Applications accepted quarterly; postmark deadlines by quarter (check tulalipcares.org)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Casino-funded grants to Washington 501(c)(3) organizations and accredited K-12 institutions for arts, music, community and cultural activities, pre-K education and youth athletics, with priority for Snohomish County. One grant per organization per 12 months; no travel, legal fees, memorials or endowments. Mailed signed application with financials, board list and IRS letter; notification within 90 days of the quarterly deadline, unfunded applicants are not notified. Recipient lists are published on tulaliptribes-nsn.gov.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantedai.com/grants/tulalip-cares-charitable-fund-grant-the-tulalip-tribes-64a7b55c"
+    ]
+  },
+  {
+    "name": "Muckleshoot Charity Fund",
+    "funder": "Muckleshoot Indian Tribe",
+    "url": "https://muckleshoot.nsn.us/charity-fund",
+    "contact": "Sean Daniels, (253) 876-3377, Sean.Daniels@muckleshoot.nsn.us",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Washington State, emphasis on the Puget Sound region around Auburn"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Most awards $1,500 to $5,000",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "No deadlines; reviewed quarterly. Apply 3 to 6 months before a date-specific event",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Casino-profit grants to Washington-registered nonprofits (501(c)(3) or RCW 9.46.0920), public schools and government agencies in priority areas including Culture, Arts, Communities of Color, Native American programs and Civic/Community. One grant per 12 months; for-profits and individuals ineligible. Online application via GrantRequest; only funded applicants are notified. Eliav's Seattle Glow has had Muckleshoot Casino as a sponsor, which is a separate casino sponsorship channel.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://muckleshoot.nsn.us/charity-fund"
+    ]
+  },
+  {
+    "name": "Puyallup Tribe Charity Trust Board grants",
+    "funder": "Puyallup Tribe of Indians",
+    "url": "https://puyalluptribe-nsn.gov/",
+    "contact": "charitytrustboard@puyalluptribe-nsn.gov; (253) 382-6012; 5580 Pacific Hwy E, Suite F, Fife",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Pierce"
+      ],
+      "cities": [],
+      "region": "Pierce County preferred"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "youth",
+      "arts",
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published; quarterly rounds of roughly $200,000 to $690,000 across 19 to 54 organizations",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Applications due by end of business each quarter and reviewed the following month (Q4 2024 deadline was Sept 27, 2024)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Charitable gaming proceeds distributed quarterly to 501(c)(3) nonprofits, with preference for projects in Pierce County that benefit tribal members. Submit a single PDF (typed form, 501(c)(3) letter, W-9, budget) by email, fax or mail; incomplete packets are disqualified. Specific quarterly dates are posted on the tribe's site each quarter.",
+    "recent_recipients": [
+      "54 local organizations shared $690,000+ in one recent quarter (puyalluptribe-nsn.gov)"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://puyalluptribe-nsn.gov/wp-content/uploads/2024_Q4-application-form.pdf",
+      "https://puyalluptribe-nsn.gov/?p=20446"
+    ]
+  },
+  {
+    "name": "Kalispel Charitable Fund",
+    "funder": "Kalispel Tribe of Indians / Northern Quest",
+    "url": "https://kalispeltribe.com/?p=9650",
+    "contact": "Leslie Bytnar, lbytnar@ktea.com, 509-481-6168",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Spokane",
+        "Pend Oreille"
+      ],
+      "cities": [],
+      "region": "Spokane and Pend Oreille counties"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published; about $1 million donated annually",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-04-01",
+        "label": "Spring 2027 program and event support cycle"
+      },
+      {
+        "date": "2027-10-01",
+        "label": "Fall 2027 cycle"
+      }
+    ],
+    "next_deadline": "2027-04-01",
+    "opens": "Online form only (not Chrome-compatible); apply in the cycle before an April or October event",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Program and event support for Washington-registered nonprofits in Spokane and Pend Oreille counties in education, health care, arts and culture, social services and environment. One comprehensive application per 12-month period (Oct 1 to Sept 30); auction items require 90 days notice. Teams, individuals and third-party requests are not accepted.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://kalispeltribe.com/?p=9650"
+    ]
+  },
+  {
+    "name": "Snoqualmie Tribe nonprofit grants",
+    "funder": "Snoqualmie Indian Tribe",
+    "url": "https://snoqualmietribedonations.us/apply-for-donations/",
+    "contact": "Snoqualmie Tribe communications (Jaime Martin, spokesperson)",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Washington State; about 90% of funds go to King County and Snoqualmie Valley organizations"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "sports",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Up to $50,000 (shared across one or more nonprofits in the 2024 round)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-31",
+        "label": "2026 window (closed; pattern is Jan 1 to Mar 31 annually)"
+      },
+      {
+        "date": "2027-03-31",
+        "label": "Expected 2027 window close (pattern, not yet posted)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Expected January 1, 2027",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual charitable grants to Washington 501(c)(3)s in categories including arts and culture, Snoqualmie Valley community services, environmental education, family, senior and veteran services. Applications accepted January 1 to March 31 with funding beginning in July. The tribe has also funded arts and sports organizations. Confirm the 2027 window on the tribe's donations site; the 2027 date above is the established pattern.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.valleyrecord.com/?p=55334",
+      "https://grantedai.com/grants/snoqualmie-tribal-organization-grant-snoqualmie-tribe-e6703ed1"
+    ]
+  },
+  {
+    "name": "Community Impact Funds",
+    "funder": "Swinomish Indian Tribal Community",
+    "url": "https://www.swinomish-nsn.gov/community-impact-funds",
+    "contact": "Swinomish Tribe, 11404 Moorage Way, La Conner, WA 98257",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Washington State (Skagit County focus)"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-04-14",
+        "label": "Annual deadline (April 14, 6 p.m.)"
+      }
+    ],
+    "next_deadline": "2027-04-14",
+    "opens": "Downloadable application; due annually April 14",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual Senate-approved awards to organizations operating in Washington in arts and culture, education and youth, environment, health care, public safety and social services. One award per organization per year; no political groups, memorials, endowments, travel or legal fees. Return the completed application with required attachments by April 14 at 6 p.m.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.swinomish-nsn.gov/community-impact-funds"
+    ]
+  },
+  {
+    "name": "Appendix X Non-Profit Grants",
+    "funder": "Suquamish Tribe (Gaming Compact Section 14)",
+    "url": "https://suquamish.nsn.us/home/suq-foundation/grant-programs/",
+    "contact": "Suquamish Foundation, (360) 394-8453, foundation_email@suquamish.nsn.us",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Kitsap"
+      ],
+      "cities": [],
+      "region": "Kitsap County and the greater Puget Sound area"
+    },
+    "kinds": [
+      "community event",
+      "youth",
+      "cultural",
+      "arts"
+    ],
+    "applicants": [
+      "nonprofit",
+      "tribe",
+      "public agency"
+    ],
+    "award": "Not published; over 250 organizations supported annually across Suquamish giving programs",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-12-31",
+        "label": "Q4 2026 quarterly deadline"
+      },
+      {
+        "date": "2027-03-31",
+        "label": "Q1 2027"
+      },
+      {
+        "date": "2027-06-30",
+        "label": "Q2 2027"
+      },
+      {
+        "date": "2027-09-30",
+        "label": "Q3 2027"
+      }
+    ],
+    "next_deadline": "2026-12-31",
+    "opens": "Rolling online application at grantinterface.com; awards usually within 60 days of each quarterly deadline",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Compact-mandated grants for charitable, nonprofit and tribal community programs, with priority for youth services, education, health and wellness and environmental preservation. Quarterly deadlines Dec 31, Mar 31, Jun 30 and Sep 30. Organizations denied here may then apply to the PME Fund.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://suquamish.nsn.us/home/suq-foundation/grant-programs/",
+      "https://clearwatercasino.com/sponsorships-donations/"
+    ]
+  },
+  {
+    "name": "PME Fund (Port Madison Enterprises Board donations and sponsorships)",
+    "funder": "Port Madison Enterprises (Suquamish Tribe)",
+    "url": "https://www.portmadisonenterprises.com/pme-fund/",
+    "contact": "PMEFund@clearwatercasino.com; 360-598-8700; 15347 Suquamish Way NE, Suquamish",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Kitsap",
+        "Mason"
+      ],
+      "cities": [],
+      "region": "Kitsap and Mason counties and Suquamish homelands"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "sports",
+      "youth",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "label": "For events Feb-Apr 2027"
+      },
+      {
+        "date": "2027-03-15",
+        "label": "For events May-Aug 2027"
+      },
+      {
+        "date": "2027-06-15",
+        "label": "For events Sep-Nov 2027"
+      },
+      {
+        "date": "2027-09-15",
+        "label": "For events Dec 2027-Jan 2028"
+      }
+    ],
+    "next_deadline": "2026-12-15",
+    "opens": "Fillable PDF application by email or mail; quarterly review tied to event date",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Non-casino funds for donations and event sponsorships in the region. Applicants eligible for the Suquamish Appendix X fund must apply there first and may apply to PME if denied. Sponsorship and donation requests have separate requirements. The casino also offers in-kind donations with 4 to 6 weeks notice and a PME CEO Fund with one-month lead time.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.portmadisonenterprises.com/pme-fund/",
+      "https://clearwatercasino.com/sponsorships-donations/"
+    ]
+  },
+  {
+    "name": "Nisqually Tribe Charitable Fund",
+    "funder": "Nisqually Indian Tribe",
+    "url": "https://www.nisqually-nsn.gov/Nisqually-Tribal-Council/charitable-funds",
+    "contact": "Nisqually Indian Tribe, 4820 She-Nah-Num Dr SE, Olympia; contact form at nisqually-nsn.gov/contact",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "South Puget Sound (Thurston and Pierce counties area); specific service area not published"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "youth",
+      "arts"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published; annual recipient lists posted 2016-2025",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-07-31",
+        "label": "2026 Charitable Application and Local Government Application (closed); 2027 date not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Application materials posted on the tribe's charitable funds page, typically spring; due July 31",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual charitable contributions from the Nisqually Tribe with separate applications for nonprofits and local governments. The 2026 deadline was July 31, 2026; expect a similar mid-year deadline in 2027. Eligibility and amounts are described in the application packet rather than on the web page.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.nisqually-nsn.gov/Nisqually-Tribal-Council/charitable-funds"
+    ]
+  },
+  {
+    "name": "Yakama Cares Charitable Contributions Fund",
+    "funder": "Legends Casino Hotel (Yakama Nation)",
+    "url": "https://legendscasino.com/yakama-cares/",
+    "contact": "Legends Casino Hotel, Toppenish",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Yakima",
+        "Benton",
+        "Franklin",
+        "Kittitas",
+        "Klickitat"
+      ],
+      "cities": [],
+      "region": "Within a 100-mile radius of Toppenish"
+    },
+    "kinds": [
+      "community event",
+      "youth",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published per grant; several hundred thousand dollars to over $1 million distributed annually to 100+ organizations",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-03-31",
+        "label": "2025 cycle (closed); 2026 cycle followed the same March pattern; 2027 not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Applications open early March, due March 31, awards distributed in May",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual grant round from Legends Casino Hotel for nonprofits within 100 miles of Toppenish, with priority for youth and education, elder care and medical needs; tribal nonprofits are not eligible. Public safety agencies and community groups are regularly funded. Apply through the Yakama Cares page on legendscasino.com.",
+    "recent_recipients": [
+      "135 nonprofits shared $1.09 million (Indian Gaming report)"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.nbcrightnow.com/news/legends-casino-hotel-opens-yakama-cares-grant-applications/article_fbb75960-fde4-11ef-a0ab-fb1afc4764e3.html",
+      "https://www.indiangaming.com/?p=35058"
+    ]
+  },
+  {
+    "name": "Cowlitz Tribal Foundation: Clark County Fund",
+    "funder": "Cowlitz Indian Tribe",
+    "url": "https://cowlitzindiantribe.submittable.com/submit",
+    "contact": "Cowlitz Tribal Foundation (via Submittable)",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Clark"
+      ],
+      "cities": [],
+      "region": "Clark County"
+    },
+    "kinds": [
+      "community event",
+      "arts",
+      "cultural",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-05-01",
+        "label": "2026 Clark County Fund (closed); 2027 not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2026 round opened in spring; notification June 12, 2026",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Grants to 501(c)(3)s and fiscally sponsored community organizations serving Clark County. Annual cycle with a May 1 deadline in 2026. Watch the tribe's Submittable portal for the 2027 opening.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://cowlitzindiantribe.submittable.com/submit"
+    ]
+  },
+  {
+    "name": "Cowlitz Tribal Foundation: Statewide Fund",
+    "funder": "Cowlitz Indian Tribe",
+    "url": "https://cowlitzindiantribe.submittable.com/submit",
+    "contact": "Cowlitz Tribal Foundation (via Submittable)",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Washington State outside Clark County"
+    },
+    "kinds": [
+      "community event",
+      "arts",
+      "cultural",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-06-30",
+        "label": "2026 Statewide Fund (closed); notification by Oct 30, 2026"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2026 round open spring to June 30; 2027 not yet posted",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Statewide companion to the Clark County Fund for Washington nonprofits outside Clark County. 2026 deadline was June 30, 2026 with awards by late October. Expect a similar late-spring deadline in 2027.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://cowlitzindiantribe.submittable.com/submit"
+    ]
+  },
+  {
+    "name": "Boeing Washington State community grants and community sponsorships",
+    "funder": "The Boeing Company (Global Engagement)",
+    "url": "https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/community-engagement/pdf/washington-state-grantmaking-guidelines.pdf",
+    "contact": "Leah Hausman, leah.s.hausman@boeing.com (community sponsorships, economic mobility)",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "King",
+        "Pierce",
+        "Snohomish"
+      ],
+      "cities": [],
+      "region": "King, Pierce and Snohomish counties"
+    },
+    "kinds": [
+      "community event",
+      "arts",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published; invitation-only grants plus a small number of larger community sponsorships",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2024-04-12",
+        "label": "2024 invited-applicant deadline (reference only)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Grant period opens around March 1 by invitation; event sponsorship requests must be emailed at least six months before the event",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Grantmaking is invitation-only in three pillars (STEM, veterans, economic mobility and environment); unsolicited proposals are not accepted. Separate community sponsorships may include arts and civic events, and event sponsorships are considered for nonprofits aligned with the pillars, typically with a Boeing executive on the board. Contact the local community investor first.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.boeing.com/content/dam/boeing/boeingdotcom/principles/community-engagement/pdf/washington-state-grantmaking-guidelines.pdf"
+    ]
+  },
+  {
+    "name": "Costco Wholesale Charitable Contributions (warehouse donations and grants)",
+    "funder": "Costco Wholesale",
+    "url": "https://costco.com/charitable-giving.html",
+    "contact": "Benevity online form (grants); warehouse donation request PDF",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "youth",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Rolling, one request per fiscal year (Sept to Aug)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Monetary requests only from 501(c)(3)s focused on children, education and health and human services in communities with a Costco warehouse. Local events apply through the warehouse donation form; larger broad-based organizations use the Benevity grant application. Arts and tourism events fit only if framed around children or education.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://costco.com/charitable-giving.html"
+    ]
+  },
+  {
+    "name": "PSE Powerful Partnerships",
+    "funder": "Puget Sound Energy",
+    "url": "https://pse.com/pages/in-your-community/powerful-partnerships",
+    "contact": "Powerfulpartnerships@pse.com",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "King",
+        "Pierce",
+        "Kitsap",
+        "Thurston",
+        "Whatcom",
+        "Skagit",
+        "Island",
+        "Kittitas",
+        "Lewis",
+        "Snohomish"
+      ],
+      "cities": [],
+      "region": "PSE electric and gas service territory"
+    },
+    "kinds": [
+      "community event",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "$12,500 contribution plus outreach partnership",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "2027 application round opens January 4, 2027",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual partnership (not a pure grant) with nonprofits in PSE's service territory that reach underserved residential customers; partners host six or more PSE outreach engagements and share energy-savings content. Suits community festivals and cultural events with large public attendance. The 2027 round opens January 4, 2027; closing date not posted.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://pse.com/pages/in-your-community/powerful-partnerships"
+    ]
+  },
+  {
+    "name": "PSE Foundation community grants",
+    "funder": "Puget Sound Energy Foundation",
+    "url": "https://psefoundation.org/en",
+    "contact": "psefoundation.org",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Varies; roughly $1.3 million across 550+ grants in a recent year",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Emergency and disaster relief category: apply by April 20 (year not stated); general cycle dates not posted",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Washington nonprofit grants focused on human services, food security, housing, emergency preparedness and education. Events are not a stated priority; relevant mainly for community events with a safety or resilience angle. Verify the current open window on psefoundation.org.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://grantedai.com/grants/2025-grants-from-pse-foundation-pse-foundation-8f9a31da"
+    ]
+  },
+  {
+    "name": "Avista Foundation grants (Arts and Culture, Economic and Community Vitality)",
+    "funder": "Avista Foundation",
+    "url": "https://www.avistafoundation.com",
+    "contact": "www.avistafoundation.com (eligibility quiz and online application)",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Spokane",
+        "Stevens",
+        "Pend Oreille",
+        "Lincoln",
+        "Whitman",
+        "Asotin",
+        "Garfield",
+        "Columbia",
+        "Ferry",
+        "Adams",
+        "Grant",
+        "Okanogan",
+        "Klickitat",
+        "Skamania"
+      ],
+      "cities": [],
+      "region": "Avista Utilities service territory in eastern and south-central Washington"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published; 2024 grants totaled more than $500,000 across 150+ awards",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Applications accepted every three months; specific quarterly dates posted on avistafoundation.com",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Quarterly competitive grants in five areas including arts and culture and economic and community vitality for nonprofits in communities served by Avista Utilities (WA, ID, OR, MT) and Juneau. Take the online eligibility quiz before applying. Festival and cultural event producers in the Spokane region are regular recipients.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.myavista.com/connect/articles/2024/12/avista-foundations-provides-year-round",
+      "https://theshareway.com/grant/avista-foundation-36828-arts-and-culture-proposals"
+    ]
+  },
+  {
+    "name": "T-Mobile Hometown Grants",
+    "funder": "T-Mobile (with Main Street America and Smart Growth America)",
+    "url": "https://www.t-mobile.com/brand/hometown-grants",
+    "contact": "Application portal on t-mobile.com/brand/hometown-grants",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Towns with populations under 50,000"
+    },
+    "kinds": [
+      "capital",
+      "community event"
+    ],
+    "applicants": [
+      "public agency",
+      "nonprofit",
+      "tribe"
+    ],
+    "award": "Up to $50,000 per town",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-12-31",
+        "label": "Q4 2026 portal close (quarterly: last day of each quarter)"
+      },
+      {
+        "date": "2027-03-31",
+        "label": "Q1 2027"
+      }
+    ],
+    "next_deadline": "2026-12-31",
+    "opens": "Portal reopens the first day of each quarter",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds shovel-ready physical projects that build or refresh community gathering spaces (parks, trails, downtown assets, historic buildings) in small towns, completed within 12 months. Applicants are local officials, tribal leaders or nonprofit community leaders. Not for operating costs or fees. The original five-year commitment has been described in the past tense, so confirm the program is still accepting applications before relying on it.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantable.co/grants/t-mobile-hometown-grants-27076c40daf2",
+      "https://mainstreet.org/howwecanhelp/hometowngrants"
+    ]
+  },
+  {
+    "name": "Kaiser Permanente Washington community sponsorships",
+    "funder": "Kaiser Foundation Health Plan of Washington",
+    "url": "https://about.kaiserpermanente.org/commitments-and-impact/healthy-communities/communities-we-serve/washington-community/grants-and-sponsorships",
+    "contact": "communityhealth.wa@kp.org; sponsorship applications via mosaic.versaic.com",
+    "level": "regional",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Washington counties served by Kaiser Permanente Washington (excludes Clark and Cowlitz, which fall under KP Northwest)"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "sports",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Not published",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-10-16",
+        "label": "For events Feb 1 to Apr 30, 2027 (closed)"
+      },
+      {
+        "date": "2026-08-21",
+        "label": "For events Nov 2026 to Jan 2027 (closed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Rolling quarterly sponsorship cycles; 2027 deadlines not yet posted (pattern: late January for May-July events, late May for Aug-Oct events, late August for Nov-Jan events, mid-October for Feb-Apr events)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Sponsorships for community events and activities aligned with KP's community health needs assessment, evaluated on reach, brand exposure, equity and employee engagement. Community health grants are invitation-only. One sponsorship per organization per calendar year; no local sports teams, school events or endowments.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://about.kaiserpermanente.org/commitments-and-impact/healthy-communities/communities-we-serve/washington-community/grants-and-sponsorships"
+    ]
+  },
+  {
+    "name": "People Helping People Awards",
+    "funder": "BECU",
+    "url": "https://www.becu.org/",
+    "contact": "communityrelations@becu.org",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "BECU membership areas (Washington; also OR, ID, SC)"
+    },
+    "kinds": [
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "$15,000 Community Benefit awards (14) up to $50,000 top award; plus $2,500 glide-path grants for two years",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-04-24",
+        "label": "2026 member nomination window (closed); 2027 expected April"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Member nominations open early April; finalists voted on by members; winners announced in December",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Member-nominated (not open application) awards for 501(c)(3)s in education, economic opportunity, health, environment, basic needs and community strengthening. A BECU member must nominate the organization. Low fit for pure arts or tourism events.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantedai.com/grants/becu-foundation-people-helping-people-awards-becu-foundation-72fdf8c2"
+    ]
+  },
+  {
+    "name": "Strategic Project Grants",
+    "funder": "M.J. Murdock Charitable Trust",
+    "url": "https://murdocktrust.org/grant-application-process",
+    "contact": "info@murdocktrust.org",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Pacific Northwest (WA, OR, ID, MT, AK)"
+    },
+    "kinds": [
+      "capital",
+      "arts",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Varies; typically larger capacity, capital and program-expansion grants",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-12-26",
+        "label": "LOI window Oct 15 to Dec 26, 2025 (closed)"
+      },
+      {
+        "date": "2026-04-09",
+        "label": "LOI window March 9/16 to April 9, 2026 (closed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Eligibility quiz then LOI during posted windows (fall and spring); invited full applications; decisions roughly six months later",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Capacity-building grants for construction, renovation, equipment and new staff or program expansion at Pacific Northwest nonprofits including arts and culture organizations. Not for annual events or operating. Three-stage process with capped LOI windows; declined applicants wait one year, returning grantees three years. Check murdocktrust.org for the fall 2026 and spring 2027 LOI windows.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantedai.com/grants/m-j-murdock-charitable-trust-strategic-project-grants-m-j-murdock-charitable-trust-1517aee4"
+    ]
+  },
+  {
+    "name": "Neighbor to Neighbor (N2N) grants",
+    "funder": "Seattle Foundation",
+    "url": "https://www.seattlefoundation.org/current-grant-opportunities/",
+    "contact": "N2N Program Consultant via seattlefoundation.org",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "King"
+      ],
+      "cities": [
+        "Seattle",
+        "Kent"
+      ],
+      "region": "South Seattle, White Center and Kent"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "arts",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $7,500 (recent grantees received $8,500)",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-01-30",
+        "label": "Quarterly deadline (Jan 30)"
+      },
+      {
+        "date": "2027-04-30",
+        "label": "Quarterly deadline (Apr 30)"
+      },
+      {
+        "date": "2027-07-30",
+        "label": "Quarterly deadline (Jul 30)"
+      },
+      {
+        "date": "2026-10-30",
+        "label": "Quarterly deadline (Oct 30); summer 2026 cycle was paused"
+      }
+    ],
+    "next_deadline": "2027-01-30",
+    "opens": "Quarterly; the summer 2026 cycle was paused and the application was expected to reopen in fall 2026",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Grassroots grants for resident-led groups (budgets generally under $200,000) in South Seattle, White Center and Kent that address economic and racial disparities, including community festivals and cultural gatherings. 501(c)(3) or fiscal sponsor required; one grant per calendar year; contact the program consultant before applying. Confirm the cycle has resumed before counting on a date.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.seattlefoundation.org/current-grant-opportunities/",
+      "https://grantable.co/grants/neighbor-to-neighbor-n2n-grant-21204d895aab"
+    ]
+  },
+  {
+    "name": "The Morgan Fund performing arts grants (2026-2027 cycle)",
+    "funder": "Seattle Foundation (Morgan Fund)",
+    "url": "https://www.seattlefoundation.org/current-grant-opportunities/",
+    "contact": "seattlefoundation.org",
+    "level": "regional",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Puget Sound"
+    },
+    "kinds": [
+      "arts"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Project grants up to $40,000; general operating up to $30,000 (invitation only)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-18",
+        "label": "2026-2027 cycle (closed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Annual; next cycle expected summer 2027",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Supports dance and theatre nonprofits in the Puget Sound region (or Washington, DC) with project grants for productions, capital equipment and capacity. One application per organization per cycle. Not for festivals outside dance and theatre.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.seattlefoundation.org/current-grant-opportunities/"
+    ]
+  },
+  {
+    "name": "Norman Archibald Charitable Foundation",
+    "funder": "Norman Archibald Charitable Foundation (administered by Seattle Foundation)",
+    "url": "https://www.seattlefoundation.org/current-grant-opportunities/",
+    "contact": "seattlefoundation.org",
+    "level": "regional",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Northwest Washington"
+    },
+    "kinds": [
+      "capital",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Rolling; proposals reviewed at quarterly board meetings",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Supports 501(c)(3)s operating in Northwest Washington with priority for capital and equipment projects. Arts and youth-arts organizations in King and Pierce counties are referred to ArtsFund; school foundations are ineligible. Useful for event infrastructure purchases rather than event operations.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.seattlefoundation.org/current-grant-opportunities/"
+    ]
+  },
+  {
+    "name": "Whitehorse Foundation",
+    "funder": "Whitehorse Foundation (Seattle Foundation supporting organization)",
+    "url": "https://www.seattlefoundation.org/current-grant-opportunities/",
+    "contact": "seattlefoundation.org",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Snohomish"
+      ],
+      "cities": [],
+      "region": "Snohomish County"
+    },
+    "kinds": [
+      "youth",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Two-page letters of inquiry accepted on an ongoing basis and reviewed after each quarter",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds Snohomish County nonprofits serving children, youth and families. Two-step process: LOI, then invited full application. Youth-focused festivals or family events are the fit.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.seattlefoundation.org/current-grant-opportunities/"
+    ]
+  },
+  {
+    "name": "Benjamin N. Phillips Memorial Fund",
+    "funder": "Seattle Foundation (Phillips Fund)",
+    "url": "https://www.seattlefoundation.org/current-grant-opportunities/",
+    "contact": "seattlefoundation.org",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Clallam"
+      ],
+      "cities": [],
+      "region": "Clallam County"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-07",
+        "label": "2026 letter of inquiry (closed); full applications were due Sept 30, 2026"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "LOIs open July 6, due August 7; invitations Sept 3; applications due Sept 30 (annual pattern)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Charitable organizations serving Clallam County. Two-step annual process each summer. Expect a similar July to September schedule in 2027.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.seattlefoundation.org/current-grant-opportunities/"
+    ]
+  },
+  {
+    "name": "Community Grants Program",
+    "funder": "Innovia Foundation",
+    "url": "https://innovia.org/apply-for-a-grant",
+    "contact": "Innovia grants team, 509-624-2606",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Ferry",
+        "Stevens",
+        "Pend Oreille",
+        "Lincoln",
+        "Spokane",
+        "Adams",
+        "Whitman",
+        "Columbia",
+        "Garfield",
+        "Asotin"
+      ],
+      "cities": [],
+      "region": "Eastern Washington (10 counties) and North Idaho"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "tribe",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$2,500 to $15,000; more than $1 million awarded annually",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-01-09",
+        "label": "2026 early-bird (closed)"
+      },
+      {
+        "date": "2026-02-06",
+        "label": "2026 final (closed); 2027 round expected to open December 2026"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Round typically announced mid-December with early-bird deadline in early January and final deadline in early February",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual competitive grants in arts and culture, economic opportunity, education and youth, health and quality of life for 501(c)(3)s, tribes, public entities and unincorporated associations serving the 20-county region. One application per cycle; early-bird applicants enter a $1,000 operating grant drawing. 2026 theme was Building Stability and Belonging.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.waitsburgtimes.com/story/2025/12/11/news-briefs/innovia-foundation-opens-2026-community-grants-round/21975.html",
+      "https://grantable.co/grants/innovia-foundation-community-grant-program-22b79bea4d30"
+    ]
+  },
+  {
+    "name": "Longest Table Microgrants",
+    "funder": "Innovia Foundation",
+    "url": "https://innovia.org/",
+    "contact": "Innovia grants team, 509-624-2606",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Ferry",
+        "Stevens",
+        "Pend Oreille",
+        "Lincoln",
+        "Spokane",
+        "Adams",
+        "Whitman",
+        "Columbia",
+        "Garfield",
+        "Asotin"
+      ],
+      "cities": [],
+      "region": "Eastern Washington and North Idaho (20 counties)"
+    },
+    "kinds": [
+      "community event",
+      "food/ag"
+    ],
+    "applicants": [
+      "nonprofit",
+      "tribe",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $2,500 per event; goal of at least 60 events funded",
+    "cycle": "annual",
+    "rolling": true,
+    "deadlines": [
+      {
+        "date": "2026-04-17",
+        "label": "2026 applications opened Apr 17; reviewed on a rolling basis from May 5 until funds ran out"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Expected to reopen spring 2027 for events June 1 to September 30",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Microgrants for community-led Longest Table shared-meal events (tables, chairs, permits, promotion, youth activities). Open to 501(c)(3)s, tribes, public entities and unincorporated groups in the Innovia region. Rolling review until funds are exhausted, so apply as soon as the window opens.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantedai.com/grants/longest-table-microgrants-innovia-foundation-40f87026"
+    ]
+  },
+  {
+    "name": "Woods Family Music and Arts Grant",
+    "funder": "Community Foundation of North Central Washington",
+    "url": "https://cfncw.org/woodsfamilymusicandartsgrant/",
+    "contact": "Jennifer Short, CFNCW",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Chelan",
+        "Douglas",
+        "Okanogan"
+      ],
+      "cities": [],
+      "region": "Chelan, Douglas and Okanogan counties (excluding the Methow Valley)"
+    },
+    "kinds": [
+      "music",
+      "arts",
+      "festival",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $5,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-01",
+        "label": "2026 cycle (closed); 2027 expected around September 1"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Applications open in August each year",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Project or operating support for music and arts programming in Chelan, Douglas and Okanogan counties (Methow Valley excluded). Open to 501(c)(3)s, government entities including schools, religious organizations and fiscally sponsored groups; one application per organization per cycle. Funds must be spent within one year; projects completed before award are ineligible.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-woods-family-music-and-arts-grants-2026-washington/",
+      "https://platform.grantexec.com/grants/b0bcd554-c4a0-459e-8fdb-1e69f47e0728-woods-family-grant-for-music-and-arts-program-in"
+    ]
+  },
+  {
+    "name": "Upper Valley Fund grants",
+    "funder": "Community Foundation of North Central Washington",
+    "url": "https://cfncw.org/",
+    "contact": "CFNCW, Wenatchee",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Chelan"
+      ],
+      "cities": [
+        "Leavenworth",
+        "Peshastin",
+        "Dryden",
+        "Plain",
+        "Lake Wenatchee"
+      ],
+      "region": "Upper Wenatchee Valley (Leavenworth area)"
+    },
+    "kinds": [
+      "community event",
+      "arts",
+      "cultural",
+      "festival",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Grants of about $2,000 and up (listing inconsistent; confirm with CFNCW)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Annual cycle; dates posted on cfncw.org",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Geographic community fund for 501(c)(3)s serving Leavenworth, Dryden, Peshastin, Lake Wenatchee and Plain; government and faith-based groups eligible only for project-specific requests; public schools ineligible. Relevant to Leavenworth festival planning. CFNCW also runs similar legacy and community funds (Cashmere, Waterville, Methow, Grand Coulee) with their own cycles.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://grantable.co/grants/upper-valley-fund-grant-6a0f764fe7d5"
+    ]
+  },
+  {
+    "name": "Project Neighborly grants",
+    "funder": "Whatcom Community Foundation",
+    "url": "https://whatcomcf.org/",
+    "contact": "whatcomcf.org",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Whatcom"
+      ],
+      "cities": [],
+      "region": "Whatcom County"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "arts",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $5,000; $173,000 to 36 projects in 2024",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Typically announced in spring; 2026/2027 dates not posted",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds ideas that bring neighbors together across differences (block parties, cultural gatherings, community meals, festivals) anywhere in Whatcom County. Open to nonprofits, tribal agencies, public and religious institutions and fiscally sponsored community groups such as granges and neighborhood associations. Check whatcomcf.org for the next round.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantable.co/grants/project-neighborly-grant-b968caa5b857",
+      "https://www.bellingham.org/2024-neighborly-grants-fund-36-projects-across-county"
+    ]
+  },
+  {
+    "name": "Community Grants",
+    "funder": "The Community Foundation of South Puget Sound",
+    "url": "https://thecommunityfoundation.com/",
+    "contact": "Tami Mason Lathrop, tami@thecommunityfoundation.com, 360-705-3340",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Thurston",
+        "Mason",
+        "Lewis"
+      ],
+      "cities": [],
+      "region": "Thurston, Mason and Lewis counties"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Typically $1,500 to $7,500; about $400,000 total in 2025, intended as two years of funding",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-08-29",
+        "label": "2025 cycle (closed); foundation states Community Grants reopen in 2027"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Expected to reopen August 2027 (2025 opened Aug 4, due Aug 29)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Mostly unrestricted grants to 501(c)(3)s and fiscally sponsored groups with at least three board members, used entirely within Thurston, Mason and Lewis counties, with arts and culture and civic engagement among the priorities. Two-year funding means no 2026 round; next opening is 2027. Service clubs, schools, PTOs and sports teams are ineligible.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://grantedai.com/grants/2025-community-project-grants-the-community-foundation-of-south-puget--86f4e60b",
+      "https://grantable.co/grants/cfsps-community-grants-program-348fa43e21ed"
+    ]
+  },
+  {
+    "name": "Yakima Valley Sponsorship Grants",
+    "funder": "Yakima Valley Community Foundation",
+    "url": "https://www.yakimavalleycf.org/",
+    "contact": "Send a letter or email request to YVCF at least 60 days before the event",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Yakima",
+        "Kittitas"
+      ],
+      "cities": [],
+      "region": "Yakima Valley (Kittitas County eligible with limited funding)"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "cultural",
+      "arts",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Up to $3,000",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Rolling, subject to funding availability; request at least 60 days before the event",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Event and project sponsorships for 501(c)(3)s and government entities whose events benefit the Yakima Valley community. Submit a letter describing the organization, event, request amount and community benefit. No capital construction, endowments, lobbying or sectarian activity.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantable.co/grants/yakima-valley-sponsorship-grants-19e109d30577"
+    ]
+  },
+  {
+    "name": "Discretionary Grants",
+    "funder": "Blue Mountain Community Foundation",
+    "url": "https://www.bluemountainfoundation.org/",
+    "contact": "bluemountainfoundation.org",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Walla Walla",
+        "Columbia",
+        "Garfield"
+      ],
+      "cities": [],
+      "region": "Walla Walla, Columbia and Garfield counties (plus Umatilla County, OR)"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Up to $20,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Annual cycle; 2026/2027 dates not published in this research",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Grants to 501(c)(3)s, municipalities, tribal governments and fiscally sponsored groups serving the Blue Mountain region. Fundraising events and event sponsorships are explicitly excluded, so frame requests as programs or community projects, not galas. Expenses already incurred are ineligible.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://grantable.co/grants/bmcf-discretionary-grants-219a080e37a5"
+    ]
+  },
+  {
+    "name": "Focus Grants",
+    "funder": "Community Foundation for Southwest Washington",
+    "url": "https://www.cfsww.org/grant-programs/focus-grants",
+    "contact": "cfsww.org; 610 Esther St, Suite 201, Vancouver",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Clark",
+        "Cowlitz",
+        "Skamania"
+      ],
+      "cities": [],
+      "region": "Clark, Cowlitz and Skamania counties"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$25,000 to $50,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-31",
+        "label": "2026 cycle (closed); 2027 not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2026 round opened mid-July",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Larger grants aimed at reducing intergenerational poverty and building resilience among underserved families in Southwest Washington; cultural events qualify only when they serve those priority populations and are community-led. Open to nonprofits, fiscally sponsored projects, government and tribal agencies, churches and school districts.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://us.fundsforngos.org/type-of-grantgrant/submit-applications-for-focus-grants-washington/"
+    ]
+  },
+  {
+    "name": "Annual Grant Cycle",
+    "funder": "3 Rivers Community Foundation",
+    "url": "https://3rcf.org/annual-grant-cycle/",
+    "contact": "3rcf.org, Kennewick",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Benton",
+        "Franklin"
+      ],
+      "cities": [],
+      "region": "Benton and Franklin counties (Tri-Cities)"
+    },
+    "kinds": [
+      "community event",
+      "arts",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "$500 to $10,000, average about $4,000; limited awards above $10,000 with staff pre-approval",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-16",
+        "label": "2026 cycle (closed); decisions in November"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Applications typically open in August; 2027 expected similar",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Grants to 501(c)(3)s serving Benton and Franklin counties, one application per cycle. Fundraising events and sponsorships are not funded, but community events with direct public benefit may be considered. No capital, endowment or retroactive costs; schools, PTOs, service clubs and sports teams ineligible.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://us.fundsforngos.org/type-of-grantgrant/3-rivers-community-foundation-grants-2026-washington/"
+    ]
+  },
+  {
+    "name": "Community Grants Program",
+    "funder": "Kitsap Community Foundation",
+    "url": "https://kitsapfoundation.org/apply-for-a-grant",
+    "contact": "kitsapfoundation.org",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Kitsap",
+        "Mason"
+      ],
+      "cities": [],
+      "region": "Kitsap County and North Mason County"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Up to $5,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-14",
+        "label": "2026 cycle (closed); 2027 not yet posted"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Applications typically open late summer",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Program or operating grants to nonprofits serving Kitsap or North Mason County in arts and culture, youth, education, environment and health. Reviewed on validated need, other support, evaluation and community impact.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://us.fundsforngos.org/type-of-grantgrant/kitsap-community-foundation-grant-program-2026-washington/"
+    ]
+  },
+  {
+    "name": "Annual Grant Cycle",
+    "funder": "Skagit Community Foundation",
+    "url": "https://skagitcf.org/scfgrants.html",
+    "contact": "360-419-3181",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Skagit"
+      ],
+      "cities": [],
+      "region": "Skagit County"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "music",
+      "community event",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "No set minimum or maximum; average $7,000 to $12,000, past awards $500 to $35,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-02-01",
+        "label": "2026-2027 annual cycle closes"
+      }
+    ],
+    "next_deadline": "2027-02-01",
+    "opens": "Opens November 1, 2026",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Competitive grants for nonprofits serving Skagit County in basic needs, arts and culture, youth and education. Up to two requests per cycle for different purposes; requests of $20,000 or more need reviewed or audited financials. The foundation also pays McIntyre Hall venue fees for local performing arts groups through designated funds.",
+    "recent_recipients": [
+      "Skagit Symphony $56,100 (2025, McIntyre Hall fees)",
+      "Pacific Northwest Opera $37,000 (2025)",
+      "Theater Arts Guild $25,519 (2025)",
+      "Skagit Valley Chorale $15,650 (2025)"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.kindora.co/en/funders/the-skagit-community-foundation",
+      "https://grantable.co/grants/skagit-community-foundation-grants-572ede716e70"
+    ]
+  },
+  {
+    "name": "Quarterly Impact Grants",
+    "funder": "Grays Harbor Community Foundation",
+    "url": "https://www.gh-cf.org/",
+    "contact": "gh-cf.org",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Grays Harbor"
+      ],
+      "cities": [],
+      "region": "Grays Harbor County"
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "community event",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Up to $5,000",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "label": "Quarterly deadline (listed)"
+      }
+    ],
+    "next_deadline": "2026-12-01",
+    "opens": "Quarterly; contact the foundation for the exact schedule",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Small quarterly grants for nonprofits serving Grays Harbor residents in the foundation's priority areas, which include arts, culture and history and community connection. Suited to one-time events, which the larger Community Building Grants exclude.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantable.co/grants/quarterly-impact-grants-c764682e029c"
+    ]
+  },
+  {
+    "name": "Community Building Grants",
+    "funder": "Grays Harbor Community Foundation",
+    "url": "https://www.gh-cf.org/",
+    "contact": "gh-cf.org",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Grays Harbor"
+      ],
+      "cities": [],
+      "region": "Grays Harbor County"
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural",
+      "capital",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "$5,000 to $30,000",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-04-01",
+        "label": "Spring 2027 cycle"
+      },
+      {
+        "date": "2027-10-01",
+        "label": "Fall 2027 cycle"
+      }
+    ],
+    "next_deadline": "2027-04-01",
+    "opens": "Two cycles per year, due April 1 and October 1",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Larger project grants for charitable entities (501(c)(3)s, school districts, cities) serving the public in Grays Harbor County. One award per 12 months. Excludes ongoing operating support and one-time activities, so recurring festival infrastructure or program development fits better than a single event.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantable.co/grants/ghcf-community-building-grants-program-147cc5ef5200"
+    ]
+  },
+  {
+    "name": "Rick Steves Europe Fund Capacity Grants",
+    "funder": "Community Foundation of Snohomish County",
+    "url": "https://cf-sc.org/non-profits/grant-opportunities/",
+    "contact": "cf-sc.org",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Snohomish"
+      ],
+      "cities": [],
+      "region": "Snohomish County"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Up to $5,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-07-17",
+        "label": "2026 cycle (closed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027 not yet posted",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Capacity-building grants (fundraising, finance, leadership, sustainability) for nonprofits, school districts and public agencies serving Snohomish County, with priority for BIPOC, immigrant and refugee-led groups and budgets of $1 million or less. Not for event costs, but useful for a small festival organization's infrastructure.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://grantedai.com/grants/rick-steves-europe-fund-capacity-grants-community-foundation-of-snohomish-county-ff07c530"
+    ]
+  },
+  {
+    "name": "Suquamish Clearwater Casino Resort donations and sponsorships",
+    "funder": "Suquamish Clearwater Casino Resort (Port Madison Enterprises)",
+    "url": "https://clearwatercasino.com/sponsorships-donations/",
+    "contact": "(360) 598-8700; online request forms",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Kitsap"
+      ],
+      "cities": [],
+      "region": "Kitsap County preferred"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "sports",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Goods, services and cash; amounts not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Submit 4 to 6 weeks before the donation is needed (requests with less than 4 weeks notice are not accepted); CEO Fund one week",
+    "match": null,
+    "reimbursement": null,
+    "notes": "In-kind and cash donations to Washington-registered nonprofits and 501(c)(3)s, more likely approved for Kitsap County events. No cash to political groups or children's organizations. Only approved applicants receive a reply. Cash can come from either Casino Donations or the PME CEO Fund in a calendar year, not both.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://clearwatercasino.com/sponsorships-donations/"
+    ]
+  }
+]
