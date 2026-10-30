@@ -1,0 +1,939 @@
+{
+  "Tourism and Cultural Investment (TACI) Grant": {
+    "jurisdiction": "Spokane County",
+    "source_urls": [
+      "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/minutes/2026/04/tcic-minutes-2026-04-15.pdf",
+      "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/minutes/2025/11/tcic-minutes-2025-11-21.pdf",
+      "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/minutes/2025/05/tcic-minutes-2025-05-30.pdf",
+      "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/minutes/2025/05/tcic-minutes-2025-05-02.pdf",
+      "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/minutes/2024/08/tcic-minutes-2024-08-15.pdf",
+      "https://my.spokanecity.org/news/releases/2025/10/14/city-tourism-cultural-investment-committee-wins-state-tourism-award/",
+      "https://cp.soar.com/articles/7023011/Spokane/Spokane-County/Washington/Tacky-Committee-recommends-tourism-and-cultural-awards-including-organizations-from-Spokane",
+      "https://static.spokanecity.org/documents/bcc/committees/tourism-and-cultural-investment-committee/taci-grant-workshop-presentation-march-2026.pdf",
+      "https://my.spokanecity.org/news/releases/2026/03/01/funding-available-for-tourism-and-cultural-investment-grant/",
+      "https://my.spokanecity.org/bcc/committees/lodging-tax-advisory-committee"
+    ],
+    "cycles_found": [
+      "2024 cycle (approved Aug 15, 2024; events late 2024-2025)",
+      "2025 cycle (approved May 2025; events Jul 2025-Jun 2026)",
+      "Fall 2025 application round for Spring 2026 events (approved Nov 21, 2025)",
+      "March 2026 application round for Jul 2026-Jun 2027 events (partial recommendations Apr 15, 2026; remainder at Apr 29, 2026 special meeting)"
+    ],
+    "total_awarded_latest": 81000,
+    "awards_count_latest": 15,
+    "typical_award": "$2,500 to $10,000 per event; $10,000 cap per organization. Most awards are $10,000 or $5,000. Committee sometimes adds $1,000 marketing stipends. Cycle totals have run $81,000 to $110,000.",
+    "awards": [
+      {
+        "year": "2026",
+        "recipient": "South Perry Street Fair",
+        "event": "South Perry Street Fair (passes)",
+        "amount": 10000,
+        "notes": "Approved 6-0 Apr 15, 2026 for Jul 2026-Jun 2027 cycle"
+      },
+      {
+        "year": "2026",
+        "recipient": "Terrain",
+        "event": "Terrain events of their choice",
+        "amount": 10000,
+        "notes": "Approved 4-2 Apr 15, 2026 after separate Terrain 17 ($10K) and BrrrZaar ($5K) motions failed 3-3"
+      },
+      {
+        "year": "2026",
+        "recipient": "GRAINMAKER Fest",
+        "event": "GRAINMAKER Fest",
+        "amount": null,
+        "notes": "Approved as presented 7-0 Apr 15, 2026; amount not in minutes"
+      },
+      {
+        "year": "2026",
+        "recipient": "Feast Fest",
+        "event": "Feast Fest",
+        "amount": null,
+        "notes": "Approved as presented 7-0 Apr 15, 2026; amount not in minutes"
+      },
+      {
+        "year": "2026",
+        "recipient": "Garland Pride",
+        "event": "Garland Pride",
+        "amount": null,
+        "notes": "Approved as presented 7-0 Apr 15, 2026; amount not in minutes"
+      },
+      {
+        "year": "2026",
+        "recipient": "Boomjam",
+        "event": "Boomjam Music Fest",
+        "amount": null,
+        "notes": "Approved as presented 7-0 Apr 15, 2026; amount not in minutes"
+      },
+      {
+        "year": "2026",
+        "recipient": "Punk Rock Flea Market Spokane",
+        "event": "Punk Rock Flea Market",
+        "amount": null,
+        "notes": "Approved as presented 7-0 Apr 15, 2026; amount not in minutes"
+      },
+      {
+        "year": "2026",
+        "recipient": "Spokane Hoopfest Association",
+        "event": "Hoopfest",
+        "amount": 2500,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Spokane Lilac Festival Association",
+        "event": "Lilac Festival",
+        "amount": 2500,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Nyne Bar and Bistro",
+        "event": null,
+        "amount": 5000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Odyssey Youth Movement",
+        "event": null,
+        "amount": 5000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Friendly Sons of St. Patrick",
+        "event": "St. Patrick's Day Parade",
+        "amount": 2500,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025; event name inferred from organization"
+      },
+      {
+        "year": "2026",
+        "recipient": "Spokane Chinese Association",
+        "event": null,
+        "amount": 5000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "The Family Guide",
+        "event": null,
+        "amount": 10000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Asian American Native Hawaiian Pacific Islander Coalition",
+        "event": null,
+        "amount": 2500,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Global Food and Art Market",
+        "event": null,
+        "amount": 5000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Thrive International",
+        "event": null,
+        "amount": 5000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Blue Door Theatre",
+        "event": null,
+        "amount": 10000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "MasterClass Big Band Foundation",
+        "event": null,
+        "amount": 10000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "American Cribbage Congress",
+        "event": null,
+        "amount": 5000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Vietnamese American Friendship Association of Spokane",
+        "event": null,
+        "amount": 5000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Downtown Spokane Partnership",
+        "event": null,
+        "amount": 6000,
+        "notes": "Spring 2026 cycle, approved Nov 21, 2025"
+      },
+      {
+        "year": "2026",
+        "recipient": "Lilac Bloomsday Association",
+        "event": "Bloomsday 50th Anniversary Race",
+        "amount": 5000,
+        "notes": "Separate motion Nov 21, 2025 (5-0); plus $1,000 marketing add-on(s) approved separately. Not counted in the $81,000 cycle total"
+      },
+      {
+        "year": "2025",
+        "recipient": "Nuestras Raices",
+        "event": "Tacos y Tequila",
+        "amount": 10000,
+        "notes": "2025 cycle, approved May 2025"
+      },
+      {
+        "year": "2025",
+        "recipient": "Boomjam",
+        "event": "Boomjam Music and Arts Festival",
+        "amount": 10000,
+        "notes": "2025 cycle"
+      },
+      {
+        "year": "2025",
+        "recipient": "Spokane Pride",
+        "event": "Garland Pride Parade",
+        "amount": 10000,
+        "notes": "2025 cycle"
+      },
+      {
+        "year": "2025",
+        "recipient": "Blue Door Theatre",
+        "event": null,
+        "amount": 10000,
+        "notes": "2025 cycle"
+      },
+      {
+        "year": "2025",
+        "recipient": "South Perry Street Fair",
+        "event": "South Perry Street Fair",
+        "amount": 10000,
+        "notes": "2025 cycle"
+      },
+      {
+        "year": "2025",
+        "recipient": "Curators of Sound",
+        "event": "Concert Series",
+        "amount": 10000,
+        "notes": "2025 cycle"
+      },
+      {
+        "year": "2025",
+        "recipient": "dom+bomb",
+        "event": "Fashion Show",
+        "amount": 5000,
+        "notes": "2025 cycle"
+      },
+      {
+        "year": "2025",
+        "recipient": "City of Spokane",
+        "event": "Special event barricades",
+        "amount": 10000,
+        "notes": "2025 cycle; equipment, not an event"
+      },
+      {
+        "year": "2025",
+        "recipient": "Terrain",
+        "event": "Terrain Flagship",
+        "amount": 10000,
+        "notes": "2025 cycle; approved 4-0 with one abstention. 2025 cycle total $85,000 across 9 awards plus $8,000 marketing stipend pool"
+      },
+      {
+        "year": "2024",
+        "recipient": "Terrain",
+        "event": "BrrrZAAR",
+        "amount": 10000,
+        "notes": "2024 cycle, approved Aug 15, 2024; 13 awards, $110,000 total"
+      },
+      {
+        "year": "2024",
+        "recipient": "Nuestras Raices",
+        "event": "Tacos y Tequila",
+        "amount": 10000,
+        "notes": "2024 cycle"
+      },
+      {
+        "year": "2024",
+        "recipient": "Blue Door Theatre",
+        "event": "Northwest Improv Fest",
+        "amount": 10000,
+        "notes": "2024 cycle; organizer inferred"
+      },
+      {
+        "year": "2024",
+        "recipient": "Asian Native Hawaiian Pacific Islander Heritage Festival",
+        "event": "AANHPI Heritage Festival",
+        "amount": 10000,
+        "notes": "2024 cycle"
+      },
+      {
+        "year": "2024",
+        "recipient": "Montvale Holiday Market",
+        "event": "Montvale Holiday Market",
+        "amount": 10000,
+        "notes": "2024 cycle"
+      },
+      {
+        "year": "2024",
+        "recipient": "Riverfront Trail of Lights",
+        "event": "Trail of Lights",
+        "amount": 5000,
+        "notes": "2024 cycle"
+      },
+      {
+        "year": "2024",
+        "recipient": "International Food Festival",
+        "event": "International Food Festival",
+        "amount": 10000,
+        "notes": "2024 cycle"
+      },
+      {
+        "year": "2024",
+        "recipient": "Kaleidoscope Festival",
+        "event": "Kaleidoscope Festival 2025",
+        "amount": 10000,
+        "notes": "2024 cycle; also Garland Pride $5K, NYE Celebration $5K, dom+bomb Spokane Fashion Weekend $10K, Boomjam $10K in same cycle"
+      }
+    ],
+    "notes": "Committee revived in 2024 after two dormant years; won a state tourism award Oct 2025. Latest full cycle documented is the Nov 21, 2025 approvals ($81,000, 15 awards, for events Jan-Jun 2026). The Apr 2026 cycle (events Jul 2026-Jun 2027) is only partly documented: Apr 15, 2026 minutes list 7 approvals, five without amounts, and the Apr 29, 2026 special-meeting minutes with the remaining recommendations were not retrievable. Press reporting on the Nov 2025 round said about 28 applications and roughly $86,000 with a $1,000-per-awardee marketing contingency. Committee discussed conflict-of-interest issues with member organizations applying (Jul 2026 agenda). Visit Spokane's TPA page now directs event organizers to TACI."
+  },
+  "Spokane Sports Community Grant": {
+    "jurisdiction": "Spokane County",
+    "source_urls": [
+      "https://spokanesports.org/community/grant-program",
+      "https://www.cheneyfreepress.com/story/2025/11/14/spokane-valley/city-approves-2026-tpa-budget/41382.html",
+      "https://www.sportstravelmagazine.com/tag/spokane-sports/"
+    ],
+    "cycles_found": [
+      "2024/2025 cycle (applications Nov 1-30, 2024; notifications Jan 2025)"
+    ],
+    "total_awarded_latest": null,
+    "awards_count_latest": null,
+    "typical_award": "Requests up to $10,000 across event support, equipment loan and marketing; marketing support capped at $3,000 per event. Hotel support is discounted-rate booking via EventConnect rather than cash.",
+    "awards": [],
+    "notes": "Spokane Sports does not publish a recipient list and no press coverage naming community-grant awardees was found. Program is for tournaments/competitions that generate overnight stays; local nonprofits and for-profits eligible; cash match encouraged but not required. Spokane Sports is itself funded by TPA (e.g., $700,000 from the Spokane Valley 2026 TPA budget). Recipient data would need to be requested directly from Spokane Sports."
+  },
+  "Spokane Arts Grant Awards (SAGA)": {
+    "jurisdiction": "Spokane County",
+    "source_urls": [
+      "https://spokanearts.org/2026-grantees/",
+      "https://spokanearts.org/2025-grantees/",
+      "https://spokanearts.org/SAGA-grants/",
+      "https://spokanearts.org/grantees/"
+    ],
+    "cycles_found": [
+      "2026 Round 1 (deadline Feb 1, announced Apr 1, 2026)",
+      "2026 Round 2 (deadline Jun 1, announced Aug 1, 2026)",
+      "2025 Rounds 1-3",
+      "2026 Round 3 pending (announced Dec 1, 2026)"
+    ],
+    "total_awarded_latest": 50000,
+    "awards_count_latest": 6,
+    "typical_award": "Requests up to $10,000; round pools of about $50,000 to $60,000 funding 6-8 projects, so typical awards run roughly $5,000 to $10,000. Annual total $166,000 (2025 and 2026). Three rounds per year.",
+    "awards": [
+      {
+        "year": "2026",
+        "recipient": "We F.E.W. (Filmmakers of Eastern Washington)",
+        "event": "Film project",
+        "amount": null,
+        "notes": "2026 Round 2 (6 funded of 48 applicants, $50,000 pool)"
+      },
+      {
+        "year": "2026",
+        "recipient": "Craig Rickett",
+        "event": "Developing 'Low Profile' (stage)",
+        "amount": null,
+        "notes": "2026 Round 2"
+      },
+      {
+        "year": "2026",
+        "recipient": "South Asia Cultural Association (SACA)",
+        "event": "Cultural programming",
+        "amount": null,
+        "notes": "2026 Round 2"
+      },
+      {
+        "year": "2026",
+        "recipient": "The Hot Club of Spokane",
+        "event": "Lilac City Stomp (dance event, Oct 24, 2026)",
+        "amount": null,
+        "notes": "2026 Round 2; event-type grant"
+      },
+      {
+        "year": "2026",
+        "recipient": "Power 2 The Poetry",
+        "event": "Youth poetry workshops",
+        "amount": null,
+        "notes": "2026 Round 2"
+      },
+      {
+        "year": "2026",
+        "recipient": "International Rescue Committee Spokane",
+        "event": "Creative Healing Arts Program",
+        "amount": null,
+        "notes": "2026 Round 2"
+      },
+      {
+        "year": "2026",
+        "recipient": "The Davis Family",
+        "event": "Mural",
+        "amount": null,
+        "notes": "2026 Round 1 (7 funded of 44 applicants, $50,000 pool)"
+      },
+      {
+        "year": "2026",
+        "recipient": "Jáiz Boyd / Birds in the Coast",
+        "event": "Fashion installation of 40 garments",
+        "amount": null,
+        "notes": "2026 Round 1"
+      },
+      {
+        "year": "2026",
+        "recipient": "Stehr Guitars",
+        "event": "The Luthier's Path Scholarship",
+        "amount": null,
+        "notes": "2026 Round 1"
+      },
+      {
+        "year": "2026",
+        "recipient": "Elk Soup",
+        "event": "Native arts market and coffee bar",
+        "amount": null,
+        "notes": "2026 Round 1; event/market-type grant"
+      },
+      {
+        "year": "2026",
+        "recipient": "RGZprints",
+        "event": "Printmaking",
+        "amount": null,
+        "notes": "2026 Round 1"
+      },
+      {
+        "year": "2026",
+        "recipient": "Holy Names Music Center",
+        "event": "Guitars for Vets",
+        "amount": null,
+        "notes": "2026 Round 1"
+      },
+      {
+        "year": "2026",
+        "recipient": "The Shades of Motherhood Network",
+        "event": "'Girl Get a Doula' film",
+        "amount": null,
+        "notes": "2026 Round 1"
+      },
+      {
+        "year": "2025",
+        "recipient": "Spokane Folklore Society",
+        "event": "Fall Folk Festival (30th anniversary, Nov 8-9, 2025)",
+        "amount": null,
+        "notes": "2025 Round 1 ($55,000 pool, 8 funded); festival-type grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Friends of the Bluff",
+        "event": "Brush on the Bluff festival",
+        "amount": null,
+        "notes": "2025 Round 1; festival-type grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Refugee and Immigrant Connection Spokane",
+        "event": "World Refugee Day 2025",
+        "amount": null,
+        "notes": "2025 Round 1; event-type grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Live From Somewhere",
+        "event": "Concert film series",
+        "amount": null,
+        "notes": "2025 Round 1"
+      },
+      {
+        "year": "2025",
+        "recipient": "Imagine Jazz",
+        "event": "Performance and community initiative",
+        "amount": null,
+        "notes": "2025 Round 1"
+      },
+      {
+        "year": "2025",
+        "recipient": "Boomjam Music and Arts Festival",
+        "event": "Boomjam (one-day all-ages music and arts festival)",
+        "amount": null,
+        "notes": "2025 Round 2 ($60,250 pool, 8 funded of 62 applicants); festival-type grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Spokane is Reading",
+        "event": "Tananarive Due author visit, Oct 23, 2025",
+        "amount": null,
+        "notes": "2025 Round 2"
+      },
+      {
+        "year": "2025",
+        "recipient": "KSPS PBS",
+        "event": "Inland Sessions",
+        "amount": null,
+        "notes": "2025 Round 2"
+      },
+      {
+        "year": "2025",
+        "recipient": "Spokane Civic Theatre",
+        "event": "Teaching artist stipends",
+        "amount": null,
+        "notes": "2025 Round 2"
+      },
+      {
+        "year": "2025",
+        "recipient": "Get Lit!",
+        "event": "Literary events with local and national authors",
+        "amount": null,
+        "notes": "2025 Round 3 ($50,750 pool, 8 funded of 43 applicants); event-type grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Northwest Museum of Arts and Culture (MAC)",
+        "event": "Four-day convening on the Indigenous Plateau's impact on American art",
+        "amount": null,
+        "notes": "2025 Round 3"
+      }
+    ],
+    "notes": "Spokane Arts publishes grantee names, projects and round totals but not per-grantee amounts. 2025: R1 $55,000/8, R2 $60,250/8, R3 $50,750/8 ($166,000 total). 2026: R1 $50,000/7, R2 $50,000/6; R3 to be announced Dec 1, 2026 (portal closed). Funded by City of Spokane. Festivals and public events are regularly funded alongside individual artist projects."
+  },
+  "Spokane County Tourism Promotion Area (TPA) event grants": {
+    "jurisdiction": "Spokane County",
+    "source_urls": [
+      "https://www.visitspokane.com/industry/industry-resources/tpa/",
+      "https://www.cheneyfreepress.com/story/2025/11/14/spokane-valley/city-approves-2026-tpa-budget/41382.html",
+      "https://cp.soar.com/articles/5619520/Spokane-Valley/Spokane-County/Washington/Spokane-Valley-City-Council-proposes-2026-budget-of-1775-million-for-events",
+      "https://cp.soar.com/articles/5419822/Spokane-Valley/Spokane-County/Washington/Spokane-Officials-Consider-TPA-Funding-for-2027-Valley-Event-Recruitment"
+    ],
+    "cycles_found": [],
+    "total_awarded_latest": null,
+    "awards_count_latest": null,
+    "typical_award": "Unknown. No published award list. Spokane Valley's separate TPA created a $170,000 Opportunity Fund for 2026 event marketing and venue promotion; a 2027 Valley event recruitment commitment of $15,000 to $20,000 was discussed.",
+    "awards": [],
+    "notes": "The Spokane County TPA Commission (administered through Visit Spokane) has 'opted to hold on Event Grants through 2027' and directs event and festival organizers to the City of Spokane TACI grant instead. TPA revenue ($5 per room night) funds Visit Spokane and Spokane Sports contracts. No recipient list for prior TPA event grants was found online. The City of Spokane Valley runs its own TPA ($1.77M 2026 budget: $875,000 to 116 & West for destination marketing, $700,000 to Spokane Sports, $170,000 Opportunity Fund); no Opportunity Fund awardees published yet."
+  },
+  "4Culture Projects grants": {
+    "jurisdiction": "King County",
+    "source_urls": [
+      "https://www.4culture.org/grants-artist-calls/past-grants/",
+      "https://www.4culture.org/grants/art-projects/",
+      "https://www.4culture.org/project-grants/",
+      "https://sococulture.org/open-4culture/",
+      "https://www.seattleaaff.org/news/saaff-2026-4culture-grant",
+      "https://ground.news/article/shoreline-preservation-society-receives-grant-to-fund-feasibility-study-about-moving-a-barracks-building-to-create-a-museum-at-fircrest",
+      "https://www.4culture.org/?p=44731"
+    ],
+    "cycles_found": [
+      "2026 cycle (applications due Mar 11, 2026; projects Jul 1, 2026-Jul 1, 2028)",
+      "2027 cycle (applications due Mar 10, 2027)"
+    ],
+    "total_awarded_latest": null,
+    "awards_count_latest": null,
+    "typical_award": "Art Projects: fixed request tiers of $2,500, $5,000, $7,500, $10,000, $12,500 or $15,000 (plus possible Equity Investment add-on). Heritage Projects: similar project-grant scale. Open 4Culture: up to $2,500, rolling. Historical benchmark: 2018 Projects round funded 196 projects totaling $1,076,996 from 441 applications.",
+    "awards": [
+      {
+        "year": "2026",
+        "recipient": "Seattle Asian American Film Festival (SAAFF)",
+        "event": "SAAFF 2026 festival programming",
+        "amount": 20000,
+        "notes": "Reported Apr 2026 as 4Culture Public Free Access program funding, not an Arts Projects grant; included as a festival example"
+      },
+      {
+        "year": "2026",
+        "recipient": "Shoreline Preservation Society",
+        "event": "Feasibility study for Fircrest barracks museum",
+        "amount": 25000,
+        "notes": "Reported Jul 2026 as a 4Culture 'Special Projects' heritage/preservation grant"
+      }
+    ],
+    "notes": "4Culture maintains a searchable awardee database (filter by Arts Projects - Groups, Arts Projects - Individuals, Heritage Projects, Open 4Culture; years 2022-2027) but results load dynamically and could not be extracted with the tools available; no static award-list PDF or press release for the 2025 or 2026 Projects rounds was found. Only two 2026 awards surfaced through news. Recommend opening https://www.4culture.org/grants-artist-calls/past-grants/ in a browser and filtering by grant name and year 2026 to pull event/festival recipients and amounts."
+  },
+  "Partnership in Economic Development Program (community/event grants)": {
+    "jurisdiction": "Chelan",
+    "source_urls": [
+      "https://kpq.com/port-authority-revamps-grant-program/",
+      "https://kpq.com/lake-chelan-wine-jazz-festival-support/",
+      "https://www.wenatcheeworld.com/wvbusiness/business-roundup/article_67c7c0a1-d856-4854-94ca-f1b27c32d22a.html",
+      "https://kpq.com/regional-port-gives-wenatchee-downtown-association-funds-for-possibilities-tour-economic-conference/",
+      "https://ccpd.com/partners-in-economic-development2",
+      "https://kpq.com/chelan-douglas-regional-port-unveils-new-funding-programs/"
+    ],
+    "cycles_found": [
+      "Rolling opportunity fund since 2022 (no annual call)",
+      "2024 awards",
+      "2025 awards (Feb 2025 roundup, year inferred)"
+    ],
+    "total_awarded_latest": 35000,
+    "awards_count_latest": 2,
+    "typical_award": "$5,000 to $20,000 for nonprofits (program guidance as of Feb 2024); earlier guidance (2019) cited $5,000 to $30,000 for nonprofits and municipalities. Event donations seen: $10,000 (festival), $1,000 to $2,000 (downtown association activities).",
+    "awards": [
+      {
+        "year": "2025",
+        "recipient": "Wenatchee Valley YMCA",
+        "event": null,
+        "amount": 20000,
+        "notes": "Partners for Economic Development grant; Wenatchee World roundup dated Feb 25, year inferred as 2025"
+      },
+      {
+        "year": "2025",
+        "recipient": "Pybus Public Market",
+        "event": "Westside Renovation Project / Pybus Railcar Stage",
+        "amount": 15000,
+        "notes": "Same roundup; year inferred as 2025"
+      },
+      {
+        "year": "2024",
+        "recipient": "Lake Chelan Wine and Jazz Festival",
+        "event": "Lake Chelan Wine and Jazz Festival (May 16-19, 2024)",
+        "amount": 10000,
+        "notes": "Approved early Feb 2024; triggered a program revamp requiring proof of out-of-area attendance and deficit-only event funding"
+      },
+      {
+        "year": "2022",
+        "recipient": "Wenatchee Downtown Association",
+        "event": "Possibilities Tour",
+        "amount": 1000,
+        "notes": "Feb 2022"
+      },
+      {
+        "year": "2022",
+        "recipient": "Wenatchee Downtown Association",
+        "event": "Revitalize WA Conference",
+        "amount": 2000,
+        "notes": "Feb 2022"
+      }
+    ],
+    "notes": "cdrpa.org was not fetchable (not on allowlist); program page at ccpd.com describes it as an opportunity fund (nonprofit track and municipality track) with no deadline and no published recipient list. In Feb 2024 commissioners moved to tighten event funding: applicants must show attendees from outside Chelan/Douglas counties, port money covers event deficits only, and the program would shift away from tourism toward living-wage jobs and private investment. Amounts above come from news reports, not an official list; 2025 year for YMCA/Pybus is inferred."
+  },
+  "Historical Promotion Grants": {
+    "jurisdiction": "Clark County",
+    "source_urls": [
+      "https://clark.wa.gov/community-planning/historical-promotion-grants-program",
+      "https://clark.wa.gov/community-planning/2025-historical-promotion-grants-informational-meeting-and-application-deadline",
+      "https://clark.wa.gov/community-planning/application-period-now-open-2024-historical-promotion-grants",
+      "https://clark.wa.gov/community-planning/county-council-awards-50000-2020-historical-promotion-grants"
+    ],
+    "cycles_found": [
+      "2026 cycle (closed; awards Dec 2025, funds Jan 2026)",
+      "2025 cycle (applications due Sep 16, 2024; awards Dec 2024)",
+      "2024 cycle (applications due Sep 15, 2023)",
+      "2020 cycle (last published award list)"
+    ],
+    "total_awarded_latest": null,
+    "awards_count_latest": null,
+    "typical_award": "Based on the last published list (2020): $50,000 pool, 8 awards ranging from about $1,000 to $14,000, median roughly $5,000 to $6,000. Reimbursement after project completion. Funded by $1 document-recording surcharge (RCW 36.22.170).",
+    "awards": [
+      {
+        "year": "2020",
+        "recipient": "Venersborg School",
+        "event": null,
+        "amount": 14000,
+        "notes": "Electrical upgrade"
+      },
+      {
+        "year": "2020",
+        "recipient": "Columbia Dance",
+        "event": "Nutcracker production with Fort Vancouver themes",
+        "amount": 9100,
+        "notes": "Event/performance-type award"
+      },
+      {
+        "year": "2020",
+        "recipient": "Clark County Historical Museum, Two Rivers Heritage Museum and WSU Vancouver Library",
+        "event": "Women's organizations and suffrage exhibit",
+        "amount": 8500,
+        "notes": null
+      },
+      {
+        "year": "2020",
+        "recipient": "Downtown Camas Association and Georgia Pacific",
+        "event": "Georgia Pacific Mill photo collage",
+        "amount": 6000,
+        "notes": null
+      },
+      {
+        "year": "2020",
+        "recipient": "Traveling Day Society",
+        "event": null,
+        "amount": 5800,
+        "notes": "Instruments and PA system"
+      },
+      {
+        "year": "2020",
+        "recipient": "Columbia Springs",
+        "event": "Biddle Family Homestead guided-walk interpretation",
+        "amount": 4300,
+        "notes": null
+      },
+      {
+        "year": "2020",
+        "recipient": "North Clark Historic Museum",
+        "event": null,
+        "amount": 1339,
+        "notes": "Photo and postcard storage"
+      },
+      {
+        "year": "2020",
+        "recipient": "North Clark Historic Museum",
+        "event": null,
+        "amount": 961,
+        "notes": "TV/DVD player"
+      },
+      {
+        "year": "2020",
+        "recipient": "Historic Preservation Commission",
+        "event": "Downtown Camas interpretive panels",
+        "amount": 8000,
+        "notes": "Separate from the $50,000 pool"
+      }
+    ],
+    "notes": "The county has not posted award announcements for the 2024, 2025 or 2026 cycles; the most recent published list is the 2020 cycle (announced Dec 30, 2019). Program was suspended in 2021 per page metadata and later resumed. Eligibility is limited to nonprofits/public entities that operate a museum or similar institution or conduct heritage education/interpretation in Clark County; an event qualifies only with a local-history interpretation angle. Recent awardee lists would require a records request to historicpreservation@clark.wa.gov or review of Clark County Council consent agendas in November/December."
+  },
+  "Port of Vancouver USA Community Fund": {
+    "jurisdiction": "Clark County",
+    "source_urls": [
+      "https://www.portvanusa.com/news/port-of-vancouver-usa-announces-recipients-of-2026-community-fund/",
+      "https://www.portvanusa.com/news/port-of-vancouver-usa-announces-recipients-of-2025-community-fund/",
+      "https://www.portvanusa.com/news/port-of-vancouver-usa-announces-recipients-of-2024-community-fund/",
+      "https://www.portvanusa.com/community/community-fund"
+    ],
+    "cycles_found": [
+      "2026 (announced Feb 23, 2026)",
+      "2025 (announced Feb 27, 2025)",
+      "2024 (announced Feb 22, 2024)"
+    ],
+    "total_awarded_latest": 10000,
+    "awards_count_latest": 4,
+    "typical_award": "$2,500 (all 2025 and 2026 awards); $1,500 to $3,000 in 2024. Fixed $10,000 annual pool, usually four awards. Highly competitive: 24 applicants requested $134,923 in 2026.",
+    "awards": [
+      {
+        "year": "2026",
+        "recipient": "Hudson's Bay High School Construction Trades Program",
+        "event": null,
+        "amount": 2500,
+        "notes": "Materials and nine Saturday open-shop days"
+      },
+      {
+        "year": "2026",
+        "recipient": "Latinos Unidos y Floreciendo (LUYF)",
+        "event": "Youth leadership and agriculture program at Heritage Farm",
+        "amount": 2500,
+        "notes": null
+      },
+      {
+        "year": "2026",
+        "recipient": "Vancouver Arena Project",
+        "event": "Vancouver Go-Fest (Pokémon Go festival, Esther Short Park, summer 2026)",
+        "amount": 2500,
+        "notes": "Event; funded second year running"
+      },
+      {
+        "year": "2026",
+        "recipient": "Vancouver Ballet Folklorico",
+        "event": "Luminarias Dia de Muertos (fall 2026, Esther Short Park)",
+        "amount": 2500,
+        "notes": "Event; sound, lighting and enhancements"
+      },
+      {
+        "year": "2025",
+        "recipient": "Ke Kukui Foundation",
+        "event": "4 Days of Aloha festival",
+        "amount": 2500,
+        "notes": "Second year of port support; 17 applicants requested $90,000"
+      },
+      {
+        "year": "2025",
+        "recipient": "Vancouver Bee Project",
+        "event": "Pollinator festival at Marshall Park (June)",
+        "amount": 2500,
+        "notes": "Event"
+      },
+      {
+        "year": "2025",
+        "recipient": "The Historic Trust / Providence Academy Small Business Incubator",
+        "event": null,
+        "amount": 2500,
+        "notes": "Lease support for incubator tenants"
+      },
+      {
+        "year": "2025",
+        "recipient": "Vancouver Arena Project",
+        "event": "Vancouver Go-Fest (third annual)",
+        "amount": 2500,
+        "notes": "Event"
+      },
+      {
+        "year": "2024",
+        "recipient": "Vancouver Symphony Orchestra",
+        "event": "Vancouver Arts and Music Festival (second annual)",
+        "amount": 3000,
+        "notes": "Event; 11 applicants requested $64,800"
+      },
+      {
+        "year": "2024",
+        "recipient": "WHY Community",
+        "event": "Community runs and fitness events",
+        "amount": 1500,
+        "notes": "Free registrations"
+      },
+      {
+        "year": "2024",
+        "recipient": "Ke Kukui Foundation",
+        "event": "4 Days of Aloha festival",
+        "amount": 2500,
+        "notes": "Event; cultural workshops"
+      },
+      {
+        "year": "2024",
+        "recipient": "Partners in Careers",
+        "event": null,
+        "amount": 3000,
+        "notes": "Youth Entrepreneurs Academy"
+      }
+    ],
+    "notes": "Complete official lists for 2024-2026. Projects must be inside port district boundaries and support economic development, workforce or tourism. Festivals in Esther Short Park have been funded repeatedly. Contact: Gigi Harker-Olguin, (360) 518-2550."
+  },
+  "Cowlitz County Tourism Grant (Lodging Tax)": {
+    "jurisdiction": "Longview",
+    "source_urls": [
+      "https://www.klog.com/cowlitz-county-tourism-2026-27-tourism-grants-classic-hits-100-7-klog-news/",
+      "https://www.klog.com/120000-awarded-in-2025-tourism-marketing-grants-to-boost-local-events-and-tourism-klog-100-7-news/",
+      "https://www.klog.com/2026-27-cowlitz-county-tourism-grant-program-now-open-classic-hits-100-7-klog-news/",
+      "https://www.klog.com/cowlitz-county-tourism-opens-applications-for-2026-small-grant-program-klog-100-7-news"
+    ],
+    "cycles_found": [
+      "2026-27 Large Grant Program (awards announced Apr 27, 2026; up to $200,000)",
+      "2026 Tourism Marketing / Small Grant Program ($55,000 awarded for 2026; applications were due Nov 5, 2025)",
+      "2025 Tourism Marketing Grants ($120,400, announced Feb 7, 2025)"
+    ],
+    "total_awarded_latest": 200000,
+    "awards_count_latest": null,
+    "typical_award": "Marketing/small grants: $10,000 to $15,000 for the largest event awards (2025), with a $50,000 pool in 2026. Large (infrastructure) grants: about $33,000 to $60,000 per award from a $200,000 pool in 2026-27. All reimbursement-based.",
+    "awards": [
+      {
+        "year": "2026",
+        "recipient": "Rotary Club of Longview",
+        "event": "Martin's Dock upgrades",
+        "amount": 60000,
+        "notes": "2026-27 Large Grant; infrastructure"
+      },
+      {
+        "year": "2026",
+        "recipient": "Mount St. Helens Motorcycle Club",
+        "event": null,
+        "amount": 55000,
+        "notes": "2026-27 Large Grant; infrastructure"
+      },
+      {
+        "year": "2026",
+        "recipient": "Northern County Recreation Association",
+        "event": "Pavilion completion",
+        "amount": 34000,
+        "notes": "2026-27 Large Grant; reported as 'about $34,000'"
+      },
+      {
+        "year": "2026",
+        "recipient": "Big Smoke in Cowlitz County",
+        "event": "Big Smoke event infrastructure",
+        "amount": 33000,
+        "notes": "2026-27 Large Grant; reported as 'about $33,000'. Four named awards total about $182,000 of 'nearly $200,000'"
+      },
+      {
+        "year": "2026",
+        "recipient": "Unnamed recipients",
+        "event": "2026 Tourism Marketing Grants",
+        "amount": 55000,
+        "notes": "Aggregate only; $55,000 in marketing grants awarded for 2026, recipients not named in coverage"
+      },
+      {
+        "year": "2025",
+        "recipient": "Kalama Cultural Festival",
+        "event": "Kalama Cultural Festival",
+        "amount": 15000,
+        "notes": "2025 Tourism Marketing Grant; largest award"
+      },
+      {
+        "year": "2025",
+        "recipient": "Lelooska Foundation",
+        "event": "Advertising and outreach",
+        "amount": 12000,
+        "notes": "2025 Tourism Marketing Grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Big Smoke in Little Kalama",
+        "event": "Big Smoke in Little Kalama",
+        "amount": 10000,
+        "notes": "2025 Tourism Marketing Grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Crafted Beer & Wine Festival",
+        "event": "Crafted Beer & Wine Festival",
+        "amount": 10000,
+        "notes": "2025 Tourism Marketing Grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Lilac Gardens",
+        "event": "Lilac Days",
+        "amount": 10000,
+        "notes": "2025 Tourism Marketing Grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "SquatchFest",
+        "event": "SquatchFest",
+        "amount": 10000,
+        "notes": "2025 Tourism Marketing Grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Squirrel Fest",
+        "event": "Squirrel Fest",
+        "amount": 10000,
+        "notes": "2025 Tourism Marketing Grant"
+      },
+      {
+        "year": "2025",
+        "recipient": "Tour de Blast",
+        "event": "Tour de Blast",
+        "amount": 10000,
+        "notes": "2025 Tourism Marketing Grant; 8 named awards total $87,000 of $120,400"
+      }
+    ],
+    "notes": "Cowlitz County Tourism (visitmtsthelens.com, Tourism Director Kim Boccuti, 360-577-3137) runs two tracks: an annual Tourism Marketing/Small Grant for events (applications due early November; $50,000 pool for 2026) and a Large Grant for infrastructure and major projects (applications due Mar 25, 2026; up to $200,000, projects within two years, must draw visitors from beyond 50 miles). Only radio-news coverage (KLOG) was found; the county does not appear to post full award lists online, so smaller 2025 recipients ($33,400 of the total) and 2026 marketing recipients are unnamed. Program is Cowlitz County-wide, not limited to Longview."
+  },
+  "Olympic Peninsula Visitor Bureau Tourism Project Grants": {
+    "jurisdiction": "Sequim",
+    "source_urls": [
+      "https://olympicpeninsula.org/wp-content/uploads/2024/10/2025-Tourism-Enhancement-Grant-Guidelines.pdf",
+      "https://olympicpeninsula.org/?p=3783",
+      "https://www.sequimgazette.com/2014/03/27/visitor-bureau-awards-17650-in-tourism-grants/"
+    ],
+    "cycles_found": [
+      "2025 Tourism Enhancement Grant (about $125,000; application rounds Nov 4, 2024, Mar 3, 2025, Jun 2, 2025)",
+      "2026 cycle (applications due Nov 5, 2025 for Q1-Q2 2026; reimbursement form posted)",
+      "2027 cycle (draft guidelines and application posted)"
+    ],
+    "total_awarded_latest": null,
+    "awards_count_latest": null,
+    "typical_award": "Usually up to $7,500 per project/event and up to $15,000 per organization per year; partial funding common. Annual pool about $125,000 (2025). Priority to events marketed off the Peninsula, in unincorporated Clallam County, in the mid-October to May 31 shoulder season, lasting two or more days and generating lodging.",
+    "awards": [],
+    "notes": "Now branded the Clallam County Tourism Enhancement Grant, administered by OPVB and funded by unincorporated Clallam County lodging tax (RCW 67.28.1816). OPVB does not publish award lists; the only recipient coverage found was a 2014 Sequim Gazette item ($17,650 awarded that round). Large events and infrastructure are referred to the Clallam County LTAC instead. Advertising inside Clallam/Jefferson counties is capped at 25% of the award; OPVB logo and OlympicPeninsula.org link required on materials; final report within 45 days with room-night data. Contact OPVB at 360-452-8552 for prior awardees."
+  }
+}

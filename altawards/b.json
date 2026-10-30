@@ -1,0 +1,1355 @@
+{
+ "Special Events Funding (City of Tacoma)": {
+  "jurisdiction": "Tacoma",
+  "source_urls": [
+   "https://tacoma.gov/?p=31492",
+   "https://cms.tacoma.gov/cerc/2025%20agenda/02192025_cerc_minutes-revised_2025.pdf",
+   "https://www.cityoftacoma.org/specialevents",
+   "https://cityoftacoma.org/in_the_news/special_events_funding_announced_for_2024",
+   "https://tacoma.gov/news/community-event-funding-announced-for-2027/",
+   "https://cms.tacoma.gov/cerc/2025%20agenda/11192025_cerc_agenda.pdf"
+  ],
+  "cycles_found": [
+   "2024 events (39 awards, $90,000)",
+   "2025 events (26 awards, $90,000, $2,500-$5,000 each)",
+   "2026 events (28 awards, $90,000, $2,500-$5,000 each)",
+   "2027 events ($90,000 approved Sept 2026; recipient list not retrieved)"
+  ],
+  "total_awarded_latest": 90000,
+  "awards_count_latest": 28,
+  "typical_award": "$2,500-$5,000 (2025 and 2026 cycles); program total is fixed at $90,000/yr funded by Tacoma Venues & Events revenue. Earlier cycles ran $1,000-$5,000.",
+  "awards": [
+   {
+    "year": "2026",
+    "recipient": "Alchemy Skateboarding",
+    "event": "Go Skate Tacoma",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Asia Pacific Cultural Center",
+    "event": "Asia Pacific New Year Celebration",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Black Night Market",
+    "event": "SoulFull Festival",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Caribbean Queens",
+    "event": "Caribbean Queens Festival",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Community Aunties",
+    "event": "Miss Juneteenth Pageant",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Entertainment Resource Alliance",
+    "event": "Military Marvels Art Market",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Hilltop Artists in Residence",
+    "event": "Arts Night Out Block Party",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Job Carr Cabin Museum",
+    "event": "Tacoma Fiber Fling",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Lincoln International Business Association",
+    "event": "Lunar New Year Festival",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "LTD Presents",
+    "event": "Downtown Tacoma Blues & Jazz Festival",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "McKinley Hill Business Association",
+    "event": "McKinley Hill Haunted Street Fair",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Museum of Glass",
+    "event": "Glass Fest Northwest",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Oasis Youth Center",
+    "event": "Oasis's Pride Block Party",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Proctor Business District Association",
+    "event": "Proctor Arts Fest",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Rainbow Center",
+    "event": "Tacoma Pride Festival",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Remakery",
+    "event": "Remaker Fair",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Sixth Avenue Business District",
+    "event": "Art on the Ave",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "South End Neighborhood Council",
+    "event": "SENCo Block Party Fern Hill Edition",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Art Museum",
+    "event": "Dia de los Muertos Festival",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Central Neighborhood Council",
+    "event": "Tacoma Porchfest",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Light Trail",
+    "event": "Tacoma Light Trail New Year's Eve Celebration",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Parks Foundation / Parks Tacoma",
+    "event": "MOSAIC",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Puzzle Hunt",
+    "event": "Tacoma Puzzle Hunt",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Refugee Choir",
+    "event": "Rally for Peace and Welcoming",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Sister Cities",
+    "event": "Tacoma Kitakyushu Children's Day",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Washington State Historical Society",
+    "event": "IN THE SPIRIT Arts Market & Northwest Native Festival",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "WayOut Kids",
+    "event": "Juneteenth Celebration: A Road to Economic Freedom",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Write253",
+    "event": "Wayzgoose",
+    "amount": null,
+    "notes": "Per-award amount not published; 2026 awards ranged $2,500-$5,000; 28 awards from $90,000 (avg ~$3,214)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Downtown On the Go",
+    "event": "Parking Day 2025",
+    "amount": 5000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Hilltop Artists in Residence",
+    "event": "Arts Night Out",
+    "amount": 5000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Lincoln International Business Association",
+    "event": "Lincoln District Lunar New Year Festival",
+    "amount": 5000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Rainbow Center",
+    "event": "Tacoma Pride Festival",
+    "amount": 5000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Hope Leadership Trust",
+    "event": "Disability Day Street Festival",
+    "amount": 4000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Tacoma HONK! Fest",
+    "event": "Tacoma HONK! Fest",
+    "amount": 4000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Entertainment Resource Alliance",
+    "event": "Market Military Marvels",
+    "amount": 4000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Central Neighborhood Council",
+    "event": "Tacoma Porchfest",
+    "amount": 4000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "The Paloma Project",
+    "event": "La Paloma Marketplace: Indigenous Art Day",
+    "amount": 4000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Asia Pacific Cultural Center",
+    "event": "Asia Pacific New Year Celebration",
+    "amount": 4000,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Greentrike",
+    "event": "MathFest",
+    "amount": 3500,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   },
+   {
+    "year": "2025",
+    "recipient": "WayOut Kids (BYTM)",
+    "event": "Juneteenth Celebration: A Road to Economic Freedom",
+    "amount": 3500,
+    "notes": "From Feb 19, 2025 CERC minutes (26 awards total; 12 highest shown here)"
+   }
+  ],
+  "notes": "Latest cycle with a published recipient list is 2026 events (announced Jan 17, 2026); per-award amounts were not published for 2026 or 2024, only for 2025 (CERC minutes). The remaining 14 of the 26 2025 awards were $2,500-$3,000: Tacoma Art Museum, Tacoma Light Trail, WA State Historical Society, Black Night Market, Proctor Business District, Tacoma Sister Cities (Japanese Children's Day), Tacoma Refugee Choir, Write253 ($3,000 each); Tacoma Arts Live, UW Tacoma, Caribbean Queens, Tacoma Concert Band, Classical Tuesdays, South End Neighborhood Council ($2,500 each). 2025 cycle: 50 applications requesting $133,600; 11 of 26 were first-time recipients. A 2027 cycle ($90,000) was approved Sept 24, 2026 but the awardee page could not be fetched. Recurring recipients across cycles: Rainbow Center/Tacoma Pride, Tacoma Light Trail, Proctor Arts Fest, Asia Pacific Cultural Center, WayOut Kids Juneteenth, Write253 Wayzgoose, Tacoma Porchfest, Tacoma Art Museum Dia de los Muertos, Museum of Glass Glass Fest. Events must be free, all-ages and in Tacoma."
+ },
+ "Pierce County Tourism Promotion Area (TPA) Grant - Event Marketing": {
+  "jurisdiction": "Tacoma",
+  "source_urls": [
+   "https://www.piercecountywa.gov/5732/Tourism-Promotion-Area-TPA-Program",
+   "https://www.piercecountywa.gov/DocumentCenter/View/158540",
+   "https://www.piercecountywa.gov/DocumentCenter/View/143062",
+   "https://www.piercecountywa.gov/DocumentCenter/View/134913",
+   "https://www.piercecountywa.gov/DocumentCenter/View/110038/2022-TPA-Funded-Programs",
+   "https://www.piercecountywa.gov/DocumentCenter/View/158780",
+   "https://www.piercecountywa.gov/DocumentCenter/View/158779",
+   "https://www.piercecountywa.gov/DocumentCenter/View/160631/TPAC-Agenda-8-19-26",
+   "https://www.piercecountywa.gov/DocumentCenter/View/158539"
+  ],
+  "cycles_found": [
+   "FY2022",
+   "FY2024",
+   "FY2025",
+   "FY2026",
+   "2027 cycle (applications closed July 3, 2026; awards decided Aug 19, 2026, list not published online)"
+  ],
+  "total_awarded_latest": 856080,
+  "awards_count_latest": 1,
+  "typical_award": "Published allocations go to a single recipient (the Tacoma-Pierce County CVB / Travel Tacoma) for its Tourism and Sports Marketing Program. For the 2027 cycle the county posted category pools: Event Marketing $42,950, Sports Event Marketing $55,500, Conventions & Meetings $67,500, Individual Leisure Marketing $55,500, Personnel & Administration $800,000 (total $1,021,450). Individual event-marketing grant sizes are not published.",
+  "awards": [
+   {
+    "year": "FY2026",
+    "recipient": "Tacoma-Pierce County Convention & Visitor Bureau (Travel Tacoma)",
+    "event": "Pierce County Tourism and Sports Marketing Program",
+    "amount": 856080,
+    "notes": "Only TPA recipient listed in the county's FY2026 TPA allocation document"
+   },
+   {
+    "year": "FY2025",
+    "recipient": "Tacoma-Pierce County Tourism Authority",
+    "event": "Pierce County Tourism and Sports Marketing Program",
+    "amount": 1351340,
+    "notes": "Only TPA recipient listed for FY2025"
+   },
+   {
+    "year": "FY2024",
+    "recipient": "Tacoma Regional Convention & Visitor Center - Pierce County",
+    "event": "Tourism and Sports Marketing Program",
+    "amount": 1508810,
+    "notes": "Only TPA recipient listed for FY2024"
+   },
+   {
+    "year": "FY2022",
+    "recipient": "Tacoma Regional Convention & Visitor Center - Pierce County",
+    "event": "Tourism and Sports Marketing Program",
+    "amount": 1400000,
+    "notes": "Only TPA recipient listed for FY2022"
+   },
+   {
+    "year": "FY2026",
+    "recipient": "Foothills Rails to Trails Coalition",
+    "event": "2026 Rainier to Ruston Relay",
+    "amount": 30000,
+    "notes": "NOT TPA: Pierce County Lodging Tax (LTAC) FY2026 award, listed for comparison since the same office runs both programs"
+   },
+   {
+    "year": "FY2026",
+    "recipient": "Sumner Main Street Association",
+    "event": "Rhubarb Days 2026",
+    "amount": 20000,
+    "notes": "NOT TPA: Pierce County Lodging Tax FY2026 award, comparison only"
+   },
+   {
+    "year": "FY2026",
+    "recipient": "PNGA - The Home Course",
+    "event": "Summer Golf Fest",
+    "amount": 30000,
+    "notes": "NOT TPA: Pierce County Lodging Tax FY2026 award, comparison only"
+   }
+  ],
+  "notes": "Pierce County publishes TPA 'funded programs' documents by fiscal year, but every year found (FY2022, FY2024, FY2025, FY2026) lists one recipient: the county CVB (Travel Tacoma) for a combined tourism and sports marketing program. The Event Marketing and Sports Event Marketing categories first appear as separately pooled line items for the 2027 cycle (Event Marketing $42,950 pool; Sports Event Marketing $55,500 pool; scoring requires 300 peak / 500 total room nights for Event Marketing and 200 room nights per event for Sports). The 2027 awards were on the Aug 19, 2026 TPA Commission agenda ('2027 Grant Awarding Decisions') but no award list or minutes with recipients were posted. TPAC agendas reference 'recipient quarterly reports' but do not name recipients. No per-event TPA award to a festival or sports event could be verified. The county's separate Lodging Tax program (up to $5.5M for 2027, categories including New Event Development and Existing Event Marketing & Operations) does publish per-event awards; three FY2026 LTAC event awards are included above and flagged as non-TPA."
+ },
+ "Tacoma Creates Impact Funding": {
+  "jurisdiction": "Tacoma",
+  "source_urls": [
+   "https://tacoma.gov/?p=37863",
+   "https://www.southsoundmag.com/arts-entertainment/tacoma-creates-2025-26-funding/article_bb428ecb-6dbf-491a-981e-10bf7f0c71c0.html",
+   "https://cityoftacoma.org/in_the_news/74_arts__culture__heritage__and_science_organizations_funded_by_tacoma_creates_for_2024-2025",
+   "https://cms.cityoftacoma.org/CEDD/TacomaCulture/arts/TC_2026-27ImpactFundingGuidelines.pdf",
+   "https://cms.tacoma.gov/CEDD/TacomaCulture/arts/TCAB_Minutes_060225.pdf",
+   "https://weekly-volcano.com/?p=5437"
+  ],
+  "cycles_found": [
+   "2024-25 (74 orgs, ~$5.9M, all Tacoma Creates categories)",
+   "2025-26 (80 orgs, ~$6.4M)",
+   "2026-27 (80 orgs, ~$6.4M, July 1 2026-June 30 2027)"
+  ],
+  "total_awarded_latest": 6400000,
+  "awards_count_latest": 80,
+  "typical_award": "Impact Funding Level A: requests $3,000-$19,999 (or youth-class-only requests); Level B: requests $20,000-$60,000. Request may cover at most 50% of program cost (1:1 match). Totals above cover Impact plus Comprehensive Organizational Support combined; the city does not publish per-organization amounts or which level each org received.",
+  "awards": [
+   {
+    "year": "2026-27",
+    "recipient": "6th Avenue Business District",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Alchemy Skateboarding",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Arts First",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Arts Impact",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Asia Pacific Cultural Center",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Barefoot Collective",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Buffalo Soldiers Museum",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Butoh Tacoma",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Capoeira Vida",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Chinese Reconciliation Project Foundation",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Classical Tuesdays in Old Town Tacoma",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Communities for a Healthy Bay",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Cousin Collective",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Das Biest Performance Project",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "elements of education",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Energize Tacoma",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Fablab Nonprofit",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Foss Waterway Seaport Maritime Museum",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Greentrike",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Guma'Imahe",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Hilltop Artists",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Hilltop Urban Gardens",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Historic Tacoma",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Job Carr Cabin Museum",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Khmer Language Arts and Culture Academy",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Kikaha O Ke Kai Outrigger Paddling Club",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "LeMay - America's Car Museum",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Lincoln International Business Association",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Metropolitan Ballet of Tacoma",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Mi Centro",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Museum of Glass",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "New Tacoma Neighborhood Council",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Northwest Sinfonietta",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Puget Sound Revels",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Rainbow Center",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Spaceworks Tacoma",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Symphony Tacoma",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Tacoma Art Museum",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Tacoma Arts Live",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   },
+   {
+    "year": "2026-27",
+    "recipient": "Tacoma Light Trail",
+    "event": null,
+    "amount": null,
+    "notes": "Tacoma Creates 2026-27 funded organization; level (Impact A/B vs Comprehensive) and amount not published"
+   }
+  ],
+  "notes": "The city announces funded organizations by name only. Per-organization amounts and the Impact Level A / Level B / Comprehensive split are not published in press releases, TCAB minutes, or guidelines; TCAB minutes (June 2, 2025) only confirm notifications went out. The 40 orgs listed are the first half (alphabetical) of the 80 funded for 2026-27; the other 40 are: Tacoma City Ballet, Tacoma Community Boat Builders, Tacoma Concert Band, Tacoma Fun Parade, Tacoma Historical Society, Tacoma Little Theatre, Tacoma Music Academy, Tacoma Music Collaborative, Tacoma Musical Playhouse, Tacoma Opera, Tacoma Photo Center, Tacoma Puzzle Hunt, Tacoma Refugee Choir, Tacoma Sister Cities, Tacoma Tree Foundation, Tacoma Youth Symphony Association, Tacoma Youth Theatre, Tahoma Indian Center, Ted Brown Music Outreach, The Grand Cinema, The Kareem Kandi World Orchestra, The Night Media Foundation, The Puget Sounds, Toolbox Learning Laboratories, Vision253, WayOut Kids, World Affairs Council of Tacoma, Write253, Mo' Motion Dance, Momentum Musician LLC, Northwest Repertory Singers, Oasis Youth Center, One Table Show, Pacific Northwest Dance Foundation, Queer NW, Remakery, Screaming Butterflies Theatre, Second Cycle Community Cycle Center, Southeast Asian Comedy Collective, Swan Creek Art Academy. Eligibility requires a Tacoma business address (limited Pierce County exception for orgs delivering 75%+ programming in Tacoma) and a primary purpose of arts, culture, heritage or science. Average award across all categories is roughly $80,000 but that is skewed by large Comprehensive awards to museums and theaters."
+ },
+ "Community Arts Projects (Tacoma Arts Commission)": {
+  "jurisdiction": "Tacoma",
+  "source_urls": [
+   "https://tacoma.gov/?p=30788",
+   "https://list.cityoftacoma.org/empathy/thread/G3ZFTT5U6HIVGA2VEPLX7L4SCEZKAJ47",
+   "https://cms.tacoma.gov/CEDD/TacomaCulture/arts/TA_Minutes_120825.pdf",
+   "https://cms.tacoma.gov/CEDD/TacomaCulture/arts/TA_ArtsProjects_2026APDraft.pdf",
+   "https://lists.ctbirding.org/empathy/thread/2IQT44H3PYFOB4NEOE5LIJONP3KZKRZA",
+   "https://lists.ctbirding.org/empathy/thread/KRFOFVH7JUITQ2WFWUOCN4G2JNS4U6ML",
+   "https://tacoma.gov/government/departments/arts-cultural-vitality/funding/"
+  ],
+  "cycles_found": [
+   "2024 (28 projects, $156,000)",
+   "2025 (21 projects, $148,000)",
+   "2026 (30 projects, $147,000; announced Jan 7, 2026)",
+   "2027 (deadline passed; awards expected Dec 2026, not yet published)"
+  ],
+  "total_awarded_latest": 147000,
+  "awards_count_latest": 30,
+  "typical_award": "$4,000-$6,000 in 2026 (guidelines offered $3,000/$6,000/$9,000 tiers, but the panel spread $147,000 across 30 of 51 eligible applicants requesting $300,000). 2025 awards ran $3,000-$9,000; 2024 awards were $3,000 or $6,000.",
+  "awards": [
+   {
+    "year": "2026",
+    "recipient": "Alliance for Accessibility",
+    "event": "We are Not Forgotten Showcase",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Asia Pacific Cultural Center",
+    "event": "28th Annual Asia Pacific New Year Celebration Featuring Cambodia",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Barefoot Collective",
+    "event": "Dancing in the Park",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Black Night Market",
+    "event": "Black Night Market Events: Poetry After Dark, Holiday Markets, and Black Art Soiree",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Capoeira Vida",
+    "event": "Free Capoeira Vida Youth, Family, and Adult Programs",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement); Plan A listed $4,000, so final amount may be either"
+   },
+   {
+    "year": "2026",
+    "recipient": "Caribbean Queens",
+    "event": "Caribbean Queens Festival",
+    "amount": 4500,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement); Plan A listed $4,000, so final amount may be either"
+   },
+   {
+    "year": "2026",
+    "recipient": "Chinese Reconciliation Project Foundation",
+    "event": "Tacoma Moon Festival",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Foss Waterway Seaport",
+    "event": "Tacoma Salmon in the Classroom Art Project",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Greentrike",
+    "event": "Sparks at Children's Museum of Tacoma",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Hilltop Artists",
+    "event": "Monkeyshines Citywide Treasure Hunt",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Lincoln District Business Association",
+    "event": "Lincoln District Lunar New Year Festival",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Museum of Glass",
+    "event": "Glass Fest Northwest",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Northwest Sinfonietta",
+    "event": "'Voices Rise' Concert with La Cantina and Northwest Sinfonietta",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "One Table Show",
+    "event": "Building the Table: Developing Semi-Improvisational Theater",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement); Plan A listed $4,500, so final amount may be either"
+   },
+   {
+    "year": "2026",
+    "recipient": "Por Vida NW",
+    "event": "Music in the Park",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Queer Northwest",
+    "event": "Queer Art Project Mural",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "SENCo Creates!",
+    "event": "Wright Avenue Mural",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Sheridan Elementary PTA",
+    "event": "Sheridan Elementary Mural",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Sing Tacoma (Erin Guinup Voice Studio)",
+    "event": "Sing Tacoma: One Night, One Piece, One Shared Song",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Art Museum",
+    "event": "Dia de los Muertos Festival",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Arts Live",
+    "event": "Lemon Sessions",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma City Ballet",
+    "event": "Open Adult and Dance for Wellness Classes",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Light Trail",
+    "event": "New Year's Eve Celebration",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Tacoma Public Schools Arts Department",
+    "event": "Student Art Exhibit Opening Night at Handforth Gallery",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "The Chayah Movement",
+    "event": "Threads of Freedom Showcase",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "The Method Skateboards & Coffee",
+    "event": "Skate Of The Art 2: A Skateboard Art Show",
+    "amount": 4000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "Trio Guadalevin",
+    "event": "El Noroeste: A Musical History of Latine Communities in Washington",
+    "amount": 4500,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement); Plan A listed $4,000, so final amount may be either"
+   },
+   {
+    "year": "2026",
+    "recipient": "Vision253",
+    "event": "Generation 253",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement); Plan A listed $4,500, so final amount may be either"
+   },
+   {
+    "year": "2026",
+    "recipient": "Washington State History Museum",
+    "event": "IN THE SPIRIT Arts Market & Northwest Native Festival",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2026",
+    "recipient": "WayOut Kids",
+    "event": "Juneteenth Celebration: A Road to Economic Freedom",
+    "amount": 6000,
+    "notes": "Amount from Dec 8, 2025 Arts Commission minutes (Plan B, the 30-recipient plan matching the final announcement)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Asia Pacific Cultural Center",
+    "event": "27th Annual Asia Pacific New Year Celebration featuring India",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "Black Night Market LLC",
+    "event": "Black Night Market Events: Holidays, Poetry After Dark, Art Soiree",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "Chinese Reconciliation Project Foundation",
+    "event": "Tacoma Moon Festival",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "Hilltop Artists",
+    "event": "Monkeyshines Project",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "Lincoln International Business Association",
+    "event": "Lincoln District Lunar New Year Festival",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "Museum of Glass",
+    "event": "Glass Fest Northwest",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "Por Vida NW",
+    "event": "Lincoln District Food Walk",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "The Painting Panda Pottery Studio LLC",
+    "event": "'Kai's Room' Collaborative Art Installation",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "Washington State Historical Society",
+    "event": "IN THE SPIRIT Arts Market & Northwest Native Festival",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   },
+   {
+    "year": "2025",
+    "recipient": "WayOut Kids",
+    "event": "Juneteenth Celebration: A Road to Economic Freedom Festival",
+    "amount": 9000,
+    "notes": "Announced Dec 16, 2024; 21 awards totaling $148,000 at $3,000/$4,000/$6,000/$9,000 levels; 10 of 21 shown"
+   }
+  ],
+  "notes": "The Jan 7, 2026 press release names the 30 recipients and the $147,000 total but not per-project amounts; amounts above come from the Dec 8, 2025 Tacoma Arts Commission minutes, which recorded two allocation plans (A: 31 recipients incl. Mattice Beauty Supply; B: 30 recipients). The final list of 30 matches Plan B, so Plan B amounts are used; six projects differed between plans and are flagged. Erin Guinup Voice Studio in the minutes appears as Sing Tacoma in the press release. Remaining 2025 awards: ArtCity $6,000; Asia Pacific Cultural Center (From Scratch) $6,000; Caribbean Queens $6,000; Foss Waterway Seaport $6,000; Greentrike $6,000; Mattice Beauty Supply $6,000; Tacoma Art Museum $6,000; UW Tacoma $6,000; Tacoma Refugee Choir $4,000; Rob Young Productions $3,000; TUPAC $3,000. Program is for Tacoma-based organizations, groups and businesses running inclusive public arts projects; festivals with an arts component (Lunar New Year, Glass Fest, Moon Festival, Juneteenth, Light Trail NYE) are regular recipients."
+ },
+ "Snohomish County Tourism Promotion Area (TPA) Grant": {
+  "jurisdiction": "Lynnwood",
+  "source_urls": [
+   "https://www.snohomishcountywa.gov/5416/Tourism-Promotion-Area-Advisory-Board",
+   "https://www.snohomishcountywa.gov/DocumentCenter/View/143046/TPA-Projects-2025-updated-08012025",
+   "https://www.snohomishcountywa.gov/DocumentCenter/View/143047/TPA-Projects-2024-updated-061124",
+   "https://www.snohomishcountywa.gov/DocumentCenter/View/143048/TPA-Projects-2023"
+  ],
+  "cycles_found": [
+   "2023 (23 projects listed)",
+   "2024 (15 projects, $1,076,990)",
+   "2025 (26 projects, $1,847,275, through Aug 1, 2025)",
+   "2026 (board met monthly Jan-Aug 2026; no 2026 project list posted)"
+  ],
+  "total_awarded_latest": 1847275,
+  "awards_count_latest": 26,
+  "typical_award": "Event grants mostly $5,000-$50,000 (median roughly $20,000); a few large marketing contracts ($60,000-$400,000) and the Sports Commission operating budget (~$620,000-$650,000) dominate the totals. Grants are reimbursement-based and awarded on a rolling basis (apply 4 months ahead for under $50,000, 6 months for larger).",
+  "awards": [
+   {
+    "year": "2025",
+    "recipient": "Snohomish County Sports Commission",
+    "event": "2025 Operating Budget",
+    "amount": 647000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Run Super Series",
+    "event": "2025 Snohomish Women's Run",
+    "amount": 10000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "BLAST",
+    "event": "BLAST Rocket League",
+    "amount": 400000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Spartan Race, Inc.",
+    "event": "2025 Spartan Race",
+    "amount": 125000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Eventuris",
+    "event": "Everett 3on3",
+    "amount": 40000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Crave NW",
+    "event": "Crave Northwest",
+    "amount": 36300,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Everett Comedy",
+    "event": "2025 Season",
+    "amount": 24750,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "City of Lynnwood",
+    "event": "Lynnwood Best Bites Dining",
+    "amount": 25000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Chamber Music Marysville",
+    "event": "2025 Holiday Launch",
+    "amount": 1000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "B.I.K.E.S. Club",
+    "event": "2025 McClinchy Mile Camano Classic Bike Ride",
+    "amount": 2675,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Snohomish Youth Soccer",
+    "event": "Snohomish United L2",
+    "amount": 5000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Endurocross",
+    "event": "Motocross",
+    "amount": 25000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Snohomish Running Co.",
+    "event": "Centennial Race",
+    "amount": 10000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Everett Pride",
+    "event": "2025 Pride Event",
+    "amount": 26000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Meet Me in Arlington",
+    "event": "Film campaign",
+    "amount": 15000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Everett Music Initiative",
+    "event": "2025 Marketing",
+    "amount": 60000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Schack Art Center",
+    "event": "2025 Marketing",
+    "amount": 40000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Cruizin to Colby",
+    "event": "Cruizin to Colby",
+    "amount": 10000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "DVA",
+    "event": "FIFA Marketing Phase 1",
+    "amount": 165000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Snohomish County Sports Commission",
+    "event": "Supplemental insurance cost",
+    "amount": 6050,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "GeekFest",
+    "event": "GeekFest West 2025",
+    "amount": 50000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Stars Unlimited 3 on 3",
+    "event": "Stars Unlimited Summer 3 on 3",
+    "amount": 5000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Village Theatre",
+    "event": "2026 Mainstage Productions",
+    "amount": 60000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Stanwood-Camano Arts Advocacy Commission (SCAAC)",
+    "event": "MACFest",
+    "amount": 10000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Imagine Children's Museum",
+    "event": "Regional marketing & assets",
+    "amount": 40000,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2025",
+    "recipient": "Economic Alliance Snohomish County",
+    "event": "North Puget Sound Contracting Conference",
+    "amount": 8500,
+    "notes": "TPA Projects 2025 list (updated Aug 1, 2025)"
+   },
+   {
+    "year": "2024",
+    "recipient": "The World Wake Association",
+    "event": "2024 WWA Wakeboard & Wakesurf National Championships",
+    "amount": 50000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Spartan Race",
+    "event": "Spartan Trifecta Weekend",
+    "amount": 75000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Snohomish Youth Soccer",
+    "event": "Snohomish United 2024 Bigfoot Tournament",
+    "amount": 40000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Snohomish County Sports Commission",
+    "event": "Sports Commission Operating Budget",
+    "amount": 619690,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Cycle City Promotions",
+    "event": "2024 AMA EnduroCross",
+    "amount": 20000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Run Super Series",
+    "event": "2024 Snohomish Women's Run",
+    "amount": 2500,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Eventuris",
+    "event": "Everett 3on3",
+    "amount": 30000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Cruzin to Colby",
+    "event": "Rock the Boat",
+    "amount": 40000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Everett Comedy Night",
+    "event": "Everett Comedy Night",
+    "amount": 18000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Sky Valley Chamber",
+    "event": "Sky & Sno Adventure Guide Magazine Digital Promotion",
+    "amount": 10000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "DVA",
+    "event": "Connected TV",
+    "amount": 96000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Everett Jets FC",
+    "event": "Everett Jets FC",
+    "amount": 5000,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Lynnwood Light Rail",
+    "event": "Marketing",
+    "amount": 50800,
+    "notes": "TPA Projects 2024 final allocations"
+   },
+   {
+    "year": "2024",
+    "recipient": "Stanwood-Camano Arts Advocacy Commission",
+    "event": "MAC Festival",
+    "amount": 15000,
+    "notes": "TPA Projects 2024 final allocations"
+   }
+  ],
+  "notes": "Snohomish County posts year-by-year TPA project lists (2023, 2024, 2025); 2025 is the latest, updated Aug 1, 2025 so late-2025 awards may be missing. No 2026 list was posted as of Oct 30, 2026; 2026 board minutes are hosted on a squarespace subdomain that could not be fetched. 2024 list also included a $5,000 RRC Associates study (omitted above). 2023 list totals do not reconcile ($562,350 listed vs $410,850 stated); 2023 awards included IIHF U18 Women's Championship $100,000, Spartan Race $75,000, NW Aerials $40,000, WIAA Volleyball $40,000, US Pro Gymnastics $40,450, Everett 3on3 $35,000, Snohomish Running Co. $30,000. Spectator events with hotel-night draw (Spartan Race, Everett 3on3, Cruizin to Colby, Everett Pride, GeekFest, MACFest, Women's Run) are funded every year. City of Lynnwood itself received $25,000 (2025, Best Bites) and $50,800 (2024, light rail marketing). Purpose is overnight stays; applications go through the county Jotform and the TPA Advisory Board recommends to County Council. Separate county Hotel-Motel (lodging tax) small fund averages $10,000 per award, $5,000-$50,000 range."
+ },
+ "Bothell Creative Arts Grant Program": {
+  "jurisdiction": "Bothell",
+  "source_urls": [
+   "https://www.bothellwa.gov/m/newsflash/Home/Detail/649",
+   "https://app.entrythingy.com/calls/external/20252026-creative-arts-grant-program/",
+   "https://www.bothellwa.gov/CivicAlerts.aspx?AID=645&ARC=1719",
+   "https://app.govly.com/public/meetings/45272",
+   "https://citizenportal.ai/articles/6683654/washington/king-county/bothell/bothell-arts-commission-approves-202526-creative-grant-selections-directs-staff-to-finalize-details"
+  ],
+  "cycles_found": [
+   "2024 program (projects unveiled 2025)",
+   "2025/2026 program (applications closed Aug 4, 2025; selections announced Sept 22, 2025; projects due by Dec 1, 2026)",
+   "2027-2028 budget request pending ($50,000 proposed for the grant program)"
+  ],
+  "total_awarded_latest": null,
+  "awards_count_latest": null,
+  "typical_award": "$500-$10,000 per project (2025/2026 guidelines). Individual artists, groups and non-501(c)(3) organizations eligible; applicants need not live in Bothell but the public culminating event must benefit Bothell residents.",
+  "awards": [
+   {
+    "year": "2025",
+    "recipient": "Rohini Mathur",
+    "event": "Blooms and Winged Wonders: Pollinators Celebration (community mural, Bothell Library / Park at Bothell Landing)",
+    "amount": null,
+    "notes": "Named in Aug 22, 2025 city news flash as a Creative Arts Grant project; amount not published"
+   },
+   {
+    "year": "2025",
+    "recipient": "Rachael Kutz with Whale Scout",
+    "event": "Orca conservation mural, former Wayne Golf Course trail",
+    "amount": null,
+    "notes": "Named in Aug 22, 2025 city news flash; amount not published"
+   },
+   {
+    "year": "2025",
+    "recipient": "William Schlough",
+    "event": "Life-sized interactive sculpture, Park at Bothell Landing",
+    "amount": null,
+    "notes": "Named in Aug 22, 2025 city news flash; amount not published"
+   },
+   {
+    "year": "2025",
+    "recipient": "Deepti Agarwal",
+    "event": "The Art Courtyard: Traditional Visual Art Festival (Bothell Library, Sept 13, 2025)",
+    "amount": null,
+    "notes": "Named in Aug 22, 2025 city news flash; amount not published"
+   }
+  ],
+  "notes": "The City of Bothell does not publish a Creative Arts Grant recipient list with amounts. The Arts Commission approved 2025/2026 selections in Sept 2025 (citizenportal.ai meeting summaries exist but returned 403 and could not be read). The only named recipients found are four 2025 projects from an Aug 2025 city news item (amounts not stated). Jan 2026 Arts Commission summary: $10,000 allocated for other art projects in 2026 and a $100,000 request for the 2027-2028 budget split evenly between a utility-box art program and the Creative Arts Grant program (pending council), implying roughly $50,000/biennium for grants. Past funded work per the city: visual art exhibitions, operettas, hip-hop dance performances, film screenings. Applications run via EntryThingy/CaFE each summer."
+ },
+ "Lynnwood Event Partnership (Community Event Collaboration)": {
+  "jurisdiction": "Lynnwood",
+  "source_urls": [
+   "https://www.lynnwoodwa.gov/Community/Play-Lynnwood/Healthy-Lynnwood/Community-Events/Event-Partnership",
+   "https://www.lynnwoodwa.gov/Community/Play-Lynnwood/Healthy-Lynnwood/Community-Events/Community-Event-Collaboration-Grant",
+   "https://www.lynnwoodwa.gov/Community/Community-Engagement/Community-Events",
+   "https://www.lynnwoodwa.gov/Community/Play-Lynnwood/Healthy-Lynnwood/Community-Events/Event-Sponsorships",
+   "https://lynnwoodwa.gov/Community/Play-Lynnwood/Healthy-Lynnwood/Healthy-Lynnwood-Grants"
+  ],
+  "cycles_found": [
+   "Ongoing/rolling (no cycle structure); grant cash component suspended due to city budget constraints as of 2026"
+  ],
+  "total_awarded_latest": null,
+  "awards_count_latest": null,
+  "typical_award": "No cash award currently. In-kind partnership only: event promotion through Inside Lynnwood, eNews, poster displays and city social media ads; city staff participation at the event; Mayor and/or council appearance; public facility or space rental. Eligible events must be free, open to the public, in Lynnwood city limits, and expected to serve 250+ people.",
+  "awards": [],
+  "notes": "The city publishes no list of partnered events or what each received. The program page states the Community Event Collaboration Grant's cash funding is suspended because of city budget constraints; only the in-kind Event Partnership benefits remain, applied for via an online form (contact Events@lynnwoodwa.gov, 425-670-5504). The related Healthy Lynnwood mini-grant (community arts projects, 1:1 match, rolling reviews March/June/September) is marked GRANTS CLOSED with no recipients published. The city's own produced events (CELEBRATE! music festival ~2,500 attendance, Fair on 44th ~3,000, Paws in the Park, Sandlot Cinemas, Shakespeare in the Park) are listed on the Event Sponsorships page, where the city seeks sponsors starting at $300; those are city events, not partnership grantees. For cash support for a Lynnwood event, the Snohomish County TPA (City of Lynnwood received $25,000 in 2025 and $50,800 in 2024) and county Hotel-Motel fund are the active channels."
+ }
+}
