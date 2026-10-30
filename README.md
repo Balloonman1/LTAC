@@ -13,7 +13,7 @@ Data was compiled from official city and county pages, application packets, agen
 
 - Every card has a Follow button; "My list" in the toolbar shows only followed jurisdictions. The Sort menu orders by soonest deadline, most dollars open to applicants, largest total fund, or name.
 - On the claude.ai artifact version, visitors enter an email to create or open their own list. Lists are stored in the artifact's shared data store under `lists/<email>` as `{email, follows[], created, lastSeen, visits, userId}`. Saving requires the visitor to be signed in to claude.ai with at least Contributor ("can interact") access to the artifact. To see who has a list, ask Claude for an export of the `lists` collection.
-- On this static copy (Netlify), lists are saved in the browser's local storage only and no email is collected.
+- On the Netlify copy, lists, board posts and corrections are stored in Netlify Blobs through the serverless function in `netlify/functions/store.mjs` (served at `/api/store`). Visitors browse freely; they are asked for an email only when they tap Follow. Export: `GET /api/store?c=lists&export=1&key=<ADMIN_KEY>` (same for `board` and `corrections`). `ADMIN_KEY` is an environment variable set in the Netlify site settings; exports are disabled until it is set.
 
 ## Pool fields
 

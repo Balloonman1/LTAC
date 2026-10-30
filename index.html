@@ -299,6 +299,8 @@ table.bench td a{font-weight:600}
 .gseg{margin-top:14px;flex-wrap:wrap}
 .law.guide h2{font-size:22px}
 .law.guide{scroll-margin-top:60px}
+
+.acct.pulse{outline:3px solid var(--accent);outline-offset:3px;transition:outline-color .3s}
 </style>
 <header class="mast gutter"><div class="inner">
   <p class="eyebrow">Washington State · RCW 67.28 · updated <span id="asof"></span></p>
@@ -716,7 +718,7 @@ const groups = [
   {id:'none',title:'No LTAC grant pool',desc:'These collect significant hotel tax but commit it elsewhere (a convention center, housing, a marketing contract, a county program). Each card lists the other public funding routes an event can use there.'}
 ];
 let typeF='all', statF='all', cycF='all', countyF='', q='', mineF=false, sortF='deadline';
-let follows=new Set(), canFollow=false, account=null, db=null, userCap=null, saveTimer=null;
+let follows=new Set(), canFollow=false, account=null, db=null, userCap=null, saveTimer=null, pendingFollow=null;
 const money=n=>n>=1e6?'$'+(n/1e6).toFixed(n%1e6?1:0)+'M':n>=1e3?'$'+Math.round(n/1e3)+'K':'$'+n;
 
 function memberHtml(m){
@@ -841,6 +843,22 @@ document.getElementById('clear').addEventListener('click',()=>{q='';countyF='';t
 
 document.getElementById('sort').addEventListener('change',e=>{sortF=e.target.value;render();});
 /* ---------- follow lists ---------- */
+/* Static-site store: a small adapter over /api/store (Netlify function) that mimics the subset of the artifact db API this page uses. */
+const API='/api/store';
+async function apiFetch(q,opts){const r=await fetch(API+q,Object.assign({headers:{'content-type':'application/json'}},opts||{}));const d=await r.json().catch(()=>({}));if(!r.ok)throw Object.assign(new Error(d.error||r.statusText),{code:r.status});return d;}
+const netlifyDb={
+  doc(path){ const email=decodeURIComponent(path.replace(/^lists\//,'')); return {
+    async get(){ const d=await apiFetch('?c=lists&email='+encodeURIComponent(email)); return {exists:d.exists,data:()=>d.data}; },
+    async set(v){ await apiFetch('?c=lists',{method:'POST',body:JSON.stringify({email,follows:v.follows||[],touch:true})}); },
+    async update(v){ const b={email}; if(v.follows) b.follows=v.follows; if('visits' in v) b.touch=true; await apiFetch('?c=lists',{method:'POST',body:JSON.stringify(b)}); }
+  }; },
+  collection(c){ return {
+    async add(rec){ await apiFetch('?c='+c,{method:'POST',body:JSON.stringify(rec)}); },
+    orderBy(){return this;}, limit(){return this;},
+    async get(){ const d=await apiFetch('?c='+c); return {docs:(d.items||[]).map(x=>({data:()=>x}))}; }
+  }; }
+};
+let staticStore=false;
 const emailKey = e => e.trim().toLowerCase();
 const validEmail = e => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e);
 function localGet(){try{return JSON.parse(localStorage.getItem('ltac-follows')||'[]');}catch(e){return [];}}
@@ -849,14 +867,14 @@ function viewOnly(){canFollow=false;renderAcct();document.getElementById('acct')
 function renderAcct(){
   const el=document.getElementById('acct'); el.hidden=false;
   if(!db){
-    el.innerHTML=`<span class="who">Build your own follow list.</span><p class="hint">${canFollow?'On this copy of the site your list is saved in this browser only. Open the shared claude.ai link and sign in with your email to keep it across devices.':'Sign in to claude.ai through the shared link to build a list.'}</p>`;
+    el.innerHTML=`<span class="who">Build your own follow list.</span><p class="hint">${canFollow?'Your list is saved in this browser only.':'Sign in to claude.ai through the shared link to build a list.'}</p>`;
     return;
   }
   if(account){
     el.innerHTML=`<span class="who">Signed in as <b>${esc(account.email)}</b> · following ${follows.size}</span><button class="ghost" id="signout">Sign out</button>`;
     el.querySelector('#signout').addEventListener('click',()=>{account=null;follows=new Set();try{localStorage.removeItem('ltac-account');}catch(e){}renderAcct();render();});
   } else {
-    el.innerHTML=`<form id="signin"><input type="email" id="email" placeholder="you@example.com" aria-label="Email" required autocomplete="email"><button type="submit">Sign in to build your list</button></form><p class="hint">Enter your email to create or open your own follow list. Followed jurisdictions get a reminder email 30, 14 and 3 days before each deadline. Lists live on this page's shared store, and the site owner can see who has one.</p>`;
+    el.innerHTML=`<form id="signin"><input type="email" id="email" placeholder="you@example.com" aria-label="Email" required autocomplete="email"><button type="submit">Sign in to build your list</button></form><p class="hint">Browse freely. If you want to follow programs and keep your own list, enter your email; you will get a reminder 30, 14 and 3 days before each deadline on it. The site owner can see who has a list.</p>`;
     el.querySelector('#signin').addEventListener('submit',async e=>{e.preventDefault();const inp=el.querySelector('#email');const v=emailKey(inp.value);if(!validEmail(v)){inp.setCustomValidity('Enter a valid email');inp.reportValidity();return;}inp.setCustomValidity('');await signIn(v);});
   }
 }
@@ -874,6 +892,7 @@ async function signIn(email){
     catch(e){if(e&&e.code==='invalid_argument'){account=null;viewOnly();return;}}
   }
   account={email,ref}; try{localStorage.setItem('ltac-account',email);}catch(e){}
+  if(pendingFollow){ follows.add(pendingFollow); pendingFollow=null; persist(); }
   renderAcct(); render();
 }
 function persist(){
@@ -882,7 +901,8 @@ function persist(){
 }
 document.getElementById('main').addEventListener('click',e=>{
   const b=e.target.closest('.follow'); if(!b||b.disabled) return;
-  const n=b.dataset.f; if(follows.has(n)) follows.delete(n); else follows.add(n);
+  const n=b.dataset.f;
+  if(db && !account){ pendingFollow=n; const acct=document.getElementById('acct'); acct.scrollIntoView({block:'center'}); acct.classList.add('pulse'); setTimeout(()=>acct.classList.remove('pulse'),1600); const inp=acct.querySelector('#email'); if(inp){ inp.focus(); inp.placeholder='Enter your email to follow '+n; } return; } if(follows.has(n)) follows.delete(n); else follows.add(n);
   b.setAttribute('aria-pressed',follows.has(n)); b.querySelector('span').textContent=follows.has(n)?'Following':'Follow';
   document.getElementById('mineN').textContent=follows.size||''; persist();
   if(mineF) render();
@@ -898,7 +918,11 @@ async function initFollows(){
     let saved=null; try{saved=localStorage.getItem('ltac-account');}catch(e){}
     if(saved&&validEmail(saved)) await signIn(saved); else {renderAcct();render();}
   } else {
-    canFollow=true; follows=new Set(localGet()); renderAcct(); render();
+    let alive=false; try{ const r=await fetch(API+'?c=board',{method:'GET'}); alive=r.ok; }catch(e){}
+    if(alive){ db=netlifyDb; staticStore=true; canFollow=true;
+      let saved=null; try{saved=localStorage.getItem('ltac-account');}catch(e){}
+      if(saved&&validEmail(saved)) await signIn(saved); else {renderAcct();render();}
+    } else { canFollow=true; follows=new Set(localGet()); renderAcct(); render(); }
   }
 }
 renderStatic();render();initFollows();
@@ -1147,7 +1171,7 @@ function renderBoard(){
 async function loadBoard(){
   boardLoaded=true;
   const st=document.getElementById('boardStatus'), form=document.getElementById('boardForm');
-  if(!db){ st.textContent='The board runs on the shared claude.ai version of this site, where posts are stored for everyone. On this copy, email '+META.contact+' to be listed.'; renderBoard(); return; }
+  if(!db){ st.textContent='Posts could not be loaded. Email '+META.contact+' to be listed.'; renderBoard(); return; }
   try{ const snap=await db.collection('board').orderBy('created','desc').limit(100).get(); boardPosts=snap.docs.map(d=>d.data()); } catch(e){ boardPosts=[]; }
   renderBoard();
   if(canFollow){ form.hidden=false; if(account) document.getElementById('bf-email').value=account.email; }
