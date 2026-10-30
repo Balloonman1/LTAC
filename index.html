@@ -3,8 +3,9 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
 <style>
 /* Layout: evergreen masthead with stat tiles and an "up next" deadline rail, a sticky toolbar (search, county picker, type and cycle chips), then cards grouped by funding cycle. Amber marks anything time-sensitive. */
+html{color-scheme:light only}
 :root{
-  --bg:#f3f5f1; --surface:#ffffff; --surface-2:#eaeee8; --fg:#15201a; --muted:#5d6861; --line:#d6dcd6; --line-strong:#b9c3bb;
+  --bg:#f3f5f1; --surface:#ffffff; --surface-2:#eaeee8; --fg:#15201a; --muted:#4d5852; --line:#d6dcd6; --line-strong:#b9c3bb;
   --ink:#173d30; --ink-2:#245b47; --on-ink:#f3f5f1; --accent:#c2690e; --accent-bg:#fdf0e0; --accent-ink:#8a4a07;
   --ok:#237a4c; --ok-bg:#dff1e5; --warn:#a85a07; --warn-bg:#fdf0e0; --off:#66706a; --off-bg:#e6eae5; --bad:#a32828; --bad-bg:#fbe3e3;
   --shadow:0 1px 2px rgba(21,32,26,.06),0 6px 18px -8px rgba(21,32,26,.18);
@@ -12,28 +13,13 @@
   --body:"Public Sans","Helvetica Neue",Arial,sans-serif;
   --mono:"JetBrains Mono",Menlo,Consolas,monospace;
 }
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --bg:#0f1512; --surface:#171f1b; --surface-2:#1f2924; --fg:#e6ebe7; --muted:#9ca89f; --line:#2a352f; --line-strong:#3b4a42;
-  --ink:#0c2119; --ink-2:#18382c; --on-ink:#e6ebe7; --accent:#f0a24a; --accent-bg:#3a2810; --accent-ink:#f6c383;
-  --ok:#86d4a6; --ok-bg:#173526; --warn:#f0a24a; --warn-bg:#3a2810; --off:#9ca89f; --off-bg:#243029; --bad:#f29a9a; --bad-bg:#40201f;
-  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 20px -8px rgba(0,0,0,.6);
-  color-scheme:dark }}
-:root[data-theme="dark"]{
-  --bg:#0f1512; --surface:#171f1b; --surface-2:#1f2924; --fg:#e6ebe7; --muted:#9ca89f; --line:#2a352f; --line-strong:#3b4a42;
-  --ink:#0c2119; --ink-2:#18382c; --on-ink:#e6ebe7; --accent:#f0a24a; --accent-bg:#3a2810; --accent-ink:#f6c383;
-  --ok:#86d4a6; --ok-bg:#173526; --warn:#f0a24a; --warn-bg:#3a2810; --off:#9ca89f; --off-bg:#243029; --bad:#f29a9a; --bad-bg:#40201f;
-  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 20px -8px rgba(0,0,0,.6);
-  color-scheme:dark }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;margin:0}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--ink)}
 .gutter{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 .inner{max-width:1180px;margin:0 auto}
-a{color:var(--ink-2)} :root[data-theme="dark"] a,.dark a{color:var(--accent-ink)}
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) a{color:var(--accent-ink)} }
-:root[data-theme="dark"] a{color:var(--accent-ink)}
-:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+a{color:var(--ink-2)} :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
 /* masthead */
 .mast{background:var(--ink);color:var(--on-ink);padding-block:36px 28px}
@@ -244,8 +230,6 @@ table.budget tfoot th{font-family:var(--mono);font-size:14px;color:var(--fg);tex
 .bars .b .n{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .bars .b .t{height:12px;background:var(--line);border-radius:3px;overflow:hidden}
 .bars .b .t i{display:block;height:100%;background:var(--ink-2)}
-:root[data-theme="dark"] .bars .b .t i{background:var(--accent)}
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .bars .b .t i{background:var(--accent)} }
 .bars .b .v{font-family:var(--mono);font-size:12px;white-space:nowrap}
 table.bench{width:100%;border-collapse:collapse;font-size:13px;min-width:860px;background:var(--surface)}
 table.bench th{position:sticky;top:0;background:var(--surface-2);font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:8px;text-align:left;cursor:pointer;white-space:nowrap}
