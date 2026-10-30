@@ -213,6 +213,7 @@ footer.about p{max-width:78ch;margin:0 0 8px}
 table.budget{width:100%;border-collapse:collapse;font-size:13.5px;min-width:520px}
 table.budget th,table.budget td{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:middle}
 table.budget th{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+table.budget textarea{font:inherit;font-size:13.5px;line-height:1.4;padding:6px 8px;border:1px solid var(--line);border-radius:5px;background:var(--bg);color:var(--fg);width:100%;resize:vertical;display:block}
 table.budget input,table.budget select{font:inherit;font-size:13.5px;padding:5px 7px;border:1px solid var(--line);border-radius:5px;background:var(--bg);color:var(--fg);width:100%;min-width:0}
 table.budget input[type=number]{font-family:var(--mono);text-align:right;width:110px}
 table.budget tfoot th{font-family:var(--mono);font-size:14px;color:var(--fg);text-transform:none;letter-spacing:0}
@@ -375,10 +376,10 @@ table.bench td a{font-weight:600}
     </table></div>
     <div class="rowbtn"><button class="btn ghost2" id="addLine">Add line</button><button class="btn" id="copyBudget">Copy budget as text</button><span class="hint2" id="copyBudgetMsg"></span></div>
     <h4>Reduced-award plan</h4>
-    <div class="tablewrap"><table class="budget" id="reduced"><thead><tr><th>If the award is</th><th>What changes</th></tr></thead><tbody>
-      <tr><td><input value="Full request"></td><td><input value="Full program as described; full out-of-area campaign; full room-night target"></td></tr>
-      <tr><td><input value="60% of request"></td><td><input value="Smaller participant field; campaign in the two or three nearest drive markets; room-night target reduced in proportion"></td></tr>
-      <tr><td><input value="30% of request"></td><td><input value="Grant spent on out-of-area marketing only; event scope funded from tickets and sponsors"></td></tr>
+    <div class="tablewrap"><table class="budget" id="reduced"><thead><tr><th style="width:30%">If the award is</th><th>What changes</th></tr></thead><tbody>
+      <tr><td><input value="Full request"></td><td><textarea rows="2">Full program as described; full out-of-area campaign; full room-night target</textarea></td></tr>
+      <tr><td><input value="60% of request"></td><td><textarea rows="2">Smaller participant field; campaign in the two or three nearest drive markets; room-night target reduced in proportion</textarea></td></tr>
+      <tr><td><input value="30% of request"></td><td><textarea rows="2">Grant spent on out-of-area marketing only; event scope funded from tickets and sponsors</textarea></td></tr>
     </tbody></table></div>
   </section>
 
@@ -937,7 +938,7 @@ function initKit(){
   function totals(){ let t=0,gr=0; tb.querySelectorAll('tr').forEach(tr=>{const i=tr.querySelectorAll('input'); t+=+i[1].value||0; gr+=+i[2].value||0;}); document.getElementById('b-total').textContent=t.toLocaleString(); document.getElementById('b-grant').textContent=gr.toLocaleString(); }
   tb.addEventListener('input',totals); totals();
   document.getElementById('addLine').addEventListener('click',()=>{tb.appendChild(row('New line',0,0));});
-  document.getElementById('copyBudget').addEventListener('click',()=>{ let s='Expense line\tAmount\tGrant pays\n'; tb.querySelectorAll('tr').forEach(tr=>{const i=tr.querySelectorAll('input'); s+=`${i[0].value}\t${(+i[1].value||0).toLocaleString()}\t${(+i[2].value||0).toLocaleString()}\n`;}); s+=`Total\t${document.getElementById('b-total').textContent}\t${document.getElementById('b-grant').textContent}\n\nReduced-award plan\n`; document.querySelectorAll('#reduced tbody tr').forEach(tr=>{const i=tr.querySelectorAll('input'); s+=`${i[0].value}: ${i[1].value}\n`;}); copyText(s,'copyBudgetMsg'); });
+  document.getElementById('copyBudget').addEventListener('click',()=>{ let s='Expense line\tAmount\tGrant pays\n'; tb.querySelectorAll('tr').forEach(tr=>{const i=tr.querySelectorAll('input'); s+=`${i[0].value}\t${(+i[1].value||0).toLocaleString()}\t${(+i[2].value||0).toLocaleString()}\n`;}); s+=`Total\t${document.getElementById('b-total').textContent}\t${document.getElementById('b-grant').textContent}\n\nReduced-award plan\n`; document.querySelectorAll('#reduced tbody tr').forEach(tr=>{const i=tr.querySelectorAll('input,textarea'); s+=`${i[0].value}: ${i[1].value}\n`;}); copyText(s,'copyBudgetMsg'); });
   document.getElementById('copyReport').addEventListener('click',()=>{ let s='Field\tEstimate\tActual\tMethod\n'; document.querySelectorAll('#report tbody tr').forEach(tr=>{const c=tr.children; const v=x=>x.querySelector('input,select')?x.querySelector('input,select').value:x.textContent.trim(); s+=`${c[0].textContent.trim()}\t${v(c[1])}\t${v(c[2])}\t${v(c[3])}\n`;}); copyText(s,'copyReportMsg'); });
 }
 function copyText(s,msgId){ const m=document.getElementById(msgId); const done=()=>{m.textContent='Copied.';setTimeout(()=>m.textContent='',1500);}; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(s).then(done).catch(()=>fallback()); } else fallback(); function fallback(){ const ta=document.createElement('textarea'); ta.value=s; document.body.appendChild(ta); ta.select(); try{document.execCommand('copy');done();}catch(e){m.textContent='Select and copy manually.';} ta.remove(); } }
