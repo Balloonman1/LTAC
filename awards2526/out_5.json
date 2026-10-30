@@ -1,0 +1,1890 @@
+{
+ "Vancouver": {
+  "source_urls": [
+   "https://www.cityofvancouver.us/economic-prosperity-and-housing/lodging-tax-grant-program/",
+   "https://www.cityofvancouver.us/wp-content/uploads/2026/01/2026-LTAC-Grant-Award-Recommendations.pdf",
+   "https://cityofvancouver.us/wp-content/uploads/2025/01/EXHIBIT-A-2025-LTAC-Grant-Recommendations.pdf",
+   "https://www.cityofvancouver.us/city-opens-lodging-tax-grant-applications-for-2027-tourism-events-festivals-and-programs/",
+   "https://www.cityofvancouver.us/city-opens-lodging-tax-grant-application-for-2026-tourism-and-cultural-events-festivals-and-programs/"
+  ],
+  "years": {
+   "2026": {
+    "total": 1735909,
+    "decided": "LTAC recommendations to City Council, presented December 2025 (city says recommendations go to council each December; exact council vote date not found); PDF posted January 2026",
+    "awards": [
+     {
+      "recipient": "ALS Northwest",
+      "event": "Southwest Washington Walk ALS",
+      "amount": 3117,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Parks Foundation of Clark County",
+      "event": "Hockinson Meadows Disc Golf Classic",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "theARTScentered",
+      "event": "Arts & Culture Programming 2026",
+      "amount": 24000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Ballet Folklorico",
+      "event": "Day of the Dead Luminarias 2026",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "ACBL D20 Organization, Inc.",
+      "event": "The Oregon Trail Regional Bridge Tournament",
+      "amount": 12300,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Asset Fusion Events, LLC",
+      "event": "Asset Fusion Forum",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Association of Washington Business",
+      "event": "2026 AWB Spring Summit",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Bravo! Vancouver",
+      "event": "Freedom! Celebrating American Music",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Columbia Dance",
+      "event": "Fort Vancouver Nutcracker",
+      "amount": 8500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "The Couve",
+      "event": "Cruise the Couve",
+      "amount": 10760,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Hough Foundation",
+      "event": "The Craig Stein Oktoberfest",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Hough Foundation",
+      "event": "Vancouver Tacos, Taps, & Tequila Festival",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Ke Kukui Foundation",
+      "event": "24th Annual 4 Days of Aloha",
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Pacific Northwest Golf Association",
+      "event": "40th PNW MidAmateur Championship",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Queer Community Network",
+      "event": "Vancouver's Pride Block Party",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Arena",
+      "event": "Vancouver GoFest Celebration 2026",
+      "amount": 14250,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Bee Project",
+      "event": "Pollinator Festival",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Farmers Market",
+      "event": "Vancouver Holiday Market",
+      "amount": 27000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Lake Rowing Club",
+      "event": "Vancouver Lake Spring Sprints",
+      "amount": 12000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Symphony Orchestra",
+      "event": "Vancouver USA Arts & Music Festival",
+      "amount": 95000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "WHY Community",
+      "event": "20th Anniversary Girlfriends Run",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "WHY Community",
+      "event": "Appletree Marathon",
+      "amount": 14500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "WHY Community",
+      "event": "Columbia River Triathlon / Girlfriends Triathlon",
+      "amount": 17000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "WHY Community",
+      "event": "Couve Clover Run",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Visit Vancouver, WA",
+      "event": "2026 Sales & Marketing Programs",
+      "amount": 1300000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "DMO"
+     },
+     {
+      "recipient": "Ke Kukui Foundation",
+      "event": "Tourism Shuttle & Cultural Tour Program",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "The Historic Trust",
+      "event": "Boosting Heritage Tourism (Historic Tours)",
+      "amount": 17482,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver's Downtown Association",
+      "event": "Downtown Ambassador Program",
+      "amount": 40000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "28 applications requested $2,481,201; $1,735,909 recommended. Source is the LTAC recommendation PDF, not a council resolution."
+   },
+   "2025": {
+    "total": 1832820,
+    "decided": "LTAC recommendations (Exhibit A) presented to City Council December 2024; PDF posted January 2025; exact council vote date not found",
+    "awards": [
+     {
+      "recipient": "Camas Lions Club",
+      "event": "Lions District 19N Annual Convention",
+      "amount": 2350,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Starbird Theatre",
+      "event": "The 39 Steps",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Columbia Play Project",
+      "event": "Fourth 'Playn' Indoor Play Space",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Columbia Play Project",
+      "event": "Family Play Day",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Vancouver Ballet Folklorico",
+      "event": "Day of the Dead Luminarias 2025",
+      "amount": 7500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Washington Timbers Football Club",
+      "event": "Northwest Dream Cup",
+      "amount": 60000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Ke Kukui Foundation",
+      "event": "4 Days of Aloha",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Farmers Market",
+      "event": "Vancouver Holiday Market",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Arena",
+      "event": "Vancouver GoFest Celebration 2025",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Northwest Association of Blind Athletes",
+      "event": "Columbia River and Girlfriends Triathlons",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver's Downtown Association",
+      "event": "Trip the Light Vantastic",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Bravo! Vancouver",
+      "event": "25th Annual Vancouver Wine & Jazz Festival",
+      "amount": 5770,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver Symphony Orchestra",
+      "event": "Vancouver USA Arts & Music Festival",
+      "amount": 40000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Police Activities League of SW Washington",
+      "event": "Appletree Marathon, Half Marathon, and Relay",
+      "amount": 14500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "WHY Community",
+      "event": "Couve Clover Run",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "JLaughlinLLC",
+      "event": "The Craig Stein Oktoberfest",
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Queer Community Network",
+      "event": "Vancouver's Pride Block Party",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Choice Events",
+      "event": "Craft Beer & Wine Fest",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Visit Vancouver",
+      "event": "2025 Tourism Sales & Marketing Programs",
+      "amount": 1000000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "DMO"
+     },
+     {
+      "recipient": "Autism Empowerment",
+      "event": "Hold My Beer",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Vancouver's Downtown Association",
+      "event": "Downtown Ambassador Program",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Vancouver",
+      "event": "Waterfront Gateway Plaza",
+      "amount": 577700,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city capital project"
+     },
+     {
+      "recipient": "Downtown Redevelopment Authority",
+      "event": "Design of the Expansion of the Convention Center",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     },
+     {
+      "recipient": "Spry",
+      "event": "Social Media Ad Campaign for Grant Street Pier",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "not funded"
+     }
+    ],
+    "note": "24 applications; $1,832,820 recommended per Exhibit A."
+   }
+  },
+  "upcoming": "2027 cycle: applications accepted Aug 4 to Sept 20, 2026 (now closed); LTAC reviews Oct-Nov 2026, recommendations to City Council December 2026. Priority for events outside June-August peak, outside downtown, supporting small local businesses, diverse/underserved communities, climate action; scored against City Strategic Plan and Visit Vancouver Destination Master Plan. Pool size not stated. Updated program guidelines PDF posted Aug 2026.",
+  "not_found": "Exact council approval dates/resolution numbers for the 2025 and 2026 awards; 2027 pool size."
+ },
+ "Port Angeles": {
+  "source_urls": [
+   "https://wa-portangeles.civicplus.com/DocumentCenter/View/17774/11132025-LTAC-Agenda-Packet",
+   "https://cityofpa.us/DocumentCenter/View/18169/03122026-LTAC-Agenda-Packet",
+   "https://www.peninsuladailynews.com/2026/02/04/port-angeles-asks-for-fee-to-cover-lodging-tax-contracts/",
+   "https://www.peninsuladailynews.com/?p=236230",
+   "https://www.peninsuladailynews.com/?p=240221"
+  ],
+  "years": {
+   "2026": {
+    "total": 1597925,
+    "decided": "LTAC approved round 1 on 2025-11-13; City Council approved LTAC 2026 recommendations 2025-12-16; round 2 (up to 14 more applications, $272,120 requested) reviewed by LTAC 2026-03-12, outcome not found",
+    "awards": [
+     {
+      "recipient": "LPBMX",
+      "event": "Spectator seating expansion (capital)",
+      "amount": 84217,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Peninsula Trails Coalition",
+      "event": "ODT trail repairs (capital)",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Juan de Fuca Festival of the Arts",
+      "event": "Stage system replacement (capital)",
+      "amount": 25500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Port Angeles Arts Council",
+      "event": "ROW artwork maintenance (capital)",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Concerts on the Pier",
+      "event": "City Pier stage improvements (capital)",
+      "amount": 13000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Port Angeles Public Works",
+      "event": "Event barricades (capital)",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city"
+     },
+     {
+      "recipient": "Port Angeles Fine Arts Center",
+      "event": "Webster's Woods Sculpture Park (capital)",
+      "amount": 126472,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Port Angeles Parks and Recreation",
+      "event": "PAFAC roof repairs (capital)",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city"
+     },
+     {
+      "recipient": "Peninsula Adventure Sports",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "GOPA LLC",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Port Angeles / Visit Port Angeles",
+      "event": "Destination marketing",
+      "amount": 266000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city-run DMO program"
+     },
+     {
+      "recipient": "Port Angeles Regional Chamber of Commerce",
+      "event": "Visitor center / operations",
+      "amount": 142324,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "chamber"
+     },
+     {
+      "recipient": "Port Angeles Marathon Association",
+      "event": null,
+      "amount": 29000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Feiro Marine Life Center",
+      "event": null,
+      "amount": 2100,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Music on the Straits",
+      "event": null,
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Juan de Fuca Foundation for the Arts",
+      "event": null,
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Port Angeles Arts Council",
+      "event": null,
+      "amount": 11074,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Hurricane Ridge Winter Sports Education Foundation",
+      "event": null,
+      "amount": 40610,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "N-Dub Productions",
+      "event": null,
+      "amount": 22500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Port Angeles Waterfront District",
+      "event": null,
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Field Hall (Field Arts & Events Hall)",
+      "event": "Operations",
+      "amount": 255000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Peninsula Trails Coalition",
+      "event": null,
+      "amount": 22500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "second award (events/operations)"
+     },
+     {
+      "recipient": "Top Left Trails Co-op",
+      "event": null,
+      "amount": 11345,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Dungeness Crab Festival",
+      "event": "Dungeness Crab & Seafood Festival",
+      "amount": 55000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Port Angeles Youth Basketball",
+      "event": null,
+      "amount": 90000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Port Angeles Fine Arts Center",
+      "event": "Events/operations",
+      "amount": 40000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Community Boating Program",
+      "event": null,
+      "amount": 14162,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "The Hubbub",
+      "event": null,
+      "amount": 19000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Olympic Peninsula Rowing",
+      "event": "Regatta 2",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Port Angeles Salmon Club",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Concerts on the Pier",
+      "event": "Concert series",
+      "amount": 10500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "PAHS Band Boosters",
+      "event": null,
+      "amount": 18750,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Olympic Peninsula Rowing",
+      "event": "Regatta 1",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "North Olympic Baseball and Softball",
+      "event": null,
+      "amount": 30297,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Port Angeles ROW",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city"
+     },
+     {
+      "recipient": "KSQM",
+      "event": null,
+      "amount": 1750,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Port Angeles",
+      "event": "LTAX program staff time",
+      "amount": 55824,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city administration"
+     }
+    ],
+    "note": "FY2026 budget $1,760,900 (incl. $600,000 excess reserves). Round 1: 38 applications requesting $1,696,425; 37 awards totaling $1,597,925; Flow Forward Health LLC and Outdoor Recreation Collaborative not funded. Remaining $162,975 plus reserves ($518,685) available for round 2 (9 marketing/events requests $226,120 plus 2 capital $42,000, incl. Olympic Peninsula Tourism Commission $27,000 + $33,000, Feiro $17,210, City LTAX operational costs $78,710). PDN Feb 2026: 36 contracts approved for 2026, possible 50 total, exceeding $2.1M if all approved. Council also adopted (Feb 3, 2026) using 12% of lodging tax revenue (~$134,000) for program administration."
+   },
+   "2025": {
+    "total": null,
+    "decided": "City Council approved LTAC recommendations 2024-11-19 (33 fully funded applications); second round approved by council 2025-04-01 (~$163,613)",
+    "awards": [
+     {
+      "recipient": "Field Arts & Events Hall",
+      "event": "Operations",
+      "amount": 250000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 1"
+     },
+     {
+      "recipient": "Visit Port Angeles",
+      "event": "Marketing",
+      "amount": 210000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "round 1"
+     },
+     {
+      "recipient": "Port Angeles Visitor Center (Chamber)",
+      "event": "Operations",
+      "amount": 122342,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "round 1"
+     },
+     {
+      "recipient": "City of Port Angeles",
+      "event": "Civic Field scoreboard replacement",
+      "amount": 120000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "round 1"
+     },
+     {
+      "recipient": "Port Angeles Fine Arts Center",
+      "event": "Webster's Woods event and activity space",
+      "amount": 108000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 1"
+     },
+     {
+      "recipient": "Port Angeles Youth Basketball",
+      "event": null,
+      "amount": 90000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "North Olympic Baseball and Softball",
+      "event": null,
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Hurricane Ridge Winter Sports",
+      "event": null,
+      "amount": 18680,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Port Angeles Marathon Association",
+      "event": null,
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Port Angeles Fine Arts Center",
+      "event": null,
+      "amount": 5460,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Lincoln Street Block Party",
+      "event": null,
+      "amount": 2587,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Elwha Bridge Run",
+      "event": null,
+      "amount": 1500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Spruce Railroad Run",
+      "event": null,
+      "amount": 1500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Spring Development Regatta",
+      "event": null,
+      "amount": 1325,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Peninsula Regional Regatta",
+      "event": null,
+      "amount": 1278,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     },
+     {
+      "recipient": "Fall Development Regatta",
+      "event": null,
+      "amount": 1283,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "round 2, April 2025"
+     }
+    ],
+    "note": "2025 round 1: $1,007,500 available plus $736,500 excess reserves; LTAC recommended about $1.27M for 42 requests; council fully funded 33 applications on Nov 19, 2024 but only the five largest were named in press coverage. Per-award list for the other 28 round-1 awards not found. 31 contracts administered in 2025."
+   }
+  },
+  "upcoming": "2027 cycle not yet found. 2026 changes: 12% of lodging tax revenue (~$134,000) now earmarked for city administration of LTAC contracts (resolution Feb 3, 2026); LTAC recommended Wander Fuca for tourism and destination marketing (Sept 11, 2025).",
+  "not_found": "Full 2025 round-1 per-award list (only five named); round 2 2026 (March 2026) final amounts; 2027 cycle."
+ },
+ "Kennewick": {
+  "source_urls": [
+   "https://go2kennewick.com/1574/Lodging-Tax-Advisory-Committee",
+   "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "not found (2026 funding would have been considered at LTAC Oct 2025 and council Nov 2025 per the city's annual schedule)",
+    "awards": [],
+    "note": "Award list not found. Agendas and minutes are on kennewickwa.portal.civicclerk.com, which could not be fetched in this session."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Award list not found. DOR 2024 lodging tax distributions to Kennewick: $2,526,569 (incl. $960,379 convention center tax), which sizes the program. Council approves LTAC recommendations each November."
+   }
+  },
+  "upcoming": "2027 cycle: applications opened Sept 1, 2026 and closed Sept 30, 2026 at 4:00 pm; LTAC considers funding Oct 22, 2026; City Council Nov 18, 2026.",
+  "not_found": "All per-award lists and totals for 2025 and 2026; search budget exhausted before the civicclerk portal could be searched."
+ },
+ "Skagit County": {
+  "source_urls": [
+   "https://www.goskagit.com/news/local_news/skagit-county-allocates-lodging-tax-funds-to-34-community-groups/article_c48d206d-d1f4-4bef-a07a-9d045c1c2d5d.html",
+   "https://www.goskagit.com/news/local_news/skagit-county-allocates-lodging-tax-funds-to-various-groups/article_6da54824-a067-11ef-a0f3-f7bcef71430d.html",
+   "https://www.skagitcounty.net/CountyCommissioners/Documents/LTAC/October 2025 Minutes.pdf",
+   "https://www.skagitcounty.net/CountyCommissioners/Documents/LTAC/October 2024 Minutes.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": 896000,
+    "decided": "Board of County Commissioners approved on a Monday in fall 2025 (exact date not stated; LTAC recommendations from October 2025 meeting)",
+    "awards": [
+     {
+      "recipient": "Skagit Tourism Bureau",
+      "event": "Tourism promotion",
+      "amount": 160000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "DMO"
+     },
+     {
+      "recipient": "Skagit Valley Tulip Festival",
+      "event": "Tulip Festival",
+      "amount": 106000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Skagit County Historical Museum",
+      "event": "Operations",
+      "amount": 70000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county facility"
+     },
+     {
+      "recipient": "Cascade Loop Association",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount between $2,000 and $47,000, not itemized in press coverage"
+     },
+     {
+      "recipient": "Concrete Chamber of Commerce",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Skagit Valley College McIntyre Hall",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Northwest Agriculture Business Center",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Skagit County Fairgrounds",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county; amount not itemized"
+     },
+     {
+      "recipient": "Skagit County Parks and Recreation",
+      "event": "Howard Steelhead Park",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county; amount not itemized"
+     },
+     {
+      "recipient": "Skagit Runners",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Skagit Valley Festival of Family Farms",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     }
+    ],
+    "note": "About $896,000 to 34 groups for 43 projects, up about $81,000 from 2025. Full per-award list is in the October 2025 LTAC minutes PDF, which redirects to classic.skagitcountywa.gov and could not be fetched in this session."
+   },
+   "2025": {
+    "total": 814700,
+    "decided": "2024-10-28 (Board of County Commissioners)",
+    "awards": [
+     {
+      "recipient": "Skagit Valley Tulip Festival",
+      "event": "Festival, website, traffic control",
+      "amount": 128500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "approximate"
+     },
+     {
+      "recipient": "Skagit Tourism Bureau",
+      "event": "Tourism promotion",
+      "amount": 125000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "DMO"
+     },
+     {
+      "recipient": "Skagit County Historical Museum",
+      "event": "Operations and marketing",
+      "amount": 110000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county facility"
+     },
+     {
+      "recipient": "Concrete Chamber of Commerce",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized ($700-$32,000 range)"
+     },
+     {
+      "recipient": "Skagit Farm to Pint Fest",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Skagit County Parks and Recreation",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Skagit Runners",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Skagit River Bald Eagle Interpretive Center",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Skagit Skies Airshow and Community Aviation Festival",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Cascade Loop Association",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     },
+     {
+      "recipient": "Lincoln Theatre",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "amount not itemized"
+     }
+    ],
+    "note": "$814,700 to 39 entities for 45 programs. Full itemized list is in the October 2024 LTAC minutes (classic.skagitcountywa.gov), not fetchable here."
+   }
+  },
+  "upcoming": "A '2027 Application for funding' document is posted at skagitcounty.net/BudgetFinance/Documents/2027 Application for funding.doc; 2027 recommendations would be made at the October 2026 LTAC meeting and approved by commissioners in late Oct/Nov 2026. Details not retrieved.",
+  "not_found": "Itemized per-award amounts beyond the top three in each year; exact 2025 commissioner approval date for the 2026 awards. Second pass: the Nov 24, 2025 commissioners agenda and the Oct 2025/Oct 2024 LTAC minutes all redirect to classic.skagitcountywa.gov, which is not on the fetch allowlist."
+ },
+ "Tukwila": {
+  "source_urls": [
+   "https://www.tukwilawa.gov/?p=8332",
+   "https://www.tukwilawa.gov/wp-content/uploads/Tab13.pdf",
+   "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Tukwila funds on a rolling monthly basis (LTAC meets 4th Tuesday; applications due noon the second Thursday of the month). No annual award list is published."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "No award list found. 2023-24 biennial budget shows Lodging Tax Fund 101 budgets of roughly $912,000-$917,000 per year in expenditures ($375,000 contracted services, $350,000 advertising/marketing/sponsorship each year); hotel/motel revenue $720,000 (2023) and $750,000 (2024). DOR 2024 lodging tax distributions to Tukwila: $997,025. LTAC agenda packets and minutes are at records.tukwilawa.gov/WebLink8 (not fetchable)."
+   }
+  },
+  "upcoming": "Rolling application process continues; contracts over $40,000 require council approval. Contact Brandon Miles, Business Relations Manager.",
+  "not_found": "Any per-award list for 2025 or 2026; 2025-26 budget figures."
+ },
+ "Pullman": {
+  "source_urls": [
+   "https://Pullman-wa.gov/government/boards_commissions___committees/lodging_tax_advisory_commission.php",
+   "https://www.gathergov.com/municipalities/pullman-wa/development-news",
+   "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": 173600,
+    "decided": "Reported at Pullman City Council study session 2026-06-30 (LTAC update): 9 applications received, 8 approved for $173,600 for the year; council adoption dates not found",
+    "awards": [],
+    "note": "Total from a GatherGov summary of the June 30, 2026 council study session; the same summary cites a 'budgeted' figure of $22,000, which is not explained. Per-award list is in LTAC minutes on the Diligent portal (not fetchable). DOR 2024 lodging tax distributions to Pullman: $934,712."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found."
+   }
+  },
+  "upcoming": "An 'LTAC Grant Application 0426' PDF (April 2026 version) is linked from the city page; deadlines not stated.",
+  "not_found": "Per-award recipients and amounts for 2026; all 2025 awards. Diligent agenda portal not on fetch allowlist; the Pullman Chamber 'tourism grants' page has no award data."
+ },
+ "Port Townsend": {
+  "source_urls": [
+   "https://cityofpt.us/administration/page/press-release-city-port-townsend-lodging-tax-advisory-committee-announces-grant",
+   "https://cityofpt.us/bc/page/press-release-city-port-townsend-lodging-tax-committee-and-city-arts-commission-announce",
+   "https://cityofpt.us/bc/page/lodging-tax-advisory-committee"
+  ],
+  "years": {
+   "2026": {
+    "total": 50000,
+    "decided": "Applications due 2026-01-05; LTAC considered proposals 2026-01-13; recipient list not found",
+    "awards": [],
+    "note": "$50,000 pool for 2026 grants in a single round, awards $1,000-$10,000 each. Per-award list was not found (press release of Dec 1, 2025 was the call for proposals). Nonprofit applicants must show shoulder-season (Oct-May) overnight visitation, local job benefit and lodging partnerships."
+   },
+   "2025": {
+    "total": 50000,
+    "decided": "Applications due 2025-03-03; LTAC considered proposals 2025-03-11; recipient list not found",
+    "awards": [],
+    "note": "$50,000 pool in one round, awards $1,000-$10,000. Per-award list not found. (Separate City Arts Commission grants of $27,000 are not lodging tax.)"
+   }
+  },
+  "upcoming": "2027 round not yet announced as of this research; pattern is a December press release with early-January deadline.",
+  "not_found": "Recipient lists for 2025 and 2026 grant rounds; LTAC minutes for Jan 2026 / March 2025."
+ },
+ "Bellingham": {
+  "source_urls": [
+   "https://cob.org/services/business/tourism-program/tourism-grants",
+   "https://www.bellingham.org/bellingham-and-whatcom-county-tourism-promotion-grants-now-open-for-2026",
+   "https://cob.org/?p=1343290",
+   "https://cob.org/?p=1328969",
+   "https://www.cob.org/gov/public/bc/tourism"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "not found (applications closed 2025-09-05; Tourism Commission/LTAC recommendations to City Council in fall 2025)",
+    "awards": [],
+    "note": "Per-award list not found. Categories: Visitor-Generating Events up to $100,000/yr (2-year term), Destination Experience up to $35,000, Small Grant up to $5,000; Standard (3+ years old) and Start-Up grants. Separately, the city opened lodging-tax-funded FIFA World Cup 2026 fan zone grants (up to $180,000) and Downtown Activation and Beautification grants round 3 (up to $250,000), applications due Dec 10, 2025; awards not found."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [
+     {
+      "recipient": "Ski to Sea",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "named as 2025 grantee, amount not published"
+     },
+     {
+      "recipient": "Northwest Tune-Up",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "named as 2025 grantee"
+     },
+     {
+      "recipient": "SPARK Museum",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "named as 2025 grantee"
+     },
+     {
+      "recipient": "Bellingham Bells",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "named as 2025 grantee"
+     }
+    ],
+    "note": "Only names published in a July 2025 release; amounts and full list not found. Past awardees also include SeaFeast, CASCADIA Women's International Film Festival, Bellingham Symphony Orchestra, Max Higbee Center (April Brews Day), Downtown Bellingham Partnership, Paper Whale, Pickford Film Center (Doctober)."
+   }
+  },
+  "upcoming": "Tourism Commission meets Nov 24 and Dec 22, 2026 and Jan 26, 2027; agendas at meetings.cob.org/meetings/tourism (not fetchable here). 2027 application cycle details not found.",
+  "not_found": "Per-award amounts and totals for both years; council approval dates."
+ },
+ "Kirkland": {
+  "source_urls": [
+   "https://www.kirklandwa.gov/Government/City-Managers-Office/Tourism-Program/Tourism-Events-Grant-Funding"
+  ],
+  "years": {
+   "2026": {
+    "total": 110000,
+    "decided": "Decided fall 2025 (Tourism Development Committee review after Aug 2025 extended deadline); exact date not stated",
+    "awards": [
+     {
+      "recipient": "Bold Hat Productions",
+      "event": "Kirkland Uncorked",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Little League Baseball Inc.",
+      "event": "Junior League Softball World Series",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Kirkland Arts Center",
+      "event": "Umbrella Fringe Festival",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Kirkland Downtown Association",
+      "event": "Seasonal Ice Rink",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Kirkland Downtown Association",
+      "event": "Kirkland Summer Concerts",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Kirkland Downtown Association",
+      "event": "Wednesday Night Market",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "PNW Witches Market LLC",
+      "event": "PNW Witches Market Events",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Pride Across the Bridge",
+      "event": "Kirkland Pride",
+      "amount": 7500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Ukrainian Cultural Center Toloka",
+      "event": "Ukrainian Green Week Festival 2026",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "Total $110,000 stated on city page."
+   },
+   "2025": {
+    "total": 55500,
+    "decided": "Decided fall 2024; exact date not stated",
+    "awards": [
+     {
+      "recipient": null,
+      "event": "Jr Softball World Series",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "organizer not listed"
+     },
+     {
+      "recipient": null,
+      "event": "ARTful Summer & Fringe Festival",
+      "amount": 17500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "organizer not listed"
+     },
+     {
+      "recipient": null,
+      "event": "Kirkland Uncorked",
+      "amount": 19500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "organizer not listed"
+     },
+     {
+      "recipient": null,
+      "event": "Nowruz Celebration",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "organizer not listed"
+     },
+     {
+      "recipient": null,
+      "event": "12Ks of Christmas",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "organizer not listed"
+     }
+    ],
+    "note": "Total of $55,500 is the sum of listed awards; page does not state a total."
+   }
+  },
+  "upcoming": "2027 application period is closed (as of Oct 2026); awards not yet posted. 2026 reimbursement requests due Dec 15, 2026.",
+  "not_found": "Decision dates; 2027 awards."
+ },
+ "Walla Walla County": {
+  "source_urls": [
+   "https://waitsburgtimes.com/story/2021/09/02/news-briefs/funds-available-for-2022-tourism-related-events/18125.html",
+   "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "No award list found. Program pattern (from 2022-cycle notice): about $50,000 available per year, applications due Oct 1 to the county commissioners' office, reviewed by the county LTAC. DOR 2024 lodging tax distributions to Walla Walla County: $269,729."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found."
+   }
+  },
+  "upcoming": "Pattern is an Oct 1 deadline for the following year's events; 2027 notice not found.",
+  "not_found": "All per-award lists and totals for 2025 and 2026; county website not on fetch allowlist; no Union-Bulletin or Waitsburg Times coverage of 2025-26 awards surfaced."
+ },
+ "Mukilteo": {
+  "source_urls": [
+   "https://mukilteowa.gov/DocumentCenter/View/1759/2026-Lodging-Tax-Grant-Guidelines-with-Grant-Scoring-Rubric-PDF",
+   "https://mukilteowa.gov/360/Lodging-Tax-Grant-Application",
+   "https://mukilteowa.gov/433/City-Grants"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "LTAC presentations Oct 8, 2025; council recommendations tentatively Oct 20, 2025; outcome not found",
+    "awards": [],
+    "note": "Per-award list not found. Applications were due Sept 18, 2025; reimbursement-only; $1M/$2M liability insurance required; new LTAC members; updated scoring rubric."
+   },
+   "2025": {
+    "total": 244106,
+    "decided": "City Council approved $244,106 in lodging tax grants for 2025 (date not stated; fall 2024)",
+    "awards": [
+     {
+      "recipient": null,
+      "event": "Mukilteo Lighthouse Festival",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "referenced in 2026 guidelines as a 2025 grantee; amount not stated"
+     }
+    ],
+    "note": "Total from 2026 guidelines PDF; per-award list not found."
+   }
+  },
+  "upcoming": "2027 cycle: applications due Sept 30, 2026 11:59 pm, online only (no paper); '2027 Lodging Tax Grant Guidelines with Updated Scoring Rubric' posted.",
+  "not_found": "Per-award lists for 2025 and 2026; 2026 total; council approval dates. Second pass (four more searches) found no council action or Mukilteo Beacon coverage of the Oct 2025 awards."
+ },
+ "Lynden": {
+  "source_urls": [
+   "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "City LTAC page (lyndenwa.org/434) not on fetch allowlist; no Lynden Tribune or council coverage of awards found in eight searches. DOR 2024 lodging tax distributions to Lynden: $138,511."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found."
+   }
+  },
+  "upcoming": "Not found.",
+  "not_found": "All per-award lists and totals for 2025 and 2026."
+ },
+ "Auburn": {
+  "source_urls": [
+   "https://weblink.auburnwa.gov/external/0/doc/381849/Page1.aspx",
+   "https://www.ecdev.auburnwa.gov/media/userfiles/subsite_294/files/LTAC%202025%20Application%20for%20FY2025%20LTAC%20Grant%20Application%20(1).pdf",
+   "https://auburnareawa.org/lodging-tax-tourism-enrichment-grant-application-1",
+   "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found. Auburn's pattern: LTAC recommendations adopted by council resolution (e.g., Resolution 5502 in March 2020 approved $20,000 in community grants to six events). 2025-26 resolutions not located."
+   },
+   "2025": {
+    "total": null,
+    "decided": "Three FY2025 cycles: council decisions scheduled 2025-04-21, 2025-07-21 and 2025-12-01 (LTAC meetings Mar 19, Jul 9, Nov 12, 2025); outcomes not found",
+    "awards": [],
+    "note": "Per-award list not found. FY2025 application set three cycles (due Mar 7, Jun 13, Oct 31, 2025); pool and max award not stated; LTAC may recommend partial funding. A separate 'Lodging Tax Tourism Enrichment Grant' is administered by Explore Auburn (Auburn Area Chamber) on a rolling basis, applications due 90 days before the event, reimbursement only. DOR 2024 lodging tax distributions to Auburn: $179,008. Auburn adopts awards by council resolution (e.g., Res. 5502, March 2020, $20,000 to six events); 2025-26 resolutions live on weblink.auburnwa.gov, which returned a cookies error."
+   }
+  },
+  "upcoming": "FY2026 likely follows the same three-cycle pattern; not confirmed.",
+  "not_found": "Per-award lists and totals for 2025 and 2026; search budget exhausted before the Laserfiche weblink could be searched for 2025-26 resolutions."
+ },
+ "Thurston County": {
+  "source_urls": [
+   "https://www.thurstoncountywa.gov/departments/board-county-commissioners/advisory-boards-commissions-and-committees/lodging-tax-advisory-committee-ltac",
+   "https://www.thurstoncountywa.gov/news/county-seeks-applications-2026-lodging-tax-funds"
+  ],
+  "years": {
+   "2026": {
+    "total": 333780,
+    "decided": "LTAC reviewed January 2026; BOCC approval date not stated",
+    "awards": [
+     {
+      "recipient": "Hands On Children's Museum",
+      "event": "Year-round",
+      "amount": 6720,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "Regional Athletic Complex",
+      "event": "Year-round",
+      "amount": 2520,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "Washington Center for the Performing Arts",
+      "event": "Year-round",
+      "amount": 7560,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "Wolf Haven International",
+      "event": "Year-round",
+      "amount": 6720,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "Olympia Funk Festival",
+      "event": "Jan 30 - Feb 1, 2026",
+      "amount": 12600,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "Procession of the Species Celebration",
+      "event": "Apr 24-25, 2026",
+      "amount": 6720,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "Olympic Flight Museum",
+      "event": "June 20-21, 2026",
+      "amount": 6300,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "Thurston Chamber",
+      "event": "FIFA Fan Zone, June 19-26, 2026",
+      "amount": 84000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "chamber; largest event award"
+     },
+     {
+      "recipient": "Washington State Senior Games",
+      "event": "June-August 2026",
+      "amount": 3360,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "South Sound Block Party",
+      "event": "Aug 28-29, 2026",
+      "amount": 6720,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "events"
+     },
+     {
+      "recipient": "City of Yelm",
+      "event": "Backyard Bricks, Dec 31, 2026",
+      "amount": 840,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city"
+     },
+     {
+      "recipient": "Discover Lacey",
+      "event": "Tourism promotion",
+      "amount": 8400,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "DMO"
+     },
+     {
+      "recipient": "Experience Olympia and Beyond",
+      "event": "Tourism promotion",
+      "amount": 45360,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "DMO"
+     },
+     {
+      "recipient": "Grand Mound-Rochester Chamber of Commerce",
+      "event": "Tourism promotion",
+      "amount": 7560,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "chamber"
+     },
+     {
+      "recipient": "Tenino Area Chamber of Commerce (City of Tenino)",
+      "event": "Tourism promotion",
+      "amount": 8400,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "chamber"
+     },
+     {
+      "recipient": "Thurston County Economic Development Council",
+      "event": "Tourism promotion",
+      "amount": 27720,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "EDC"
+     },
+     {
+      "recipient": "Thurston County Fairgrounds",
+      "event": "Facility",
+      "amount": 73920,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county facility"
+     },
+     {
+      "recipient": "Town of Bucoda",
+      "event": "Tourism promotion",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "town"
+     },
+     {
+      "recipient": "We Love Rainier Washington (City of Rainier)",
+      "event": "Tourism promotion",
+      "amount": 3360,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city"
+     }
+    ],
+    "note": "Totals summed from the posted list: events $144,060; facilities/promotion $189,720; combined $333,780 (pool announced as ~$250,000)."
+   },
+   "2025": {
+    "total": 150000,
+    "decided": "LTAC reviewed January 2025; BOCC approval date not stated",
+    "awards": [
+     {
+      "recipient": "Hands On Children's Museum",
+      "event": "Year-round",
+      "amount": 6100,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Grays Harbor Historical Seaport",
+      "event": "Year-round",
+      "amount": 1250,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Washington Center for the Performing Arts",
+      "event": "Year-round",
+      "amount": 8400,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Wolf Haven International",
+      "event": "Year-round",
+      "amount": 5600,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Olympia Funk Festival",
+      "event": "Feb 2-4, 2025",
+      "amount": 11600,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Olympic Flight Museum",
+      "event": "June 14-15, 2025",
+      "amount": 6300,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Washington State Senior Games",
+      "event": "June-August 2025",
+      "amount": 2800,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Capital Lakefair",
+      "event": "July 16-20, 2025",
+      "amount": 8400,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Thurston County Fair",
+      "event": "July 31 - Aug 3, 2025",
+      "amount": 26630,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county"
+     },
+     {
+      "recipient": "Olympia Harbor Days",
+      "event": "Aug 29-31, 2025",
+      "amount": 8850,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "American Lung Association",
+      "event": "Reach the Beach, Sept 27-28, 2025",
+      "amount": 5100,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Grand Mound-Rochester Chamber of Commerce",
+      "event": "Tourism promotion",
+      "amount": 3710,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "chamber"
+     },
+     {
+      "recipient": "Tenino Area Chamber of Commerce",
+      "event": "Tourism promotion",
+      "amount": 11840,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "chamber"
+     },
+     {
+      "recipient": "Thurston County Economic Development Council",
+      "event": "Tourism promotion",
+      "amount": 27200,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "EDC"
+     },
+     {
+      "recipient": "We Love Rainier Washington",
+      "event": "Tourism promotion",
+      "amount": 9020,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city-affiliated"
+     },
+     {
+      "recipient": "Yelm Chamber of Commerce",
+      "event": "Tourism promotion",
+      "amount": 7200,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "chamber"
+     }
+    ],
+    "note": "Totals summed: events $91,030; facilities/promotion $58,970; combined $150,000."
+   }
+  },
+  "upcoming": "2027 cycle open: ~$250,000 expected; applications due Dec 24, 2026 5 pm to Ellen Massey (ellen.massey@co.thurston.wa.us); LTAC met Sept 24, 2026 on 2026 recap, fund health, scoring rubric and priorities; review in January 2027.",
+  "not_found": "BOCC approval dates for 2025 and 2026 awards."
+ },
+ "Marysville": {
+  "source_urls": [
+   "https://marysvillewa.gov/785/Tourism-Grant-Program-HotelMotel-Tax",
+   "https://marysvillewa.gov/CivicAlerts.asp?AID=1323",
+   "https://www.arlingtontimes.com/?p=29336",
+   "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "not found (applications were due Oct 15-20, 2025)",
+    "awards": [],
+    "note": "Award list not published on city page."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found. An undated Arlington Times article (year not determinable, likely pre-2025) shows a typical Marysville round: $78,500 to six projects (Fourth of July $26,000; Strawberry Festival $20,000; Opera House marketing plan $15,000; Getchell HS Twilight XC Invitational $10,000; Tulalip Chamber Brew and Cider Fest $6,000; Red Curtain Foundation $1,500) with $30,000+ carried over; not attributed to 2025. DOR 2024 lodging tax distributions to Marysville: $249,524."
+   }
+  },
+  "upcoming": "2026 program applications ran Sept 15 to Oct 20, 2025 (deadline extended). 2027 cycle details not found; funded by 2% lodging tax, partial reimbursement grants.",
+  "not_found": "Per-award lists and totals for both years."
+ },
+ "Pend Oreille County": {
+  "source_urls": [
+   "https://dor.wa.gov/sites/default/files/2025-06/TableL1-2024.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "No county LTAC web page, agenda item or news coverage located in eight searches. DOR 2024 lodging tax distributions to Pend Oreille County: $79,637 ($38,272 state-shared + $41,365 special), so the program is small. The City of Newport runs its own hotel/motel application."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found."
+   }
+  },
+  "upcoming": "Not found.",
+  "not_found": "All per-award lists and totals for 2025 and 2026."
+ },
+ "Ferndale": {
+  "source_urls": [
+   "https://www.lyndentribune.com/ferndale_record/ferndale-events-organizations-receive-tourism-funding/article_369de047-0531-44ba-ac79-6c731dee5dc8.html",
+   "https://cityofferndale.org/401/Lodging-Tax-Grant-Program"
+  ],
+  "years": {
+   "2027": {
+    "total": 50000,
+    "decided": "City Council approved; reported 2026-09-02 (Ferndale Record)",
+    "awards": [
+     {
+      "recipient": "Ferndale Chamber of Commerce",
+      "event": "Ferndale Visitor Center",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "requested $40,000"
+     },
+     {
+      "recipient": "City of Ferndale",
+      "event": "Pioneer Village seasonal tour guides",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "requested $15,000"
+     },
+     {
+      "recipient": "Ferndale Heritage Society",
+      "event": "Olde Fashioned Christmas 2027",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Ferndale Heritage Society",
+      "event": "Lighted Christmas Stroll",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Ferndale Heritage Society",
+      "event": "Stars, Stripes and Spokes",
+      "amount": 500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $1,200"
+     },
+     {
+      "recipient": "Ferndale Arts Commission",
+      "event": "Ferndale Block Party",
+      "amount": 1500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city commission; requested $8,000"
+     },
+     {
+      "recipient": "Whatcom Old Settlers Association",
+      "event": "Pioneer Days",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Ferndale Downtown Association",
+      "event": "Downtown Distilled and Ferndale of a Sale",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $8,000"
+     }
+    ],
+    "note": "10 applications requested $89,500; 8 partially funded for $50,000. Whatcom Frightmare and Rock the Block (Placemake Arts Northwest) not funded."
+   },
+   "2026": {
+    "total": 81000,
+    "decided": "fall 2025 (per list-file note); per-award list not found",
+    "awards": [],
+    "note": "Prior round: $81,000 to 10 organizations out of 14 requests totaling $171,350 (from list file). Itemized list not located before search budget ran out."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found."
+   }
+  },
+  "upcoming": "FY2027 window closed; next application period expected June 2027. Pool dropped from $81,000 to $50,000.",
+  "not_found": "Itemized 2026 and 2025 lists; council approval dates."
+ },
+ "Cheney": {
+  "source_urls": [],
+  "years": {
+   "2026": {
+    "total": 49097,
+    "decided": "Resolution F-470 (date not confirmed; from list file)",
+    "awards": [
+     {
+      "recipient": "Cheney Mayfest",
+      "event": "Mayfest",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "received the largest share per list file"
+     }
+    ],
+    "note": "$49,097 authorized for 2026 per list file. Agenda center (wa-cheney.civicplus.com) not fetchable in this session; itemized list not verified."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [
+     {
+      "recipient": "Cheney Mayfest",
+      "event": "Mayfest",
+      "amount": 32067,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "$30,000 advanced; from list file"
+     },
+     {
+      "recipient": "West Plains Little League",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "from list file"
+     },
+     {
+      "recipient": "Spokane Americas Y",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "from list file"
+     }
+    ],
+    "note": "From list file only; not independently verified this session."
+   }
+  },
+  "upcoming": "Not found.",
+  "not_found": "Verification of Resolution F-470 and itemized 2026 amounts; 2025 amounts for Little League and Y."
+ },
+ "Snohomish": {
+  "source_urls": [
+   "https://snohomishwa.gov/778/10942"
+  ],
+  "years": {
+   "2026": {
+    "total": 26000,
+    "decided": "Applications Feb 16 to Mar 15, 2026; LTAC scoring then City Council approval (date not found)",
+    "awards": [],
+    "note": "$26,000 available for 2026 projects; max request $10,000, full awards at that level rare. Recipient list not found."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found."
+   }
+  },
+  "upcoming": "No 2027 info posted. Contact Brady Begin, Economic Development & Outreach Coordinator.",
+  "not_found": "Recipient lists for both years; 2025 total."
+ },
+ "Okanogan": {
+  "source_urls": [
+   "https://www.okanogancity.com/media/16646"
+  ],
+  "years": {
+   "2026": {
+    "total": 19878,
+    "decided": "Business and Tourism Committee memo to City Council dated 2025-10-30; included in 2026 budget",
+    "awards": [
+     {
+      "recipient": "Okanogan Chamber of Commerce",
+      "event": "Special event advertising and operational expenses",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "chamber"
+     },
+     {
+      "recipient": "The Chronicle",
+      "event": "Advertising in Vacationland, InfoBook, Snowmobile and ORV guides",
+      "amount": 3478,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Okanogan",
+      "event": "Staff salary/overtime for event set-up",
+      "amount": 1400,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city"
+     },
+     {
+      "recipient": "Okanogan Grange",
+      "event": "LED light replacement",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $3,500; not recommended, not a 501(c)(3)/(c)(6)"
+     }
+    ],
+    "note": "Total requested $23,378; recommended $19,878."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "Not found. List file notes 2024: $23,666; 2023: $26,239."
+   }
+  },
+  "upcoming": "Not found.",
+  "not_found": "2025 awards; council adoption date of the 2026 recommendations."
+ },
+ "College Place": {
+  "source_urls": [
+   "https://www.cpwa.us/government/boards_and_commissions/index.php"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "Commission meets first Thursday of August and November; 2026 cycle funded 7 of 8 applicants (per list file)",
+    "awards": [
+     {
+      "recipient": "Downtown College Place Association",
+      "event": null,
+      "amount": 16000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "from list file"
+     },
+     {
+      "recipient": "Walla Walla Movie Crush",
+      "event": null,
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "from list file"
+     }
+    ],
+    "note": "Not published on city page; packets are on collegeplacewa.portal.civicclerk.com (not fetchable). Other five funded applicants not identified."
+   },
+   "2025": {
+    "total": null,
+    "decided": "not found",
+    "awards": [],
+    "note": "2025 cycle funded eight groups (per list file); names and amounts not found."
+   }
+  },
+  "upcoming": "Commission meets first Thursday of August and November at 3:30 pm; fillable application on city page; no deadline stated.",
+  "not_found": "Full itemized lists and totals for both years."
+ }
+}

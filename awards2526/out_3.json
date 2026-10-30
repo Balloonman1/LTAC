@@ -1,0 +1,2311 @@
+{
+ "Chelan County": {
+  "source_urls": [
+   "https://www.co.chelan.wa.us/files/board-of-commissioners/documents/LTAC/2026%20LODGING%20TAX%20GRANT%20ALLOCATIONS.pdf",
+   "https://co.chelan.wa.us/news/article/bocc-awards-2026-lodging-tax-grants",
+   "https://kpq.com/chelan-county-tourism-funding-awards/",
+   "https://www.co.chelan.wa.us/files/board-of-commissioners/documents/LTAC/Chelan%20County%20Lodging%20Tax%20Framework%202026.pdf",
+   "https://www.co.chelan.wa.us/files/board-of-commissioners/archives-LTAC-meetings/2025/11-21-2025%20LTAC%20Minutes.pdf",
+   "https://www.co.chelan.wa.us/news/article/county-awards-2025-lodging-tax-events-marketing-grants",
+   "https://www.co.chelan.wa.us/news/article/county-awards-481000-in-lodging-taxes-to-11-tourism-projects"
+  ],
+  "years": {
+   "2026": {
+    "total": 221638,
+    "decided": "2025-11-06 (BOCC e-signed approval of LTAC memo dated 2025-10-27)",
+    "awards": [
+     {
+      "recipient": "Buckner Home",
+      "event": "Heritage Square Dance in the Orchard",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Cascade Celtic Festival",
+      "event": "2026 Cascade Celtic Festival",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Cascade Community Markets",
+      "event": "Leavenworth & Cashmere Farmers Markets",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Cashmere Chamber",
+      "event": "Christmas in Cashmere featuring Nelson Family Lights",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Cashmere Community Concerts",
+      "event": "Wenatchee River Bluegrass Festival",
+      "amount": 8588,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Cashmere Museum & Pioneer Village",
+      "event": "Marketing",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Dangerous Women",
+      "event": "Opening Common Ground",
+      "amount": 750,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Entiat Valley Chamber",
+      "event": "Entiat Vintage Hydro Regatta and Car Show",
+      "amount": 3500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Evergreen Mtn Bike Alliance",
+      "event": "2026 Leavenworth Bike Fest",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Family Lines",
+      "event": "Family Lines Summer Fly Fishing Academy",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Fiestas Mexicanas",
+      "event": "Fiestas Mexicanas Festival",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Icicle Creek Center for the Arts",
+      "event": "Screech Owl Summer Concert Series",
+      "amount": 8000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Icicle Creek Center for the Arts",
+      "event": "Marketing",
+      "amount": 4000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lake Chelan Bach Fest",
+      "event": "Bach Fest",
+      "amount": 4000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lake Chelan Car Club",
+      "event": "Fall Into Chelan Car Show",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lake Chelan Wine Alliance",
+      "event": "Marketing",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lake Chelan Rotary",
+      "event": "Cycle Chelan 2026",
+      "amount": 4000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Leavenworth Alphorn",
+      "event": "Northwest Alphorn Workshop",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Leavenworth Summer Theater",
+      "event": "Leavenworth Summer Theater",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Leavenworth Village Voices",
+      "event": "Christmas in the Mountains Concerts & Caroling",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Leavenworth Winter Sports Club",
+      "event": "Upper Valley Outdoor Rec Marketing Campaign",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Historic Manson Main St Association",
+      "event": "Village of Lights and Santa's Arrival",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Manson Chamber",
+      "event": "Soaring into Manson Car Show",
+      "amount": 500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Manson Chamber",
+      "event": "Haunted Manson",
+      "amount": 500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Manson Chamber",
+      "event": "Hydrofest",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Manson Chamber",
+      "event": "Meat on the Street Festival & Competition",
+      "amount": 500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Manson Chamber",
+      "event": "Pickleball",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "NCW Arts Alliance",
+      "event": "Columbia Street Mural Fest",
+      "amount": 500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "NCW Tech Alliance",
+      "event": "Flywheel Investment Conference",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Plain Valley Ski Trails",
+      "event": "Marketing",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Plain Valley Ski Trails",
+      "event": "Race & Clinic Development",
+      "amount": 13300,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Precious Little Theater/North 40 Productions",
+      "event": "Precious Little Theater Documentary Project",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Stehekin Heritage",
+      "event": "Marketing",
+      "amount": 3500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "TREAD",
+      "event": "2026 Washington State Trails Conference",
+      "amount": 12000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Two Rivers Medieval Faire",
+      "event": "Two Rivers Medieval Faire",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "WA St Autumn Leaf Festival Association",
+      "event": "WA St Autumn Leaf Festival",
+      "amount": 8500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Wenatchee River Institute",
+      "event": "Leavenworth Spring Bird Fest",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Wenatchee Valley Chamber",
+      "event": "Rails & Ales",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Wenatchee Valley Chamber",
+      "event": "2026 La Terraza on the Ave",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Wenatchee Valley Museum & Cultural Center",
+      "event": "2026 Event Series",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Wenatchee Valley Velo",
+      "event": "2026 Tour de Bloom",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Wenatchee Youth Baseball",
+      "event": "2026 Cal Ripken & Babe Ruth State Tournament",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Wenatchee Youth Basketball",
+      "event": "509 Frenzy Youth Basketball Tournament",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "Event & Marketing grant round only: 43 grants to 35 organizations, $221,638 (46 applications requested ~$780,000). Separate from grants, the 2026 Lodging Tax Framework adopted by the BOCC 2025-12-15 allocates lodging tax by percentage: Visit Chelan County 27%, Lake Chelan Chamber 20%, Leavenworth Chamber 20%, Chelan County 20% (15% maintenance/capital, 5% tourism facility M&O), Event & Marketing Grants 10%, Manson Chamber 4%, Cascade Loop 3%, Cashmere Chamber 3%, Entiat Chamber 3% (110% of Oct 2024-Sep 2025 collections, excess from reserves; dollar amounts not published). County collects about $2.2M/yr in lodging tax. Nov 21 2025 LTAC minutes also discuss moving $2.5M from reserve to a restricted M&O fund for county-owned tourism facilities. Manson Chamber and Wenatchee Valley Chamber are chambers but not the county DMO; flagged as dmo=true for chambers only where the recipient name says Chamber."
+   },
+   "2025": {
+    "total": 733350,
+    "decided": "Event/marketing grants announced by county ~2024-11-26 (exact BOCC date not stated); capital awards article page dated 2024-06-05",
+    "awards": [
+     {
+      "recipient": "Washington State Autumn Leaf Festival",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Buckner Homestead Heritage Foundation",
+      "event": null,
+      "amount": 2850,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Cashmere Community Concerts",
+      "event": "Wenatchee Bluegrass Festival",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Cascade Community Markets",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Entiat Valley Chamber of Commerce",
+      "event": "Vintage Hydro and Car Show",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Evergreen Mountain Bike Alliance (Central WA Chapter)",
+      "event": "Leavenworth Bike Festival",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Icicle Creek Center of the Arts",
+      "event": "Meadow Concerts",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Lake Chelan Bach Fest",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Lake Chelan Car Club",
+      "event": null,
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Lake Chelan Grape Growers/Lake Chelan Wine Alliance",
+      "event": null,
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Leavenworth Alphorn Association",
+      "event": "Northwest Alphorn Workshop & Festival",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Leavenworth Summer Theatre",
+      "event": null,
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Northwest Accordion Society",
+      "event": "Leavenworth International Accordion Celebration",
+      "amount": 3500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Plain Valley Ski Trails",
+      "event": "Washington Nordic Cup",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Stehekin Heritage",
+      "event": "Stehekin Guidebook",
+      "amount": 3500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Two Rivers Medieval Fair",
+      "event": null,
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Village Art in the Park",
+      "event": null,
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Wenatchee Figure Skating Club",
+      "event": "Apple Ice Classic Figure Skating Competition",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Wenatchee Racquet and Athletic Club",
+      "event": "Pickleball tournaments",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Wenatchee River Institute",
+      "event": "Leavenworth Spring Bird Festival",
+      "amount": 7000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Wenatchee Valley Chamber of Commerce",
+      "event": "Rails & Ales",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Wenatchee Valley Museum Cultural Center",
+      "event": null,
+      "amount": 13500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Wenatchee Valley Velo Club",
+      "event": "2025 Tour de Bloom",
+      "amount": 45000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "event/marketing round"
+     },
+     {
+      "recipient": "Lake Chelan Nordic Club",
+      "event": "Snow grooming equipment (capital)",
+      "amount": 110000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "capital round; article lists $481,000 to these 8 recipients; funding year labeled 2025 by the article summary, verify"
+     },
+     {
+      "recipient": "Leavenworth Winter Sports Club",
+      "event": "Snow grooming equipment (capital)",
+      "amount": 100000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "capital round; article lists $481,000 to these 8 recipients; funding year labeled 2025 by the article summary, verify"
+     },
+     {
+      "recipient": "Wenatchee Valley TREAD",
+      "event": "Trails project (capital)",
+      "amount": 92000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "capital round; article lists $481,000 to these 8 recipients; funding year labeled 2025 by the article summary, verify"
+     },
+     {
+      "recipient": "Evergreen Mountain Bike Alliance",
+      "event": "No. 2 Canyon recreation area (capital)",
+      "amount": 84000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "capital round; article lists $481,000 to these 8 recipients; funding year labeled 2025 by the article summary, verify"
+     },
+     {
+      "recipient": "Plain Valley Ski Trails",
+      "event": "Welcome center project phase 2 (capital)",
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "capital round; article lists $481,000 to these 8 recipients; funding year labeled 2025 by the article summary, verify"
+     },
+     {
+      "recipient": "Chelan-Douglas Land Trust",
+      "event": "Jacobsen Preserve trailhead (capital)",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "capital round; article lists $481,000 to these 8 recipients; funding year labeled 2025 by the article summary, verify"
+     },
+     {
+      "recipient": "Chelan County Natural Resources",
+      "event": "Parks and Recreation Plan (capital)",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "capital round; article lists $481,000 to these 8 recipients; funding year labeled 2025 by the article summary, verify"
+     },
+     {
+      "recipient": "Upper Valley Historical Society",
+      "event": "Expansion feasibility study (capital)",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "capital round; article lists $481,000 to these 8 recipients; funding year labeled 2025 by the article summary, verify"
+     }
+    ],
+    "note": "Event & Marketing round: 23 awards, $252,350. Capital round: $481,000 to 8 recipients (county article 'county awards 481000 in lodging taxes to 11 tourism projects'). Combined $733,350. Chamber/Visit Chelan County framework shares for 2025 were set by the Sept 23 2024 framework memo (percentages only, not retrieved)."
+   }
+  },
+  "upcoming": "2027 event/marketing cycle: LTAC agenda posted for 2026-08-20; prior pattern is applications open late Aug, due mid-Oct, LTAC recommendation late Oct, BOCC approval early-mid Nov. Next capital application call was announced for February 1, 2026. Framework 2026 (adopted 2025-12-15) replaces the 2025-2028 framework and draws 10% above collections from reserves.",
+  "not_found": "Dollar amounts of the percentage-based allocations to Visit Chelan County and the chambers; 2027 award list (not yet decided as of 2026-10-30); BOCC approval date for the 2025 event grants."
+ },
+ "Clallam County": {
+  "source_urls": [
+   "https://www.peninsuladailynews.com/2026/01/13/clallam-mulling-lodging-tax-funds/",
+   "https://www.peninsuladailynews.com/?p=247065",
+   "https://www.peninsuladailynews.com/?p=267226",
+   "https://www.peninsuladailynews.com/?p=237570",
+   "https://www.sequimgazette.com/?p=97214",
+   "https://www.peninsuladailynews.com/?p=240982",
+   "https://www.clallamcountywa.gov/757/Lodging-Tax-Advisory-Committee-LTAC"
+  ],
+  "years": {
+   "2026": {
+    "total": 1782114,
+    "decided": "Round 1: slated for BOCC approval 2026-01-20 (presented at 2026-01-12 work session). Round 2: BOCC consideration Tuesday 2026-04-21 (per PDN preview 2026-04-18)",
+    "awards": [
+     {
+      "recipient": "Olympic Peninsula Visitor Bureau",
+      "event": "Annual tourism promotion incl. strategic plan; part regranted for events",
+      "amount": 850000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "Round 1 (Jan 2026)"
+     },
+     {
+      "recipient": "Port Angeles Waterfront Center (Field Hall)",
+      "event": "Operations",
+      "amount": 321164,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 1"
+     },
+     {
+      "recipient": "Top Left Trails Co-op",
+      "event": "Dry Hill Trails rebuild and Colville Trails revitalization (operations and capital)",
+      "amount": 80000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 1; first-time applicant"
+     },
+     {
+      "recipient": "Clallam County Public Works",
+      "event": "Olympic Discovery Trail repairs, Priest Road to Dungeness River Center",
+      "amount": 65450,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "Round 1; county department"
+     },
+     {
+      "recipient": "Peninsula Trails Coalition",
+      "event": "Olympic Discovery Trail operations, marketing, visitor service",
+      "amount": 64000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 1"
+     },
+     {
+      "recipient": "Hurricane Ridge Winter Sports Education Foundation",
+      "event": "Operations (payroll, fuel, liability insurance)",
+      "amount": 60000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 1"
+     },
+     {
+      "recipient": "Dungeness Crab Festival",
+      "event": "Event operations",
+      "amount": 59500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 1"
+     },
+     {
+      "recipient": null,
+      "event": null,
+      "amount": 282000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 2 (April 2026): 11 grants totaling $282,000 recommended by LTAC; per-grant list not found"
+     }
+    ],
+    "note": "Round 1 (seven 2026 agreements) totals $1,500,114; PDN article of 2026-01-13 reported them as pending approval on 2026-01-20 and the final vote was not retrieved. Round 2 ($282,000, 11 grants) was before the BOCC on 2026-04-21; outcome and recipients not retrieved. Combined $1,782,114."
+   },
+   "2025": {
+    "total": 1594014,
+    "decided": "Round 1 approved unanimously at BOCC regular session ~2025-01-07 (PDN 2025-01-10, Sequim Gazette 2025-01-15). Round 2 approved unanimously, reported 2025-04-30 (agenda file dated 2025-04-10)",
+    "awards": [
+     {
+      "recipient": "Olympic Peninsula Visitor Bureau",
+      "event": "Promote and develop year-round tourism",
+      "amount": 1000000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "Round 1"
+     },
+     {
+      "recipient": "Field Arts & Events Hall",
+      "event": "Operation of tourism-related facilities",
+      "amount": 200000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 1"
+     },
+     {
+      "recipient": "Clallam County Public Works",
+      "event": "Olympic Discovery Trail improvement projects",
+      "amount": 100000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "Round 1; county department"
+     },
+     {
+      "recipient": "Hurricane Ridge Winter Sports Education Foundation",
+      "event": "Ski, snowboard, tubing operations and shuttle",
+      "amount": 90000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 1"
+     },
+     {
+      "recipient": "Field Arts & Events Hall",
+      "event": "Operational support",
+      "amount": 60000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 2; requested $100,000"
+     },
+     {
+      "recipient": "Dungeness Crab Festival",
+      "event": null,
+      "amount": 55000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 2"
+     },
+     {
+      "recipient": "Feiro Marine Life Center",
+      "event": "Operations support",
+      "amount": 30220,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 2"
+     },
+     {
+      "recipient": "Olympic Peninsula Fungi Festival",
+      "event": "Operations",
+      "amount": 21000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 2"
+     },
+     {
+      "recipient": "Clallam Bay/Sekiu Visitors Center",
+      "event": "Tourism promotion, marketing, center operation",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 2"
+     },
+     {
+      "recipient": "Peninsula Trails Coalition",
+      "event": "2025 Tour de Lavender support",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Round 2; requested $20,550"
+     },
+     {
+      "recipient": "Clallam County Public Works",
+      "event": "Olympic Discovery Trail maintenance and e-bike",
+      "amount": 9794,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "Round 2"
+     }
+    ],
+    "note": "Round 1: $1,390,000 (4 awards). Round 2: PDN reported $204,014 across 7 awards; the listed amounts sum to $201,014. Three Round 2 applications were ruled ineligible (nonprofit capital): Olympic Theatre Arts ($131,814), Community Boating Program ($20,000), part of Clallam Bay/Sekiu Fun Days ($12,375). County lodging tax (4%) generates about $1.8M-$2M/yr."
+   }
+  },
+  "upcoming": "2027 call for funding posted on the county LTAC page (application PDF/Word and notice at clallamcountywa.gov DocumentCenter 29130/21533/21532); deadline and pool not retrieved (document blocked). LTAC meets second Thursday monthly 2 p.m.",
+  "not_found": "Recipient list for the April 2026 $282,000 round; confirmation votes for the Jan 2026 and Apr 2026 rounds; 2027 deadline and pool."
+ },
+ "Lewis County": {
+  "source_urls": [
+   "https://lewiscountywa.gov/offices/commissioners/tourism-promotion-funding-application/",
+   "https://lewiscountywa.gov/offices/commissioners/tourism-promotion-funding-application/application-for-lodging-tax-funding/",
+   "https://lewiscountywa.gov/media/documents/2025-08-01_LTAC_application_press_release.pdf",
+   "https://lewiscountywa.gov/documents/19841/2026-07-31_LTAC_application_press_release.pdf",
+   "https://lewiscountywa.gov/documents/17232/2025-10-17_Lodging_Tax_deliberations.pdf",
+   "https://packetwriter.lewiscountywa.gov/proposal/3257/",
+   "https://packetwriter.lewiscountywa.gov/media/proposal-3257/2026_LTAC_Preliminary_Approvals_-_Exhibit_A.pdf",
+   "https://packetwriter.lewiscountywa.gov/resolutions/?page=18"
+  ],
+  "years": {
+   "2026": {
+    "total": 1066501,
+    "decided": "2025-12-16 (BOCC Resolution 25-372 approving 2026 lodging tax contracts, up to $1,066,501, from Tourism Promotion Fund 1980)",
+    "awards": [
+     {
+      "recipient": "ARTrails of Southwest Washington",
+      "event": "Washington Open Studio Tour",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Centralia-Chehalis Chamber of Commerce",
+      "event": "Tourism & Visitor Center",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "$0 = applied, not recommended"
+     },
+     {
+      "recipient": "Chehalis-Centralia Railroad & Museum",
+      "event": "Operations",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Vader",
+      "event": "Fourth of July Festival & Fireworks",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "East Lewis County Chamber of Commerce",
+      "event": "Business Resource and Visitor Information Center",
+      "amount": 45000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Economic Alliance of Lewis County",
+      "event": "Discover Lewis County (DMO)",
+      "amount": 200000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Economic Alliance of Lewis County",
+      "event": "White Pass Scenic Byway",
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Fire Mountain Arts Council",
+      "event": "Visitor information and marketing",
+      "amount": 27000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lewis County (Historic Museum overhead)",
+      "event": "Historic Museum overhead",
+      "amount": 66501,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Lewis County Historical Society",
+      "event": "Historical Museum operations",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lewis County (LTAC program administration)",
+      "event": "LTAC Program Administration",
+      "amount": 22000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Mineral Lake Lions Club",
+      "event": "Mineral Lake Lions Den Campground and community events",
+      "amount": 60000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Morton Historical Society",
+      "event": "Visitor Center, Museum and Train Depot staffing/overhead",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Mossyrock Area Action League",
+      "event": "Red, White and Blueberry Festival",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Onalaska Alliance",
+      "event": "Apple Harvest Festival",
+      "amount": 22300,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Packwood Trail Project",
+      "event": "2026 East Lewis County Tourism Promotion",
+      "amount": 45000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Pinchot Partners",
+      "event": "Gifford Pinchot Fungi Festival",
+      "amount": 18500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Southwest Washington Fair",
+      "event": "Fair",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "SW WA Fairgrounds Tourism and Marketing Initiative",
+      "event": "Fairgrounds tourism and marketing",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Toledo Lions Club",
+      "event": "Cheese Days Promotional Coupon Book",
+      "amount": 17000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Touched By One Touched By All",
+      "event": "Onalaska Community Roots Festival & Family Hub",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "$0 = applied, not recommended"
+     },
+     {
+      "recipient": "Veterans Memorial Museum",
+      "event": "Museum",
+      "amount": 48000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Visit Rainier",
+      "event": "Ashford, Mineral, Packwood tourism promotion",
+      "amount": 43200,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "WAMA, Inc.",
+      "event": "Pickersfest 2026",
+      "amount": 12000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Western Forest Industries Museum",
+      "event": "Museum",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "White Pass Country Historical Society (WPCHS)",
+      "event": "Museum operations and events",
+      "amount": 180000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "White Pass Country Historical Society (WPCHS)",
+      "event": "Packwood Visitor Center",
+      "amount": 70000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "Exhibit A 'LTAC Recommended 2026 Lodging Tax Awards': 27 line items, 25 funded, total $1,066,501. Includes county-retained lines (Historic Museum overhead $66,501; LTAC program administration $22,000). Centralia-Chehalis Chamber and Touched By One Touched By All were not recommended."
+   },
+   "2025": {
+    "total": null,
+    "decided": "BOCC decision expected mid-November 2024 (LTAC presentations 2024-10-24); actual resolution not retrieved",
+    "awards": [],
+    "note": "Per-award list not found; the equivalent 2025 contracts resolution (likely Dec 2024) was not located because the county's PacketWriter resolution archive paginates non-chronologically and has no search."
+   }
+  },
+  "upcoming": "2027 cycle: applications due 4 p.m. 2026-09-30; LTAC presentations 2026-10-15 (10-16 backup); county posted 'LTAC - Funding Recommendations for 2027' PDF dated 2026-10-16 (lewiscountywa.gov/documents/20437/LTAC_-_Funding_Recommendations_for_2027_10.16.26.pdf, not retrievable this session); BOCC decision expected mid-November 2026. LTAC met 2026-07-17 to revise application, scoring criteria and policy guidelines; a scoresheet sample is now posted.",
+  "not_found": "2025 award list; the 2027 recommendation PDF content (lewiscountywa.gov/documents/20437, posted 2026-10-16, blocked). Ordinance 1374 (hearing 2026-03-24) changed LCC 3.15.040 to allow flexibility on interest earned in the Tourism Promotion fund."
+ },
+ "Kittitas": {
+  "source_urls": [
+   "https://codepublishing.com/WA/Kittitas/html/Kittitas03/Kittitas0322.html"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Nothing found."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Nothing found."
+   }
+  },
+  "upcoming": null,
+  "not_found": "Second pass found no City of Kittitas lodging tax records at all; results were Kittitas County/Ellensburg only. The city likely passes its small lodging tax to the Kittitas County Chamber of Commerce or budgets it internally; check city budget or council minutes directly."
+ },
+ "Jefferson County": {
+  "source_urls": [
+   "https://www.peninsuladailynews.com/?p=237299",
+   "https://peninsuladailynews.com/news/jefferson-county-grants-800k-in-lodging-tax",
+   "https://www.peninsuladailynews.com/?p=236358",
+   "https://www.jeffcobeacon.com/lodging-tax-advisory-committee-approves-2027-tax-funds-after-contentious-debate/",
+   "https://www.co.jefferson.wa.us/1394/Lodging-Tax-Advisory-Council-LTAC",
+   "https://www.co.jefferson.wa.us/AgendaCenter/ViewFile/ArchivedAgenda/_07202026-184"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "2026 award list not found after a second pass (PDN, Jeffco Beacon, PT Leader, county LTAC page, BOCC agendas). County process: recommendations ratified by BOCC mid-December, agreements on consent agenda Dec/Jan; the county's LaserFiche 'Agendas & Minutes' folder (test.co.jefferson.wa.us/WebLinkExternal) likely holds the Dec 2025 recommendation but was not reachable."
+   },
+   "2025": {
+    "total": 767861,
+    "decided": "Approved by BOCC before 2024-12-31 (PDN 2024-12-31; LTAC special meeting late Nov 2024); exact date not stated",
+    "awards": [
+     {
+      "recipient": "Olympic Peninsula Culinary Loop Tourism Association",
+      "event": "Culinary/ag tourism promotion and marketing",
+      "amount": 17100,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Olympic Peninsula Gateway Visitor Center",
+      "event": "Offsite marketing, payroll, admin, utilities",
+      "amount": 140500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Forks Chamber of Commerce",
+      "event": "Visitor center staffing (Forks, Kalaloch), marketing, maps",
+      "amount": 61297,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Jefferson County Historical Society",
+      "event": "Programs manager and marketing director (partial)",
+      "amount": 84550,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Jefferson County Farmers Market",
+      "event": "Advertising, digital, video, music, Chimacum site manager",
+      "amount": 24214,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "North Hood Canal Chamber of Commerce",
+      "event": "Advertising, wages, insurance, admin",
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Jefferson County Parks and Recreation",
+      "event": "Campground improvements (Lake Leland, Quilcene, Oak Bay), utilities, staff, website",
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Peninsula Trails Coalition",
+      "event": "Revegetation, equipment, toilets, signage, fencing",
+      "amount": 35700,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Public Facilities District (seed funding)",
+      "event": "Seed funding to establish a PFD for an aquatic center",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Quilcene Fair & Parade Association",
+      "event": "Marketing, entertainment, rentals, sanitation, tents",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Quilcene Historical Museum",
+      "event": "Promotion, M&O, utilities, admin",
+      "amount": 91500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Quimper Events Collective",
+      "event": "I-5 corridor advertising, print/digital, social, rentals",
+      "amount": 28500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Olympic Peninsula Tourism Commission",
+      "event": "Annual marketing, spring/fall campaigns, tourism master plan",
+      "amount": 109500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Wooden Boat Foundation",
+      "event": "Print advertising, festival shuttle",
+      "amount": 45000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "PDN reported 'almost $800,000'; the 14 listed awards sum to $767,861. LTAC agenda also carried a $10,000 annual capital contingency and $5,051 for county staff administration of Fund 125 (not counted)."
+   }
+  },
+  "upcoming": "2027 cycle: LTAC special session 2026-08-28 unanimously approved an RFP for $1,004,000 ($625,000 general tourism promotion pot plus $379,000 competitive destination marketing pot), versus the BOCC's earlier $625,000 RFP cap with $379,000 reserved; forwarded to BOCC. Technical assistance Sept 8-18 2026; applications due 2026-09-30; LTAC review 2026-10-30; final deliberations 2026-11-20. New 'cure period' (5+ business days for applicant clarifications) replaces in-meeting questioning. County LTAC page timeline: cure period Oct 30-Nov 6 2026; deliberations Nov 20 and Dec 9 2026 if needed; BoCC ratification mid-December 2026; agreements on consent agenda Dec 2026/Jan 2027; LTAC RFP 2027 meeting held 2026-07-24.",
+  "not_found": "2026 awards; BOCC resolution dates."
+ },
+ "Lacey": {
+  "source_urls": [
+   "https://cityoflacey.org/government/lacey-city-council/boards-commissions/ltac/",
+   "https://www.thejoltnews.com/stories/lacey-seeks-tourism-project-applications-for-2027-lodging-tax-funding,30073",
+   "https://cityoflacey.org/2027-lodging-tax-funding-applications-now-open/",
+   "https://citizenportal.ai/articles/10616689/washington/thurston-county/lacey/council-approves-ltac-recommendations-totaling-987956-with-debate-over-geographic-alignment",
+   "https://citizenportal.ai/articles/10147508/washington/thurston-county/lacey/lacey-committee-forwards-2027-lodging-tax-funding-recommendations-totaling-about-105-million-to-council",
+   "https://cityoflacey.org/wp-content/uploads/sites/3/2026/01/2026-Adopted-Budget-FINAL-with-cover.pdf",
+   "https://citizenportal.ai/articles/7218251/washington/thurston-county/lacey/council-approves-2026-lodging-tax-awards-after-debate-over-fifa-fan-zone-allocation"
+  ],
+  "years": {
+   "2026": {
+    "total": 685239,
+    "decided": "Council approval late 2025 (awards issued January 2026); exact date not stated on city page",
+    "awards": [
+     {
+      "recipient": "Ecstatic Soul Collective",
+      "event": "2026 Funk Off Festival",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Olympia Soccer Foundation",
+      "event": "Oly Soccer",
+      "amount": 40000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "SWAE Night Market",
+      "event": "Lacey Night Market at the Depot",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Washington State Senior Games",
+      "event": "Senior Games",
+      "amount": 13000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Polynesian Association of Thurston County",
+      "event": "Lacey PolyFest",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Lacey",
+      "event": "3rd of July Fireworks Spectacular",
+      "amount": 11000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "USSSA",
+      "event": "Cascades National Championship Tournament",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lacey South Sound Chamber",
+      "event": "Lacey South Sound BBQ Festival",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Team-Tomorrow LLC",
+      "event": "South Sound Block Party",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lacey South Sound Chamber",
+      "event": "Holiday Market",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Thurston County Chamber",
+      "event": "Olympia/Lacey Fan Zone (FIFA World Cup)",
+      "amount": 80000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Visitor & Convention Bureau of Thurston County (Experience Olympia and Beyond)",
+      "event": "Tourism promotion",
+      "amount": 100000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Lacey MakerSpace",
+      "event": "Facility",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Lacey",
+      "event": "Lacey Museum and Cultural Center",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Lacey South Sound Chamber",
+      "event": "Lacey Visitors Center",
+      "amount": 35000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Nisqually Reach Nature Center",
+      "event": "Facility",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Lacey",
+      "event": "Regional Athletic Complex",
+      "amount": 278739,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Thurston County",
+      "event": "Thurston County Fair and Event Center",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Washington Center for the Performing Arts",
+      "event": "Facility",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "City LTAC page lists 2026 awards: 11 events/festivals ($191,500; Holiday Market shown as '$5,0000', read as $5,000) and 8 facilities/promotion ($493,739). Total $685,239 (JOLT: 'more than $685,000'). 2026 Adopted Budget: Lodging Tax Fund revenue $685,239 (incl. $17,239 interest); LTAC recommended 29 applications; council approved the 2026 awards after debate over the FIFA Fan Zone allocation (citizenportal headline)."
+   },
+   "2025": {
+    "total": 607225,
+    "decided": null,
+    "awards": [],
+    "note": "2026 Adopted Budget shows the Lodging Tax Fund 2025 amended budget at $607,225 (fund total, not a confirmed award total); per-award 2025 list not found. Historically funded: Lacey Chamber Visitor Services, Washington Center for the Performing Arts, Experience Olympia and Beyond, Regional Athletic Complex, Lacey Museum."
+   }
+  },
+  "upcoming": "2027 cycle: applications closed 2026-08-21; presentations 2026-09-17; citizenportal headlines report LTAC forwarded about $1.05 million in 2027 recommendations and council approved LTAC recommendations totaling $987,956 (with debate over geographic alignment); awards issued January 2027. Per-award 2027 list not retrieved (citizenportal blocked).",
+  "not_found": "2025 per-award list; 2027 per-award list and council vote date (citizenportal.ai is blocked for this session; headlines only: LTAC forwarded ~$1.05M, council approved $987,956)."
+ },
+ "Chehalis": {
+  "source_urls": [
+   "https://www.chronline.com/stories/chehalis-city-council-approves-recommended-lodging-tax-funding,362454",
+   "https://citizenportal.ai/articles/6721896/washington/lewis-county/chehalis-city/chehalis-council-approves-2026-lodging-tax-allocations-retains-50000-reserve",
+   "https://www.yahoo.com/news/articles/chehalis-lodging-tax-advisory-committee-035900607.html",
+   "https://chronline.com/stories/chehalis-city-council-approves-more-2024-ltac-funding-recommendations,337597",
+   "https://www.chronline.com/stories/chehalis-extends-deadline-for-lodging-tax-advisory-committee-grant-applications,409169",
+   "https://www.ci.chehalis.wa.us/media/40906",
+   "https://www.ci.chehalis.wa.us/media/38286"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "Council approved 2026 allocations in fall 2025 (citizenportal headline 'Chehalis council approves 2026 lodging-tax allocations, retains $50,000 reserve'); date and list not retrieved",
+    "awards": [],
+    "note": "Applications for 2026 funds were due 12 p.m. 2025-09-08. Per-award list not found."
+   },
+   "2025": {
+    "total": null,
+    "decided": "Council approved LTAC recommendations unanimously (Chronicle 2024-09-25)",
+    "awards": [],
+    "note": "Eight of nine applicants funded for 2025; amounts behind Chronicle paywall. 2024 context: starting funds $570,744, $71,819 Recreation Park debt service, $50,000 reserve."
+   }
+  },
+  "upcoming": "2027 cycle: applications were due 2026-09-30, extended to 12 p.m. 2026-10-15; pool not published. City keeps a $50,000 reserve. City documents 'LTAC 2026 Meeting Minutes' (ci.chehalis.wa.us/media/40906) and a council agenda (media/38286) exist but the city site blocks automated reads.",
+  "not_found": "Per-award lists for 2025 and 2026 (Chronicle paywall; citizenportal and ci.chehalis.wa.us blocked)."
+ },
+ "Everett": {
+  "source_urls": [
+   "https://lfportal.everettwa.gov/WebLink/0/doc/2081394/Page1.aspx",
+   "https://lfportal.everettwa.gov/WebLink/0/doc/2081394/Page2.aspx",
+   "https://lfportal.everettwa.gov/WebLink/0/doc/1831777/Page1.aspx",
+   "https://lfportal.everettwa.gov/WebLink/0/doc/1831777/Page2.aspx",
+   "https://everettwa.gov/LTAC",
+   "https://www.everettwa.gov/DocumentCenter/View/44318/LTAC-2026-Info-Guide_V10312025"
+  ],
+  "years": {
+   "2026": {
+    "total": 784959,
+    "decided": "2026-03-11 (Resolution 8283)",
+    "awards": [
+     {
+      "recipient": "AMGRAF",
+      "event": "2026 Everett Gallery Season",
+      "amount": 12000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Cruzin' to Colby",
+      "event": "Cruzin' to Colby Car Show",
+      "amount": 16000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Downtown Everett Association",
+      "event": "Summer in the City",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Downtown Everett Partners",
+      "event": "Downtown Flower Program",
+      "amount": 6000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Eventuris, LLC",
+      "event": "3on3 Basketball Tournament",
+      "amount": 11000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Everett 4th of July Foundation",
+      "event": "Fourth of July Parade",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Everett Comedy",
+      "event": "Comedy Show Series",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Everett Pride",
+      "event": "Pride Block Party",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "XCEL Regional Gymnastics (fiscal sponsor Gold Creek Equine Rescue)",
+      "event": "XCEL Regional Gymnastics",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Greater Everett Chamber",
+      "event": "Micro Watch Party Program",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Imagine Children's Museum",
+      "event": "Game On! Soccer Exhibit",
+      "amount": 8000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Port of Everett",
+      "event": "Winter and Holiday Programs",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Revolution Racing Everett",
+      "event": "Performance Omnium",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Run Super Series",
+      "event": "Snohomish Women's Run",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Schack Art Center",
+      "event": "Spring into Summer Event",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Seagaze Music Foundation",
+      "event": "Seagaze Music Fest",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Snohomish County Music Project",
+      "event": "Rock the Boat Concerts",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Snohomish County Sports Commission",
+      "event": "WIAA 4A Basketball",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Space 802",
+      "event": "Milltown Marathon",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Historic Everett Theatre",
+      "event": "2026 Programs",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "US Quadball Inc",
+      "event": "National Qualifier",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Seattle Metro JO",
+      "event": "Weekend Fastpitch Tournaments",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "USA Softball Seattle",
+      "event": "Western Nationals",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant, $200,000 pool"
+     },
+     {
+      "recipient": "Everett Public Facilities District",
+      "event": "Funding of operations",
+      "amount": 100000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city allocation"
+     },
+     {
+      "recipient": "City of Everett marketing and communications",
+      "event": "2026 tourism promotions and marketing",
+      "amount": 75000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city allocation"
+     },
+     {
+      "recipient": "City of Everett",
+      "event": "2026 city tourism programs (Jetty Island Ferry, Wintertide, destination management)",
+      "amount": 75000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city allocation"
+     },
+     {
+      "recipient": "City of Everett Municipal Arts Fund 112",
+      "event": "Special events and cultural arts labor, maintenance, operations",
+      "amount": 334959,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city allocation"
+     }
+    ],
+    "note": "Competitive grants: 23 awards totaling $200,000 (pool reduced from $278,314 in 2025 as lodging revenue normalized). City allocations $584,959. Resolution total $784,959. Grant agreements executed Apr-May 2026."
+   },
+   "2025": {
+    "total": 628314,
+    "decided": "2025-02-12 (Resolution 8137)",
+    "awards": [
+     {
+      "recipient": "AMGRAF",
+      "event": "AMGRAF Concert Series",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Courtyard Media",
+      "event": "GeekFest West 2025",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Cruzin to Colby",
+      "event": "Rock the Boat Concerts",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Cruzin to Colby",
+      "event": "Cruzin to Colby Car Show 2025",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Downtown Everett Association",
+      "event": "Salty Sea Days Festival",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Downtown Everett Partners",
+      "event": "Downtown Flower Program",
+      "amount": 4000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Eventuris",
+      "event": "Everett 3 on 3 Basketball Tournament",
+      "amount": 22500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Everett Comedy/Historic Everett Theatre",
+      "event": "Everett Comedy Shows",
+      "amount": 15500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Everett July 4th Foundation",
+      "event": "4th of July Parade",
+      "amount": 6500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Everett Pride",
+      "event": "Everett Pride Block Party",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Evergreen Arboretum",
+      "event": "Wintertide Lights",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Port of Everett",
+      "event": "2025 Waterfront Place Winter Festivities",
+      "amount": 13500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Revo Racing",
+      "event": "Everett Performance Omnium",
+      "amount": 18000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Run Super Series",
+      "event": "Snohomish Women's Run",
+      "amount": 13500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "SnoCo Music Project",
+      "event": "Fisherman's Village 2025",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Snohomish County Sports Commission",
+      "event": "2025 World Breaking Classic USA Open Qualifier",
+      "amount": 10500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "Space 802",
+      "event": "Milltown Marathon",
+      "amount": 4500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "The Historic Everett Theatre",
+      "event": "2025 Programming",
+      "amount": 4814,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "USA Softball Seattle",
+      "event": "2025 Fastpitch Tournament Season",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "competitive LTAC grant"
+     },
+     {
+      "recipient": "City of Everett",
+      "event": "Tourism promotion and marketing",
+      "amount": 150000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city allocation"
+     },
+     {
+      "recipient": "City of Everett",
+      "event": "Tourism programs and events",
+      "amount": 100000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city allocation"
+     },
+     {
+      "recipient": "Everett Events Center Public Facility District",
+      "event": "Operations",
+      "amount": 100000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city allocation"
+     }
+    ],
+    "note": "Competitive grants: 19 awards totaling $278,314 plus $350,000 in city/PFD allocations."
+   }
+  },
+  "upcoming": "2026 cycle rules: applications via Euna, 25% minimum match, two endorsement letters (one from a hotel), operational support prioritized, marketing-only requests referred to the Snohomish County TPA grant. 2027 cycle not yet posted as of the LTAC page read.",
+  "not_found": "2027 pool and timeline."
+ },
+ "Moses Lake": {
+  "source_urls": [
+   "https://www.cityofml.com/647/Lodging-Tax-Advisory-Committee",
+   "https://moseslakewa.gov/AgendaCenter/ViewFile/Agenda/_03162026-961",
+   "https://www.cityofml.com/AgendaCenter/ViewFile/Minutes/_03102026-959",
+   "https://citizenportal.ai/articles/6895999/washington/grant-county/moses-lake-city/council-backs-ltac-awards-debates-surf-and-slide-capital-request-and-320000-setaside",
+   "https://citizenportal.ai/articles/6722762/Washington/Grant-County/Moses-Lake-City/Council-asks-LTAC-to-rereview-lodgingtax-recommendations-after-debate-over-operations-Surf-and-Slide-funding-and-MLIRD-request"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "Fall 2025: council first sent LTAC recommendations back for re-review (debate over operations funding, Surf n Slide, and an MLIRD request), then backed the LTAC awards while debating a Surf and Slide capital request and a $320,000 set-aside (citizenportal headlines; dates and list not retrievable)",
+    "awards": [],
+    "note": "Per-award list not found. LTAC met 2026-03-16 on a 2026 capital funding application (Ice Rink Chiller repair/replacement, amount not stated); council 2026-03-10 asked for an emergency LTAC meeting on using capital funds for the chiller. 2027 LTAC application was posted by the city (news flash 1520)."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Nothing found."
+   }
+  },
+  "upcoming": null,
+  "not_found": "2025 and 2026 per-award lists and totals (city LTAC page and news flash block automated reads; citizenportal blocked)."
+ },
+ "Colville": {
+  "source_urls": [
+   "https://www.colville.wa.us/pview.aspx?id=35944&catID=0",
+   "https://www.statesmanexaminer.com/articles/colville-city-council-approves-fair-funding,-creates-public-safety-committee"
+  ],
+  "years": {
+   "2026": {
+    "total": 117600,
+    "decided": null,
+    "awards": [
+     {
+      "recipient": null,
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Per the list file's known text, 2026 press-reported awards total $117,600 plus two Stevens County Historical Society projects with amounts not reported; the press article was not located this session"
+     }
+    ],
+    "note": "Total from list file only; the city's 'Lodging Tax' page (colville.wa.us pview 35944) blocks automated reads and the Statesman-Examiner awards article was not located. Council on 2025-08-11 separately approved $4,700 from the Vinson Fund for NE Washington Fair performers (not lodging tax)."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Nothing found."
+   }
+  },
+  "upcoming": null,
+  "not_found": "Per-award list and source article; 2025 awards."
+ },
+ "Prosser": {
+  "source_urls": [
+   "https://www.cityofprosser.com/174/Lodging-Tax-Advisory-Committee-LTAC",
+   "https://www.cityofprosser.com/DocumentCenter/View/2634/2026-LTAC-Funding-Impact-Summary---1st-Quarter",
+   "https://www.cityofprosser.com/DocumentCenter/View/2633/2026-LTAC-Funding-Impact-Summary---2nd-Quarter",
+   "https://www.cityofprosser.com/DocumentCenter/View/2174/LTAC-Meeting-Packet-for-111925-PDF",
+   "https://www.cityofprosser.com/DocumentCenter/View/2631/Prosser-LTAC-Grant-Funding-Program-"
+  ],
+  "years": {
+   "2026": {
+    "total": 247736,
+    "decided": "LTAC met 2025-10-21 and 2025-11-19; council adoption date not retrieved",
+    "awards": [
+     {
+      "recipient": "Prosser Chamber of Commerce",
+      "event": "Visitor services and marketing",
+      "amount": 173721,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "approved 2026 budget"
+     },
+     {
+      "recipient": "Prosser Balloon Rally",
+      "event": null,
+      "amount": 7900,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "approved 2026 budget"
+     },
+     {
+      "recipient": "Yakima Valley Tourism",
+      "event": "Visitor-day partnership",
+      "amount": 8162,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "LTAC funds used/reimbursed per Q1 impact summary"
+     },
+     {
+      "recipient": "Prosser Wine Network",
+      "event": "Marketing incl. Prosser Wine & Music Festival",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "award amount not stated; $6,778 reimbursed Q1, $10,271 Q2"
+     }
+    ],
+    "note": "Total approved 2026 LTAC budget $247,736; $80,728 paid through June 2026. Meeting packets are scanned PDFs and could not be read."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "2025 awards not found (10/30/2024 packet unreadable)."
+   }
+  },
+  "upcoming": "New 'Prosser LTAC Grant Funding Program' document sets planning allocation targets: Event Marketing 30%, Tourism Infrastructure 25%, Destination Development 40%, Contingency 5%; match tiers (none up to $10k, 10% for $10,001-$25k, 25% above $25k); reimbursement-only. 2027 pool not published.",
+  "not_found": "2025 list; Wine Network 2026 award amount; council adoption dates."
+ },
+ "Asotin County": {
+  "source_urls": [
+   "https://www.asotincountywa.gov/407/Lodging-Tax-Grant-Application"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found."
+   },
+   "2025": {
+    "total": 209000,
+    "decided": "Fall 2024 (application window Sept 1-30, 2024); decision date not retrieved",
+    "awards": [
+     {
+      "recipient": "Visit Lewis Clark Valley",
+      "event": null,
+      "amount": 90000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "from list file known text"
+     },
+     {
+      "recipient": "Asotin County Family Aquatic Center",
+      "event": null,
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county facility; from list file known text"
+     },
+     {
+      "recipient": "Asotin County Historical Society",
+      "event": null,
+      "amount": 44000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "from list file known text"
+     },
+     {
+      "recipient": "Asotin County Fair",
+      "event": null,
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county fair; from list file known text"
+     }
+    ],
+    "note": "Amounts come from the list file's known text and were not re-verified this session; county page shows only the 2024 application window."
+   }
+  },
+  "upcoming": null,
+  "not_found": "2026 awards; source document for 2025 awards."
+ },
+ "Redmond": {
+  "source_urls": [
+   "https://www.redmond.gov/650/Tourism-Grants",
+   "https://redmond.legistar.com/LegislationDetail.aspx?ID=6889274&GUID=14FD8CD7-69A9-41FF-8A43-676AF8F48A79&FullText=1",
+   "https://redmond.legistar.com/View.ashx?GUID=AA26F8AD-A3E5-4C24-85C0-7BE12598BDF2&ID=1328156&M=A",
+   "https://www.redmond.gov/AgendaCenter/ViewFile/Minutes/_08262025-1401",
+   "https://www.redmond.gov/AgendaCenter/ViewFile/Minutes/_09092024-1288",
+   "https://citizenportal.ai/articles/10578354/Washington/King-County/Redmond/LTAC-recommends-321500-in-tourism-grants-council-urged-to-place-recommendation-on-Oct-20-consent-agenda"
+  ],
+  "years": {
+   "2026": {
+    "total": 175000,
+    "decided": "2025-10-21 (council consent agenda AM No. 25-150, 'Approval of the 2026 Tourism Grant Funding - LTAC Recommendations'); LTAC vote 2025-08-26 (6-0)",
+    "awards": [
+     {
+      "recipient": "Surf Cup",
+      "event": null,
+      "amount": 17000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "about 50% below prior funding due to late submission"
+     },
+     {
+      "recipient": "Young Professionals Theater",
+      "event": null,
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "raised from $1,000 staff recommendation"
+     },
+     {
+      "recipient": "Centro Cultural Mexicano",
+      "event": "Cinco de Mayo",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "staff amount plus $2,000; total not stated"
+     },
+     {
+      "recipient": "Vedic Cultural Center",
+      "event": "Ananda Mela",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "staff amount plus $1,000; total not stated"
+     },
+     {
+      "recipient": "Northwest Share",
+      "event": "VegFest",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "staff amount plus $1,000; total not stated"
+     }
+    ],
+    "note": "LTAC recommended $175,000 in matching grants for 2026 (two applications not recommended). Full applicant list is in Attachment A to AM 25-150 (not retrieved). The city's own events (Redmond Lights, Derby Days, Cultural Arts) typically receive a separate allocation (~$150,000 in 2025); 2026 figure not retrieved."
+   },
+   "2025": {
+    "total": 322000,
+    "decided": "2024-10-15 (council consent AM No. 24-151); LTAC vote 2024-09-09 (4-0)",
+    "awards": [
+     {
+      "recipient": "City of Redmond",
+      "event": "Community Events and Cultural Arts (Redmond Lights, Derby Days, Cultural Arts)",
+      "amount": 150000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Centro Cultural Mexicano",
+      "event": "Cinco de Mayo",
+      "amount": 7500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "late application; reduced from $10,000"
+     },
+     {
+      "recipient": null,
+      "event": "15 other external matching grants",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "Attachment A not retrieved"
+     }
+    ],
+    "note": "$172,000 in matching grants to 16 external applicants plus $150,000 for city events; total $322,000."
+   }
+  },
+  "upcoming": "2027 cycle: LTAC met 2026-09-01 on 2027 recommendations; citizenportal headline says LTAC recommended $321,500 in tourism grants for the 2026-10-20 council consent agenda. Grants capped at 50% of project cost.",
+  "not_found": "Per-applicant lists for 2025, 2026 and 2027 (legistar attachments and citizenportal not retrievable)."
+ },
+ "Monroe": {
+  "source_urls": [
+   "https://monroewa.gov/1280/Lodging-Tax-Grant",
+   "https://monroewa.gov/DocumentCenter/View/18600/2026-LTAC-Awards",
+   "https://monroewa.gov/DocumentCenter/View/16811/2025-LTAC-Awards"
+  ],
+  "years": {
+   "2026": {
+    "total": 115000,
+    "decided": "Late 2025 (awardee webinar held 2026-01-23); council date not stated",
+    "awards": [
+     {
+      "recipient": "Monroe Chamber of Commerce",
+      "event": "Visitor Information Center",
+      "amount": 65000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Monroe Chamber of Commerce",
+      "event": "Fair Days Parade",
+      "amount": 5250,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Monroe Chamber of Commerce",
+      "event": "Music in the Park",
+      "amount": 10450,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Behind the Badge Foundation",
+      "event": "15th Annual Jayme Biendl Memorial 5K Run",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Ignite Robotics",
+      "event": "Ignite the Northwest Signature Event",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Gold Creek Equine Rescue",
+      "event": "2026 Candyland XCEL Gymnastics Invitational",
+      "amount": 7000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Luz Del Norte Energy & Sound Healing",
+      "event": "Community Wellness & Creative Connection Events",
+      "amount": 500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Discovery Leadership/Legacy Adventures",
+      "event": "Old Country Christmas",
+      "amount": 1500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Discovery Leadership/Legacy Adventures",
+      "event": "Fall Harvest Festival",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Monroe (Lake Tye)",
+      "event": "Portable Restrooms",
+      "amount": 2300,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Monroe (Explore Monroe)",
+      "event": "Digital Marketing",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Monroe",
+      "event": "Cascade Loop Membership",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Discovery Leadership/Stars Unlimited",
+      "event": "Fairfest 3on3",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Sally Petty Agency",
+      "event": "Downtown Monroe Flower Crawl",
+      "amount": 1500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "14 awards, $115,000."
+   },
+   "2025": {
+    "total": 115000,
+    "decided": "Late 2024; date not stated",
+    "awards": [
+     {
+      "recipient": "Monroe Chamber of Commerce",
+      "event": "Visitor Information Center",
+      "amount": 65000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Monroe Chamber of Commerce",
+      "event": "Music in the Park",
+      "amount": 9500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Monroe Chamber of Commerce",
+      "event": "Fair Days Parade",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Monroe Equity",
+      "event": "Community Belonging",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Monroe Equity",
+      "event": "Juneteenth",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Monroe Equity",
+      "event": "PRIDE",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Monroe",
+      "event": "Cascade Loop Ad, Sky/Sno Publication, Certified Folder",
+      "amount": 11500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Monroe",
+      "event": "Placer.AI",
+      "amount": 7500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Sky Performing Arts",
+      "event": "Community Theatre Productions",
+      "amount": 4000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Monroe Arts Council",
+      "event": "Arts Council Events Advertising",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Finish Strong Events",
+      "event": "Lake Tye Triathlon",
+      "amount": 4000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Hidden Room and Cranes on Main",
+      "event": "Historic Monroe Snowfall Festival",
+      "amount": 1500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "12 awards, $115,000."
+   }
+  },
+  "upcoming": "2027 applications due 2026-11-02 5 p.m.; scored on six criteria plus bonus points; reimbursement basis. Pool not published.",
+  "not_found": "Council approval dates; 2027 pool."
+ },
+ "Othello": {
+  "source_urls": [
+   "https://www.othellowa.gov/lodging-tax-advisory-committee",
+   "https://www.othellowa.gov/media/Finance%20PDFs/City%20of%20Othello%202026%20Budget.pdf",
+   "https://www.othellowa.gov/media/Finance%20PDFs/City%20of%20Othello%202025%20Budget.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": 78389,
+    "decided": "2026 budget adoption (late 2025)",
+    "awards": [],
+    "note": "2026 Budget: Tourism Fund 114 beginning balance $34,989, new revenue $73,400, expenditures $78,389, ending $30,000. Recipient line items are on the fund detail page (p.38) which the fetch did not return."
+   },
+   "2025": {
+    "total": 99900,
+    "decided": "2025 budget adoption (late 2024)",
+    "awards": [],
+    "note": "2025 Budget: beginning balance $53,589, revenue $76,300, expenditures $99,900, ending $29,989. Line items on p.39 not returned."
+   }
+  },
+  "upcoming": null,
+  "not_found": "Recipient-level allocations (budget detail pages not extracted; no council minutes surfaced)."
+ },
+ "Liberty Lake": {
+  "source_urls": [
+   "https://libertylakewa.gov/204/Lodging-Tax-Advisory-Committee",
+   "https://citizenportal.ai/articles/7994178/washington/spokane-county/liberty-lake/liberty-lake-advisory-committee-recommends-168150-in-tourism-grants-sending-awards-to-council",
+   "https://citizenportal.ai/articles/6330823/washington/spokane-county/liberty-lake/liberty-lake-committee-recommends-195572-in-2025-lodging-tax-grants-for-eight-local-events-and-groups",
+   "https://libertylakewa.gov/DocumentCenter/View/7478/City-of-Liberty-Lake-2025-Lodging-Tax-Application?bidId=",
+   "https://www.libertylakewa.gov/AgendaCenter/ViewFile/Agenda/_04282026-1211"
+  ],
+  "years": {
+   "2026": {
+    "total": 168150,
+    "decided": "LTAC recommendation sent to council (citizenportal headline; date not retrieved, likely late 2025/early 2026)",
+    "awards": [],
+    "note": "Headline only: 'Liberty Lake advisory committee recommends $168,150 in tourism grants, sending awards to council.' Recipients not retrieved. LTAC also held a special meeting 2026-04-28."
+   },
+   "2025": {
+    "total": 195572,
+    "decided": "LTAC recommendation (applications due 2024-12-05; citizenportal headline, date not retrieved)",
+    "awards": [],
+    "note": "Headline only: 'committee recommends $195,572 in 2025 lodging-tax grants for eight local events and groups.' Recipients not retrieved."
+   }
+  },
+  "upcoming": null,
+  "not_found": "Recipient lists and council approval dates (city site and citizenportal block automated reads)."
+ },
+ "Woodland": {
+  "source_urls": [
+   "https://www.thereflector.com/stories/woodland-seeks-applications-for-lodging-tax-tourism-funding,398305",
+   "https://www.thereflector.com/stories/woodland-council-sends-two-tourism-funding-grants-back-for-review-approves-two-others,389028",
+   "https://www.thereflector.com/stories/woodland-chamber-questions-citys-handling-of-tourism-funds,390876",
+   "https://www.thereflector.com/stories/welcome-center-opens-in-the-woodland-civic-center-following-chamber-visitor-center-closure,403806",
+   "https://www.thereflector.com/stories/woodland-senior-enrichment-group-secures-community-center-agreement-lodging-tax-funds,400232"
+  ],
+  "years": {
+   "2026": {
+    "total": 40000,
+    "decided": "Council 2025-10-06 approved Lilac Gardens $10,000 and Planters Days $5,000; sent Chamber ($40,000) and DWR ($10,000) back to LTAC; council proposed a $25,000/$25,000 split endorsed by LTAC 3-2 on 2025-10-22 (final vote pending as of 2025-11-10). After the Chamber visitor center closed in Jan 2026 the remaining $25,000 was redistributed (DWR $19,000, Senior Enrichment Group $4,000 approved 2026-04-06, Lilac Gardens $2,000). Spring 2026 application round due 2026-03-31.",
+    "awards": [
+     {
+      "recipient": "Hulda Klager Lilac Gardens",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "approved 2025-10-06"
+     },
+     {
+      "recipient": "Woodland Planters Days Celebration Committee",
+      "event": "Planters Days",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "approved 2025-10-06"
+     },
+     {
+      "recipient": "Downtown Woodland Revitalization",
+      "event": "Downtown events and promotion (Hot Summer Nights, Movies in the Park, Winterfest); civic center welcome center",
+      "amount": 19000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "share of the contested $50,000 after chamber closure; proposed $25,000 split never finalized for chamber"
+     },
+     {
+      "recipient": "Woodland Senior Enrichment Group",
+      "event": "Hometown Market and Planters Days strawberry shortcake event",
+      "amount": 4000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "approved 2026-04-06"
+     },
+     {
+      "recipient": "Hulda Klager Lilac Gardens",
+      "event": null,
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "additional distribution 2026"
+     },
+     {
+      "recipient": "Woodland Chamber of Commerce",
+      "event": "Visitor Center operations",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "LTAC recommended $40,000, council proposed $25,000; chamber closed the visitor center in Jan 2026 and received no additional funding"
+     }
+    ],
+    "note": "$65,000 package recommended by LTAC for the 2025-2026 cycle (listed $65,000 = $50,000 chamber/DWR + $10,000 + $5,000). Final distributions per The Reflector: $10,000 + $5,000 + $19,000 + $4,000 + $2,000 = $40,000 confirmed; the Chamber's $40,000 prior-year award was not repeated. Woodland's 2026 budget left lodging-tax authorization for later awards."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [
+     {
+      "recipient": "Woodland Chamber of Commerce",
+      "event": "Visitor Center operations",
+      "amount": 40000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "prior-year award referenced in Nov 2025 Reflector article; year not stated explicitly"
+     }
+    ],
+    "note": "Cycle overlaps with the 2025-2026 package above; remaining 2025 lodging tax funds were $50,000 as of Nov 2025."
+   }
+  },
+  "upcoming": "Spring application window (March); pool not published.",
+  "not_found": "Final council vote on the chamber/DWR split; a clean 2025 award list."
+ },
+ "Lincoln County": {
+  "source_urls": [
+   "https://www.co.lincoln.wa.us/659/HotelMotel-Tax",
+   "https://www.lincolncountywa.com/659/HotelMotel-Tax",
+   "https://www.lincolncountywa.com/DocumentCenter/View/1899/Resolution-Approving-2026-Hotel-motel-Tax-Fund-Grant-Recommendations-PDFpdf",
+   "https://www.lincolncountywa.com/DocumentCenter/View/1647/Resolution-Approving-2025-Hotel-Motel-Tax-Fund-Grant-Recommendations-PDFpdf",
+   "https://co.lincoln.wa.us/AgendaCenter/ViewFile/Minutes/_08042025-99",
+   "https://citizenportal.ai/articles/8813221/washington/lincoln-county/commissioners-approve-ltac-recommendations-and-resolution-2026-16-for-hotelmotel-grants"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "Resolution 2026-16 (commissioners approved LTAC recommendations for 2026 hotel/motel grants; citizenportal headline). County posts 'Resolution Approving 2026 Hotel Motel Tax Fund Grant Recommendations' PDF",
+    "awards": [],
+    "note": "The resolution PDF is a scanned image and could not be read. Per Aug 5 2025 commissioner minutes, the county ended its tourism promotion agreement with the Lincoln County EDC, moved to administer hotel/motel funds directly through a Pend Oreille County-style application process, and seated a new LTAC."
+   },
+   "2025": {
+    "total": null,
+    "decided": "County posts 'Resolution Approving 2025 Hotel Motel Tax Fund Grant Recommendations' PDF (scanned; unreadable)",
+    "awards": [],
+    "note": "Recipients and amounts not readable. 2025 funds had previously flowed through the EDC tourism promotion agreement, which expired in 2025."
+   }
+  },
+  "upcoming": "Proposals considered on an ongoing basis; LTAC meets once a year. New direct-administration process from 2025 onward.",
+  "not_found": "Recipient lists for 2025 and 2026 (scanned PDFs; site blocks curl)."
+ },
+ "Grand Coulee": {
+  "source_urls": [
+   "https://www.grandcoulee.com/story/2026/10/21/news/park-district-approves-2027-budgets-faces-projected-shortfall-of-at-least-16000/19649.html",
+   "https://citizenportal.ai/articles/8800102/washington/grant-county/electric-city/council-allocates-60000-in-lodging-tax-to-regional-tourism-groups-caprd-check-reissued-filing-deadline-denied"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Nothing found; only historic (2016, 2020) budgets known from list file."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Nothing found."
+   }
+  },
+  "upcoming": "Coulee Area Park and Recreation District's 2027 budget projects $7,000 in lodging tax from Grand Coulee (and $13,000 from Electric City) (The Star, 2026-10-21). Neighboring Electric City allocated $60,000 in lodging tax to regional tourism groups (citizenportal headline).",
+  "not_found": "2025 and 2026 Grand Coulee allocations; The Star's archive search returned only 2012-2019 articles."
+ },
+ "Hoquiam": {
+  "source_urls": [
+   "https://www.cityofhoquiam.com/o/hoquiam/page/hoquiam-lodging-tax-advisory-committee-accepting-proposals",
+   "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4097/Hoquiam/1c4aa39a-5cd8-4aaf-9ef4-f396cab29112/April_28__2025_Council_Packet.pdf?disposition=inline",
+   "https://www.cityofhoquiam.com/article/1241206"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Nothing found for 2026; the city's 'LTAC accepting proposals' page still shows the 2021 notice."
+   },
+   "2025": {
+    "total": null,
+    "decided": "2025-04-14 council approved the 'Lodging Tax Advisory Committee Recommendation' by voice vote (per April 14 minutes in the April 28 2025 packet); contents not stated",
+    "awards": [],
+    "note": "Recipients and amounts not in the minutes text."
+   }
+  },
+  "upcoming": null,
+  "not_found": "Recipients/amounts for 2025 and any 2026 action (council packets are on thrillshare and only partially indexed)."
+ },
+ "Camas": {
+  "source_urls": [
+   "https://www.cityofcamas.us/node/18934",
+   "https://mccmeetings.blob.core.usgovcloudapi.net/camaswa-pubu/MEET-Packet-49c49c05187d4535abadc848f0a0c5af.pdf",
+   "https://mccmeetingspublic.blob.core.usgovcloudapi.net/camaswa-meet-538ff2b2c20a4e289038e079f7d47880/ITEM-Attachment-001-15d8c37dec7a409092edf1aa1528daa3.pdf",
+   "https://citizenportal.ai/articles/9141371/Washington/Clark-County/Camas/Lodging-Tax-Panel-Awards-47000-to-Local-Organizations-Denies-Why-Community-Request"
+  ],
+  "years": {
+   "2026": {
+    "total": 47000,
+    "decided": "Spring 2026 LTAC meeting (citizenportal headline: 'Lodging Tax Panel Awards $47,000+ to Local Organizations, Denies Why Community Request'); council consent date not retrieved",
+    "awards": [
+     {
+      "recipient": "City of Camas Parks and Recreation",
+      "event": "Camas SpringFest, Camtown Arts & Music Festival, Hometown Holidays",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "requested $7,500 for 2026; award not confirmed"
+     }
+    ],
+    "note": "Total is 'more than $47,000' per headline; recipient list not retrieved. Why Community request denied."
+   },
+   "2025": {
+    "total": 30807,
+    "decided": "LTAC 2025-05-13 approved requests as submitted ($30,807); council consent agenda item 7 'Lodging Tax Advisory Committee Awards' 2025-05-19",
+    "awards": [],
+    "note": "Per-applicant breakdown is in the agenda packet attachments (not in the packet text). Guests at the LTAC meeting were from Live Well Camas, Camas-Washougal Chamber of Commerce and Downtown Camas Association."
+   }
+  },
+  "upcoming": "Annual spring window (opens late March, closes early May); 2% lodging charge funds the program; no pool published.",
+  "not_found": "Per-applicant lists for 2025 and 2026."
+ }
+}

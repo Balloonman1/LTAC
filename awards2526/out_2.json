@@ -1,0 +1,2056 @@
+{
+ "Kitsap County": {
+  "source_urls": [
+   "https://www.kitsap.gov/das/Pages/LTAC.aspx",
+   "https://www.kitsap.gov/das/Documents/203-2025%20LTAC%20Resolution.pdf",
+   "https://www.kitsap.gov/das/Documents/LTAC%202025%20Resolution%20055-2025.pdf",
+   "https://www.kitsap.gov/das/Documents/2026-019%20Notice%20of%20Intent%20to%20Award.pdf",
+   "https://www.kitsap.gov/das/Documents/2025-037%20Lodging%20Tax%20Award%20Process%20Instructions%20Template%202026.pdf",
+   "https://www.kitsap.gov/BOC_p/Volunteer%20Services%20%20ADVISORY%20GROUPS/Lodging%20Tax%20Advisory%20Committee%202025.pdf",
+   "https://www.kitsap.gov/das/LTAC%20Member%20Library/2026%20Sunny%20Jack%20Lodging%20Tax%20Application.pdf",
+   "https://www.kitsap.gov/das/LTAC Member Library/2025 Visit Kitsap Peninsula.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "Resolution 203-2025 (late 2025; LTAC interviews Oct 21-22, 2025, deliberations Oct 23, 2025)",
+    "awards": [],
+    "note": "The county posts the 2026 funding recipients as Resolution 203-2025 (PDF linked from the LTAC page) but the PDF could not be read in this session (scanned/binary). Applications were due Oct 24, 2025, 2:00 PM. Per-award list not captured. Second pass: no Kitsap Sun or Kitsap Daily News coverage of the county's 2026 awards found; the county's agenda system does not surface the resolution as text. The LTAC Member Library on kitsap.gov holds the 2026 applications (e.g. Sunny Jack) and 2025 applications (Visit Kitsap Peninsula, Kitsap History Museum, Bremerton Rotary Blackberry Festival) but these PDFs were not readable here."
+   },
+   "2025": {
+    "total": null,
+    "decided": "Resolution 055-2025",
+    "awards": [],
+    "note": "2025 funding recipients are in Resolution 055-2025 (PDF linked from the LTAC page); not readable in this session. Per-award list not captured."
+   }
+  },
+  "upcoming": "2027 cycle (page labels it '2026 Application Process, tentative'): RFP opens Oct 1, 2026; bid conference Oct 26, 2026 2:30 PM via Teams; RFP closes Oct 30, 2026; in-person final interviews Nov 5-6, 2026 at Silverdale library. Major change: the county issued RFP 2026-019 for a single Designated Marketing Organization to unify county-funded tourism marketing for Jan 1, 2026 through Dec 31, 2029 (DMO application closed Sept 9, 2026); Notice of Intent to Award dated Oct 6, 2026 names Visit Kitsap Peninsula as apparent successful vendor (amount not stated). Lodging Tax Fund Distribution Policy adopted as Resolution 111-2025.",
+  "not_found": "Per-award lists for 2025 and 2026 (resolutions exist as PDFs but were not readable here); pool totals; DMO contract amount."
+ },
+ "San Juan County": {
+  "source_urls": [
+   "https://sanjuancountywa.gov/CivicAlerts.asp?AID=1800",
+   "https://www.islandssounder.com/?p=53964",
+   "https://www.sanjuancountywa.gov/DocumentCenter/View/34447/2025-11-10_Monday-Meeting-Minutes",
+   "https://www.islandssounder.com/?p=55924",
+   "https://www.sanjuanjournal.com/?p=71716"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "2025-11-10",
+    "awards": [],
+    "note": "County Council accepted LTAC's 2025-cycle recommendations as presented on Nov 10, 2025 (unanimous) and authorized the County Manager to execute grant agreements; the minutes do not list grantees or amounts. Applications were due Oct 3, 2025; projects must be completed by Dec 31, 2026. Per-award list not found. Council also directed staff to proceed with changes to the San Juan Islands Visitors Bureau contract on Nov 10, 2025."
+   },
+   "2025": {
+    "total": 1900000,
+    "decided": "December 2024 (Visitors Bureau contract Dec 23, 2024); county announcement Jan 2, 2025",
+    "awards": [
+     {
+      "recipient": "San Juan Islands Visitors Bureau",
+      "event": "DMO one-year flat-fee contract (8% decrease from prior years)",
+      "amount": 535000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "Approved Dec 23, 2024 council meeting"
+     },
+     {
+      "recipient": "San Juan Island Chamber of Commerce",
+      "event": "Core funding",
+      "amount": 81148.4,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "each of three chambers received $81,148.40"
+     },
+     {
+      "recipient": "Orcas Island Chamber of Commerce",
+      "event": "Core funding",
+      "amount": 81148.4,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Island Chamber of Commerce",
+      "event": "Core funding",
+      "amount": 81148.4,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan Island museum (core)",
+      "event": "Core funding",
+      "amount": 67624.0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "each of three island museums received $67,624"
+     },
+     {
+      "recipient": "Orcas Island museum (core)",
+      "event": "Core funding",
+      "amount": 67624.0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Island museum (core)",
+      "event": "Core funding",
+      "amount": 67624.0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan Island theater (core)",
+      "event": "Core funding",
+      "amount": 60861.6,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "each of three island theaters received $60,861.60"
+     },
+     {
+      "recipient": "Orcas Island theater (core)",
+      "event": "Core funding",
+      "amount": 60861.6,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Island theater (core)",
+      "event": "Core funding",
+      "amount": 60861.6,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan County Fair",
+      "event": "Core funding",
+      "amount": 365169.6,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "county department"
+     },
+     {
+      "recipient": "Alchemy Art Center",
+      "event": "Grow off-island attendance and year-round arts visitors",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Art Guild",
+      "event": "Labor Day Studio Tour",
+      "amount": 3500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Original Theater",
+      "event": "Playwriting workshops and Original Works Festival",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Center",
+      "event": "Theater curtains",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Island First Saturday Art Walk",
+      "event": "Event expansion, youth space, artist residency",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Island Grange",
+      "event": "2025 events on island farming, food, history",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Lopez Island Historical Society",
+      "event": "Speaker series",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Mentors to Mentors",
+      "event": "Environmental education for underserved youth",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Orcas Center",
+      "event": "2025 Summer Concert Series",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Orcas Center",
+      "event": "Theater technology updates",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Orcas Island Chamber of Commerce",
+      "event": "Website updates",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Orcas Island Farmers Market",
+      "event": "Summer entertainment and fall Saturday market",
+      "amount": 9000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Orcas Island Film Festival",
+      "event": "Marketing and operations",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Friday Harbor Film Festival",
+      "event": "Marketing and operations",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Orcas Island Historical Society",
+      "event": "Cider & Mead Festival",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan Community Theater",
+      "event": "Building improvements (paint, siding, roof)",
+      "amount": 40000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan Historical Museum",
+      "event": "Fish cannery exhibit",
+      "amount": 8000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Ag Guild and Conservation District",
+      "event": "Year-round agritourism promotion",
+      "amount": 40000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan County Dept. of Environmental Stewardship",
+      "event": "Stewardship Guide update and printing",
+      "amount": 14500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan County Parks, Recreation and Fair",
+      "event": "Replacement equipment, fairground tents",
+      "amount": 70000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan County Public Works",
+      "event": "Pear Point Road sidewalk",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "funded from carry-over funds; amount not stated"
+     },
+     {
+      "recipient": "SJI Agricultural Summit",
+      "event": "2025 Summit marketing, printing, venue",
+      "amount": 5115,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan Island Museum of Art",
+      "event": "20th anniversary print and digital campaign",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan Islands Conservation District",
+      "event": "Trail maintenance and outreach, Youth Conservation Corps",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "San Juan Islands Makers Guild and Heritage Ranch",
+      "event": "Fairs, festivals and workshops",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "County press release Jan 2, 2025: approximately $1.9M to 11 core-funded entities and 25 special projects. Core subtotals: chambers $243,445.20, museums $202,872, theaters $182,584.80, County Fair $365,169.60, Visitors Bureau $535,000. Listed amounts sum to about $1.97M (press release says approximately $1.9M)."
+   }
+  },
+  "upcoming": "2026 cycle (funds projects completed by Dec 31, 2027): applications opened June 1, 2026, due Sept 11, 2026 5 PM; review Sept-Oct; award notification anticipated November 2026.",
+  "not_found": "Per-award list for the 2026 funding year (council approved Nov 10, 2025 without itemizing in minutes); 2026 total."
+ },
+ "Ocean Shores": {
+  "source_urls": [
+   "https://thedailyworld.com/news/ocean-shores-awards-1-5m-for-heads-in-beds",
+   "https://citizenportal.ai/articles/7882554/Washington/Grays-Harbor-County/Ocean-Shores/Ocean-Shores-LTAC-approves-event-and-capital-grants-rejects-large-marketing-contract-members-call-for-an-RFP",
+   "https://citizenportal.ai/articles/5925752/Washington/Grays-Harbor-County/Ocean-Shores/Ocean-Shores-LTAC-weighs-3040-holdback-tightens-2026-application-and-reimbursement-rules",
+   "https://citizenportal.ai/articles/5921872/Washington/Grays-Harbor-County/Ocean-Shores/Ocean-Shores-marketing-coalitions-245000-request-draws-committee-scrutiny-and-public-questions",
+   "https://osgov.com/government/boards___commissions___committees/lodging_tax_advisory_committee.php"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "LTAC approvals April 28, 2026 (council action not confirmed)",
+    "awards": [
+     {
+      "recipient": "Ocean Shores Convention Center",
+      "event": "Restroom and camera upgrades (capital)",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "approved by LTAC April 28, 2026; amount not reported"
+     },
+     {
+      "recipient": null,
+      "event": "Summer country music event",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "recipient not named in summary"
+     },
+     {
+      "recipient": null,
+      "event": "Wrestling attraction",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "recipient not named in summary; likely Rouge Attractions"
+     }
+    ],
+    "note": "Only a meeting summary was available. LTAC on April 28, 2026 approved convention-center upgrades and multiple event/capital grants, declined a large citywide marketing proposal (the Ocean Shores Marketing Coalition had requested $245,000 per an earlier meeting summary) and several small applications, and asked the city to put high-dollar marketing out to an RFP. Earlier 2025-26 LTAC meetings set a 30% target holdback (discussed 30-40%) and tightened 2026 application and reimbursement rules. Full 2026 list and total not found."
+   },
+   "2025": {
+    "total": 1494000,
+    "decided": "late 2024 (council vote before end of 2024 business); reported Jan 18, 2025",
+    "awards": [
+     {
+      "recipient": "Ocean Shores Convention Center",
+      "event": "Operating costs and upgrades (reader board sign, electrical)",
+      "amount": 1100000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "city-owned facility"
+     },
+     {
+      "recipient": "Ocean Shores Convention Center",
+      "event": "Hog Wild Festival",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Ocean Shores Convention Center",
+      "event": "Sand & Sawdust Festival",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Ocean Shores Convention Center",
+      "event": "Razor Clam Festival",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Associated Arts of Ocean Shores",
+      "event": "56th Annual AAOS Arts & Crafts Festival",
+      "amount": 15800,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Beachcombers Heritage",
+      "event": "Beachcombers and Glass Float EXPO",
+      "amount": 8500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Coastal Interpretive Center",
+      "event": null,
+      "amount": 60000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Grays Harbor Youth Athletics",
+      "event": "Annual golf tournament, dinner and auction",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "North Beach Community TV",
+      "event": null,
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Ocean Shores Marketing Coalition",
+      "event": "Destination marketing",
+      "amount": 200000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "marketing coalition / DMO-type recipient"
+     },
+     {
+      "recipient": "Rouge Attractions",
+      "event": "Three-day professional wrestling weekend",
+      "amount": 16000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Stage West Community Theatre",
+      "event": "The Wearable Art Show",
+      "amount": 3700,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Too Cool Sports",
+      "event": "Three-day 'Go Topless' event",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "Daily World reported ~$1.5M; itemized awards sum to $1,494,000. Defenders of the Coast was not funded."
+   }
+  },
+  "upcoming": "LTAC members called for an RFP for citywide marketing (April 2026). LTAC adopted a 30% holdback target and tighter application/reimbursement rules for 2026. Proposals are normally due to the City Clerk Sept 1-30. LTAC documents are in the city's Laserfiche portal (https://portal.laserfiche.com/Portal/Browse.aspx?id=64&repo=r-c8f636c8), not readable here.",
+  "not_found": "Complete 2026 award list and total; council ratification date for 2026; 2027 pool."
+ },
+ "Kittitas County": {
+  "source_urls": [
+   "https://www.dailyrecordnews.com/ellensburg/kittitas-county-awards-grants-from-hotel-motel-taxes/article_ad95e220-41b6-4081-91b3-f9b7707f6c22.html",
+   "https://www.ellensburgwa.gov/Archive.aspx?ADID=3556",
+   "https://co.kittitas.wa.us/auditor/accounting/lodging-tax/cltac-guide.aspx",
+   "https://co.kittitas.wa.us/press/default.aspx?prID=11993"
+  ],
+  "years": {
+   "2026": {
+    "total": 341015,
+    "decided": "2026-02-03",
+    "awards": [
+     {
+      "recipient": "Webb Events",
+      "event": "Webb Events",
+      "amount": 35811,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $50,500; county share $35,811; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Cle Elum Downtown Association",
+      "event": "Cle Elum Downtown Association",
+      "amount": 17728,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $25,000; county share $17,728; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Top Tier Sports",
+      "event": "Top Tier Sports",
+      "amount": 46093,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $65,000; county share $46,093; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Ellensburg Downtown Association / PLACES",
+      "event": "Ellensburg Downtown Association / PLACES",
+      "amount": 3900,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $5,500; county share $3,900; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "KEEN",
+      "event": "KEEN",
+      "amount": 10637,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $15,000; county share $10,637; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Punch Projects",
+      "event": "Punch Projects",
+      "amount": 14182,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $20,000; county share $14,182; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "WA State Ski & Snowboard Museum",
+      "event": "WA State Ski & Snowboard Museum",
+      "amount": 10637,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $15,000; county share $10,637; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Roslyn Downtown Association",
+      "event": "Roslyn Downtown Association",
+      "amount": 24234,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $34,175; county share $24,234; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Ellensburg Downtown Association",
+      "event": "Ellensburg Downtown Association",
+      "amount": 33754,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $47,600; county share $33,754; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Kittitas County Historical Society",
+      "event": "Kittitas County Historical Society",
+      "amount": 12055,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $17,000; county share $12,055; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Gallery One",
+      "event": "Gallery One",
+      "amount": 10637,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $15,000; county share $10,637; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Ellensburg Rodeo Association",
+      "event": "Ellensburg Rodeo Association",
+      "amount": 21274,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $30,000; county share $21,274; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Suncadia Springfest",
+      "event": "Suncadia Springfest",
+      "amount": 2072,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $2,923; county share $2,072; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Suncadia Harvest Festival",
+      "event": "Suncadia Harvest Festival",
+      "amount": 10637,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $15,000; county share $10,637; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Cle Elum Roundup Association",
+      "event": "Cle Elum Roundup Association",
+      "amount": 7800,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $11,000; county share $7,800; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Valley Theatre",
+      "event": "Valley Theatre",
+      "amount": 7091,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $10,000; county share $7,091; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "All Things Fun Sports!",
+      "event": "All Things Fun Sports!",
+      "amount": 5318,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $7,500; county share $5,318; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Suncadia Wine in the Pines",
+      "event": "Suncadia Wine in the Pines",
+      "amount": 5318,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $7,500; county share $5,318; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Junk-tiquen in the Burg",
+      "event": "Junk-tiquen in the Burg",
+      "amount": 2836,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $4,000; county share $2,836; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Roslyn Ronald Cle Elum Heritage Club",
+      "event": "Roslyn Ronald Cle Elum Heritage Club",
+      "amount": 10637,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $15,000; county share $10,637; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Suncadia Summer Concert Series",
+      "event": "Suncadia Summer Concert Series",
+      "amount": 7091,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $10,000; county share $7,091; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Suncadia Holiday Drone Show",
+      "event": "Suncadia Holiday Drone Show",
+      "amount": 23039,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $32,489; county share $23,039; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Ellensburg Rodeo Hall of Fame",
+      "event": "Ellensburg Rodeo Hall of Fame",
+      "amount": 8509,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $12,000; county share $8,509; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "The Clymer Museum",
+      "event": "The Clymer Museum",
+      "amount": 7091,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $10,000; county share $7,091; balance from Ellensburg/Cle Elum/Roslyn"
+     },
+     {
+      "recipient": "Ellensburg Shakespeare Project",
+      "event": "Ellensburg Shakespeare Project",
+      "amount": 2623,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint CLTAC grant total $3,700; county share $2,623; balance from Ellensburg/Cle Elum/Roslyn"
+     }
+    ],
+    "note": "Joint county/city program (Kittitas County, Ellensburg, Cle Elum, Roslyn). Commissioners approved Feb 3, 2026: county portion $341,015 of $480,887 available; 25 awards; requests totaled $989,573. Amount field is the county share; the joint grant total is in notes. County shares listed sum to $341,004 (article discrepancy of $11)."
+   },
+   "2025": {
+    "total": 338675.85,
+    "decided": "January 2025 (Ellensburg Resolution 2025-01 adopted Jan 21, 2025 ratified the joint distribution)",
+    "awards": [
+     {
+      "recipient": "Gallery One",
+      "event": "Gallery One",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Cle Elum Downtown Association",
+      "event": "Cle Elum Downtown Association",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Washington State Ski & Snowboard Museum",
+      "event": "Washington State Ski & Snowboard Museum",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Kittitas County Historical Society",
+      "event": "Kittitas County Historical Society",
+      "amount": 17200,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Roslyn Ronald Cle Elum Heritage Club",
+      "event": "Roslyn Ronald Cle Elum Heritage Club",
+      "amount": 22000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Ellensburg Downtown Association",
+      "event": "Ellensburg Downtown Association",
+      "amount": 34750,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Ellensburg Music Festival",
+      "event": "Ellensburg Music Festival",
+      "amount": 22000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Roslyn Downtown Association",
+      "event": "Roslyn Downtown Association",
+      "amount": 32000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Webb Events",
+      "event": "Webb Events",
+      "amount": 75000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "International Lumber Show",
+      "event": "International Lumber Show",
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Junk-tiquen in the Burg",
+      "event": "Junk-tiquen in the Burg",
+      "amount": 7915.5,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Ellensburg Rodeo Hall of Fame",
+      "event": "Ellensburg Rodeo Hall of Fame",
+      "amount": 35000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Cle Elum Roundup Association",
+      "event": "Cle Elum Roundup Association",
+      "amount": 17710,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Laughing Horse Arts Foundation",
+      "event": "Laughing Horse Arts Foundation",
+      "amount": 4099,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Punch Projects",
+      "event": "Punch Projects",
+      "amount": 35000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Washington State Horse Park",
+      "event": "Washington State Horse Park",
+      "amount": 36000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     },
+     {
+      "recipient": "Two Little Chicks",
+      "event": "Two Little Chicks",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "joint grant total across county and cities; county share not itemized per award"
+     }
+    ],
+    "note": "Joint 2025 distribution totaled $468,674.50 across 17 awards: Kittitas County designated $338,675.85 (incl. $3,167.82 overage allowance), Ellensburg $97,595.29, Cle Elum $27,990.41, Roslyn $4,412.95. Amount field is the joint grant total; the county's share per award was not published separately."
+   }
+  },
+  "upcoming": "2027 cycle: workshops Aug 18 and 20, 2026; applications due Sept 18, 2026 4:00 PM; oral presentations to CLTAC Nov 20, 2026 at Ellensburg City Hall; award notification TBD. Ongoing events (4+ years) capped at 10% of expense budget; returning applicants generally capped at highest prior reimbursed amount; minimum score 50/100.",
+  "not_found": "County-only share per award for 2025."
+ },
+ "Mason County": {
+  "source_urls": [
+   "https://masoncountywa.gov/ac/ltac/index.php",
+   "https://masoncountywa.gov/ac/ltac/agenda/2025/2025-01-15.pdf",
+   "https://www.hcc.net/news/?id=1675",
+   "https://www.hcc.net/news/?id=2013"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "No 2026 county award list found. The county LTAC page posts agendas only (Jan 15, 2025 agenda: funding formula discussion, RFP for contracted services, quarterly reports from NEO and visitor information centers). Search budget was exhausted before county commissioner minutes could be located."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found. Second pass located only older coverage: in a prior cycle the commissioners awarded general tourism management to the Shelton Mason County Chamber of Commerce at $95,000 (including a $10,000 admin fee) over Olympic Broadcasting's $36,000 proposal, and the county contracts with Northwest Event Organizers and visitor information centers; no 2025 or 2026 award list or commissioner resolution surfaced."
+   }
+  },
+  "upcoming": "Nothing found.",
+  "not_found": "All county award lists for 2025 and 2026. Note: the Shelton-Mason County Journal coverage found covers the City of Shelton's 4% tax, not the county."
+ },
+ "Anacortes": {
+  "source_urls": [
+   "https://www.anacorteswa.gov/DocumentCenter/View/34249/Resolution-3191-Approved-2026-Funding-for-Tourism-Promotion-Anacortes",
+   "https://www.goskagit.com/anacortes/bulk-of-anacortes-tourism-spending-for-2026-devoted-to-design-of-an-events-center/article_f08e6d06-65a6-4e49-9ddd-73b777006584.html",
+   "https://www.anacorteswa.gov/DocumentCenter/View/31249/Resolution-3167-Approved-2025-Funding-for-Tourism-Promotion-Anacortes",
+   "https://www.anacorteswa.gov/558/Lodging-Tax-Advisory-Committee"
+  ],
+  "years": {
+   "2026": {
+    "total": 693800,
+    "decided": "2025-12-08",
+    "awards": [
+     {
+      "recipient": "Anacortes Arts Foundation",
+      "event": "98221 Studio Tour",
+      "amount": 4500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Community Theatre",
+      "event": "ACT New Play Festival",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $2,000; not funded"
+     },
+     {
+      "recipient": "Friends of the ACFL",
+      "event": "ACFL Educational Hikes / Trail Ambassador",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Music Project",
+      "event": "Festivals",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Arts Festival",
+      "event": "Anacortes Creative District",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Farmers Market",
+      "event": "Anacortes Farmers Market",
+      "amount": 7500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Museum Foundation",
+      "event": "Museum tourism promotional marketing",
+      "amount": 4500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Chamber of Commerce",
+      "event": "Anacortes Walk Fest",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Chamber of Commerce",
+      "event": "Chamber events (Uncorked, Bier Near the Pier)",
+      "amount": 44000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Arts Festival",
+      "event": "Pop Up Gallery & Art Store",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $15,000; not funded"
+     },
+     {
+      "recipient": "Anacortes Arts Foundation dba Procession of the Species",
+      "event": "Earth Day",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Downtown Anacortes Alliance",
+      "event": "Elves Night Out",
+      "amount": 1500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Chamber of Commerce",
+      "event": "Experience Anacortes tourism marketing",
+      "amount": 130000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "requested $164,550"
+     },
+     {
+      "recipient": "City of Anacortes Parks Department",
+      "event": "Fireworks",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "What The Heck, LLC",
+      "event": "Forge Running Events (Santa Run, Half Marathon, Forge) website",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "only for-profit recipient"
+     },
+     {
+      "recipient": "Majestic Glass Car Show",
+      "event": "Majestic Car Show (Waterfront Festival)",
+      "amount": 1800,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Oyster Run",
+      "event": "Oyster Run",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Anacortes Parks Department",
+      "event": "Restroom maintenance",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Rick Epting Foundation for the Arts",
+      "event": "Geoffrey Castle Celtic Christmas Concert",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $10,000"
+     },
+     {
+      "recipient": "Anacortes Community Boating (formerly AWA)",
+      "event": "Seafarers Cup Sailing Regattas",
+      "amount": 3500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Fidalgo Island Rotary Club",
+      "event": "Shipwreck Day",
+      "amount": 3500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Skagit Community Band",
+      "event": "Concerts at Brodniak",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $500; not funded"
+     },
+     {
+      "recipient": "Skagit Valley Tulip Festival",
+      "event": "Skagit Valley Tulip Festival",
+      "amount": 8000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Arts Festival",
+      "event": "Tulip Festival Artist Exhibition (Depot Arts Center)",
+      "amount": 4000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Anacortes Chamber of Commerce",
+      "event": "Visitor Information Center",
+      "amount": 25000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Anacortes",
+      "event": "Event Center design (capital, from 25% capital set-aside)",
+      "amount": 366500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     }
+    ],
+    "note": "Resolution 3191 adopted Dec 8, 2025 (unanimous). Annual (noncapital) projects $327,300 across 22 funded projects by 16 entities (Chamber subtotal $202,000); capital $366,500 for event center design. 25 noncapital applications requested about $458,000. Noncapital pool is the smallest since 2019. Projected 2026 lodging tax revenue about $597,000 (2025 about $563,000); reserves about $1.73M. Port of Anacortes concert series ($8,000 request) not funded."
+   },
+   "2025": {
+    "total": 349800,
+    "decided": "Resolution 3167 (late 2024)",
+    "awards": [],
+    "note": "2025 noncapital awards totaled $349,800 per Skagit Valley Herald; Resolution 3167 PDF was not readable in this session, so the per-award list was not captured."
+   }
+  },
+  "upcoming": "Nothing specific on the 2027 cycle found; LTAC chair said bed-night generation is the priority and hoteliers were asked for more data.",
+  "not_found": "Per-award 2025 list (resolution exists but unreadable)."
+ },
+ "Lakewood": {
+  "source_urls": [
+   "https://cityoflakewood.us/finance/lodging-tax-application/",
+   "https://cityoflakewood.us/lodging-tax-advisory-committee/",
+   "https://cityoflakewood.us/wp-content/uploads/2024/07/2024-07-08-Council-Agenda.pdf",
+   "https://cityoflakewood.us/wp-content/uploads/2025/05/2025-05-08-LTAC-Agenda-1.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "LTAC recommendations Sept 5, 2025; council approval scheduled November 2025",
+    "awards": [],
+    "note": "The 2026 LTAC packet (https://cityoflakewood.us/wp-content/uploads/2025/08/2026-LTAC-Packet-FINAL.pdf) and Sept 5, 2025 minutes exist on the city site but could not be fetched in this session. Per-award list not captured. Second pass found no council minutes or news coverage listing 2026 recipients; the Sept 5, 2025 packet and minutes on cityoflakewood.us remain the source."
+   },
+   "2025": {
+    "total": null,
+    "decided": "Council approval scheduled Nov 18, 2024 (recommendations Sept 20, 2024)",
+    "awards": [
+     {
+      "recipient": "Sharon McGavick Student Center (Clover Park Technical College)",
+      "event": "Standing annual payment through 2027",
+      "amount": 101850,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "required annual payment from the 3% restricted fund"
+     }
+    ],
+    "note": "Estimated 2025 pool was $3,589,359 ($1,324,752 unrestricted 4% plus $2,264,607 restricted 3% after the McGavick payment); projected 2024 revenue $1,438,567. The 2025 award list was not captured. For reference, 2024 noncapital awards totaled $802,500: City of Lakewood media/imaging $60,000, SummerFEST $135,000, Farmers Market $57,000, Concert Series $30,000, Motor Avenue street festivals $37,500; Lakewold Gardens $100,000; Lakewood Chamber tourism $100,000; Travel Tacoma + Pierce County $115,000; Chamber Night of Lights $25,000; Lakewood Historical Society $32,500; Lakewood Playhouse $25,000; Lakewood Arts Festival $23,000; Sister Cities Gimhae $21,500; Historic Fort Steilacoom $12,000; Asian Pacific Cultural Center $15,000; Sister Cities International Festival $9,000; Grave Concerns $5,000. A May 8, 2025 LTAC meeting considered a $9,000 Sister Cities K-Pop/SummerFEST request."
+   }
+  },
+  "upcoming": "2027 cycle: applications opened July 27, 2026, due Aug 17, 2026 5:00 PM; LTAC presentations and recommendations Sept 18, 2026 (packet: https://cityoflakewood.us/wp-content/uploads/2026/09/2027-LTAC-Packet-full.pdf); recommendations to council Nov 9, 2026; council approval Nov 16, 2026; contracts Jan-Feb 2027. 2028 window expected July 2027.",
+  "not_found": "2025 and 2026 per-award lists and totals (packets/minutes exist but were not fetchable)."
+ },
+ "Oak Harbor": {
+  "source_urls": [
+   "https://oakharbor.gov/DocumentCenter/View/3851/APPROVED-2026-LODGING-TAX-GRANTS",
+   "https://www.whidbeynewstimes.com/?p=127079",
+   "https://cp.soar.com/articles/7004086/Oak-Harbor/Island-County/Washington/Council-approves-most-LTAC-lodging-tax-awards-sends-marina-debt-service-item-back-for-adjustments",
+   "https://cp.soar.com/articles/6711925/Oak-Harbor/Island-County/Washington/Oak-Harbor-Lodging-Tax-Panel-Recommends-Funding-Package-City-Award-Set-as-MultiYear",
+   "https://oakharbor.gov/ltac",
+   "https://www.codepublishing.com/WA/OakHarbor/html/OakHarborRT.html"
+  ],
+  "years": {
+   "2026": {
+    "total": 383099.5,
+    "decided": "2025-11-19",
+    "awards": [
+     {
+      "recipient": "City of Oak Harbor",
+      "event": "Whidbey Island Marathon",
+      "amount": 22500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Greater Oak Harbor Chamber of Commerce",
+      "event": "Visitor Information Center & operations",
+      "amount": 110500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Greater Oak Harbor Chamber of Commerce",
+      "event": "Marketing",
+      "amount": 52357.5,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Island County Chauns Motorcycle Club",
+      "event": "Island Annual Chaunsert",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Island County Master Gardener Foundation",
+      "event": "Whidbey Gardening Workshop",
+      "amount": 3185,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Oak Harbor Main Street Association",
+      "event": "Event promo / visitor info hub / public restroom",
+      "amount": 27472,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Oak Harbor Main Street Association",
+      "event": "Oaktoberfest",
+      "amount": 11280,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Oak Harbor Music Festival",
+      "event": "Oak Harbor Music Festival",
+      "amount": 45000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Oak Harbor Yacht Club",
+      "event": "Hydros for Heroes",
+      "amount": 11602.5,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "PBY Memorial Foundation",
+      "event": "Pacific Northwest Naval Air Museum",
+      "amount": 35000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Razas Unidas",
+      "event": "Dia de Fiesta Festival",
+      "amount": 13440,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Whidbey Health Foundation",
+      "event": "Tour de Whidbey",
+      "amount": 2762.5,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Whidbey Playhouse",
+      "event": "2026 performance season",
+      "amount": 13000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Whidbey Ren Faire",
+      "event": "Whidbey Ren Faire",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Oak Harbor",
+      "event": "Marina debt service (multi-year)",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "LTAC recommended $24,900 vs $55,000/yr requested; council sent back Nov 19, 2025 asking LTAC to fully fund (adding $14,000 council discretion plus $17,000 freed by Chalk Fest cancellation); final amount not confirmed"
+     },
+     {
+      "recipient": "Whidbey and Camano Islands Tourism",
+      "event": "Earmark",
+      "amount": 50000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "earmark referenced in council coverage; not on the approved-grants list"
+     }
+    ],
+    "note": "City's APPROVED 2026 LODGING TAX GRANTS list: 14 awards totaling $383,099.50. Council on Nov 19, 2025 approved all LTAC recommendations except the marina debt-service request, which it returned to LTAC for a 45-day review. News coverage cited $408,000 to 15 of 21 applicants (about $800,000 requested) and a $475,000 overall 2026 figure; Chalk Fest ($17,000) was cancelled, freeing funds. LTAC scoring tiers: 90+ points at 90% funding, 80+ at 80%, 70+ at 65%. Meerkerk Gardens removed (outside city limits)."
+   },
+   "2025": {
+    "total": null,
+    "decided": "Resolution 24-24 (late 2024) accepted LTAC recommendations for 2025 single-year grants",
+    "awards": [
+     {
+      "recipient": "City of Oak Harbor Parks and Recreation",
+      "event": "ChalkFest",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "2025 lodging tax funding amended by Res. 25-35; amount not found; 2026 ChalkFest later cancelled freeing $17,000"
+     }
+    ],
+    "note": "City resolution table shows Res. 24-24 'Accepts LTAC Recommendations for Funding the 2025 Single Year Lodging Tax/Tourism Promotion Grant Awards' and Res. 25-25 (accepts LTAC recommendations) and Res. 25-35 (amends lodging tax funding for Parks' ChalkFest), but the resolution texts and the 2025 per-award list were not found online. In July 2026 the Chamber asked for $50,000 more for the Independence Day celebration; council referred it to LTAC."
+   }
+  },
+  "upcoming": "2027 cycle: applications closed Aug 14, 2026 4:30 PM; LTAC deliberation meeting Nov 12, 2026 10:00 AM.",
+  "not_found": "2025 award list; final 2026 marina debt-service amount."
+ },
+ "Bainbridge Island": {
+  "source_urls": [
+   "https://www.bainbridgereview.com/?p=132297",
+   "https://www.bainbridgereview.com/?p=115093",
+   "https://www.bainbridgewa.gov/236/Lodging-Tax-Advisory-Committee",
+   "https://wa-bainbridgeisland.civicplus.com/AgendaCenter/ViewFile/Agenda/_01102025-2032",
+   "https://www.bainbridgereview.com/?p=116524"
+  ],
+  "years": {
+   "2026": {
+    "total": 400000,
+    "decided": "2026-04-14",
+    "awards": [
+     {
+      "recipient": "Visit Bainbridge Island",
+      "event": null,
+      "amount": 165000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "DMO"
+     },
+     {
+      "recipient": "Bainbridge Island Chamber of Commerce",
+      "event": null,
+      "amount": 90000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Bainbridge Island Downtown Association",
+      "event": null,
+      "amount": 70000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Bainbridge Artisan Resource Network",
+      "event": null,
+      "amount": 18000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Bainbridge Island Museum of Art",
+      "event": null,
+      "amount": 18000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Bainbridge Island Historical Museum",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Arts and Humanities Bainbridge",
+      "event": null,
+      "amount": 9000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Bainbridge Island Parks and Trails Foundation",
+      "event": null,
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Bainbridge Youth Services",
+      "event": null,
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Bloedel Reserve",
+      "event": null,
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Kids Discovery Museum",
+      "event": null,
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "Council approved 11 awards totaling $400,000 on April 14, 2026 out of 13 requests totaling $659,735. Not funded: Bainbridge Prepares and Washington Museum Association. Bainbridge runs a spring cycle for the current calendar year."
+   },
+   "2025": {
+    "total": null,
+    "decided": "LTAC applicant presentations Jan 6, 2025; LTAC deliberations and funding recommendations Jan 10, 2025; council approval date not found",
+    "awards": [],
+    "note": "City estimated about $400,000 available for 2025 (July 2024). LTAC heard applicant presentations Jan 6, 2025 and deliberated Jan 10, 2025, but the agenda/minutes posted do not list applicants or amounts, and no news article with the 2025 awards was found. Separately, the city's Oct 2024 budget proposal would use $600,000 of lodging tax for a Wayfinding Sign Program (public hearing Nov 12, 2024)."
+   }
+  },
+  "upcoming": "Nothing found on the 2027 cycle.",
+  "not_found": "2025 award list and total."
+ },
+ "Sunnyside": {
+  "source_urls": [
+   "https://cp.soar.com/articles/6891026/Sunnyside-City/Yakima-County/Washington/LTAC-recommends-116500-in-grants-for-2026-Sunnyside-signature-events-and-projects",
+   "https://www.sunnysidesun.com/news/local/sunnyside-ltac-revisits-funding-decisions-tables-advertising-contract-decision/article_a325374d-5096-47ff-8b7c-774ce29a1950.html",
+   "https://www.sunnyside-wa.gov/DocumentCenter/View/3745"
+  ],
+  "years": {
+   "2026": {
+    "total": 116500,
+    "decided": "LTAC vote Nov 13, 2025; revised at a later LTAC meeting (total $89,500 for 8 projects); council final action not confirmed",
+    "awards": [
+     {
+      "recipient": "Sunnyside Rotary",
+      "event": "Cinco de Mayo celebration (security and entertainment)",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Sunshine Days",
+      "event": "Sunshine Days and parade (security and entertainment)",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Sunnyside Summer Ale Fest",
+      "event": "Sunnyside Summer Ale Fest",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Jerry Taylor Veterans Plaza",
+      "event": "Completion of the veterans memorial",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Sunnyside Lighted Farm Implement Parade",
+      "event": "Lighted Farm Implement Parade",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "American Hill Climb",
+      "event": "New championship",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Sunnyside High School",
+      "event": "Show & Shine car show",
+      "amount": 1500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Sort 4 the Cause",
+      "event": null,
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "added on reconsideration at a later LTAC meeting"
+     }
+    ],
+    "note": "LTAC recommended $116,500 total on Nov 13, 2025 (itemized events reported sum to $86,500; the balance is understood to include a citywide tourism advertising/marketing contract, which a later LTAC meeting tabled and considered reducing). The later meeting revisited decisions: added $3,000 for Sort 4 the Cause, kept Miss Sunnyside at $0, recommended additional funding (amounts not stated) for Show & Shine, Farm Implement Parade, American Hill Climb and Veterans Plaza, and reported $89,500 recommended for 8 of 15 applications. Washington Nitro Nationals not funded. Beginning 2026 balance about $205,000 plus about $120,000 estimated 2026 tax; LTAC keeping a reserve."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "2025 RFP: first-round proposals due Aug 30, 2024, second round Nov 25, 2024, LTAC review Nov 27, 2024. 2025 award list not found."
+   }
+  },
+  "upcoming": "Advertising/marketing contract decision tabled pending clarification of where funding goes.",
+  "not_found": "2025 award list; council's final 2026 resolution and the amount of the advertising contract."
+ },
+ "Tumwater": {
+  "source_urls": [
+   "https://app.govly.com/public/meetings/40547",
+   "https://app.govly.com/public/meetings/40015",
+   "https://app.govly.com/public/meetings/71948"
+  ],
+  "years": {
+   "2026": {
+    "total": 248958,
+    "decided": "LTAC motion Sept 29, 2025 forwarding to council; council action date not found",
+    "awards": [
+     {
+      "recipient": "Experience Olympia and Beyond",
+      "event": "Destination marketing",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "DMO; amount not stated"
+     },
+     {
+      "recipient": "Washington Center for the Performing Arts",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "South Sound Block Party",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Olympic Flight Museum",
+      "event": "Olympic Air Show",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Washington State Senior Games",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Tumwater Downtown Association",
+      "event": null,
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Tumwater Brewfest",
+      "event": "Brewfest",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "recipient organization not stated"
+     }
+    ],
+    "note": "LTAC on Sept 29, 2025 reviewed about $351,000 in requests and recommended $250,000 in 2026 funds including $210,000 for historic and cultural programs; the motion forwarded $248,958 to council (unanimous). Individual amounts not published in the available summary. Second pass found no council resolution text or news coverage with per-recipient amounts."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found. The list file's known pool is about $250K."
+   }
+  },
+  "upcoming": "2027 cycle: applications open Sept 1, 2026, close Sept 30, 2026; LTAC review week of Oct 19, 2026; recommendations to council Nov 2, 2026. LTAC is revising the application form and scoring rubric, prioritizing overnight stays and verifying impacts through JLARC reports, and recruiting a hotelier (vacant seat).",
+  "not_found": "Per-award amounts for 2026; 2025 list; council adoption dates."
+ },
+ "Woodinville": {
+  "source_urls": [
+   "https://www.woodinville.gov/AgendaCenter/ViewFile/Agenda/_09102026-72",
+   "https://www.woodinville.gov/AgendaCenter/ViewFile/Agenda/_09042025-69",
+   "https://www.woodinville.gov/443/Lodging-Tax-Advisory-Committee"
+  ],
+  "years": {
+   "2026": {
+    "total": 194980,
+    "decided": "2025-09-16",
+    "awards": [
+     {
+      "recipient": "Woodinville Arts Alliance",
+      "event": "Art Studio Tour",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Arts Alliance",
+      "event": "Art Walks",
+      "amount": 4750,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Arts Alliance",
+      "event": "Sip & Stroll Juried Art Show",
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Chamber of Commerce",
+      "event": "Celebrate Woodinville Summer Concerts & Festival",
+      "amount": 31000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Chamber of Commerce",
+      "event": "Celebrate Woodinville Winterfest",
+      "amount": 18000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Chamber of Commerce",
+      "event": "Visit Woodinville web & social media strategy",
+      "amount": 23750,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Farmers Market",
+      "event": "Farmers Market",
+      "amount": 12000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Wine Country",
+      "event": "Familiarization tour support",
+      "amount": 8000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Wine Country",
+      "event": "Tourism trade show support",
+      "amount": 18980,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Wine Country",
+      "event": "Amplifying tourism through data-driven engagement",
+      "amount": 40000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Wine Country",
+      "event": "Visitor Center",
+      "amount": 33000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     }
+    ],
+    "note": "Council approved Sept 16, 2025. 14 requests totaled $299,580 against $195,000 estimated available (not funded: AmPowering North America Fashion Week $45,000; Northwest Share Multicultural Festival $25,000; Wine Country Tourism Visioning $30,000). Staff tables also show $201,980 with FAM tour at $15,000 (labeled 2025 & 2026 grant). 2026 budget revenue $204,322; reimbursements paid through Aug 26, 2026 $63,576."
+   },
+   "2025": {
+    "total": 191230,
+    "decided": "2024-10-01",
+    "awards": [
+     {
+      "recipient": "Woodinville Arts Alliance",
+      "event": "Art Studio Tour",
+      "amount": 2500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Arts Alliance",
+      "event": "Art Walks",
+      "amount": 4750,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Chamber of Commerce",
+      "event": "Celebrate Woodinville Summer Concerts & Festival",
+      "amount": 31000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Chamber of Commerce",
+      "event": "Celebrate Woodinville Winterfest",
+      "amount": 18000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Chamber of Commerce",
+      "event": "Visit Woodinville web & social media strategy",
+      "amount": 34000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Farmers Market",
+      "event": "Farmers Market",
+      "amount": 12000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Wine Country",
+      "event": "Familiarization tour support",
+      "amount": 7000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Wine Country",
+      "event": "Tourism trade show support",
+      "amount": 18980,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Wine Country",
+      "event": "Amplifying tourism through data-driven engagement",
+      "amount": 30000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Woodinville Wine Country",
+      "event": "Visitor Center",
+      "amount": 33000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     }
+    ],
+    "note": "Council approved Oct 1, 2024. Actual 2025 use was $183,576 (Juried Art Show and FAM tour unused; Art Walks $4,218; trade show $18,858). 2025 revenue $157,087; year-end balance $62,276."
+   }
+  },
+  "upcoming": "2027 cycle: 15 requests totaling $248,550 against $217,000 estimated available ($63,796 beginning balance plus $203,000 projected revenue; $50,000 reserve target); LTAC met Sept 10, 2026, recommendations not yet shown; four Arts Alliance applications arrived two days after the Aug 10, 2026 deadline. New 2027 requests include Woodinville Wine Country Visitors Center $35,000, 21 Acres Woodinville Glens $8,500, HEART Repertory Theatre $15,000, Woodinville Heritage Society $12,000, Visit Woodinville marketing $45,000.",
+  "not_found": "Nothing material."
+ },
+ "Langley": {
+  "source_urls": [],
+  "years": {
+   "2026": {
+    "total": 56816,
+    "decided": null,
+    "awards": [],
+    "note": "From the list file's known text: $56,816 awarded for 2026 across 11 recipients (requests totaled $116,075). No per-award source was located in this session (search budget exhausted before Langley could be searched)."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found. Known from the list file: $98,100 awarded for 2024 from about $122,000 anticipated."
+   }
+  },
+  "upcoming": "From the list file: a February 2026 proposal would dedicate 25% of current-year collections (details not verified here).",
+  "not_found": "All per-award lists; 2025 total."
+ },
+ "Port Orchard": {
+  "source_urls": [
+   "https://www.portorchardwa.gov/354/Lodging-Tax-Advisory-Committee",
+   "https://portorchardwa.gov/lodging-tax-advisory-committee",
+   "https://www.portorchardwa.gov/DocumentCenter/View/701"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found. Second pass: city LTAC pages show no award lists; agendas, minutes and packets are in the city's Laserfiche Electronic Records Library (https://lf.portorchardwa.gov/WebLink/Browse.aspx?id=41120&dbid=0&repo=PortOrchard), which could not be fetched. No news coverage of 2026 awards found."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found. 2025-cycle applicant presentations to LTAC were held Oct 30, 2024; award list not located."
+   }
+  },
+  "upcoming": "2027 cycle: city is accepting applications for 2027 lodging tax funds until 2:00 PM Monday, Oct 26, 2026 (application form DocumentCenter/View/701). Contact City Clerk 360-876-4407.",
+  "not_found": "Per-award lists and totals for 2025 and 2026 (likely in LTAC packets/council resolutions in the Laserfiche records library)."
+ },
+ "Battle Ground": {
+  "source_urls": [
+   "https://www.vbjusa.com/?p=37336",
+   "https://flashalert.net/id/CityofBattleGround/189626",
+   "https://flashalert.net/id/CityofBattleGround/172809"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found. 2026-cycle applications were due Aug 31, 2025 with council awards in December 2025; no published list or news coverage located (city does not publish awards; prior grants funded wayfinding signs, marketing materials and event operations)."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found. 2025-cycle applications were due Aug 31, 2024 (announced June 5, 2024), LTAC review, council final decisions December 2024. No list located."
+   }
+  },
+  "upcoming": "2027 Tourism Grants announced July 9, 2026: applications due Monday Aug 31, 2026 5:00 PM; LTAC review, council final awards December 2026; reimbursement basis. Pool size not published.",
+  "not_found": "All award lists and totals."
+ },
+ "Shelton": {
+  "source_urls": [
+   "https://www.masoncounty.com/story/2026/05/21/news/people-city-grants-money-to-tourism-groups/7190.html",
+   "https://www.masoncounty.com/story/2026/01/08/news/city-granting-money-to-tourism-groups/6430.html",
+   "https://masoncounty.com/story/2024/11/14/news/city-council-approves-tourism-grants/4698.html",
+   "https://sheltonwa.gov/government/city_manager/city_clerk/lodging_tax_advisory_committee.php"
+  ],
+  "years": {
+   "2026": {
+    "total": 80500,
+    "decided": "Preliminary council approval Jan 6, 2026; final approval scheduled Jan 20, 2026",
+    "awards": [
+     {
+      "recipient": "Mason County Historical Society Museum",
+      "event": "Museum",
+      "amount": 18000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $25,000"
+     },
+     {
+      "recipient": "Shelton-Mason County Chamber of Commerce",
+      "event": null,
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "requested $27,890"
+     },
+     {
+      "recipient": "Kristmas Town Kiwanis Club",
+      "event": "Bluegrass from the Forest festival",
+      "amount": 8200,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Mason County Forest Festival Association",
+      "event": "Forest Festival",
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Skookum Rotary Club",
+      "event": "OysterFest",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": null,
+      "event": "Mural installations at Overlook Park",
+      "amount": 3300,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "recipient not named"
+     },
+     {
+      "recipient": null,
+      "event": "Christmastown 2026",
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "recipient not named; prior years Northwest Event Organizers"
+     },
+     {
+      "recipient": "Shelton Downtown Merchants",
+      "event": "Arts Walk",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Shelton Downtown Merchants",
+      "event": "Cookie Stroll",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "Shelton-Mason County Journal (May 21, 2026): $80,500 awarded from 10 requests; $68,750 left in reserve."
+   },
+   "2025": {
+    "total": 97000,
+    "decided": "2024-11-05 (preliminary Oct 15, 2024)",
+    "awards": [
+     {
+      "recipient": "Kristmas Town Kiwanis",
+      "event": "Bluegrass from the Forest festival",
+      "amount": 9000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Mason County Forest Festival Association",
+      "event": "2025 festival events",
+      "amount": 12000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Northwest Event Organizers",
+      "event": "Christmastown marketing and events",
+      "amount": 12000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": null,
+      "event": "Overlook Park mural installation",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "recipient not specified"
+     },
+     {
+      "recipient": null,
+      "event": "Event power box, Cota Street parking lot",
+      "amount": 6500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "recipient not specified; possibly city"
+     },
+     {
+      "recipient": "Shelton-Mason County Chamber of Commerce",
+      "event": null,
+      "amount": 18000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Mason County Historical Society",
+      "event": "Museum",
+      "amount": 20000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "City of Shelton",
+      "event": "Creative District branding and wayfinding",
+      "amount": 10500,
+      "to_jurisdiction_or_dmo": true,
+      "notes": ""
+     },
+     {
+      "recipient": "Shelton Downtown Merchants",
+      "event": "Shelton Art Walk",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Shelton Downtown Merchants",
+      "event": "Cookie Stroll",
+      "amount": 1000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Skookum Rotary Club",
+      "event": "OysterFest",
+      "amount": 2000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "MWSO Miracle, Inc",
+      "event": "Miss Christmastown USA Scholarship Competition",
+      "amount": 0,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $10,000; declined"
+     }
+    ],
+    "note": "Journal (Nov 14, 2024): $97,000 awarded from $164,426 requested; $14,589 reserve after awards. Listed awards sum to $98,000 (source discrepancy)."
+   }
+  },
+  "upcoming": "Applications are usually available in August; LTAC meets biannually.",
+  "not_found": "Recipient names for two 2026 line items and two 2025 line items."
+ },
+ "Federal Way": {
+  "source_urls": [
+   "https://www.federalwaywa.gov/page/lodging-tax-advisory-committee",
+   "https://docs.federalwaywa.gov/WebLink/Browse.aspx?id=1878660&dbid=0&repo=CityOfFederalWay",
+   "https://federalwaywa.gov/event/lodging-tax-advisory-committee-meeting-31"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Federal Way runs two Tourism Enhancement Grant rounds a year (applications due Feb 10 and Aug 11; LTAC decisions April 14 and Oct 13; council approval May 5 and Nov 4). Award lists are in LTAC packets on the city's Laserfiche site, which could not be fetched. City receives 1% of lodging taxes. Second pass found no news coverage or published award lists for 2025 or 2026; the LTAC meeting pages carry no packets. Historical coverage shows small awards (e.g. $39,050 in one past round; about $22,000 available in a 2010 round)."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found."
+   }
+  },
+  "upcoming": "Two Tourism Enhancement Grant rounds per year (applications due Feb 10 and Aug 11; LTAC decisions April 14 and Oct 13; council approval May 5 and Nov 4). LTAC also discussed a digital welcome sign on S 348th St, an off-season tourism study, and a committee name change. Contact EconomicDevelopment@federalwaywa.gov, 253-835-2408.",
+  "not_found": "All award lists."
+ },
+ "Oroville": {
+  "source_urls": [
+   "https://oroville-wa.com/wp-content/uploads/2024-11-12-budget-workshop-minutes-1.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found; no search possible before budget ran out. The city decides hotel/motel requests at its November budget workshop, so the 2026 list would be in the Nov 2025 budget workshop minutes."
+   },
+   "2025": {
+    "total": 50925,
+    "decided": "2024-11-12",
+    "awards": [
+     {
+      "recipient": "Molson Museums",
+      "event": null,
+      "amount": 2025,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Oroville Chamber of Commerce",
+      "event": null,
+      "amount": 15000,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "asked to add $10,000; approved as originally requested"
+     },
+     {
+      "recipient": "Oroville Market Association",
+      "event": null,
+      "amount": 2900,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Oroville May Festival",
+      "event": null,
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Recreation Land / Vacationland / Info Book / ATV guide advertising",
+      "event": null,
+      "amount": 8000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "The Oroville Initiative",
+      "event": null,
+      "amount": 10000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $20,750"
+     },
+     {
+      "recipient": "Visitor Information Services",
+      "event": null,
+      "amount": 3000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     },
+     {
+      "recipient": "Okanogan County Public Works",
+      "event": "Whistler Canyon Trailhead vault toilet install",
+      "amount": 5000,
+      "to_jurisdiction_or_dmo": false,
+      "notes": ""
+     }
+    ],
+    "note": "Budget workshop minutes Nov 12, 2024: $50,925 approved across 8 requests."
+   }
+  },
+  "upcoming": "Nothing found.",
+  "not_found": "2026 list."
+ },
+ "Colfax": {
+  "source_urls": [
+   "https://www.wcgazette.com/story/2026/08/20/news/city-council-discusses-bed-tax-money-uses/46744.html"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "Rolling; council acts on individual requests (e.g. Aug 17, 2026)",
+    "awards": [
+     {
+      "recipient": "City of Colfax",
+      "event": "Two portable electronic reader boards (Resolution 26-16), lodging tax proposed as funding source",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "approved Aug 17, 2026; amount not reported"
+     }
+    ],
+    "note": "Colfax has no published annual award list; the council handles bed-tax requests individually. On Aug 17, 2026 the council approved Resolution 26-16 to buy two portable electronic reader boards using lodging tax and sent the Colfax Eagles' request (digital reader board, freezer/food, fair booth supplies) back for revision because it did not meet the state tourism test. Roughly $40,000 a year in revenue (2024 DOR distributions $45,798, from list file)."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found beyond list-file notes."
+   }
+  },
+  "upcoming": "Nothing found.",
+  "not_found": "Any itemized 2025 or 2026 award list or totals."
+ },
+ "Selah": {
+  "source_urls": [
+   "https://selahwa.gov/wp-content/uploads/2025/01/LTAC-MEETING-PACKET-1.27.2025.pdf",
+   "https://selahwa.gov/172/Lodging-Tax-Advisory-Committee",
+   "https://selahwa.gov/tourism/lodging-tax-advisory-committee-ltac"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": null,
+    "awards": [],
+    "note": "Not found. No 2026 LTAC packet is posted on the city site and no news coverage located. About $26,000 a year in revenue (2024 DOR, list file)."
+   },
+   "2025": {
+    "total": null,
+    "decided": "LTAC review Jan 27, 2025; council action not found",
+    "awards": [
+     {
+      "recipient": "Selah Community Days Association",
+      "event": "Selah Community Days (May 15-18, 2025)",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $22,000 (priority 1) / $20,000 (priority 2); minimum $21,895.20; LTAC agenda Jan 27, 2025; award not recorded"
+     },
+     {
+      "recipient": "Selah Downtown Association",
+      "event": "4th of July at Carlon Park (July 4, 2025)",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $24,545; LTAC agenda Jan 27, 2025; award not recorded"
+     },
+     {
+      "recipient": "Yakima Valley Tourism",
+      "event": "Regional tourism promotion",
+      "amount": null,
+      "to_jurisdiction_or_dmo": true,
+      "notes": "request on Jan 27, 2025 LTAC agenda; amount not shown; 2024 award was $7,005 of $15,914 requested (list file)"
+     }
+    ],
+    "note": "Jan 27, 2025 LTAC packet lists the 2025 requests but the recommendation section is blank. For reference, on May 31, 2024 LTAC approved City of Selah 4th of July fireworks $10,000 and Selah Downtown Association 4th of July at Carlon Park $11,225.54 (2024 funds). LTAC meets the fourth Monday monthly at 11 AM."
+   }
+  },
+  "upcoming": "Nothing found.",
+  "not_found": "2025 awarded amounts; 2026 requests and awards."
+ },
+ "Raymond": {
+  "source_urls": [
+   "https://cityofraymond.com/wp-content/uploads/04.20.26.pdf",
+   "https://cityofraymond.com/wp-content/uploads/2024/10/LTAC-Lodging-Tax-Application-2025.pdf"
+  ],
+  "years": {
+   "2026": {
+    "total": null,
+    "decided": "Rolling; council acts on individual applications (e.g. April 20, 2026 agenda)",
+    "awards": [
+     {
+      "recipient": "Willapa Seaport Museum (The Frink Foundation)",
+      "event": "Museum operations and advertising to military visitors",
+      "amount": null,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "requested $2,000; on council agenda April 20, 2026 for action; outcome not found"
+     }
+    ],
+    "note": "Raymond handles lodging tax applications individually at council meetings rather than an annual list. April 20, 2026 agenda: Willapa Seaport Museum $2,000 request (2025 actual visitors 1,285; 559 from over 50 miles)."
+   },
+   "2025": {
+    "total": null,
+    "decided": null,
+    "awards": [
+     {
+      "recipient": "Northwest Carriage Museum",
+      "event": null,
+      "amount": 3500,
+      "to_jurisdiction_or_dmo": false,
+      "notes": "from list file; source not verified here"
+     }
+    ],
+    "note": "Not found beyond list-file notes."
+   }
+  },
+  "upcoming": "Nothing found.",
+  "not_found": "Any itemized annual list or totals; outcome of the April 2026 Seaport Museum request."
+ }
+}
