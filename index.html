@@ -1235,7 +1235,7 @@ async function loadBoard(){
 }
 document.getElementById('boardFilter').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;boardFilter=b.dataset.v;document.querySelectorAll('#boardFilter button').forEach(x=>x.setAttribute('aria-pressed',x===b));renderBoard();});
 
-route();
+/* initial route runs at the end of the file */
 
 /* ================= guideline audience switch ================= */
 (function(){ const seg=document.getElementById('guideSeg'); if(!seg) return;
@@ -1339,6 +1339,8 @@ function openAlt(program){
   modal.querySelector('.modalbox').classList.add('wide');
 }
 document.addEventListener('click',e=>{const b=e.target.closest('[data-alt]'); if(b){e.preventDefault(); openAlt(b.dataset.alt);}});
+
+route();
 </script>
 
 </body>
