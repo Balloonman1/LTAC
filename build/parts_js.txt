@@ -85,6 +85,7 @@ function card(r){
       ${kv?`<dl class="kv">${kv}</dl>`:''}
       ${pres}
       ${r.notes?`<p class="notes">${esc(r.notes)}</p>`:''}
+      ${r.planner?`<a class="planner" href="${esc(r.planner.url)}"><b>${esc(r.planner.label)}</b><span>${esc(r.planner.blurb||'')}</span></a>`:''}
       ${r.contact?`<div class="ct-line"><strong>Staff contact:</strong> ${esc(r.contact)}</div>`:''}
       ${alts}
       ${docs}
