@@ -318,7 +318,7 @@
     "annual_pool": null,
     "url": null,
     "contact": null,
-    "notes": "No City of Tacoma LTAC application found; Tacoma is not in the Pierce County LTAC grant program, and the city's Special Events Funding ($90K, due Oct 21, 2025 for 2026) is paid from venue food-and-beverage tax, not lodging tax.",
+    "notes": "No City of Tacoma LTAC application found and Tacoma is excluded from the Pierce County LTAC grant program. The city's Special Events Funding ($90K, 2027 round closed Aug 4, 2026, awarded Sep 24, 2026) is paid from venue food-and-beverage tax, not lodging tax. See the Tacoma 2027 event funding planner for every program that can fund a city event and the windows that still work for a given date.",
     "confidence": "low",
     "members": [],
     "members_source": null,
@@ -332,6 +332,13 @@
     "meeting_schedule": null,
     "funding_docs": [
       {
+        "title": "Tacoma 2027 event funding planner: pick an event date, see what is still open vs. the next cycle",
+        "doc_type": "other",
+        "year": "2027",
+        "url": "tacoma.html",
+        "summary": "Eight programs (city Special Events Funding, Community Arts Projects, Tacoma Creates, TPU, Pierce County TPA, ArtsWA, Puyallup Tribe) with posted and expected 2027-2028 windows, eligibility for for-profit, sponsored and nonprofit applicants, and permit deadlines counted back from the event date."
+      },
+      {
         "title": "WA Department of Revenue: Tacoma lodging tax rate change notice (July 2021)",
         "doc_type": "other",
         "year": "2021",
@@ -339,11 +346,11 @@
         "summary": "Lists Tacoma lodging taxes: 5% special hotel/motel tax at 26+ room properties (13.6% combined) and 2% at 25 or fewer rooms (12.3% combined)."
       },
       {
-        "title": "City of Tacoma 2026 Special Events Funding announcement",
+        "title": "City of Tacoma 2027 Special Events Funding awards (Sep 24, 2026)",
         "doc_type": "other",
-        "year": "2026",
-        "url": "https://tacoma.gov/?p=31492",
-        "summary": "The city's only open event grant program: $90,000 to 28 organizations at $2,500-$5,000 each for free public events, funded by Tacoma Dome and Convention Center food-and-beverage tax, not lodging tax."
+        "year": "2027",
+        "url": "https://tacoma.gov/news/community-event-funding-announced-for-2027/",
+        "summary": "$90,000 to 26 organizations at $2,500-$5,000 each for free public events in 2027; applications ran Jul 6 to Aug 4, 2026. Funded by Tacoma Dome and Convention Center revenue, not lodging tax."
       }
     ],
     "total_pool_usd": null,

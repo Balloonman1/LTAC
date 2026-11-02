@@ -1276,7 +1276,7 @@
   {
     "name": "Tacoma Arts Commission Community Arts Projects Funding",
     "funder": "City of Tacoma Arts and Cultural Vitality Office / Tacoma Arts Commission",
-    "url": "https://tacoma.gov/news/application-for-2026-community-arts-projects-funding-now-available/",
+    "url": "https://tacoma.gov/government/departments/arts-cultural-vitality/funding/",
     "contact": "Naomi Strom-Avila, nstrom-avila@tacoma.gov, 253-591-5191",
     "level": "city",
     "geography": {
@@ -1303,16 +1303,20 @@
       "tribe",
       "fiscal sponsor accepted"
     ],
-    "award": "$3,000, $6,000 or $9,000 request levels (2026 news release cited $4,000 or $6,000)",
+    "award": "$4,000 or $6,000 request levels (2027 round); about $147,000 funded 30 projects for 2026",
     "cycle": "annual",
     "rolling": false,
     "deadlines": [
       {
-        "date": "2025-10-27",
-        "label": "2026 projects cycle (closed); 2027 cycle expected late October 2026, not confirmed"
+        "date": "2026-10-26",
+        "label": "2027 projects cycle (closed Oct 26, 2026, 11:59 PM; awards expected early January 2027)"
+      },
+      {
+        "date": "2027-10-25",
+        "label": "2028 projects cycle, expected (city says applications open mid-September 2027)"
       }
     ],
-    "next_deadline": null,
+    "next_deadline": "2027-10-25",
     "opens": "Usually mid-September",
     "match": "No cash match; budget must balance and in-kind counts",
     "reimbursement": true,
@@ -1321,14 +1325,16 @@
     "confidence": "high",
     "sources": [
       "https://cms.tacoma.gov/CEDD/TacomaCulture/arts/TA_ArtsProjects_2026APDraft.pdf",
-      "https://tacoma.gov/news/application-for-2026-community-arts-projects-funding-now-available/"
+      "https://tacoma.gov/news/application-for-2026-community-arts-projects-funding-now-available/",
+      "https://www.thefactsnewspaper.com/post/application-for-2027-community-arts-projects-funding-now-available",
+      "https://tacoma.gov/government/departments/arts-cultural-vitality/funding/"
     ]
   },
   {
     "name": "Tacoma Special Events Funding Program",
     "funder": "City of Tacoma Venues and Events / City Events and Recognitions Committee",
-    "url": "https://tacoma.gov/special-events-funding",
-    "contact": "Tacoma Venues and Events Special Events Office, (253) 573-2523",
+    "url": "https://www.tacomavenues.org/special-events-funding-program",
+    "contact": "communityevents@tacomavenues.org; Tacoma Venues & Events 253-272-3663",
     "level": "city",
     "geography": {
       "counties": [
@@ -1351,20 +1357,24 @@
       "public agency",
       "for-profit"
     ],
-    "award": "$2,500 to $5,000 per awardee; $90,000 pool funded 28 events in 2026",
+    "award": "$2,500 to $5,000 per awardee (reimbursement); $90,000 pool funded 26 events for 2027 and 28 for 2026",
     "cycle": "annual",
     "rolling": false,
     "deadlines": [
       {
-        "date": "2025-11-30",
-        "label": "Estimated 2026 events cycle deadline (program has used a Nov 30 fall deadline; 2027 cycle not confirmed)"
+        "date": "2026-08-04",
+        "label": "2027 events cycle (closed; window Jul 6 to Aug 4, 2026; awards announced Sep 24, 2026)"
+      },
+      {
+        "date": "2027-08-04",
+        "label": "2028 events cycle, expected (city says the period opens in August or September of the preceding year; the 2027 round ran Jul 6 to Aug 4)"
       }
     ],
-    "next_deadline": null,
-    "opens": "Usually fall (mid-October to November) for the following calendar year",
+    "next_deadline": "2027-08-04",
+    "opens": "Summer for the following calendar year; 2027 cycle opened July 6, 2026",
     "match": null,
-    "reimbursement": null,
-    "notes": "Funded by the food and beverage tax at the Tacoma Dome and convention center; covers direct costs such as traffic control, performers and marketing for free, all-ages public festivals and community events in Tacoma. Competitive panel review by the volunteer CERC with emphasis on merit, capacity, community impact and belonging. Applicant type is not formally restricted; business districts, museums and neighborhood councils have been funded. Pattern: applications open in the fall for next year's events; permits still required separately (60 days before event).",
+    "reimbursement": true,
+    "notes": "Funded by the food and beverage tax at the Tacoma Dome and convention center; covers direct costs such as traffic control, performers and marketing for free, all-ages public festivals and community events in Tacoma. Competitive panel review by the volunteer CERC with emphasis on merit, capacity, community impact and belonging. Applicant type is not formally restricted; business districts, museums and neighborhood councils have been funded. For-profit businesses producing not-for-profit public events are eligible; events must be free, public and inside city limits. The same application requests Citywide or City-Sponsored designation for in-kind City Event Services (combined cap $40,000 / $25,000). Pattern: the 2026 round ran Sep 18 to Oct 21, 2025 and the 2027 round Jul 6 to Aug 4, 2026, with awards in late September.",
     "recent_recipients": [
       "Rainbow Center (Tacoma Pride Festival), 2026",
       "Museum of Glass (Glass Fest Northwest), 2026",
@@ -1372,11 +1382,14 @@
       "Asia Pacific Cultural Center (Asia Pacific New Year Celebration), 2026",
       "Proctor Business District Association (Proctor Arts Fest), 2026"
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "sources": [
       "https://tacoma.gov/?p=31492",
       "https://www.cityoftacoma.org/specialevents",
-      "https://lists.ctbirding.org/empathy/thread/YGK6DLM3QH2F2CTPDYVWLJOHKQFT5IDC"
+      "https://lists.ctbirding.org/empathy/thread/YGK6DLM3QH2F2CTPDYVWLJOHKQFT5IDC",
+      "https://www.tacomavenues.org/news/2027-special-events-funding-applications-open",
+      "https://tacoma.gov/news/community-event-funding-announced-for-2027/",
+      "https://www.tacomavenues.org/special-events-funding-program"
     ]
   },
   {
@@ -3034,6 +3047,55 @@
     "confidence": "low",
     "sources": [
       "https://grantedai.com/grants/community-foundation-of-south-puget-sound-community-grants-community-foundation-of-south-puget-soun-d33e4dc5"
+    ]
+  },
+  {
+    "name": "TPU Community Support & Sponsorship",
+    "funder": "Tacoma Public Utilities (Social Responsibility)",
+    "url": "https://www.mytpu.org/community-environment-parks/community-support-sponsorship/request-community-support/",
+    "contact": "Monika Sundbaum, msundbaum@tacoma.gov, 253-344-6888",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Pierce"
+      ],
+      "cities": [
+        "Tacoma",
+        "University Place"
+      ],
+      "region": null
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "youth",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published; sponsorship-scale, one request per organization per year that can cover several events",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-11-06",
+        "label": "2027 events cycle (closes Nov 6, 2026, 5:00 PM; decisions by Jan 15, 2027)"
+      },
+      {
+        "date": "2027-11-05",
+        "label": "2028 events cycle, expected early November 2027"
+      }
+    ],
+    "next_deadline": "2026-11-06",
+    "opens": "Early fall for the following calendar year",
+    "match": null,
+    "reimbursement": false,
+    "notes": "501(c)(3) nonprofits only (for-profits, sports teams, political and religious-promotion programs excluded) for events and programs inside TPU's service area, which includes Tacoma and University Place. A contract with TPU must be in place before the event date. Preference for programs that advance diversity, equity and inclusion.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.mytpu.org/community-environment-parks/community-support-sponsorship/request-community-support/"
     ]
   }
 ]

@@ -1,0 +1,524 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Tacoma has no lodging tax grant program. This planner shows every public program that can fund a Tacoma event, which application windows still work for a given 2027 event date, and which roll to the next cycle.">
+<title>Tacoma Event Funding Planner</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+<style>
+/* Same tokens as index.html so the page reads as part of the site. */
+html{color-scheme:light only}
+:root{
+  --bg:#f3f5f1; --surface:#ffffff; --surface-2:#eaeee8; --fg:#15201a; --muted:#4d5852; --line:#d6dcd6; --line-strong:#b9c3bb;
+  --ink:#173d30; --ink-2:#245b47; --on-ink:#f3f5f1; --accent:#c2690e; --accent-bg:#fdf0e0; --accent-ink:#8a4a07;
+  --ok:#237a4c; --ok-bg:#dff1e5; --warn:#a85a07; --warn-bg:#fdf0e0; --off:#66706a; --off-bg:#e6eae5; --bad:#a32828; --bad-bg:#fbe3e3;
+  --shadow:0 1px 2px rgba(21,32,26,.06),0 6px 18px -8px rgba(21,32,26,.18);
+  --display:"Newsreader",Georgia,"Times New Roman",serif;
+  --body:"Public Sans","Helvetica Neue",Arial,sans-serif;
+  --mono:"JetBrains Mono",Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--ink)}
+.gutter{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.inner{max-width:1180px;margin:0 auto}
+a{color:var(--ink-2)} :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h2{font-family:var(--display);font-weight:500;font-size:26px;line-height:1.15;margin:0 0 4px;letter-spacing:-.01em}
+h3{font-size:16px;margin:0}
+p{margin:0}
+.crumb{background:var(--ink);color:var(--on-ink);font-size:13px;padding:10px 0}
+.crumb a{color:var(--on-ink);opacity:.85;text-decoration:none} .crumb a:hover{opacity:1;text-decoration:underline}
+.crumb .inner{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.crumb .sep{opacity:.5}
+
+/* masthead */
+.mast{background:var(--ink);color:var(--on-ink);padding-block:30px 28px}
+.mast .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;opacity:.75;margin:0 0 10px}
+.mast h1{font-family:var(--display);font-weight:500;font-size:clamp(32px,5vw,52px);line-height:1.02;margin:0 0 14px;text-wrap:balance;letter-spacing:-.01em}
+.mast .lede{max-width:66ch;margin:0;opacity:.88;font-size:16px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:24px}
+.tile{background:var(--ink-2);border-radius:10px;padding:12px 14px}
+.tile b{display:block;font-family:var(--mono);font-size:26px;font-weight:500;line-height:1.1;overflow-wrap:anywhere}
+.tile span{font-size:12.5px;opacity:.8}
+.tile.hot b{color:#f6c383}
+
+/* controls */
+.panel{position:static;z-index:5;background:var(--surface);border-bottom:1px solid var(--line);padding-block:12px}
+.panel .inner{display:flex;flex-wrap:wrap;gap:12px 22px;align-items:end}
+.field{display:flex;flex-direction:column;gap:4px;min-width:0}
+.field label{font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.field input[type=date]{font:inherit;font-family:var(--mono);font-size:15px;padding:8px 10px;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface);color:var(--fg);min-width:170px}
+.seg{display:inline-flex;border:1px solid var(--line-strong);border-radius:999px;padding:2px;background:var(--surface-2);flex-wrap:wrap}
+.seg button{font:inherit;font-size:13px;font-weight:600;padding:6px 12px;border:0;border-radius:999px;background:transparent;color:var(--muted);cursor:pointer;white-space:nowrap}
+.seg button[aria-pressed=true]{background:var(--ink);color:var(--on-ink)}
+.quick{display:flex;gap:6px;flex-wrap:wrap}
+.quick button{font:inherit;font-size:12.5px;padding:5px 10px;border:1px solid var(--line-strong);border-radius:999px;background:var(--surface);color:var(--muted);cursor:pointer}
+.quick button:hover{border-color:var(--ink-2);color:var(--ink-2)}
+.panel .hint{flex-basis:100%;font-size:12.5px;color:var(--muted)}
+
+/* sections */
+section{padding-block:28px}
+section+section{border-top:1px solid var(--line)}
+.sechead{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:baseline;margin-bottom:14px}
+.sechead p{color:var(--muted);max-width:80ch}
+.count{font-family:var(--mono);font-size:13px;color:var(--muted)}
+.rows{display:grid;gap:10px}
+.row{background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);padding:14px 16px;display:grid;gap:10px 18px;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);align-items:start}
+.row.missed{background:var(--surface);opacity:.96}
+.row .main{min-width:0}
+.row .side{min-width:0;font-size:13.5px;display:grid;gap:6px;align-content:start}
+.row .side div{display:grid;grid-template-columns:92px minmax(0,1fr);gap:8px}
+.row .side dt,.row .side .k{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.05em;font-weight:600;padding-top:2px}
+.row .side .v{min-width:0;overflow-wrap:anywhere}
+.titleline{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;margin-bottom:4px}
+.titleline h3{font-size:17px}
+.funder{font-size:13px;color:var(--muted);margin-bottom:8px}
+.pill{display:inline-block;font-size:12px;font-weight:600;padding:3px 10px;border-radius:999px;white-space:nowrap}
+.pill.ok{background:var(--ok-bg);color:var(--ok)} .pill.warn{background:var(--warn-bg);color:var(--warn)} .pill.off{background:var(--off-bg);color:var(--off)} .pill.bad{background:var(--bad-bg);color:var(--bad)} .pill.ink{background:var(--surface-2);color:var(--ink)}
+.pill.elig{border:1px solid var(--line-strong);background:var(--surface);color:var(--muted)}
+.pill.elig.fp{border-color:var(--ok);color:var(--ok)} .pill.elig.sp{border-color:var(--ink-2);color:var(--ink-2)} .pill.elig.np{border-color:var(--warn);color:var(--warn)}
+.when{font-size:14.5px;margin:6px 0}
+.when b{font-family:var(--mono);font-weight:500}
+.when .est{font-size:12px;color:var(--muted);font-family:var(--mono)}
+.verdict{margin-top:6px;padding:8px 10px;border-radius:8px;background:var(--surface-2);font-size:13.5px}
+.verdict.good{background:var(--ok-bg)} .verdict.late{background:var(--warn-bg)} .verdict.no{background:var(--off-bg)}
+.note{font-size:13.5px;color:var(--muted);margin-top:8px}
+.note b{color:var(--fg);font-weight:600}
+.src{font-size:12px;color:var(--muted);margin-top:8px}
+.src a{color:var(--muted)}
+.conf{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+details{margin-top:6px} summary{cursor:pointer;font-size:13px;color:var(--ink-2);font-weight:600}
+.empty{padding:16px;border:1px dashed var(--line-strong);border-radius:12px;color:var(--muted);font-size:14px}
+
+/* logistics */
+.logi{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px}
+.logi .card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow)}
+.logi b{display:block;font-family:var(--mono);font-weight:500;font-size:17px}
+.logi span{font-size:13px;color:var(--muted)}
+
+/* timeline */
+.tl{background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);padding:12px 8px 6px;overflow-x:auto}
+.tl svg{display:block;min-width:720px;width:100%;height:auto;font-family:var(--body)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:12.5px;color:var(--muted);margin:10px 4px 0}
+.legend i{display:inline-block;width:18px;height:10px;border-radius:3px;vertical-align:-1px;margin-right:6px}
+.tl-tip{position:fixed;pointer-events:none;background:var(--fg);color:var(--on-ink);font-size:12.5px;padding:6px 9px;border-radius:7px;max-width:280px;z-index:20;display:none}
+
+/* excluded */
+.ex{display:grid;gap:8px}
+.ex .item{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 14px;font-size:14px;display:grid;grid-template-columns:minmax(0,1fr);gap:2px}
+.ex .item b{font-weight:600}
+.ex .item span{color:var(--muted);font-size:13.5px}
+
+footer.about{border-top:1px solid var(--line);padding-block:24px 40px;font-size:13px;color:var(--muted)}
+footer p{max-width:90ch;margin:0 0 8px}
+
+@media (max-width:720px){
+  .row{grid-template-columns:1fr}
+  .row .side div{grid-template-columns:84px minmax(0,1fr)}
+  .mast{padding-block:24px 22px}
+}
+@media (min-width:900px){.panel{position:sticky;top:env(safe-area-inset-top,0px)}}
+@media print{.panel{position:static}.tl{overflow:visible}}
+</style>
+</head>
+<body>
+<div class="crumb gutter"><div class="inner"><a href="index.html">WA Lodging Tax Grants</a><span class="sep">/</span><a href="index.html#j-tacoma">Tacoma</a><span class="sep">/</span><span>2027 event funding planner</span></div></div>
+
+<header class="mast gutter"><div class="inner">
+  <p class="eyebrow">Tacoma · Pierce County · no LTAC grant program</p>
+  <h1>Funding a Tacoma event in 2027</h1>
+  <p class="lede">Tacoma keeps its own lodging tax and runs no grant round for it, and Tacoma events are excluded from Pierce County's $5.3M lodging tax program. Pick an event date and this page shows which city, county, utility, tribal and state programs can still be applied for before that date, which ones already closed for it and roll to the following cycle, and the permit deadlines counted back from the date.</p>
+  <div class="tiles" id="tiles"></div>
+</div></header>
+
+<div class="panel gutter"><div class="inner">
+  <div class="field"><label for="evdate">Event date</label><input type="date" id="evdate" min="2026-11-02" max="2028-12-31"></div>
+  <div class="field"><label>Quick picks</label><div class="quick" id="quick"></div></div>
+  <div class="field"><label>Applicant</label><div class="seg" id="seg" role="group" aria-label="Applicant type">
+    <button type="button" data-app="all" aria-pressed="true">Everything</button>
+    <button type="button" data-app="fp" aria-pressed="false">For-profit, applying directly</button>
+    <button type="button" data-app="sp" aria-pressed="false">With a nonprofit sponsor</button>
+    <button type="button" data-app="np" aria-pressed="false">Nonprofit applicant</button>
+  </div></div>
+  <p class="hint" id="hint"></p>
+</div></div>
+
+<main>
+<section class="gutter"><div class="inner">
+  <div class="sechead"><h2>Still open for this date</h2><span class="count" id="c-open"></span><p>Application windows that close before the event and whose funding period covers it. Dates marked <span class="conf">expected</span> are projected from the program's pattern; the official page has not posted them yet.</p></div>
+  <div class="rows" id="open"></div>
+</div></section>
+
+<section class="gutter"><div class="inner">
+  <div class="sechead"><h2>Missed for this date, next cycle shown</h2><span class="count" id="c-missed"></span><p>The round that covers your date has already closed. Each row shows the following cycle and the event dates it would fund, so you can decide whether to move the event or plan for 2028.</p></div>
+  <div class="rows" id="missed"></div>
+</div></section>
+
+<section class="gutter"><div class="inner">
+  <div class="sechead"><h2>Windows on a timeline</h2><p>Every application window from late 2026 through 2028, with your event date and today marked. Solid bars are posted dates; outlined bars are expected from the program's pattern. Diamonds are award decisions. Hover a bar for details.</p></div>
+  <div class="tl"><div id="tlwrap"></div><div class="legend"><span><i style="background:var(--ink-2)"></i>Posted window</span><span><i style="border:2px dashed var(--ink-2);background:transparent"></i>Expected window</span><span><i style="background:var(--accent);width:10px;height:10px;transform:rotate(45deg);border-radius:2px"></i> Award decision</span><span><i style="background:var(--accent);width:3px;height:14px"></i>Your event</span><span><i style="background:var(--off);width:2px;height:14px"></i>Today</span></div></div>
+  <div class="tl-tip" id="tltip"></div>
+</div></section>
+
+<section class="gutter"><div class="inner">
+  <div class="sechead"><h2>Permit and logistics deadlines from your date</h2><p>Not grants, but these drive the calendar for any event on city streets or in a park.</p></div>
+  <div class="logi" id="logi"></div>
+</div></section>
+
+<section class="gutter"><div class="inner">
+  <div class="sechead"><h2>Not available for a Tacoma event</h2><p>Programs people usually ask about that do not apply here, so they are not on the timeline.</p></div>
+  <div class="ex" id="excluded"></div>
+</div></section>
+</main>
+
+<footer class="about gutter"><div class="inner">
+  <p><b>How to read eligibility.</b> <span class="pill elig fp">For-profit OK</span> means the program text admits businesses producing not-for-profit public events. <span class="pill elig sp">Nonprofit sponsor accepted</span> means a for-profit producer can apply through a 501(c)(3) fiscal sponsor or umbrella organization under the program's own rules. <span class="pill elig np">Nonprofit must apply</span> means the 501(c) organization has to be the applicant and contract holder (and the program either forbids fiscal sponsorship or does not mention it), so a nonprofit partner would need to own the application and the event.</p>
+  <p>Posted dates were checked on November 2, 2026 against each program's official page; expected dates are projected from the last two or three cycles and are marked as such. Reimbursement-based programs pay after the event, so plan cash flow accordingly. Report a correction or a missing program through the <a href="index.html#j-tacoma">Tacoma card</a>.</p>
+  <p>Washington Lodging Tax Grants, run by Eliav Cohen, <a href="https://seattleballooning.com" rel="noopener">Seattle Ballooning</a>.</p>
+</div></footer>
+
+<script>
+const TODAY = new Date().toISOString().slice(0,10);
+const DEFAULT_DATE = '2027-07-10';
+
+/* elig: fp = for-profit may apply directly; sp = nonprofit/fiscal sponsor route accepted; np = nonprofit must be applicant (no sponsorship route). */
+const PROGRAMS = [
+ {
+  id:'sef', short:'Special Events Funding (city)', name:'Special Events Funding + City Event Services designation', funder:'Tacoma Venues & Events; awards by the City Events and Recognitions Committee (CERC)',
+  elig:'fp', eligNote:'501(c)(3)/(4) nonprofits, organized volunteer groups, business districts, neighborhood councils, schools, tribes, and for-profit businesses producing not-for-profit events outside their normal line of business. Event must be free, open to the public and inside city limits. A producer applying under an umbrella 501(c) must be Tacoma-based.',
+  amount:'$2,500 to $5,000 cash (reimbursement), from a $90,000 pool; the same application can request Citywide or City-Sponsored designation for in-kind City equipment and traffic devices (combined cap $40,000 / $25,000).',
+  funds:'Direct event costs: traffic control, performers, stage, marketing, restrooms, waste, permits. Not operating costs, fundraisers or beer gardens.',
+  url:'https://www.tacomavenues.org/special-events-funding-program', contact:'communityevents@tacomavenues.org · 253.272.3663',
+  sources:[['2027 applications open (Jul 6, 2026)','https://www.tacomavenues.org/news/2027-special-events-funding-applications-open'],['2027 awards announced (Sep 24, 2026)','https://tacoma.gov/news/community-event-funding-announced-for-2027/'],['Program guidelines','https://www.tacomavenues.org/special-events-funding-program'],['City Event Services','https://www.tacomavenues.org/city-event-services-program']],
+  cycles:[
+   {label:'2026 events', opens:'2025-09-18', closes:'2025-10-21', decision:'2026-01-15', dsure:false, from:'2026-01-01', to:'2026-12-31', sure:true},
+   {label:'2027 events', opens:'2026-07-06', closes:'2026-08-04', decision:'2026-09-24', dsure:true, from:'2027-01-01', to:'2027-12-31', sure:true, note:'$90,000 to 26 organizations, announced Sep 24, 2026.'},
+   {label:'2028 events', opens:'2027-07-06', closes:'2027-08-04', decision:'2027-09-24', dsure:false, from:'2028-01-01', to:'2028-12-31', sure:false, note:'The city says the period is anticipated to open in August or September of the preceding year; the 2027 round actually ran July 6 to August 4, so plan for July.'},
+  ],
+  conf:'high'
+ },
+ {
+  id:'cap', short:'Community Arts Projects', name:'Community Arts Projects funding', funder:'City of Tacoma Office of Arts & Cultural Vitality / Tacoma Arts Commission',
+  elig:'fp', eligNote:'501(c) nonprofits, organized groups with a mission, tribes, and for-profit businesses or schools producing projects that are nonprofit in nature. Office in Tacoma, or most activity inside city limits. Project must be arts-focused and inclusive or accessible.',
+  amount:'$4,000 or $6,000 per project (2027 round); about $147,000 funded 30 projects for 2026.',
+  funds:'Arts-focused community projects and events completed inside the calendar year, in Tacoma.',
+  url:'https://tacoma.gov/government/departments/arts-cultural-vitality/funding/', contact:'Naomi Strom-Avila, nstrom-avila@tacoma.gov · 253-591-5191',
+  sources:[['2027 round announcement (Sep 18, 2026)','https://www.thefactsnewspaper.com/post/application-for-2027-community-arts-projects-funding-now-available'],['Arts & Cultural Vitality funding page','https://tacoma.gov/government/departments/arts-cultural-vitality/funding/']],
+  cycles:[
+   {label:'2026 projects', opens:'2025-09-15', closes:'2025-10-27', decision:'2026-01-07', dsure:true, from:'2026-01-01', to:'2026-12-31', sure:true},
+   {label:'2027 projects', opens:'2026-09-18', closes:'2026-10-26', decision:'2027-01-07', dsure:false, from:'2027-01-01', to:'2027-12-31', sure:true, note:'Closed Oct 26, 2026, 11:59 PM; awards expected around early January 2027 (2026 awards were announced Jan 7).'},
+   {label:'2028 projects', opens:'2027-09-15', closes:'2027-10-25', decision:'2028-01-07', dsure:false, from:'2028-01-01', to:'2028-12-31', sure:false, note:'The city says 2028 applications open in mid-September 2027; the deadline has been the last Monday of October.'},
+  ],
+  conf:'high'
+ },
+ {
+  id:'tci', short:'Tacoma Creates Impact', name:'Tacoma Creates Impact Funding', funder:'City of Tacoma Office of Arts & Cultural Vitality (Tacoma Creates sales-tax program)',
+  elig:'sp', eligNote:'501(c)(3) nonprofits whose primary purpose is arts, culture, heritage or science; groups without that status may apply through a nonprofit fiscal sponsor (needs a Tacoma business license and its own bank account); recognized business districts and neighborhood councils with a fiscal sponsor. For-profits cannot apply directly. Business address in Tacoma, or Pierce County with most public programming in Tacoma.',
+  amount:'$3,000 to $60,000 per year, up to 50% of program cost with a 1:1 match (volunteer time and in-kind count). Level A under $20,000, Level B $20,000 to $60,000.',
+  funds:'Public arts, culture, heritage and science programming delivered in Tacoma during the July to June funding year, including festivals.',
+  url:'https://www.tacomacreates.org/impact-funding', contact:'tacomacreates@tacoma.gov · 253-591-5161',
+  sources:[['Impact Funding page (2027-28 materials due by end of January 2027)','https://www.tacomacreates.org/impact-funding'],['2026-27 application notice','https://tacoma.gov/news/applications-for-2026-2027-tacoma-creates-funding-now-available/'],['Eligibility','https://www.tacomacreates.org/eligibility-for-impactfunding']],
+  cycles:[
+   {label:'2026-27 funding year', opens:'2026-01-29', closes:'2026-03-23', decision:'2026-06-15', dsure:false, from:'2026-07-01', to:'2027-06-30', sure:true, note:'Closed Mar 23, 2026, 11:59 PM; 80 organizations shared about $6.4M across all Tacoma Creates categories.'},
+   {label:'2027-28 funding year', opens:'2027-01-29', closes:'2027-03-22', decision:'2027-06-15', dsure:false, from:'2027-07-01', to:'2028-06-30', sure:false, note:'Tacoma Creates says updated 2027-28 materials will be posted by the end of January 2027; the Impact deadline has been the fourth Monday of March for three cycles.'},
+   {label:'2028-29 funding year', opens:'2028-01-28', closes:'2028-03-27', decision:'2028-06-15', dsure:false, from:'2028-07-01', to:'2029-06-30', sure:false},
+  ],
+  conf:'medium'
+ },
+ {
+  id:'tpu', short:'TPU Community Support', name:'TPU Community Support & Sponsorship', funder:'Tacoma Public Utilities (Social Responsibility)',
+  elig:'np', eligNote:'501(c)(3) nonprofits only; for-profit organizations, sports teams, political and religious-promotion programs are excluded. One request per organization per year, which can cover several events. Program must be in the TPU service area (Tacoma, University Place and listed Pierce County communities). Fiscal sponsorship is not mentioned.',
+  amount:'Not published; sponsorship-scale awards. A contract with TPU must be in place before the event date.',
+  funds:'Events and programs of local nonprofits that align with TPU goals; preference for programs advancing diversity, equity and inclusion.',
+  url:'https://www.mytpu.org/community-environment-parks/community-support-sponsorship/request-community-support/', contact:'Monika Sundbaum, msundbaum@tacoma.gov · 253-344-6888',
+  sources:[['Request Community Support (2027 cycle)','https://www.mytpu.org/community-environment-parks/community-support-sponsorship/request-community-support/']],
+  cycles:[
+   {label:'2027 events', opens:'2026-10-01', closes:'2026-11-06', decision:'2027-01-15', dsure:true, from:'2027-01-01', to:'2027-12-31', sure:true, note:'Application closes Friday, Nov 6, 2026 at 5:00 PM Pacific; decisions no later than Jan 15, 2027.'},
+   {label:'2028 events', opens:'2027-10-01', closes:'2027-11-05', decision:'2028-01-15', dsure:false, from:'2028-01-01', to:'2028-12-31', sure:false, note:'Expected to repeat the early-November deadline.'},
+  ],
+  conf:'high'
+ },
+ {
+  id:'tpa', short:'Pierce County TPA marketing', name:'Pierce County TPA grant: Event Marketing / Sports Event Marketing', funder:'Pierce County Economic Development (Tourism Promotion Area)',
+  elig:'np', eligNote:'Applicant must be a 501(c)(3) or 501(c)(6) at least one year old; the county expects the applicant’s primary mission to be tourism promotion, so single-event producers usually go in through a DMO, chamber, sports commission or festival nonprofit that holds the contract. Tacoma events are eligible because the TPA fee is collected at every Pierce County hotel with 40+ rooms. A one-on-one meeting with staff is required before submitting.',
+  amount:'2027 categories: Event Marketing $42,950 and Sports Event Marketing $55,500 countywide; reimbursement of marketing that produces overnight stays (300 room nights on a peak night or 500 total for events; 200+ per sports event).',
+  funds:'Out-of-area marketing for events that fill Pierce County hotel rooms. Not operations.',
+  url:'https://www.piercecountywa.gov/5732/Tourism-Promotion-Area-TPA-Program', contact:'Mike Gommi, mike.gommi@piercecountywa.gov · 253-798-6150',
+  sources:[['TPA program page','https://www.piercecountywa.gov/5732/Tourism-Promotion-Area-TPA-Program'],['2027 lodging tax / TPA cycle notice (Jun 10, 2026)','https://www.piercecountywa.gov/CivicSend/ViewMessage/message/291524']],
+  cycles:[
+   {label:'2027 funding', opens:'2026-06-05', closes:'2026-07-03', decision:'2026-08-19', dsure:true, from:'2027-01-01', to:'2027-12-31', sure:true, note:'Window June 5 to July 3, 2026; awards decided Aug 19, 2026.'},
+   {label:'2028 funding', opens:'2027-06-04', closes:'2027-07-02', decision:'2027-08-18', dsure:false, from:'2028-01-01', to:'2028-12-31', sure:false, note:'Expected early June to early July 2027, decided in August.'},
+  ],
+  conf:'medium'
+ },
+ {
+  id:'artswa', short:'ArtsWA Art Project', name:'ArtsWA Art Project Grant', funder:'Washington State Arts Commission',
+  elig:'sp', eligNote:'501(c)(3) nonprofits, local arts agencies and tribal governments; fiscally sponsored groups apply with the sponsor’s IRS letter. Individuals, for-profits, schools and government agencies cannot apply.',
+  amount:'$1,000 to $3,000, reimbursed after the project.',
+  funds:'Arts projects and events anywhere in Washington during the July to June fiscal year.',
+  url:'https://www.arts.wa.gov/art-project-grant/', contact:'Miguel Guillén, miguel.guillen@arts.wa.gov · 360-252-9970',
+  sources:[['Art Project Grant (FY2027 cycle dates)','https://www.arts.wa.gov/art-project-grant/']],
+  cycles:[
+   {label:'FY2027 (Jul 2026 to Jun 2027)', opens:'2026-03-09', closes:'2026-04-16', decision:'2026-05-29', dsure:true, from:'2026-07-01', to:'2027-06-30', sure:true, note:'Closed April 16, 2026, 5:00 PM; notification by the last week of May 2026.'},
+   {label:'FY2028 (Jul 2027 to Jun 2028)', opens:'2027-03-08', closes:'2027-04-15', decision:'2027-05-28', dsure:false, from:'2027-07-01', to:'2028-06-30', sure:false, note:'Expected to repeat the March to mid-April window with notification in late May.'},
+   {label:'FY2029 (Jul 2028 to Jun 2029)', opens:'2028-03-06', closes:'2028-04-13', decision:'2028-05-26', dsure:false, from:'2028-07-01', to:'2029-06-30', sure:false},
+  ],
+  conf:'medium'
+ },
+ {
+  id:'tcc', short:'Tacoma Creates Org. Support', name:'Tacoma Creates Comprehensive Organizational Support', funder:'City of Tacoma Office of Arts & Cultural Vitality (Tacoma Creates)',
+  elig:'np', eligNote:'501(c)(3) arts, culture, heritage or science nonprofits located in Tacoma with year-round public programming and youth education. Operating support, not an event grant; an organization that produces a festival as part of broader programming can fold it in.',
+  amount:'Up to 15% of the three-year average annual income, capped at $400,000 per year.',
+  funds:'General operating support for the July to June funding year.',
+  url:'https://www.tacomacreates.org/funding-opportunities', contact:'tacomacreates@tacoma.gov · 253-591-5161',
+  sources:[['2026-27 application notice (deadline Mar 9, 2026)','https://tacoma.gov/news/applications-for-2026-2027-tacoma-creates-funding-now-available/']],
+  cycles:[
+   {label:'2026-27 funding year', opens:'2026-01-29', closes:'2026-03-09', decision:'2026-06-15', dsure:false, from:'2026-07-01', to:'2027-06-30', sure:true},
+   {label:'2027-28 funding year', opens:'2027-01-29', closes:'2027-03-08', decision:'2027-06-15', dsure:false, from:'2027-07-01', to:'2028-06-30', sure:false, note:'Expected second Monday of March 2027.'},
+   {label:'2028-29 funding year', opens:'2028-01-28', closes:'2028-03-13', decision:'2028-06-15', dsure:false, from:'2028-07-01', to:'2029-06-30', sure:false},
+  ],
+  conf:'medium'
+ },
+ {
+  id:'ptctb', short:'Puyallup Tribe Charity Trust', name:'Puyallup Tribe Charity Trust Board', funder:'Puyallup Tribe of Indians (Gaming Advisory Commission)',
+  elig:'np', eligNote:'Applicant attaches its own IRS 501(c)(3) determination letter and must be registered with the Washington Secretary of State; the board states it does not allow fiscal sponsorships. Preference for projects in Pierce County and for projects that serve Native people. Prior grantees must have filed expenditure reports.',
+  amount:'Not published per award; the tribe has announced $350,000 to $600,000 per round across dozens of organizations.',
+  funds:'Charitable purposes including community programs and events; state the share going to administration.',
+  url:'https://www.puyalluptribe-nsn.gov/member-services/general-services/charity-trust-board-gaming-advisory-commission/', contact:'CharityTrustBoard@puyalluptribe-nsn.gov · 253-382-6012',
+  sources:[['Charity Trust Board page','https://www.puyalluptribe-nsn.gov/member-services/general-services/charity-trust-board-gaming-advisory-commission/'],['Application form (quarterly deadline, reviewed the following month)','https://www.puyalluptribe-nsn.gov/wp-content/uploads/2025_Q4-application-form-2.pdf']],
+  quarterly:true,
+  conf:'medium'
+ },
+];
+
+/* Quarterly program: deadlines at the end of each calendar quarter, reviewed the following month. Treat a deadline as usable if it falls at least 60 days before the event (review month plus payment). */
+function quarterlyCycles(){
+  const out=[];
+  for(let y=2026;y<=2028;y++){
+    for(const [m,d] of [['03','31'],['06','30'],['09','30'],['12','31']]){
+      const closes=`${y}-${m}-${d}`;
+      const opens=addDays(closes,-89);
+      const decision=addDays(closes,31);
+      out.push({label:`Quarter ending ${fmt(closes)}`,opens,closes,decision,dsure:false,sure:false,note:'Applications are due by the end of business on the last day of each quarter and reviewed the following month; the last posted form named Sep 30, 2025 as the 4th-quarter deadline.'});
+    }
+  }
+  return out;
+}
+
+const EXCLUDED=[
+ {name:'Pierce County Lodging Tax grants ($5.3M, 2027)', why:'Tacoma collects its own lodging tax, so the county program "excludes Fife, Gig Harbor, Lakewood, Puyallup, and Tacoma." Applications for 2028 are expected June 2027 for events outside those cities.', url:'https://www.piercecountywa.gov/DocumentCenter/View/158804/2027-Lodging-Tax-Grant-Program-Master-Application'},
+ {name:'Pierce County Art Grant Program ($500 to $5,000)', why:'Projects must take place outside Tacoma city limits or focus on residents of unincorporated or underserved areas outside the city. 2027 round expected to open in early December 2026 and close in late January 2027.', url:'https://www.piercecountywa.gov/3333/Art-Grant-Program'},
+ {name:'Tacoma Heritage Project Grants ($1,000 to $10,000)', why:'Suspended: the city says the grants "are not currently available, as of 2025." Worth re-checking in 2027 for a heritage-themed event.', url:'https://tacoma.gov/government/departments/planning-and-development-services/historic-preservation/historic-preservation-incentives-grants/'},
+ {name:'Greater Tacoma Community Foundation', why:'No open funding opportunities, and discretionary grants do not fund event sponsorships. Donor-advised fund holders can still be approached directly.', url:'https://www.gtcf.org/connect/funding/'},
+ {name:'Pierce County Council Community Needs Grant', why:'Closed for the 2026-27 biennium; aimed at nonprofits and public entities addressing critical needs, so a public event is an unlikely fit. The next biennial round would be for 2028-29.', url:'https://www.piercecountywa.gov/8090/Pierce-County-Council-Community-Needs-Gr'},
+ {name:'CERC Event Sponsorships', why:'This is the city asking businesses to sponsor its own events ($253 to $1,000 tiers), not money for outside producers.', url:'https://www.tacomavenues.org/cerc-sponsorships'},
+];
+
+/* helpers */
+function parse(s){const [y,m,d]=s.split('-').map(Number);return new Date(Date.UTC(y,m-1,d));}
+function iso(d){return d.toISOString().slice(0,10);}
+function addDays(s,n){const d=parse(s);d.setUTCDate(d.getUTCDate()+n);return iso(d);}
+function days(a,b){return Math.round((parse(b)-parse(a))/86400000);}
+const MONTHS=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function fmt(s){const d=parse(s);return `${MONTHS[d.getUTCMonth()]} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;}
+function fmtShort(s){const d=parse(s);return `${MONTHS[d.getUTCMonth()]} ${d.getUTCDate()}`;}
+function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function plural(n,w){return `${n} ${w}${n===1?'':'s'}`;}
+function rel(a,b){const n=days(a,b);if(n===0)return 'the same day';return n>0?`${plural(n,'day')} before`:`${plural(-n,'day')} after`;}
+
+const ELIG={fp:['For-profit OK','fp'],sp:['Nonprofit sponsor accepted','sp'],np:['Nonprofit must apply','np']};
+function eligPill(p){const [t,c]=ELIG[p.elig];return `<span class="pill elig ${c}">${t}</span>`;}
+function fits(p,app){
+  if(app==='all'||app==='np')return true;
+  if(app==='fp')return p.elig==='fp';
+  if(app==='sp')return p.elig==='fp'||p.elig==='sp';
+  return true;
+}
+
+function cyclesOf(p){return p.quarterly?quarterlyCycles():p.cycles;}
+
+/* Classify a program against the event date. Returns {state, cycle, next} */
+function classify(p,ev){
+  if(p.quarterly){
+    const cs=cyclesOf(p);
+    const latestOk=cs.filter(c=>days(c.closes,ev)>=60&&c.closes>=TODAY).pop();
+    if(latestOk)return {state:latestOk.opens<=TODAY?'open':'later',cycle:latestOk,quarter:true};
+    const anyFuture=cs.find(c=>c.closes>=TODAY);
+    return {state:'missed',cycle:null,next:anyFuture,quarter:true};
+  }
+  const cs=p.cycles;
+  const cover=cs.find(c=>c.from<=ev&&ev<=c.to);
+  if(!cover)return {state:'none'};
+  const idx=cs.indexOf(cover);
+  if(cover.closes<TODAY)return {state:'missed',cycle:cover,next:cs[idx+1]||null};
+  if(cover.opens<=TODAY)return {state:'open',cycle:cover};
+  return {state:'later',cycle:cover};
+}
+
+function windowLine(c){
+  const est=c.sure?'':' <span class="est">expected</span>';
+  const dec=c.decision?` · decision ~<b>${fmt(c.decision)}</b>${c.dsure?'':' <span class="est">expected</span>'}`:'';
+  return `<p class="when">Window <b>${fmt(c.opens)}</b> to <b>${fmt(c.closes)}</b>${est}${dec}</p>`;
+}
+
+function rowHTML(p,cl,ev){
+  const c=cl.cycle;
+  let status='',verdict='',win='';
+  if(cl.state==='open'){
+    status=`<span class="pill ok">Open now · closes in ${plural(days(TODAY,c.closes),'day')}</span>`;
+    win=windowLine(c);
+    verdict=`<div class="verdict good">Apply by <b>${fmt(c.closes)}</b> for ${c.label}. ${c.decision?`You would hear ~${fmt(c.decision)}, ${rel(c.decision,ev)} the event.`:''}</div>`;
+  }else if(cl.state==='later'){
+    status=`<span class="pill warn">Opens ${fmtShort(c.opens)} · due ${fmtShort(c.closes)}</span>`;
+    win=windowLine(c);
+    const decTxt=c.decision?` Decision ~${fmt(c.decision)}, ${rel(c.decision,ev)} the event.`:'';
+    verdict=cl.quarter
+      ?`<div class="verdict good">Latest quarterly deadline that leaves time: <b>${fmt(c.closes)}</b> (${plural(days(c.closes,ev),'day')} before the event). Review the following month.</div>`
+      :`<div class="verdict good">Apply ${fmt(c.opens)} to <b>${fmt(c.closes)}</b> for ${c.label}; the deadline is ${plural(days(c.closes,ev),'day')} before the event.${decTxt}</div>`;
+  }else if(cl.state==='missed'){
+    status=`<span class="pill off">Closed for this date</span>`;
+    if(c)win=windowLine(c);
+    const n=cl.next;
+    if(cl.quarter){
+      verdict=`<div class="verdict late">Fewer than 60 days remain before the event after the next quarterly deadline (${n?fmt(n.closes):''}); an award would likely land after the event.</div>`;
+    }else if(n){
+      const shift=n.from>ev?`Earliest event date it covers: <b>${fmt(n.from)}</b> (${plural(days(ev,n.from),'day')} after your date).`:'';
+      verdict=`<div class="verdict late">${c.label} round closed ${fmt(c.closes)}. Next: <b>${n.label}</b>, window ${fmt(n.opens)} to <b>${fmt(n.closes)}</b>${n.sure?'':' <span class="est">expected</span>'}, funding ${fmt(n.from)} to ${fmt(n.to)}. ${shift}</div>`;
+    }else{
+      verdict=`<div class="verdict late">${c.label} round closed ${fmt(c.closes)}; no later cycle modeled.</div>`;
+    }
+  }else{
+    status=`<span class="pill off">Outside modeled cycles</span>`;
+  }
+  const cnote=c&&c.note?`<p class="note">${esc(c.note)}</p>`:'';
+  const nnote=cl.next&&cl.next.note&&cl.state==='missed'?`<p class="note"><b>Next cycle:</b> ${esc(cl.next.note)}</p>`:'';
+  return `<article class="row ${cl.state==='missed'?'missed':''}">
+    <div class="main">
+      <div class="titleline"><h3>${esc(p.name)}</h3>${status}${eligPill(p)}</div>
+      <p class="funder">${esc(p.funder)}</p>
+      ${win}${verdict}${cnote}${nnote}
+      <details><summary>Eligibility, what it funds, sources</summary>
+        <p class="note"><b>Who can apply.</b> ${esc(p.eligNote)}</p>
+        <p class="note"><b>What it funds.</b> ${esc(p.funds)}</p>
+        <p class="src">Sources: ${p.sources.map(s=>`<a href="${esc(s[1])}" target="_blank" rel="noopener">${esc(s[0])}</a>`).join(' · ')} · <span class="conf">confidence ${p.conf}</span></p>
+      </details>
+    </div>
+    <div class="side">
+      <div><span class="k">Amount</span><span class="v">${esc(p.amount)}</span></div>
+      <div><span class="k">Official</span><span class="v"><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.url.replace(/^https?:\/\/(www\.)?/,'').split('/')[0])}</a></span></div>
+      <div><span class="k">Contact</span><span class="v">${esc(p.contact)}</span></div>
+    </div>
+  </article>`;
+}
+
+let APP='all';
+function render(){
+  const ev=document.getElementById('evdate').value||DEFAULT_DATE;
+  const open=[],missed=[];
+  for(const p of PROGRAMS){
+    if(!fits(p,APP))continue;
+    const cl=classify(p,ev);
+    if(cl.state==='open'||cl.state==='later')open.push([p,cl]);
+    else missed.push([p,cl]);
+  }
+  open.sort((a,b)=>a[1].cycle.closes.localeCompare(b[1].cycle.closes));
+  missed.sort((a,b)=>((a[1].next&&a[1].next.closes)||'9').localeCompare((b[1].next&&b[1].next.closes)||'9'));
+  document.getElementById('open').innerHTML=open.length?open.map(([p,cl])=>rowHTML(p,cl,ev)).join(''):`<div class="empty">Nothing with this applicant filter is still open for ${fmt(ev)}. Switch the filter or move the date.</div>`;
+  document.getElementById('missed').innerHTML=missed.length?missed.map(([p,cl])=>rowHTML(p,cl,ev)).join(''):`<div class="empty">Nothing missed for this date.</div>`;
+  document.getElementById('c-open').textContent=`${open.length} of ${PROGRAMS.filter(p=>fits(p,APP)).length}`;
+  document.getElementById('c-missed').textContent=`${missed.length}`;
+
+  // tiles
+  const soonest=open.map(([p,cl])=>cl.cycle).filter(c=>c.closes>=TODAY).sort((a,b)=>a.closes.localeCompare(b.closes))[0];
+  const openNow=open.filter(([p,cl])=>cl.state==='open').length;
+  const fpOpen=open.filter(([p])=>p.elig==='fp').length;
+  const tiles=[
+    [plural(days(TODAY,ev),'day'),`until ${fmt(ev)}`,days(TODAY,ev)<120],
+    [open.length,`programs still open for this date`,false],
+    [openNow,`accepting applications today`,openNow>0],
+    [soonest?fmtShort(soonest.closes):'—',soonest?`next deadline (${soonest.sure?'posted':'expected'})`:'no upcoming deadline',!!soonest&&days(TODAY,soonest.closes)<=21],
+    [fpOpen,`open to a for-profit applying directly`,false],
+  ];
+  document.getElementById('tiles').innerHTML=tiles.map(([b,s,hot])=>`<div class="tile${hot?' hot':''}"><b>${esc(b)}</b><span>${esc(s)}</span></div>`).join('');
+
+  const hints={all:'Showing every program with its eligibility label.',fp:'Only programs whose rules admit a for-profit producer applying in its own name.',sp:'Programs a for-profit can reach directly or through a 501(c)(3) fiscal sponsor or umbrella organization.',np:'Everything, as a nonprofit applicant (or a nonprofit partner that owns the application) would see it.'};
+  document.getElementById('hint').textContent=`${hints[APP]} Today is ${fmt(TODAY)}.`;
+
+  renderLogistics(ev);
+  renderTimeline(ev);
+  try{history.replaceState(null,'',`#d=${ev}&a=${APP}`);}catch(e){}
+}
+
+function renderLogistics(ev){
+  const items=[
+    [addDays(ev,-90),'Special event permit with traffic control plan due (no less than 90 days before the event, Tacoma Venues & Events)','https://www.tacomavenues.org/special-events'],
+    [addDays(ev,-45),'City decides availability of City-owned equipment for designated events (45 days before)','https://www.tacomavenues.org/city-event-services-program'],
+    [addDays(ev,-60),'Working target for the last Puyallup Tribe quarterly deadline and for reimbursement cash-flow planning',null],
+    [addDays(ev,-120),'Suggested start for sponsor and in-kind asks: Environmental Services event support (bins, compost), business district barricade relief via the Cross District Association, Metro Parks permits if in a park','https://cityoftacoma.org/government/city_departments/environmentalservices/grants_and_sponsorships/green_events'],
+  ].sort((a,b)=>a[0].localeCompare(b[0]));
+  document.getElementById('logi').innerHTML=items.map(([d,t,u])=>`<div class="card"><b>${fmt(d)}</b><span>${esc(t)}${u?` · <a href="${esc(u)}" target="_blank" rel="noopener">details</a>`:''}${d<TODAY?' · <span class="pill bad">already past</span>':''}</span></div>`).join('');
+}
+
+/* timeline: Oct 2026 through Dec 2028, one lane per program */
+function renderTimeline(ev){
+  const start='2026-10-01', end='2028-12-31';
+  const total=days(start,end);
+  const W=1100, left=215, right=20, rowH=30, top=28;
+  const lanes=PROGRAMS.filter(p=>fits(p,APP));
+  const H=top+lanes.length*rowH+24;
+  const x=s=>left+(Math.max(0,Math.min(total,days(start,s)))/total)*(W-left-right);
+  let g='';
+  // month grid and year labels
+  for(let y=2026;y<=2028;y++)for(let m=0;m<12;m++){
+    const s=`${y}-${String(m+1).padStart(2,'0')}-01`; if(s<start||s>end)continue;
+    const X=x(s); const jan=m===0;
+    g+=`<line x1="${X}" x2="${X}" y1="${top-6}" y2="${H-20}" stroke="${jan?'#b9c3bb':'#e6eae5'}" stroke-width="${jan?1.5:1}"/>`;
+    if(m%3===0)g+=`<text x="${X+3}" y="${top-10}" font-size="11" fill="#4d5852">${MONTHS[m]}${jan?' '+y:''}</text>`;
+  }
+  lanes.forEach((p,i)=>{
+    const y=top+i*rowH;
+    const cs=cyclesOf(p).filter(c=>c.closes>=start&&c.opens<=end);
+    const short=p.short||p.name;
+    g+=`<text x="${left-8}" y="${y+rowH/2+4}" text-anchor="end" font-size="12.5" fill="#15201a">${esc(short)}</text>`;
+    g+=`<line x1="${left}" x2="${W-right}" y1="${y+rowH}" y2="${y+rowH}" stroke="#eaeee8"/>`;
+    cs.forEach(c=>{
+      const x1=x(c.opens), x2=Math.max(x(c.closes),x1+4);
+      const tip=`${esc(p.name)} — ${esc(c.label)}: ${fmt(c.opens)} to ${fmt(c.closes)}${c.sure?'':' (expected)'}${c.decision?`; decision ~${fmt(c.decision)}`:''}`;
+      g+=`<rect x="${x1}" y="${y+8}" width="${x2-x1}" height="14" rx="4" fill="${c.sure?'#245b47':'transparent'}" stroke="#245b47" stroke-width="${c.sure?0:2}" ${c.sure?'':'stroke-dasharray="4 3"'} data-tip="${tip}"/>`;
+      if(c.decision&&c.decision>=start&&c.decision<=end){const dx=x(c.decision);g+=`<rect x="${dx-5}" y="${y+10}" width="10" height="10" transform="rotate(45 ${dx} ${y+15})" fill="#c2690e" data-tip="${esc(p.name)} — award decision ~${fmt(c.decision)}${c.dsure?'':' (expected)'}"/>`;}
+    });
+  });
+  if(TODAY>=start&&TODAY<=end){const tx=x(TODAY);g+=`<line x1="${tx}" x2="${tx}" y1="${top-4}" y2="${H-20}" stroke="#66706a" stroke-width="2"/><text x="${tx+4}" y="${H-6}" font-size="11" fill="#66706a">today</text>`;}
+  const ex=x(ev);g+=`<line x1="${ex}" x2="${ex}" y1="${top-4}" y2="${H-20}" stroke="#c2690e" stroke-width="3"/><text x="${ex+5}" y="${H-6}" font-size="11.5" font-weight="600" fill="#8a4a07">event ${fmtShort(ev)}</text>`;
+  document.getElementById('tlwrap').innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Application windows by program, late 2026 through 2028">${g}</svg>`;
+}
+
+/* tooltip */
+const tip=document.getElementById('tltip');
+document.getElementById('tlwrap').addEventListener('mousemove',e=>{
+  const t=e.target.closest('[data-tip]');
+  if(!t){tip.style.display='none';return;}
+  tip.textContent=t.getAttribute('data-tip');tip.style.display='block';
+  tip.style.left=Math.min(e.clientX+12,window.innerWidth-300)+'px';tip.style.top=(e.clientY+14)+'px';
+});
+document.getElementById('tlwrap').addEventListener('mouseleave',()=>tip.style.display='none');
+
+/* controls */
+const QUICK=[['Mar 2027','2027-03-20'],['May 2027','2027-05-15'],['Jul 2027','2027-07-10'],['Sep 2027','2027-09-11'],['Dec 2027','2027-12-04'],['Jun 2028','2028-06-10']];
+document.getElementById('quick').innerHTML=QUICK.map(([l,d])=>`<button type="button" data-d="${d}">${l}</button>`).join('');
+document.getElementById('quick').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;document.getElementById('evdate').value=b.dataset.d;render();});
+document.getElementById('seg').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;APP=b.dataset.app;document.querySelectorAll('#seg button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));render();});
+document.getElementById('evdate').addEventListener('change',render);
+
+document.getElementById('excluded').innerHTML=EXCLUDED.map(e=>`<div class="item"><b>${esc(e.name)}</b><span>${esc(e.why)} <a href="${esc(e.url)}" target="_blank" rel="noopener">Source</a></span></div>`).join('');
+
+(function init(){
+  const m=/d=(\d{4}-\d{2}-\d{2})/.exec(location.hash), a=/a=(all|fp|sp|np)/.exec(location.hash);
+  document.getElementById('evdate').value=m?m[1]:DEFAULT_DATE;
+  if(a){APP=a[1];document.querySelectorAll('#seg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.app===APP)));}
+  render();
+})();
+</script>
+</body>
+</html>
