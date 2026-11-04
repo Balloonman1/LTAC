@@ -1,0 +1,2000 @@
+[
+ {
+  "name": "Idaho Falls Auditorium District",
+  "type": "district",
+  "county": "Bonneville",
+  "tax_rate": "5% IFAD auditorium district tax on short-term lodging inside district boundaries (Idaho Falls), collected by the Idaho State Tax Commission (Form 4150); stacks on the 6% state sales tax and the 2% state travel and convention tax for 13% on a room",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No grant program; all room-tax revenue is committed to the Mountain America Center (Hero Arena) financing and operations",
+  "typical_open": null,
+  "annual_pool": "FY2026 Tax Commission distributions to IFAD about $3.23M gross; none of it is offered to outside applicants",
+  "url": "https://tax.idaho.gov/taxes/taxes-on-sales/aud/",
+  "contact": "Idaho Falls Auditorium District office (208) 932-2729 (Idaho State Tax Commission listing); Rob Spear, Executive Director (hired April 2019); Mountain America Center venue office (986) 497-0509, info@mountainamericacenter.com, 1690 Event Center Drive, Idaho Falls, ID 83402",
+  "notes": "Voters created the district in May 2011 (63% yes) with a 5% room tax to build an event center; the $62M Mountain America Center opened November 2022 and is run by Centennial Management. The room tax services the center's certificates of participation (about $40M planned) and operations, so the board does not run a grant or sponsorship round. Outside event producers deal with the venue as a client, not as grantees; tourism grant dollars in the region flow through the Idaho Travel Council grant to Yellowstone Teton Territory.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Terri Gazdik",
+    "role": "Board Chair (chair as of 2021; current status not verified)",
+    "affiliation": "Idaho Falls Auditorium District board",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Mike Carpenter",
+    "role": "Board member (appointed January 2021 to complete John LoBuono's term)",
+    "affiliation": "Idaho Falls Auditorium District board",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Lisa Casper",
+    "role": "Board member (ran unopposed in May 2023 for Steve Vucovich's seat, six-year term)",
+    "affiliation": "Idaho Falls Auditorium District board",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Rob Spear",
+    "role": "Executive Director (staff)",
+    "affiliation": "Idaho Falls Auditorium District",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://idahofallsmagazine.com/2021/02/new-idaho-falls-auditorium-district ; https://www.postregister.com/news/election/idaho-falls-auditorium-district-candidates-cite-experience/article_53f65d58-f02a-11ed-9ee1-17288c37b383.html (May 2023 election: Seat 1 contested by Brian Ziel and Don Potter, winner not confirmed). The district's own site (idahofallsauditoriumdistrict.com) could not be fetched; roster is partial.",
+  "members_as_of": "2023-05-16",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Five-member elected board meets monthly (historically Tuesday mornings at 7:00 a.m.); agendas and minutes are posted on the district site, which could not be fetched for this entry",
+  "total_pool_usd": 3230000,
+  "competitive_pool_usd": 0,
+  "pool_note": "About $3.23M in FY2026 room-tax distributions (Idaho State Tax Commission). All of it is pledged to Mountain America Center debt service and operations; $0 is open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Idaho State Tax Commission: Auditorium District Taxes",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://tax.idaho.gov/taxes/taxes-on-sales/aud/",
+    "summary": "Lists the five Idaho auditorium districts (GBAD, IFAD, Mountain Community Center District effective May 1, 2026, Nampa effective April 1, 2026, Pocatello-Chubbuck) with phone numbers and directs spending questions to each district. No rates or dollar figures."
+   },
+   {
+    "title": "Mountain America Center: IFAD history and milestones",
+    "doc_type": "other",
+    "year": "2022",
+    "url": "https://mountainamericacenter.com/?p=543",
+    "summary": "District timeline: May 17, 2011 vote (63% yes) for the 5% transient room tax, collections from November 2011, board changes through 2017, fundraising totals ($11M by January 2019), naming rights (Mountain America Credit Union, 2019) and the Hunden transient room tax study (2016). No grant program described."
+   },
+   {
+    "title": "Post Register guest column: Facts about the Idaho Falls Auditorium District",
+    "doc_type": "other",
+    "year": "2019",
+    "url": "https://www.postregister.com/opinion/guest_column/facts-about-the-idaho-falls-auditorium-district/article_48da6e89-deac-5f5f-b666-0bab07afc139.html",
+    "summary": "Board member column: $62M project, $40M in certificates of participation planned, up to $15M in private donations, $2.275M board-approved for road and bridge access, five volunteer board members and an executive director; no public funding from Bonneville County."
+   },
+   {
+    "title": "East Idaho News: event center $500,000 closer to financing needs",
+    "doc_type": "other",
+    "year": "2020",
+    "url": "https://www.eastidahonews.com/?p=462934",
+    "summary": "December 2020 financing update: hotel bed tax is the primary revenue, $4.5M naming-rights purchase (2019), $500,000 gifts from Teton Auto Group and Admiral Beverage, $2.5M gap before construction; board chair Terri Gazdik, executive director Rob Spear."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   },
+   {
+    "program": "Yellowstone Teton Territory (Region 6 tourism board) ITC co-op and member programs",
+    "administrator": "Yellowstone Teton Territory, Idaho Falls",
+    "url": "https://yellowstoneteton.com/ytt/ytt-membership",
+    "funds": "Regional ITC grant (nearly $2M for eastern Idaho in the 2025 cycle) spent on trade shows, co-op advertising and a cash-match program for member businesses and events",
+    "eligibility": "YTT members ($100/yr for businesses); region covers Bonneville, Fremont, Teton, Madison, Jefferson and Clark counties",
+    "deadline": null,
+    "deadline_pattern": "ITC grant awarded to YTT in late July each year; member co-op opportunities run through the fiscal year",
+    "notes": "Best route for an Idaho Falls event seeking lodging-tax-derived marketing support; the YTT grant application page (yellowstoneteton.com/ytt/ytt-grant-application) could not be fetched.",
+    "contact": "Yellowstone Teton Territory via yellowstoneteton.com; Steve Dutcher, Idaho Travel Council regional representative"
+   },
+   {
+    "program": "Mountain America Center venue partnership",
+    "administrator": "Centennial Management (operator) for IFAD",
+    "url": "https://mountainamericacenter.com",
+    "funds": "Venue bookings, co-promotions and sponsorship inventory rather than grants",
+    "eligibility": "Event producers and promoters",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "The district's revenue supports the building; an event that fills hotel rooms can negotiate venue terms but there is no grant.",
+    "contact": "info@mountainamericacenter.com, (986) 497-0509"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Sandpoint",
+  "type": "city",
+  "county": "Bonner",
+  "tax_rate": "14% Resort City Tax on hotels, bed and breakfasts and short-term vacation rentals (7% base plus an additional 7% for streets and pedestrian improvements approved Nov 8, 2022, effective Jan 1, 2023 through Dec 31, 2035); plus 6% state sales tax and 2% state travel and convention tax (22% total on a room). A separate 1% general local option sales tax (parks, 2021) excludes nothing lodging-specific; a new 1% streets LOT (Jan 1, 2027 to Dec 31, 2036) was on the Nov 3, 2026 ballot and failed per unofficial local reporting",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No application process; the council allocates resort city tax in the annual budget (public hearing in August) to public safety, parks, the SPOT bus, streets and property tax relief",
+  "typical_open": null,
+  "annual_pool": "City budgeted $1.5M of resort city tax in FY2023 and FY2024 (collections had been $558K to $615K at the old 7% rate); FY2024 collections came in under budget, so no property tax relief was budgeted for FY2025",
+  "url": "https://www.sandpointidaho.gov/finance/page/resort-city-tax-short-term-rental-occupancy-tax",
+  "contact": "Sarah Lynds, Finance Director, 208-263-3557; Resort City Tax Specialist and Assistant Finance Director via Finance Department, City of Sandpoint, 1123 W. Lake Street, Sandpoint, ID 83864; Mayor Jeremy Grimm, 208-263-3310",
+  "notes": "Sandpoint's resort city tax is Idaho's largest city lodging tax by rate, but the proceeds are used in-house: the original 7% has historically covered the SPOT bus contract, police and fire shares, parks grounds, lifeguards and Memorial Field, with over-collections going to a property tax relief fund (Ord. 1317), and the added 7% is earmarked for street and sidewalk projects (part of a $7.26M street program in FY2026). No tourism grant, chamber contract or event sponsorship line is funded from it. A 1% streets sales tax on the Nov 3, 2026 ballot failed (unofficial), after a similar measure fell short of 60% in Nov 2024.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Jeremy Grimm",
+    "role": "Mayor",
+    "affiliation": "City of Sandpoint",
+    "email": null,
+    "phone": "208-263-3310"
+   },
+   {
+    "name": "Deb Ruehle",
+    "role": "Council President",
+    "affiliation": "Sandpoint City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Joel Aispuro",
+    "role": "Councilor",
+    "affiliation": "Sandpoint City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Pam Duquette",
+    "role": "Councilor",
+    "affiliation": "Sandpoint City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kyle Schreiber",
+    "role": "Councilor",
+    "affiliation": "Sandpoint City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Joe Tate",
+    "role": "Councilor",
+    "affiliation": "Sandpoint City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Joshua Torrez",
+    "role": "Councilor",
+    "affiliation": "Sandpoint City Council",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.sandpointidaho.gov/directory",
+  "members_as_of": "2026-11-04",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council meets the first and third Wednesdays; budget hearing in mid-August (Aug 20, 2025 for FY2026); fiscal year Oct 1 to Sept 30",
+  "total_pool_usd": 1500000,
+  "competitive_pool_usd": 0,
+  "pool_note": "$1.5M budgeted resort city tax (FY2024 budget; FY2026 figure not broken out in the preliminary budget memo). All of it is allocated to city services, streets and property tax relief; $0 open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Resort City Tax / Short Term Rental Occupancy Tax page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.sandpointidaho.gov/finance/page/resort-city-tax-short-term-rental-occupancy-tax",
+    "summary": "States the 14% rate (7% to 14% effective Jan 1, 2023, approved Nov 8, 2022, running through Dec 31, 2035), that the additional 7% funds streets and pedestrian improvements, monthly remittance by the 20th, and links to the amending ordinance (City Code Title 3, Chapter 10) and remittance forms."
+   },
+   {
+    "title": "Sandpoint City Code: use of nonproperty tax revenue (1% LOT)",
+    "doc_type": "ordinance",
+    "year": "2021",
+    "url": "https://codelibrary.amlegal.com/codes/sandpointid/latest/sandpoint_id/0-0-0-15399",
+    "summary": "Priority list for the 1% local option sales tax: War Memorial Field grandstand, field drainage and surface, other Memorial Field infrastructure, then parks infrastructure such as the City Beach and Travers Park parking lots. No tourism or grant purpose."
+   },
+   {
+    "title": "FY2019 Municipal Budget (resort city tax allocation detail)",
+    "doc_type": "budget",
+    "year": "2019",
+    "url": "https://www.sandpointidaho.gov/media/1091",
+    "summary": "Shows how the 7% occupancy tax ($475,000 budgeted) was split: SPOT bus $75,000, police $178,207, fire $59,402, parks grounds $82,915, Memorial Field $15,768, lifeguards $38,327, invasive species $17,881; over-collections to the Property Tax Relief Fund (Ord. 1317). Revenue history FY2015 $213,736 to FY2018 $409,259."
+   },
+   {
+    "title": "Council agenda report: Preliminary Budget FY2026 (July 9, 2025)",
+    "doc_type": "budget",
+    "year": "2026",
+    "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/sndpointid-meet-9262211c6bd44d26b53c9a777bb27cf0/ITEM-Attachment-001-d92f206498824fbe8eaacc9ec34917a7.pdf",
+    "summary": "Finance Director Sarah Lynds' memo: the additional 7% resort city tax helps fund $7,255,000 of street and sidewalk projects; FY2024 resort city tax came in under budget so no property tax relief in FY2025. No tourism or grant spending."
+   },
+   {
+    "title": "Sandpoint Reader: Understanding Sandpoint's Nov. 3 local option tax ballot question",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://sandpointreader.com/understanding-sandpoints-nov-3-local-option-tax-ballot-question/",
+    "summary": "Mayor Jeremy Grimm's Oct 14, 2026 explainer of the 1% streets sales tax (Jan 1, 2027 to Dec 31, 2036; 75% streets, 25% sidewalks, pathways and connections). A similar 2024 measure got a majority but not 60%."
+   },
+   {
+    "title": "Bonner Alerts: local election selected results (Nov 4, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://bonneralerts.substack.com/p/local-election-selected-results",
+    "summary": "Unofficial roundup reporting the City of Sandpoint tax measure failed and the City of Dover occupancy tax passed; no vote counts."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   },
+   {
+    "program": "Greater Sandpoint Chamber of Commerce / Visit Sandpoint event partnerships",
+    "administrator": "Greater Sandpoint Chamber of Commerce",
+    "url": "https://sandpointchamber.com",
+    "funds": "Event listing, promotion and sponsorship brokering; the chamber receives no city resort-tax contract",
+    "eligibility": "Members and community events",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "No lodging-tax grant exists in Sandpoint; the chamber and the regional ITC-funded tourism board are the promotion channels. Verify current chamber programs.",
+    "contact": "Greater Sandpoint Chamber of Commerce, Sandpoint"
+   },
+   {
+    "program": "City of Dover occupancy tax (new, approved Nov 3, 2026)",
+    "administrator": "City of Dover",
+    "url": null,
+    "funds": "Unknown; uses to be set by the Dover council",
+    "eligibility": "Unknown",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Neighboring Dover's new occupancy tax passed Nov 3, 2026 (unofficial); watch for how the council allocates it.",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Sun Valley",
+  "type": "city",
+  "county": "Blaine",
+  "tax_rate": "4% LOT on occupancy sales under 30 days (3% base plus 0.5% for air service and 0.5% for housing, Ords. 484, 572, 573); 4% food and beverage, alcohol by the drink, recreation memberships, rentals and event admissions; 3% other retail; 2% building materials and lift tickets; renewed Nov 4, 2025 with no rate change (420 yes, 68.97%); plus 6% state sales tax and 2% state travel and convention tax (12% on a room)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "No formal application; outside organizations bring funding requests to the City Council's regular meeting at the start of July during budget development (July 2, 2026 for FY2027), the council sets the tentative budget in late July and holds the budget hearing in early August (Aug 7, 2025 for FY2026); larger one-off asks such as the FIS World Cup are heard in November and December as separate service contracts",
+  "typical_open": "Spring; requests should reach City Administrator Jim Keating before the June budget workshops so they can be heard at the early-July council meeting",
+  "annual_pool": "No set pool. FY2027 requests heard July 2026: Mountain Rides $498,000, 2027 FIS Ski World Cup Finals organizing committee $233,000, Sun Valley Economic Development $8,500, Blaine County Emergency Communication Center (amount not reported); council also allocated $320,000 to Visit Sun Valley in the FY2027 budget review (Aug 2026). FY2025: Sun Valley Co. World Cup sponsorship up to $214,000 (plus $93,900 city costs) against a $500,000 budget line",
+  "url": "https://sunvalleyidaho.gov/optiontax",
+  "contact": "Jim Keating, City Administrator; Nancy Flannigan, City Clerk/Asst. to the City Administrator, nflannigan@sunvalleyidaho.gov; Andrea Perez, Assistant City Clerk/Assistant Finance Manager, aperez@sunvalleyidaho.gov; City Hall 208-622-4438, 81 Elkhorn Road, P.O. Box 416, Sun Valley, ID 83353",
+  "notes": "Sun Valley funds outside groups through annual service contracts rather than a grant round, because Idaho cities cannot simply donate money. LOT (about $3.0M in FY2025, of which $1.37M lodging) goes to the general fund and underwrites those contracts, and the council explicitly weighs LOT return when it sponsors events: it approved up to $214,000 for Sun Valley Co.'s March 2025 World Cup Finals expecting about $200,000 in extra LOT, and heard a $233,000 request for the March 20-25, 2027 Finals in July 2026. Requests are heard at the early-July council meeting and folded into the budget adopted in August for the fiscal year starting Oct 1. The pooled 0.5% air-service LOT is allocated separately by the Sun Valley Air Service Board (mayors of Sun Valley, Ketchum and Hailey), mostly to Visit Sun Valley.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Peter M. Hendricks",
+    "role": "Mayor (third term, expires January 2028); voting member, Sun Valley Air Service Board",
+    "affiliation": "City of Sun Valley",
+    "email": "phendricks@sunvalleyidaho.gov",
+    "phone": "208-622-4438"
+   },
+   {
+    "name": "Michelle Griffith",
+    "role": "Council President (term expires January 2028); recuses on Sun Valley Economic Development items",
+    "affiliation": "Sun Valley City Council",
+    "email": "mgriffith@sunvalleyidaho.gov",
+    "phone": "208-622-4438"
+   },
+   {
+    "name": "Keith Saks",
+    "role": "Council Member (term expires January 2029)",
+    "affiliation": "Sun Valley City Council",
+    "email": "ksaks@sunvalleyidaho.gov",
+    "phone": "208-622-4438"
+   },
+   {
+    "name": "Mike Burchmore",
+    "role": "Council Member (term expires January 2029); City of Sun Valley representative and Treasurer on the Visit Sun Valley board",
+    "affiliation": "Sun Valley City Council",
+    "email": "mburchmore@sunvalleyidaho.gov",
+    "phone": "208-622-4438"
+   },
+   {
+    "name": "Dave Madaras",
+    "role": "Council Member (appointed February 2025, term expires January 2028)",
+    "affiliation": "Sun Valley City Council",
+    "email": "dmadaras@sunvalleyidaho.gov",
+    "phone": "208-622-4438"
+   }
+  ],
+  "members_source": "https://sunvalleyidaho.gov/mayor_council",
+  "members_as_of": "2026-11-04",
+  "presentation": {
+   "required": true,
+   "date": null,
+   "pattern": "Requesting organizations present at the council's regular meeting at the start of July (Thursday, 4 p.m., City Hall) during budget development; event sponsors such as the World Cup committee also present in November/December",
+   "format": "In-person presentation and council discussion at a regular meeting; approved items become service contracts in the budget"
+  },
+  "meeting_schedule": "City Council regular meeting the first Thursday of the month at 4 p.m., City Hall, 81 Elkhorn Road; budget hearing first Thursday of August; fiscal year Oct 1 to Sept 30",
+  "total_pool_usd": 1373750,
+  "competitive_pool_usd": null,
+  "pool_note": "FY2025 lodging LOT $1,373,750 of $3,002,659 total LOT (city 10-year report; FY2024 total $2,876,173). LOT goes to the general fund, so no fixed amount is set aside for outside requests; recent approvals ranged from $8,500 (SVED) to $320,000 (Visit Sun Valley, FY2027) and up to $214,000 (World Cup sponsorship, FY2025). The 0.5% air LOT ($530,000 from Sun Valley in FY2026) is allocated by the Air Service Board, not the council.",
+  "funding_docs": [
+   {
+    "title": "City of Sun Valley Local Option Tax page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://sunvalleyidaho.gov/optiontax",
+    "summary": "Rates by category (4% occupancy, food and beverage, alcohol, recreation, rentals and event admissions; 3% retail; 2% building materials and lift tickets), ordinances 484, 572 and 573, remittance forms and 10-year LOT reports FY2021 to FY2026, staff contacts."
+   },
+   {
+    "title": "LOT Summary 10-Year Report FY2025",
+    "doc_type": "other",
+    "year": "2025",
+    "url": "https://sunvalleyidaho.gov/vertical/Sites/%7B0BF53F75-612F-48C9-9676-4A78E1E5DF2A%7D/uploads/LOT_Summary__10_Year_Report_FY25_-_Sept_LOT_recd_Oct_2025.pdf",
+    "summary": "FY2025 LOT $3,002,659: lodging $1,373,750, retail $1,366,734, liquor $188,284, building materials $73,891; FY2024 $2,876,173; FY2023 $2,931,919."
+   },
+   {
+    "title": "Sun Valley City Code 3-1-6: purposes for nonproperty sales tax revenue",
+    "doc_type": "ordinance",
+    "year": "2025",
+    "url": "https://codelibrary.amlegal.com/codes/sunvalleyid/latest/sunvalley_id/0-0-0-445",
+    "summary": "Statutory purpose list for LOT revenue (city promotion, visitor services, transportation, emergency services, capital, property tax relief); companion section 3-1-7 creates the nonproperty tax relief fund."
+   },
+   {
+    "title": "Idaho Mountain Express: Sun Valley leaders to mull funding asks (June 30, 2026)",
+    "doc_type": "other",
+    "year": "2027",
+    "url": "https://www.mtexpress.com/news/sun_valley/sun-valley-leaders-to-mull-funding-asks/article_5d19ab4d-b715-4eb9-8946-1a13105444d0.html",
+    "summary": "FY2027 requests to be heard at the early-July council meeting: Mountain Rides $498,000, 2027 FIS World Cup Finals committee $233,000 (transport, ski-joring, entertainment, fireworks, prize money), SVED $8,500, Blaine County Emergency Communication Center; cities fund outside groups by service contract."
+   },
+   {
+    "title": "Idaho Mountain Express: Sun Valley approves World Cup sponsorship",
+    "doc_type": "award list",
+    "year": "2025",
+    "url": "https://www.mtexpress.com/news/sun_valley/sun-valley-approves-world-cup-sponsorship/article_6acb9450-b679-11ef-b59f-dfb86a282e15.html",
+    "summary": "Council unanimously approved up to $214,000 for Sun Valley Co.'s March 2025 World Cup Finals events (cut from a $379,000 to $444,000 ask), plus $93,900 in city costs, against a $500,000 FY2025 budget; expected about $200,000 in added LOT; Ketchum offered services worth up to $155,000."
+   },
+   {
+    "title": "Idaho Mountain Express: Sun Valley leaders green-light service contracts (Oct 2024)",
+    "doc_type": "award list",
+    "year": "2025",
+    "url": "https://www.mtexpress.com/news/sun_valley/sun-valley-leaders-green-light-service-contracts/article_3abcefe2-84e8-11ef-95d5-57403c30024b.html",
+    "summary": "FY2025 contracts: Idaho Resort Cities Coalition $5,400, Sun Valley Economic Development $8,500, First Due software $11,600; shows the service-contract mechanism."
+   },
+   {
+    "title": "Sun Valley council approves $320,000 for Visit Sun Valley (Aug 2026)",
+    "doc_type": "award list",
+    "year": "2027",
+    "url": "https://cpo.soar.com/articles/9036900/Sun-Valley/Blaine-County/Idaho/Sun-Valley-council-approves-320000-for-Visit-Sun-Valley",
+    "summary": "During FY2027 budget review the council agreed to allocate $320,000 to Visit Sun Valley; no formal roll-call recorded."
+   },
+   {
+    "title": "Idaho Mountain Express: tourism, commerce organizations plan for fiscal 2026 (Air Service Board)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://www.mtexpress.com/news/blaine_county/tourism-commerce-organizations-plan-for-fiscal-2026/article_7ed3746c-9a45-4e59-b175-715fcaf13213.html",
+    "summary": "Air Service Board FY2026 budget about $2M from the 0.5% air LOT (Ketchum about $1.4M, Sun Valley $530,000, Hailey $90,000): Visit Sun Valley $1.8M, Fly Sun Valley Alliance $119,650, Mountain Rides $110,000, Chamber of Hailey and the Wood River Valley $35,000."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Sun Valley Air Service Board (pooled 0.5% for Air LOT)",
+    "administrator": "Board of the mayors of Sun Valley, Ketchum and Hailey plus a non-voting Blaine County commissioner",
+    "url": "https://visitsunvalley.com/wp-content/uploads/2026/02/Visit-Sun-Valley-Background.pdf",
+    "funds": "About $1.9M to $2M a year: Visit Sun Valley $1.8M (FY2026), Fly Sun Valley Alliance, Mountain Rides airport routes, Chamber of Hailey $35,000",
+    "eligibility": "Standing recipients; new asks are heard at the board's budget meeting (Aug 20, 2025 for FY2026, Sept 18, 2024 for FY2025)",
+    "deadline": null,
+    "deadline_pattern": "Annual budget adopted in late August or September",
+    "notes": "Not an open grant; an event would approach Visit Sun Valley for marketing support instead.",
+    "contact": "Visit Sun Valley: Kendall Kirkpatrick, Executive Director; Jessica Maynard, Marketing & Grant Manager"
+   },
+   {
+    "program": "Visit Sun Valley event marketing and calendar",
+    "administrator": "Visit Sun Valley (DMO, FY2025 revenue $2.1M including $450,000 ITC grant)",
+    "url": "https://visitsunvalley.com",
+    "funds": "Marketing, PR and event promotion; no published cash grant program",
+    "eligibility": "Events in the Wood River Valley",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "Board includes city representatives Mike Burchmore (Sun Valley) and Gretchen Gorham (Ketchum).",
+    "contact": "Kendall Kirkpatrick, Executive Director, Visit Sun Valley"
+   },
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "yes",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {
+    "2025": {
+     "total": null,
+     "decided": "FY2025 contracts approved Oct 3, 2024 and World Cup sponsorship approved Dec 2024",
+     "awards": [
+      {
+       "recipient": "Sun Valley Co. (Sun Valley Resort)",
+       "event": "2025 FIS Alpine World Cup Finals events (March 2025)",
+       "amount": 214000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Up to $214,000 sponsorship contract, reduced from a $379,000 to $444,000 request; plus $93,900 in city costs"
+      },
+      {
+       "recipient": "Sun Valley Economic Development",
+       "event": null,
+       "amount": 8500,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Annual service contract renewal"
+      },
+      {
+       "recipient": "Idaho Resort Cities Coalition",
+       "event": null,
+       "amount": 5400,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "$1,400 retroactive lobbyist payment plus $4,000 membership"
+      }
+     ],
+     "note": "Service contracts funded from the general fund, where LOT is the main revenue; Air Service Board FY2025 separately allocated $1.6M to Visit Sun Valley, about $137,000 to Fly Sun Valley Alliance, about $105,000 to Mountain Rides and about $35,000 to the Valley Chamber"
+    },
+    "2026": {
+     "total": null,
+     "decided": "Air Service Board budget adopted Aug 20, 2025",
+     "awards": [
+      {
+       "recipient": "Visit Sun Valley",
+       "event": null,
+       "amount": 1800000,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "Air Service Board allocation from pooled 0.5% air LOT (Sun Valley share $530,000)"
+      },
+      {
+       "recipient": "Fly Sun Valley Alliance",
+       "event": null,
+       "amount": 119650,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Air Service Board allocation"
+      },
+      {
+       "recipient": "Mountain Rides Transportation Authority",
+       "event": null,
+       "amount": 110000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Air Service Board allocation for airport routes"
+      },
+      {
+       "recipient": "The Chamber of Hailey and the Wood River Valley",
+       "event": null,
+       "amount": 35000,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "Air Service Board allocation; supports visitor guide, welcome center and events"
+      }
+     ],
+     "note": "City of Sun Valley FY2026 service contracts to outside groups were not itemized in available sources"
+    },
+    "2027": {
+     "total": null,
+     "decided": "Requests heard July 2, 2026; Visit Sun Valley allocation agreed during Aug 2026 budget review",
+     "awards": [
+      {
+       "recipient": "Visit Sun Valley",
+       "event": null,
+       "amount": 320000,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "Allocated by council in FY2027 budget review (Aug 2026)"
+      },
+      {
+       "recipient": "2027 FIS Ski World Cup Finals organizing committee",
+       "event": "FIS Ski World Cup Finals, March 20-25, 2027",
+       "amount": 233000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Amount requested (excludes police and fire support); final approval not confirmed"
+      },
+      {
+       "recipient": "Mountain Rides Transportation Authority",
+       "event": null,
+       "amount": 498000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Amount requested"
+      },
+      {
+       "recipient": "Sun Valley Economic Development",
+       "event": null,
+       "amount": 8500,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Amount requested"
+      }
+     ],
+     "note": "Figures are requests reported before the FY2027 budget was adopted except the Visit Sun Valley allocation"
+    }
+   },
+   "sources": [
+    "https://www.mtexpress.com/news/sun_valley/sun-valley-approves-world-cup-sponsorship/article_6acb9450-b679-11ef-b59f-dfb86a282e15.html",
+    "https://www.mtexpress.com/news/sun_valley/sun-valley-leaders-green-light-service-contracts/article_3abcefe2-84e8-11ef-95d5-57403c30024b.html",
+    "https://www.mtexpress.com/news/sun_valley/sun-valley-leaders-to-mull-funding-asks/article_5d19ab4d-b715-4eb9-8946-1a13105444d0.html",
+    "https://cpo.soar.com/articles/9036900/Sun-Valley/Blaine-County/Idaho/Sun-Valley-council-approves-320000-for-Visit-Sun-Valley",
+    "https://www.mtexpress.com/news/blaine_county/tourism-commerce-organizations-plan-for-fiscal-2026/article_7ed3746c-9a45-4e59-b175-715fcaf13213.html",
+    "https://www.mtexpress.com/news/business/air-service-board-sets-1-9-million-budget/article_3f078edc-802d-11ef-a4a6-b3f027b8a51d.html"
+   ]
+  }
+ },
+ {
+  "name": "Ketchum",
+  "type": "city",
+  "county": "Blaine",
+  "tax_rate": "3% on room sales and short-term rentals under 30 days (2% Original LOT plus 1% Additional LOT split 0.5% air service / 0.5% housing, Ord. 1244, through mid-2028); 3% liquor by the drink; 2% other retail and building materials; plus 6% state sales tax and 2% state travel and convention tax (11% on a room). Original LOT expires Dec 31, 2027; the Nov 3, 2026 renewal (Ord. 1282: 4% lodging, 1.5% retail and building materials, 2027-2041) got 52.96% yes (1,063 to 944) and failed the 60% threshold",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No application process; the council sets Original LOT allocations in the annual budget (workshops June, budget ordinance readings in August, FY starts Oct 1) and renews the same contract partners each year",
+  "typical_open": null,
+  "annual_pool": "Original LOT Fund FY2027 $3,870,000 (FY2025 actual revenue $4,097,253): Events/Promotions $120,000, Wagon Days transfer $224,700, Ketchum Arts & Heritage Commission $35,000, Sun Valley Economic Development $15,000, Friends of the Sawtooth Avalanche Center $10,000, Idaho Dark Sky Alliance $3,000, Mountain Humane $3,000, Mountain Rides $878,000, dispatch $185,000, public safety reimbursement $1,322,700, capital $1,038,600",
+  "url": "https://ketchumidaho.gov/207",
+  "contact": "Ketchum Taxes, taxes@ketchumidaho.org, 208-726-3841, P.O. Box 2315, 191 5th Street West, Ketchum, ID 83340; Brent Davis, Director of Finance/Treasurer; Jade Riley, City Administrator; Daniel Hansen, city spokesman",
+  "notes": "Ketchum's Original LOT (about $3.8M to $4.1M a year) is budgeted by category: 39% emergency services, 27% capital, 22% Mountain Rides, 9% events (a $120,000 Events/Promotions line plus the city-run Wagon Days festival, which gets 65% of its cost from LOT) and 2% partnerships to a fixed set of nonprofits. There is no open grant round; a new event would have to negotiate services or sponsorship with the city (Ketchum offered up to $155,000 in services for the 2025 World Cup Finals). The Nov 3, 2026 renewal-and-increase measure failed at 52.96%, so the city plans a second attempt in Nov 2027; if that also fails the LOT and its event funding end Dec 31, 2027.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Pete Prekeges",
+    "role": "Mayor (sworn in January 2026); voting member, Sun Valley Air Service Board",
+    "affiliation": "City of Ketchum",
+    "email": null,
+    "phone": "208-726-3841"
+   },
+   {
+    "name": "Randy Hall",
+    "role": "Council Member (sworn in January 2026, third term)",
+    "affiliation": "Ketchum City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Matthew McGraw",
+    "role": "Council Member (sworn in January 2026)",
+    "affiliation": "Ketchum City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Tripp Hutchinson",
+    "role": "Council Member",
+    "affiliation": "Ketchum City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Spencer Cordovano",
+    "role": "Council Member",
+    "affiliation": "Ketchum City Council",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.mtexpress.com/news/ketchum-swears-in-2-new-council-members-and-a-new-mayor/article_fa7affe3-9195-4152-ab33-466d0259c008.html ; https://www.mtexpress.com/news/ketchum/ketchum-considers-increasing-lot-rates/article_14e369b9-b80e-4aa1-acb2-21b952198313.html",
+  "members_as_of": "2026-03-27",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council regular meetings first and third Mondays; FY2027 budget workshop June 2026, budget ordinance 1281 readings Aug 2026; fiscal year Oct 1 to Sept 30",
+  "total_pool_usd": 3870000,
+  "competitive_pool_usd": 0,
+  "pool_note": "FY2027 Original LOT Fund $3,870,000 ($3,800,000 tax, $10,000 interest, $60,000 transfer from the Additional 1% LOT). Of that, $120,000 Events/Promotions and $224,700 Wagon Days are city-run event spending and about $66,000 goes to five standing partners by contract; nothing is open to new applicants. The 1% Additional LOT (about $1.4M to the Air Service Board in FY2026 plus the housing half) is not available for events.",
+  "funding_docs": [
+   {
+    "title": "Ketchum Local Option Tax (LOT) page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://ketchumidaho.gov/207",
+    "summary": "Rates (3% rooms and STRs, 3% liquor, 2% retail and building materials), authorized uses including city promotion, visitor information and special events, ordinance history (712 of 1997, 1090 of 2011 through Dec 31, 2027, 1108, 1166, 1244 of 2023 splitting the 1% between air service and housing), and links to monthly LOT reports."
+   },
+   {
+    "title": "Ketchum FY2027 Budget: Original LOT Fund detail",
+    "doc_type": "budget",
+    "year": "2027",
+    "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/ketchid-meet-ecb6ab9b3a1946e4bf865538cd3bfca5/ITEM-Attachment-001-2116bb2c8c7e445897715eea1d4f67df.pdf",
+    "summary": "Original LOT revenue $3,870,000; expenditures: Mountain Rides $878,000, Consolidated Dispatch $185,000, Events/Promotions $120,000, SVED $15,000, Friends of the Sawtooth Avalanche Center $10,000, Idaho Dark Sky Alliance $3,000, Mountain Humane $3,000, transfer to KAC $35,000, Wagon Days $224,700, public safety reimbursement $1,322,700, General CIP $1,038,600; chart: emergency services 39%, capital 27%, Mountain Rides 22%, events 9%, partnerships 2%."
+   },
+   {
+    "title": "Ketchum FY2026 Proposed Budget: Original LOT Fund detail",
+    "doc_type": "budget",
+    "year": "2026",
+    "url": "https://ketchumidaho.gov/DocumentCenter/View/234/FY-2026-Adopted-Budget-PDF",
+    "summary": "Original LOT $3,670,000: Events/Promotions $120,000, SVED $15,000, Idaho Dark Sky Alliance $3,000, Mountain Rides $848,000, Friends of the Sawtooth Avalanche Center $10,000, dispatch $160,291, Mountain Humane $2,995, public safety reimbursement $1,200,000, Wagon Days $197,400, General CIP $1,073,600; notes the city 'is able to meet all contractual funding requests' with no award process described."
+   },
+   {
+    "title": "Budget Ordinance 1281 second reading memo (Aug 13, 2026)",
+    "doc_type": "budget",
+    "year": "2027",
+    "url": "https://ketchumidaho.gov/AgendaCenter/ViewFile/Item/252?fileID=48",
+    "summary": "Fund-level totals: Original LOT revenue FY2024 $3,792,244, FY2025 $4,097,253, FY2026 adopted $3,670,000, FY2027 proposed $3,870,000; expenditures FY2025 $4,631,560."
+   },
+   {
+    "title": "Ketchum Budget Workshop June 26, 2023 (FY2024 LOT allocations)",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/ketchid-meet-84b9fdb5f80c44d783957cb9c1ae3791/ITEM-Attachment-001-ea4845163c2f4031add13acc4f6f5317.pdf",
+    "summary": "FY2023/FY2024 Original LOT: Events $85,000/$85,000, Wagon Days $132,250/$171,250, SVED $15,000, Idaho Dark Sky Alliance $2,500, Friends of the Sawtooth Avalanche Center $4,000/$5,000, Mountain Humane $4,500/$4,078; shows the same partner list has been funded for years."
+   },
+   {
+    "title": "Local Option Tax Ballot Measure (Nov 3, 2026) page",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://ketchumidaho.gov/421/Local-Option-Tax-Ballot-Measure",
+    "summary": "Ord. 1282 proposal: renew 2027-2041, lodging 2% to 4%, retail and building materials 1% to 1.5%, about $2M a year for streets, sidewalks and pathways; lists current LOT funding of $1.5M police and dispatch, $878K Mountain Rides, $345K events (65% of Wagon Days), $1.0M capital, $61K partnerships; 82% of LOT paid by non-residents; fallback is a Nov 2027 vote."
+   },
+   {
+    "title": "Idaho Mountain Express: Blaine County voters approve fire district merger while LOT measure fails (Nov 4, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.mtexpress.com/news/elections/election-results-blaine-county-voters-approve-fire-district-merger-while-lot-measure-fails/article_09855df9-a439-49b8-abf9-7f91a5c10ebc.html",
+    "summary": "Unofficial results: Ketchum LOT renewal and increase 1,063 yes (52.96%) to 944 no (47.04%), short of the 60% needed; Hailey annexation into BC South Fire Protection District passed 76.11%."
+   },
+   {
+    "title": "Ketchum LOT monthly reports index",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://ketchumidaho.gov/204/Local-Option-Tax-Reports",
+    "summary": "Monthly seven-year analysis and year-to-date LOT reports through September 30, 2026 (DocumentCenter links)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "City of Ketchum event services sponsorship (negotiated)",
+    "administrator": "City of Ketchum (City Administrator Jade Riley)",
+    "url": "https://ketchumidaho.gov/321/Events",
+    "funds": "In-kind services and LOT-funded Events/Promotions ($120,000 line); e.g. up to $155,000 in services for the 2025 World Cup Finals",
+    "eligibility": "Case by case; council approval",
+    "deadline": null,
+    "deadline_pattern": "Ask before the June budget workshops for the fiscal year starting Oct 1",
+    "notes": "No form or published criteria.",
+    "contact": "City of Ketchum, 208-726-3841"
+   },
+   {
+    "program": "Ketchum Arts & Heritage Commission (KAC)",
+    "administrator": "City of Ketchum",
+    "url": "https://ketchumidaho.gov",
+    "funds": "$35,000 LOT transfer in FY2027 for arts and heritage programming",
+    "eligibility": "Arts and heritage projects in Ketchum; process not published",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Verify whether the commission accepts outside proposals.",
+    "contact": "City of Ketchum, 208-726-3841"
+   },
+   {
+    "program": "Sun Valley Air Service Board / Visit Sun Valley",
+    "administrator": "Air Service Board (mayors of Ketchum, Sun Valley, Hailey); Visit Sun Valley",
+    "url": "https://visitsunvalley.com",
+    "funds": "Ketchum contributes about $1.4M of the pooled 0.5% air LOT; Visit Sun Valley received $1.8M in FY2026",
+    "eligibility": "Marketing support through the DMO; no cash grants",
+    "deadline": null,
+    "deadline_pattern": "Board budget adopted late August",
+    "notes": "Ketchum representative on the Visit Sun Valley board: Gretchen Gorham.",
+    "contact": "Kendall Kirkpatrick, Executive Director, Visit Sun Valley"
+   },
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": 3670000,
+     "decided": "FY2026 budget adopted Aug 2025",
+     "awards": [
+      {
+       "recipient": "City of Ketchum Wagon Days Fund",
+       "event": "Wagon Days (Labor Day weekend)",
+       "amount": 197400,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "Transfer from Original LOT"
+      },
+      {
+       "recipient": "City of Ketchum Events/Promotions",
+       "event": null,
+       "amount": 120000,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "City-run events and promotion line"
+      },
+      {
+       "recipient": "Mountain Rides Transportation Authority",
+       "event": null,
+       "amount": 848000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Transit contract"
+      },
+      {
+       "recipient": "Sun Valley Economic Development",
+       "event": null,
+       "amount": 15000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Partnership contract"
+      },
+      {
+       "recipient": "Friends of the Sawtooth Avalanche Center",
+       "event": null,
+       "amount": 10000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Partnership contract (listed as Friends of the Sawtooth NF in the expenditure table)"
+      },
+      {
+       "recipient": "Idaho Dark Sky Alliance",
+       "event": null,
+       "amount": 3000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Partnership contract"
+      },
+      {
+       "recipient": "Mountain Humane",
+       "event": null,
+       "amount": 2995,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Partnership contract"
+      }
+     ],
+     "note": "Remainder: Consolidated Dispatch $160,291, public safety reimbursement $1,200,000, General CIP $1,073,600, admin and STR software about $40,000"
+    },
+    "2027": {
+     "total": 3870000,
+     "decided": "FY2027 budget ordinance 1281, Aug 2026",
+     "awards": [
+      {
+       "recipient": "City of Ketchum Wagon Days Fund",
+       "event": "Wagon Days",
+       "amount": 224700,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "Transfer from Original LOT"
+      },
+      {
+       "recipient": "City of Ketchum Events/Promotions",
+       "event": null,
+       "amount": 120000,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "City-run events and promotion line"
+      },
+      {
+       "recipient": "Ketchum Arts & Heritage Commission (KAC)",
+       "event": null,
+       "amount": 35000,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "Transfer to KAC"
+      },
+      {
+       "recipient": "Mountain Rides Transportation Authority",
+       "event": null,
+       "amount": 878000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Transit contract"
+      },
+      {
+       "recipient": "Sun Valley Economic Development",
+       "event": null,
+       "amount": 15000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Partnership contract"
+      },
+      {
+       "recipient": "Friends of the Sawtooth Avalanche Center",
+       "event": null,
+       "amount": 10000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Partnership contract"
+      },
+      {
+       "recipient": "Idaho Dark Sky Alliance",
+       "event": null,
+       "amount": 3000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Partnership contract"
+      },
+      {
+       "recipient": "Mountain Humane",
+       "event": null,
+       "amount": 3000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Partnership contract"
+      }
+     ],
+     "note": "Remainder: Consolidated Dispatch $185,000, public safety reimbursement $1,322,700, General CIP $1,038,600, admin about $35,000"
+    }
+   },
+   "sources": [
+    "https://mccmeetingspublic.blob.core.usgovcloudapi.net/ketchid-meet-ecb6ab9b3a1946e4bf865538cd3bfca5/ITEM-Attachment-001-2116bb2c8c7e445897715eea1d4f67df.pdf",
+    "https://ketchumidaho.gov/DocumentCenter/View/234/FY-2026-Adopted-Budget-PDF",
+    "https://mccmeetingspublic.blob.core.usgovcloudapi.net/ketchid-meet-84b9fdb5f80c44d783957cb9c1ae3791/ITEM-Attachment-001-ea4845163c2f4031add13acc4f6f5317.pdf"
+   ]
+  }
+ },
+ {
+  "name": "Hailey",
+  "type": "city",
+  "county": "Blaine",
+  "tax_rate": "Lodging (30 days or less) and rental cars: 4% base LOT (Ord. 1257, through June 30, 2050) plus 1% supplemental split 0.5% air service / 0.5% housing (Ord. 1319, through June 30, 2050) plus 2% on short-term rentals and car rentals approved Nov 4, 2025 (Ord. 1353, about 75% yes); 2% alcohol by the drink; 1% restaurant food; plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No application; the council allocates LOT to a fixed list of local organizations in the annual budget (first reading August, FY starts Oct 1)",
+  "typical_open": null,
+  "annual_pool": "LOT revenue FY2025 actual $1,071,700; FY2026 budget $1,409,715. Proposed FY2026 LOT allocations to local organizations just over $420,000: Blaine County Dispatch $180,470, Mountain Rides $101,800, The Chamber of the Wood River Valley $95,480, Mountain Humane $27,690, Hailey Ice $11,670, The Senior Connection $5,305",
+  "url": "https://haileycityhall.org/wp-content/uploads/2025/04/LOCAL-OPTION-TAX-overview-.pdf",
+  "contact": "Lisa Horowitz, City Administrator; Hailey City Hall, 115 Main Street S., Hailey, ID 83333; monthly LOT cash-flow reports posted at haileycityhall.org",
+  "notes": "Hailey's LOT (about $1.1M to $1.4M a year, roughly half from lodging and car rentals) sits in the general fund and the council earmarks about $420,000 of it each budget for standing partners, the largest non-government recipient being the Chamber of Hailey and the Wood River Valley ($95,480 in FY2026), which in turn supports events such as the Trailing of the Sheep Festival, the Fire Department Chili Cook-Off and Hailey Rocks. Monthly reports also tag LOT to downtown beautification, streets, parks and the Hailey Arts Commission. There is no open grant application; an event would work through the chamber or the arts commission, or pitch the council before the June budget workshops. Voters added 2% on short-term rentals and car rentals in Nov 2025 for public safety, snow removal, parks, roads and transit.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Martha Burke",
+    "role": "Mayor; voting member, Sun Valley Air Service Board",
+    "affiliation": "City of Hailey",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kaz Thea",
+    "role": "Council Member",
+    "affiliation": "Hailey City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Juan Martinez",
+    "role": "Council Member",
+    "affiliation": "Hailey City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Sage Sauerbrey",
+    "role": "Council Member (elected Nov 4, 2025 with 62.53%)",
+    "affiliation": "Hailey City Council",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.mtexpress.com/news/hailey/hailey-moves-to-put-tourist-tax-hike-on-fall-ballot/article_a1478339-a740-4c08-a87c-bcb2dcf2b89c.html ; https://eyeonsunvalley.com/mobile/Mobile_Story_Reader/13362/Voters-Approve-One-Levy-But-Turn-Down-a-New-Way-of-Governing (the city council page could not be fetched; fourth council seat not confirmed)",
+  "members_as_of": "2025-11-05",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council meets the second and fourth Mondays at 5:30 p.m., Hailey City Hall; budget readings in August; fiscal year Oct 1 to Sept 30",
+  "total_pool_usd": 1409715,
+  "competitive_pool_usd": 0,
+  "pool_note": "FY2026 budgeted LOT $1,409,715 (all categories; lodging and car rentals roughly $450K to $500K before the Nov 2025 2% increase). About $420,000 goes to standing partner contracts (dispatch, Mountain Rides, chamber, Mountain Humane, Hailey Ice, Senior Connection); the rest funds city services, air service and housing. $0 open to new applicants.",
+  "funding_docs": [
+   {
+    "title": "Hailey Local Option Tax overview",
+    "doc_type": "guidelines",
+    "year": "2025",
+    "url": "https://haileycityhall.org/wp-content/uploads/2025/04/LOCAL-OPTION-TAX-overview-.pdf",
+    "summary": "Rates (4% hotel rooms and rental vehicles, 2% alcohol, 1% restaurant food, plus the 1% air/housing supplement), ordinance history 950 (2006), 1035 (2009), 1133 (2013), 1212 (2017), 1257 (2020, through June 30, 2050), 1319 (2023), filing rules."
+   },
+   {
+    "title": "Hailey LOT overview: 2% housing / car rentals measure (Nov 2025)",
+    "doc_type": "ordinance",
+    "year": "2026",
+    "url": "https://haileycityhall.org/wp-content/uploads/2026/06/LOCAL-OPTION-TAX-overview-2-percent-housing-car-rentals-Nov-2025.pdf",
+    "summary": "Ord. 1353 adds 2% on short-term rentals and car rentals, approved Nov 4, 2025."
+   },
+   {
+    "title": "Hailey Ordinance No. 1353 (codified)",
+    "doc_type": "ordinance",
+    "year": "2025",
+    "url": "https://codelibrary.amlegal.com/codes/haileyid/latest/hailey_id/0-0-0-22732",
+    "summary": "Codified text of the 2% short-term rental and car rental LOT."
+   },
+   {
+    "title": "Idaho Mountain Express: Hailey moves to put tourist tax hike on fall ballot (Aug 2025)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://www.mtexpress.com/news/hailey/hailey-moves-to-put-tourist-tax-hike-on-fall-ballot/article_a1478339-a740-4c08-a87c-bcb2dcf2b89c.html",
+    "summary": "Proposed FY2026 LOT allocations: Blaine County Dispatch $180,470, Mountain Rides $101,800, Chamber of the Wood River Valley $95,480, Mountain Humane $27,690, Hailey Ice $11,670, Senior Connection $5,305; the 2% increase was estimated at $250,000 to $300,000 a year."
+   },
+   {
+    "title": "FY27 Budget Presentation (May 2026)",
+    "doc_type": "budget",
+    "year": "2027",
+    "url": "https://haileycityhall.org/wp-content/uploads/2026/05/FY27-Budget-Presentation.pdf",
+    "summary": "LOT FY2025 actual $1,071,700; FY2026 adopted $1,409,715; FY2027 under development; LOT is included in the General Fund."
+   },
+   {
+    "title": "July FY26 LOT Cash Flow report",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://haileycityhall.org/wp-content/uploads/2026/08/Jul-FY26-LOT-Cash-Flow.pdf",
+    "summary": "Monthly FY2026 receipts (Oct 2025 to Jul 2026 $841,504, Oct-Jun up 25.8% over FY2025) with notes tagging LOT to downtown beautification, streets and parks maintenance, Resort Cities Caucus, SVED and the Hailey Arts Commission."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "The Chamber of Hailey and the Wood River Valley event support",
+    "administrator": "The Chamber of Hailey and the Wood River Valley (Mike McKenna, Executive Director)",
+    "url": "https://haileyidaho.com",
+    "funds": "$95,480 city LOT contract (FY2026) plus $35,000 from the Air Service Board; funds the visitor guide, welcome center and events such as Trailing of the Sheep, the Chili Cook-Off, Hailey Rocks and Earth Day",
+    "eligibility": "Events in Hailey and the Wood River Valley; no published grant form",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "The chamber is the practical channel for LOT-derived event support in Hailey.",
+    "contact": "Mike McKenna, Executive Director"
+   },
+   {
+    "program": "Hailey Arts Commission",
+    "administrator": "City of Hailey",
+    "url": "https://haileycityhall.org",
+    "funds": "LOT-tagged arts programming (amount not published)",
+    "eligibility": "Public art and arts events in Hailey",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Verify current process with City Hall.",
+    "contact": "Hailey City Hall"
+   },
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": 422415,
+     "decided": "Proposed FY2026 budget, Aug 2025",
+     "awards": [
+      {
+       "recipient": "Blaine County Dispatch",
+       "event": null,
+       "amount": 180470,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Emergency communications contract"
+      },
+      {
+       "recipient": "Mountain Rides Transportation Authority",
+       "event": null,
+       "amount": 101800,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Transit contract"
+      },
+      {
+       "recipient": "The Chamber of Hailey and the Wood River Valley",
+       "event": null,
+       "amount": 95480,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "Chamber contract; supports visitor services and events"
+      },
+      {
+       "recipient": "Mountain Humane",
+       "event": null,
+       "amount": 27690,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Animal shelter contract"
+      },
+      {
+       "recipient": "Hailey Ice",
+       "event": null,
+       "amount": 11670,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Ice rink nonprofit"
+      },
+      {
+       "recipient": "The Senior Connection",
+       "event": null,
+       "amount": 5305,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Senior services"
+      }
+     ],
+     "note": "Proposed allocations reported in Aug 2025; adopted figures not separately confirmed"
+    }
+   },
+   "sources": [
+    "https://www.mtexpress.com/news/hailey/hailey-moves-to-put-tourist-tax-hike-on-fall-ballot/article_a1478339-a740-4c08-a87c-bcb2dcf2b89c.html"
+   ]
+  }
+ },
+ {
+  "name": "Mackay",
+  "type": "city",
+  "county": "Custer",
+  "tax_rate": "3% resort city tax on lodging (motel rooms and RV spaces, 30 days or less), restaurant meals, liquor by the drink and recreation equipment rentals; approved May 21, 2024 (63.9% yes, 111 ballots) for 10 years; plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No grant program; revenue goes to street maintenance, airport improvements, park upgrades and emergency services, with over-collections to property tax relief",
+  "typical_open": null,
+  "annual_pool": "City projected about $20,000 a year",
+  "url": "https://www.postregister.com/messenger/news/mackay-voters-ok-resort-tax/article_064800c2-4877-5c95-bfaa-618856b0d53b.html",
+  "contact": "Mackay City Hall (Mayor Wayne Olsen as of May 2024); clerk contact not published online",
+  "notes": "One of Idaho's smallest resort city taxes, passed in May 2024 to raise roughly $20,000 a year for streets, the airport, parks and emergency services. No tourism promotion purpose, no committee and no grant round; an event in Mackay would look to the Idaho Travel Council grant through the regional tourism board instead.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Wayne Olsen",
+    "role": "Mayor (as of May 2024)",
+    "affiliation": "City of Mackay",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.postregister.com/messenger/news/mackay-voters-ok-resort-tax/article_064800c2-4877-5c95-bfaa-618856b0d53b.html",
+  "members_as_of": "2024-05-21",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council monthly; schedule not published online",
+  "total_pool_usd": 20000,
+  "competitive_pool_usd": 0,
+  "pool_note": "About $20,000 a year projected; all committed to city streets, airport, parks and emergency services.",
+  "funding_docs": [
+   {
+    "title": "Post Register / Challis Messenger: Mackay voters OK resort tax",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://www.postregister.com/messenger/news/mackay-voters-ok-resort-tax/article_064800c2-4877-5c95-bfaa-618856b0d53b.html",
+    "summary": "May 21, 2024 vote: 63.9% yes (111 ballots, 39.1% turnout); 3% on lodging, meals, liquor by the drink and recreation rentals; uses: streets, airport, parks, emergency services; excess to property tax relief; about $20,000 a year; 10-year term."
+   },
+   {
+    "title": "Challis Messenger: Mackay residents decide on resort tax May 21",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://www.postregister.com/messenger/news/mackay-residents-decide-on-resort-tax-may-21/article_96081695-6b39-51ad-b489-b518413cc443.html",
+    "summary": "Pre-election explainer of the proposed 3% resort city tax."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Ponderay",
+  "type": "city",
+  "county": "Bonner",
+  "tax_rate": "10% hotel-motel room occupancy tax on temporary lodging (hotels, motels, B&Bs, condos, tourist homes, RV parks, campgrounds; leases over 30 days excluded), effective Jan 1, 2026 for 12 years (Ord. 143R adopted Nov 17, 2025, replacing the 7% bed tax in place since 2011); plus 6% state sales tax and 2% state travel and convention tax (18% on a room). The separate 1% general LOT (about $3M a year, excluded hotels) failed renewal in Nov 2024",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No grant program; ordinance uses are municipal and public transportation, public information and education, grant matching contributions, property tax relief and administration",
+  "typical_open": null,
+  "annual_pool": "Not published; the earlier 7% bed tax was created in 2010 mainly to fund the SPOT bus system",
+  "url": "https://cityofponderay.org/wp-content/uploads/2025/12/Hotel-Motel-Room-Occupancy-Tax-2026-Letter.pdf",
+  "contact": "Stephanie Peterson, City Clerk/Treasurer, speterson@ponderay.org, 208-265-5468; Kim Van Den Berg, kvandenberg@ponderay.org, 208-265-5468; Mayor Steve Geiger",
+  "notes": "Ponderay's bed tax was approved in 2010 to pay for the SPOT bus and was raised to 10% in Nov 2025. Ordinance 143R lets the council spend it on transportation, public information, grant matches and administration, with unbudgeted balances going to property tax relief; there is no committee and no application process. The city's bigger 1% sales tax (about $3M a year, which built Field of Dreams and matched a BUILD grant) lapsed after the Nov 2024 renewal failed by four votes.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Steve Geiger",
+    "role": "Mayor (signed Ord. 143R, Nov 17, 2025)",
+    "affiliation": "City of Ponderay",
+    "email": null,
+    "phone": "208-265-5468"
+   }
+  ],
+  "members_source": "https://cityofponderay.org/wp-content/uploads/2026/08/ORD-No.-143R-Hotel-Motel-Tax-Amend_Official.pdf (council members not named in the fetched text)",
+  "members_as_of": "2025-11-17",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council regular meetings first and third Mondays; fiscal year Oct 1 to Sept 30",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Revenue not published; no portion is open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Ordinance No. 143R: 10% Hotel-Motel Room Occupancy Tax",
+    "doc_type": "ordinance",
+    "year": "2025",
+    "url": "https://cityofponderay.org/wp-content/uploads/2026/08/ORD-No.-143R-Hotel-Motel-Tax-Amend_Official.pdf",
+    "summary": "Adopted Nov 17, 2025; 10% on room occupancy charges effective Jan 1, 2026 for 12 years; uses include municipal and public transportation, public information and education, grant matching contributions, property tax relief fund and administration."
+   },
+   {
+    "title": "Hotel Motel Room Occupancy Tax 2026 letter to lodging operators",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://cityofponderay.org/wp-content/uploads/2025/12/Hotel-Motel-Room-Occupancy-Tax-2026-Letter.pdf",
+    "summary": "Notice of the 10% rate from Jan 1, 2026, covered establishment types and clerk contacts."
+   },
+   {
+    "title": "Ponderay LOT handout (1% sales tax)",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://cityofponderay.org/wp-content/uploads/2024/09/LOT-Hand-out.pdf",
+    "summary": "The 1% sales tax collected $14,155,165 since 2011 (about $3M a year) and funded Field of Dreams Phase 1, the BUILD grant match for a waterfront underpass and waterfront land purchases."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Kellogg",
+  "type": "city",
+  "county": "Shoshone",
+  "tax_rate": "5.5% hotel-motel (occupancy) tax on lodging stays under 30 days including vacation rentals, condos and B&Bs, applied to the nightly rate plus cleaning fees; raised from 3.5% (Ord. 574, effective Oct 1, 2015) by voters in May 2023 (Ord. 623); plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No grant program; stated purpose is offsetting tourism impacts on streets and infrastructure",
+  "typical_open": null,
+  "annual_pool": "Not published",
+  "url": "https://kellogg.id.gov/wp-content/uploads/2023/02/LOT-Information-packet-revised-2022-draft.pdf",
+  "contact": "City of Kellogg City Clerk's Office, 1007 McKinley Avenue, Kellogg, ID 83837, 208-786-9131, kelloggcity@kellogg.id.gov; Mayor Rod Plank",
+  "notes": "Kellogg's lodging-only LOT dates to May 2015 and was raised to 5.5% in May 2023 with more than 80% support. Revenue goes to streets and infrastructure strained by Silver Mountain and trail visitors; no tourism promotion line, committee or application exists. Event funding in the Silver Valley comes from the regional ITC grant and local chambers.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Rod Plank",
+    "role": "Mayor",
+    "affiliation": "City of Kellogg",
+    "email": null,
+    "phone": "208-786-9131"
+   },
+   {
+    "name": "Terry Douglas",
+    "role": "Council President (Position 5)",
+    "affiliation": "Kellogg City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Ron Mercado",
+    "role": "Council Member (Position 1)",
+    "affiliation": "Kellogg City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jenifer Cardenas",
+    "role": "Council Member (Position 2)",
+    "affiliation": "Kellogg City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Lori Teeters",
+    "role": "Council Member (Position 3)",
+    "affiliation": "Kellogg City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Dennis Norris",
+    "role": "Council Member (Position 4)",
+    "affiliation": "Kellogg City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Scott Haney",
+    "role": "Council Member (Position 6)",
+    "affiliation": "Kellogg City Council",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://kellogg.id.gov/mayor-and-council/",
+  "members_as_of": "2026-11-04",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council meets the second Wednesday of the month, Kellogg City Hall",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Revenue not published; none open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Kellogg LOT information packet (hotel-motel tax)",
+    "doc_type": "guidelines",
+    "year": "2023",
+    "url": "https://kellogg.id.gov/wp-content/uploads/2023/02/LOT-Information-packet-revised-2022-draft.pdf",
+    "summary": "Operator guide to the Hotel-Motel Tax (Ord. 574, effective Oct 1, 2015): covered rentals, cleaning fees taxable, monthly remittance by the 20th, permit display rules, clerk contact."
+   },
+   {
+    "title": "Draft Ordinance 623 (2023 rate increase)",
+    "doc_type": "ordinance",
+    "year": "2023",
+    "url": "https://kellogg.id.gov/wp-content/uploads/2023/04/DRAFT-Ordinance-623.pdf",
+    "summary": "Ordinance raising the occupancy tax from 3.5% to 5.5% following the May 2023 vote."
+   },
+   {
+    "title": "Shoshone News-Press: Kellogg leaders pleased with LOT decision",
+    "doc_type": "other",
+    "year": "2023",
+    "url": "https://shoshonenewspress.com/news/2023/may/19/kellogg-leaders-pleased-lot-decision",
+    "summary": "Coverage of the May 2023 approval of the increase to 5.5%."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Lava Hot Springs",
+  "type": "city",
+  "county": "Bannock",
+  "tax_rate": "5% hotel-motel and camping-space occupancy tax on stays under 30 days (raised from 3% by voters Nov 5, 2024, 99 to 54, 64.7%); liquor by the drink raised from 2% at the same election; 2% retail sales tax (an increase to 4% failed 75 to 79); City Code Title 3 Chapter 3 (Ords. 2015-11, 2018-1, 2019-7, 2022-3); no sunset ('as long as authorized by Idaho law'); plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No application; code section 3-3-5 earmarks 1% of the hotel-motel tax for 'tourism development and promotion' (3-3-5F) and the council spends it directly",
+  "typical_open": null,
+  "annual_pool": "Not published",
+  "url": "https://codelibrary.amlegal.com/codes/lavahotspringsid/latest/lavahotsprings_id/0-0-0-649",
+  "contact": "Amantha Sierra, City Clerk/Treasurer, City of Lava Hot Springs, lavahotspringscity.com; Mayor Vicky Lyon",
+  "notes": "One of Idaho's original resort cities. The code lists tourism development and promotion among permitted uses and dedicates one percentage point of the room tax to it, but the city publishes no revenue figures, no promotion contract and no grant form; the Lava Hot Springs Chamber of Commerce and the state-run Lava Hot Springs Foundation (the hot pools) handle visitor marketing. Treat this as 'ask the council' rather than a program. The Pocatello-Chubbuck Auditorium District, 35 miles away, is the nearest lodging-tax grant program.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Vicky Lyon",
+    "role": "Mayor",
+    "affiliation": "City of Lava Hot Springs",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "John Head",
+    "role": "Council Member",
+    "affiliation": "Lava Hot Springs City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jeanie Avery",
+    "role": "Council Member",
+    "affiliation": "Lava Hot Springs City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Mark Olyer",
+    "role": "Council Member",
+    "affiliation": "Lava Hot Springs City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Diane Beckstead",
+    "role": "Council Member",
+    "affiliation": "Lava Hot Springs City Council",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://irp.cdn-website.com/5d7d58d9/files/uploaded/August+13th-+2026-+CC+Regular+Meeting-523fef41.pdf (Aug 13, 2026 council agenda)",
+  "members_as_of": "2026-08-13",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council regular meeting the second Thursday of the month (July 9 and Aug 13, 2026 agendas posted)",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Revenue not published. By code, 1 of the 5 percentage points of room tax is for tourism development and promotion, but no amount or recipient is disclosed.",
+  "funding_docs": [
+   {
+    "title": "Lava Hot Springs City Code 3-3-5: Use of Taxes",
+    "doc_type": "ordinance",
+    "year": "2022",
+    "url": "https://codelibrary.amlegal.com/codes/lavahotspringsid/latest/lavahotsprings_id/0-0-0-649",
+    "summary": "Permitted uses A-K: capital improvements, emergency services, open space and recreation, administrative and legal, collection costs, tourism development and promotion (F), land and municipal buildings, engineering and planning, Bannock County Sheriff law enforcement contract, infrastructure maintenance, storm water."
+   },
+   {
+    "title": "Lava Hot Springs City Code 3-3-3 and 3-3-4: rates and duration",
+    "doc_type": "ordinance",
+    "year": "2018",
+    "url": "https://codelibrary.amlegal.com/codes/lavahotspringsid/latest/lavahotsprings_id/0-0-0-638",
+    "summary": "Hotel-motel/space occupancy tax (3% in the codified text, 5% after Nov 2024), 2% liquor by the drink, 2% retail with exemptions; 1% of the room tax dedicated to purpose 3-3-5F; taxes continue as long as Idaho law allows."
+   },
+   {
+    "title": "Idaho SOS canvass: Lava Q1, Nov 5, 2024 (hotel-motel tax 3% to 5%)",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://canvass.sos.idaho.gov/ballot_questions/view/19689/",
+    "summary": "Passed 99 yes (64.7%) to 54 no."
+   },
+   {
+    "title": "Idaho SOS canvass: Lava Q3, Nov 5, 2024 (retail sales tax 2% to 4%)",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://canvass.sos.idaho.gov/ballot_questions/view/19691/",
+    "summary": "Failed 75 yes (48.7%) to 79 no."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Pocatello-Chubbuck Auditorium District grant program",
+    "administrator": "Pocatello-Chubbuck Auditorium District",
+    "url": "https://pocatellochubbuckad.com",
+    "funds": "Hotel-motel room tax grants for events and facilities that generate room nights in Pocatello and Chubbuck",
+    "eligibility": "Events held in or drawing lodging to Pocatello/Chubbuck; verify current guidelines",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Nearest Idaho lodging-tax grant program to Lava Hot Springs (Bannock County); details not verified in this pass.",
+    "contact": "(208) 235-7659"
+   },
+   {
+    "program": "Lava Hot Springs Chamber of Commerce",
+    "administrator": "Lava Hot Springs Chamber of Commerce",
+    "url": "https://lavahotsprings.org",
+    "funds": "Event promotion and listings; no cash grant published",
+    "eligibility": "Local events",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "Verify programs with the chamber.",
+    "contact": null
+   },
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Riggins",
+  "type": "city",
+  "county": "Idaho",
+  "tax_rate": "2% on lodging (hotel, motel and campground receipts), alcoholic drinks and prepared meals; 1% on other taxable retail sales (Form RT-02, 2017); authorized Nov 8, 2016 (157 to 57, 73.4%) for parks and recreation operation and maintenance; plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No grant program; revenue is dedicated to the city Park Fund (operation and maintenance of parks and recreation facilities)",
+  "typical_open": null,
+  "annual_pool": "Not published separately; the Park Fund budgeted $337,220 of expenditures in FY2022 with $313,804 from non-property sources",
+  "url": "https://www.rigginsidaho.org/media/2486",
+  "contact": "Brenda Tilley, City Clerk-Treasurer, City of Riggins, PO Box 249, Riggins, ID 83549",
+  "notes": "Riggins' 2016 local option tax was sold to voters as a parks and recreation funding source and the city budgets it in the Park Fund; there is no promotion purpose, committee or application. Riggins' big draws (jet boat races, Salmon River rodeo, whitewater) are run by local groups that fundraise privately and through the regional tourism board.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "City council roster not published in fetched documents (https://www.rigginsidaho.org)",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council regular meetings monthly at City Hall; budget hearing early September",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Revenue not published; all of it supports the Park Fund.",
+  "funding_docs": [
+   {
+    "title": "Riggins Municipal Tax Return Form RT-02",
+    "doc_type": "other",
+    "year": "2017",
+    "url": "https://www.rigginsidaho.org/media/2486",
+    "summary": "Return form showing 2% on lodging, alcoholic drinks and prepared meals and 1% on retail; due the 20th of the following month with a copy of state Form 850."
+   },
+   {
+    "title": "Idaho SOS canvass: City of Riggins local-option special tax levy, Nov 8, 2016",
+    "doc_type": "other",
+    "year": "2016",
+    "url": "https://canvass.sos.idaho.gov/ballot_questions/view/6060/",
+    "summary": "Ballot question authorizing a 1% special tax for operation and maintenance of parks and recreation facilities; passed 157 to 57 (73.4%)."
+   },
+   {
+    "title": "Notice of Public Hearing, FY2022 City Budget",
+    "doc_type": "budget",
+    "year": "2022",
+    "url": "https://www.rigginsidaho.org/media/2536",
+    "summary": "Park Fund: FY2020 actual $25,374, FY2021 budget $312,823, FY2022 proposed $337,220 with $313,804 from non-property revenue; clerk Brenda Tilley."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "North Central Idaho Travel Association (Region 2 tourism board) ITC co-op",
+    "administrator": "North Central Idaho Travel Association",
+    "url": "https://visitnorthcentralidaho.org",
+    "funds": "Regional ITC grant marketing and co-op opportunities",
+    "eligibility": "Members and regional events; verify",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Regional DMO for Idaho County; confirm current programs.",
+    "contact": null
+   },
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Donnelly",
+  "type": "city",
+  "county": "Valley",
+  "tax_rate": "3% hotel, motel and short-term occupancy tax (hotel and motel rooms, condos, tourist homes, campgrounds) plus 1% municipal sales tax on retail; Donnelly City Code 3.10, Ord. 247 (2019), 10-year term with first payments February 2020; plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2028",
+  "deadline_pattern": "Applications due in mid-April for the fiscal year starting the following Oct 1 (April 14, 2025 for FY2026; April 16, 2026 for FY2027); the five-member LOT Committee meets within a week or two of the deadline (May 6, 2025; April 22, 2026) and the council adopts the recommendations at its May meeting (May 19, 2025; May 18, 2026); next deadline expected mid-April 2027 for FY2028",
+  "typical_open": "Application form posted in February (FY26 form posted Feb 2025); submit by email to the City Clerk",
+  "annual_pool": "FY2026 awards approved May 19, 2025: $372,894.98 total; FY2027 awards approved May 18, 2026: about $223,810 (figure partly garbled in the packet); LOT expense budget line $350,000 a year; 21 or more applications were ranked in the FY2027 round",
+  "url": "https://cityofdonnelly.org/wp-content/uploads/2025/02/FY26-Local-Option-Tax-Funding-Application-.pdf",
+  "contact": "Lori Clemens, City Clerk/Treasurer, lclemens@cityofdonnelly.org, (208) 325-8859, P.O. Box 725, 169 Halferty Street, Donnelly, ID 83615",
+  "notes": "Donnelly runs the only true open application round among Idaho's small resort cities. Under code 3.10.060 a council-appointed commission of five business or property owners holds one meeting a year to hear every request, then the council adopts the ranked list; for-profit, nonprofit and government applicants may apply in ten categories including economic growth, marketing and promotion, recreational and cultural events, grant matches, parks and public safety. Awards can be paid upfront under an agreement or by reimbursement, and all advertising must credit the City of Donnelly Local Option Tax. The FY2027 round (deadline April 16, 2026) was approved May 18, 2026 with applications #20 and #21 swapped, so expect 20+ competing requests; recipients have included Donnelly Pathways, Donnelly Elementary and the Donnelly Firefighters.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Susan Dorris",
+    "role": "Mayor (final approval of LOT Committee recommendations)",
+    "affiliation": "City of Donnelly",
+    "email": null,
+    "phone": "(208) 325-8859"
+   },
+   {
+    "name": "Wendy Davenport",
+    "role": "Council President (moved approval of FY2027 LOT awards)",
+    "affiliation": "Donnelly City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Leslie Minshall",
+    "role": "Council Member",
+    "affiliation": "Donnelly City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Brenna Spade",
+    "role": "Council Member",
+    "affiliation": "Donnelly City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Morgan Fuller",
+    "role": "Council Member",
+    "affiliation": "Donnelly City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Lori Clemens",
+    "role": "City Clerk/Treasurer (receives applications, staffs the LOT Committee)",
+    "affiliation": "City of Donnelly",
+    "email": "lclemens@cityofdonnelly.org",
+    "phone": "(208) 325-8859"
+   }
+  ],
+  "members_source": "https://cityofdonnelly.org/government/city-council/ ; the five LOT Committee members (business or property owners appointed under DCC 3.10.060) are not named online",
+  "members_as_of": "2026-11-04",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "The LOT Committee hears requests at its single annual meeting about a week after the application deadline (April 22, 2026); applicants may attend but the form does not require a presentation",
+   "format": "Written application (form, W-9, Idaho business registration, one year of financials); committee meeting at City Hall"
+  },
+  "meeting_schedule": "LOT Committee meets once a year in late April or early May; City Council regular meetings on a Monday in the third or fourth week of the month (May 18, 2026 adopted the FY2027 awards; budget workshops July, adoption August); fiscal year Oct 1 to Sept 30",
+  "total_pool_usd": 350000,
+  "competitive_pool_usd": 350000,
+  "pool_note": "The LOT expense line is budgeted at $350,000 a year (FY2025 and FY2026 budgets) against LOT revenue budgeted around $238,000 in FY2025 plus carryover; FY2026 awards totaled $372,894.98 and FY2027 about $223,810. All LOT spending runs through the committee process, so the competitive pool equals the budget line, though city departments and the school compete alongside outside groups.",
+  "funding_docs": [
+   {
+    "title": "FY26 Local Option Tax Funding Application",
+    "doc_type": "application",
+    "year": "2026",
+    "url": "https://cityofdonnelly.org/wp-content/uploads/2025/02/FY26-Local-Option-Tax-Funding-Application-.pdf",
+    "summary": "Due April 14, 2025 by email to lclemens@cityofdonnelly.org; open to for-profit, nonprofit and governmental entities; applicant picks one of the ten DCC 3.10.050 purposes; requires W-9, Idaho business registration, profit and loss and balance sheet; funding upfront by agreement or by reimbursement with a Final Award Report; all ads must credit the City of Donnelly LOT."
+   },
+   {
+    "title": "Donnelly City Code Chapter 3.10: Local Option Non-Property Taxes",
+    "doc_type": "ordinance",
+    "year": "2019",
+    "url": "https://codepublishing.com/ID/Donnelly/html/Donnelly03/Donnelly0310.html",
+    "summary": "1% sales tax and 3% occupancy tax for 10 years (Ord. 247); permitted uses A-J including grant matches, parks, beautification, recreational and cultural events, economic growth and marketing; five-member LOT commission hears all requests at one meeting and recommends to council; excess revenue to the property tax relief fund."
+   },
+   {
+    "title": "City Council packet May 19, 2025 (AB 25-27 FY26 LOT awards)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://cityofdonnelly.org/wp-content/uploads/2025/05/2025.05.19-City-Council-Packet.pdf",
+    "summary": "LOT Committee met May 6, 2025 on applications received by April 14, 2025; cost impact $372,894.98 from the Local Option Tax; council asked to accept and approve FY26 funding. Individual recipients are in an attachment not captured online."
+   },
+   {
+    "title": "City Council packet May 18, 2026 (AB 26-26 FY27 LOT awards)",
+    "doc_type": "award list",
+    "year": "2027",
+    "url": "https://cityofdonnelly.org/wp-content/uploads/2026/05/2026.05.18-City-Council-Packet.pdf",
+    "summary": "LOT Committee met April 22, 2026 on applications received by April 16, 2026; cost impact about $223,810; council approved with the rankings of applications #20 and #21 switched (minutes May 18, 2026)."
+   },
+   {
+    "title": "City Council packet June 15, 2026 (AB 26-30 Donnelly Pathways reallocation)",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://cityofdonnelly.org/wp-content/uploads/2026/06/2026.06.15-City-Council-Packet.pdf",
+    "summary": "Donnelly Community Pathways Group asked to move $2,500 of its FY26 LOT award from the Boulder Creek Connector to West Roseberry safety upgrades; confirms the FY27 approval sequence (deadline April 16, committee April 22, council May 18, 2026)."
+   },
+   {
+    "title": "City Council packet Aug 19, 2024 (FY2025 budget)",
+    "doc_type": "budget",
+    "year": "2025",
+    "url": "https://cityofdonnelly.org/wp-content/uploads/2024/08/2024.08.19-City-Council-Packet.pdf",
+    "summary": "FY2025 LOT revenue budgeted about $238,000 across three LOT accounts; LOT Fund expense line (account 922) $350,000 with $117,336 spent by Aug 13, 2024."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "City of McCall Local Option Tax (LOT Commission grants)",
+    "administrator": "City of McCall LOT Commission",
+    "url": "https://www.mccall.id.us/local-option-tax-commission",
+    "funds": "McCall's 3% tourism LOT funds annual community grants through a commission process",
+    "eligibility": "Projects benefiting McCall; verify guidelines",
+    "deadline": null,
+    "deadline_pattern": "Annual spring application",
+    "notes": "The regional model Donnelly copied; 15 miles north.",
+    "contact": "City of McCall"
+   },
+   {
+    "program": "Southwest Idaho Travel Association (Region 3) ITC co-op",
+    "administrator": "Southwest Idaho Travel Association",
+    "url": "https://visitsouthwestidaho.org",
+    "funds": "Regional ITC grant marketing",
+    "eligibility": "Regional partners; verify",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Valley County's regional tourism board.",
+    "contact": null
+   },
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "yes",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": 372894.98,
+     "decided": "2025-05-19 (council approval of LOT Committee recommendations from May 6, 2025)",
+     "awards": [
+      {
+       "recipient": "Donnelly Community Pathways Group (Donnelly Pathways)",
+       "event": null,
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "FY26 award included $2,500 for the Boulder Creek Connector, reallocated June 2026 to the West Roseberry Safety Plan; total award not published"
+      },
+      {
+       "recipient": "Donnelly Elementary School",
+       "event": null,
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "LOT Award 26-09 referenced in Jan 2026 vouchers; amount garbled"
+      },
+      {
+       "recipient": "Donnelly Firefighters",
+       "event": null,
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "LOT Award 25-01 referenced in Jan 2026 vouchers; amount garbled"
+      }
+     ],
+     "note": "Full FY26 recipient list is an attachment to AB 25-27 that is not readable online; request it from the City Clerk"
+    },
+    "2027": {
+     "total": 223810,
+     "decided": "2026-05-18 (council approval with applications #20 and #21 swapped)",
+     "awards": [],
+     "note": "Total read from a garbled packet field ('$223.8 l0'); at least 21 applications were ranked; recipient list not published online"
+    }
+   },
+   "sources": [
+    "https://cityofdonnelly.org/wp-content/uploads/2025/05/2025.05.19-City-Council-Packet.pdf",
+    "https://cityofdonnelly.org/wp-content/uploads/2026/05/2026.05.18-City-Council-Packet.pdf",
+    "https://cityofdonnelly.org/wp-content/uploads/2026/06/2026.06.15-City-Council-Packet.pdf",
+    "https://cityofdonnelly.org/wp-content/uploads/2026/01/2026.01.26-City-Council-Packet.pdf"
+   ]
+  }
+ },
+ {
+  "name": "Swan Valley",
+  "type": "city",
+  "county": "Bonneville",
+  "tax_rate": "Resort city local option tax listed by the Idaho State Tax Commission: 3% on short-term lodging, 1% liquor by the drink, 1% other taxable sales (prior terms approved Nov 2020 and Nov 2021); a new seven-year term at these rates starting Jan 1, 2027 was on the Nov 3, 2026 ballot (result not confirmed as of Nov 4, 2026); plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": null,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No grant program found; stated uses are bridges, capital projects, infrastructure, pathways and parks, transportation, visitor services and public safety",
+  "typical_open": null,
+  "annual_pool": "Not published",
+  "url": "https://www.bonnevillecountyidaho.gov/election-results/cities-towns",
+  "contact": "City of Swan Valley (population about 300), cityofswanvalley.com; new city clerk appointed December 2025 (name not published in fetched sources); Bonneville County Elections (208) 529-1363 for ballot results",
+  "notes": "Swan Valley is a 300-person gateway town on the South Fork of the Snake whose tax base is fly-fishing lodges and vacation rentals. Its LOT has been renewed in short terms (Nov 2020, Nov 2021) and a seven-year renewal was on the Nov 3, 2026 ballot alongside a 3% occupancy tax for neighboring Irwin; Bonneville County's cumulative results PDF (11-4-2026) could not be fetched, so the outcome is unconfirmed. Uses listed include visitor services, but the city has no grant process, committee or published budget online. An undated Post Register early-voting article described a Swan Valley proposal of 2% occupancy plus 0.97% alcohol and 0.97% sales, which appears to be the 2020 measure rather than 2026.",
+  "confidence": "low",
+  "members": [],
+  "members_source": "Council roster not published in fetched sources (city site cityofswanvalley.com could not be fetched)",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council meets monthly (minutes of Nov 10, 2025 and a Dec 3, 2025 meeting referenced); schedule not published",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "No revenue figure published; nothing open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Bonneville County election results: cities and towns",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.bonnevillecountyidaho.gov/election-results/cities-towns",
+    "summary": "Index of Swan Valley tax questions (Nov 2020, Nov 2021) and Irwin (Nov 2020) results PDFs, plus a link to the cumulative county results PDF dated 11-4-2026 that should contain the Nov 3, 2026 Swan Valley LOT result (not fetchable from this session)."
+   },
+   {
+    "title": "Bonneville County election information (Nov 3, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.bonnevillecountyidaho.gov/elections/election-information",
+    "summary": "Confirms Swan Valley city and school district questions appeared only on ballots of voters in those boundaries for the Nov 3, 2026 general election; links legislative district sample ballots."
+   },
+   {
+    "title": "Idaho State Tax Commission: local sales tax (resort city) information",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://tax.idaho.gov/taxes/taxes-on-sales/",
+    "summary": "Tax Commission listing of resort cities with local sales taxes, including Swan Valley's rates."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Yellowstone Teton Territory (Region 6) ITC co-op and member programs",
+    "administrator": "Yellowstone Teton Territory",
+    "url": "https://yellowstoneteton.com/ytt/ytt-membership",
+    "funds": "Regional ITC grant (nearly $2M for eastern Idaho in 2025) for trade shows, co-op ads and a cash-match program",
+    "eligibility": "YTT members ($100/yr); Bonneville County is in the region",
+    "deadline": null,
+    "deadline_pattern": "Grant awarded to YTT late July; co-ops through the year",
+    "notes": "Practical route for a Swan Valley event.",
+    "contact": "Yellowstone Teton Territory, Idaho Falls"
+   },
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Bonners Ferry",
+  "type": "city",
+  "county": "Boundary",
+  "tax_rate": "1% local option sales tax on all items subject to Idaho sales tax (single transactions under $1,000), which under state law includes hotel and short-term lodging; approved May 16, 2023 (72% yes), Ord. 609, effective July 1, 2023 through Dec 31, 2033; no separate bed tax; plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No grant program; uses are limited to fire, law enforcement, streets, sidewalks, buildings and grounds, and property tax relief",
+  "typical_open": null,
+  "annual_pool": "Not published",
+  "url": "https://www.bonnersferry.id.gov/193/Local-Option-Tax",
+  "contact": "Bonners Ferry City Hall, 7232 Main Street, PO Box 149, Bonners Ferry, ID 83805, 208-267-3105",
+  "notes": "Bonners Ferry's 1% LOT is a general sales tax that happens to reach lodging; the ordinance restricts spending to fire, police, streets and facilities with over-collections to property tax relief, so there is no tourism purpose and no application. Included for completeness; events in Boundary County rely on the regional ITC-funded tourism board and the county fair board.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Rick Alonzo",
+    "role": "Mayor (appointed October 2023; current status not re-verified)",
+    "affiliation": "City of Bonners Ferry",
+    "email": null,
+    "phone": "208-267-3105"
+   }
+  ],
+  "members_source": "https://bonnersferryherald.com/news/2023/oct/05/alonzo-named-bf-mayor-arthur-returns-council",
+  "members_as_of": "2023-10-05",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council regular meetings first and third Tuesdays at 6 p.m., City Hall",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Revenue not published; none open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Bonners Ferry Local Option Tax page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.bonnersferry.id.gov/193/Local-Option-Tax",
+    "summary": "1% LOT approved May 2023 (72%), Ord. 609, July 1, 2023 to Dec 31, 2033; applies to items subject to Idaho sales tax on transactions under $1,000; uses: fire, law enforcement, streets/sidewalks/buildings/grounds, property tax relief, collection costs; monthly remittance by the 20th; $50 business license."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "no",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ },
+ {
+  "name": "Tetonia",
+  "type": "city",
+  "county": "Teton",
+  "tax_rate": "5% on lodging (30 days or less), 3% liquor by the drink, 1% prepared meals, 0.5% other qualifying retail sales; Ord. 2025-05, approved Nov 2025 (about 75% yes, after failing by two votes in 2024), effective Jan 1, 2026 for 10 years; plus 6% state sales tax and 2% state travel and convention tax",
+  "has_ltac_grants": null,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "No process yet; the ordinance lists 'grant programs' and visitor services among permitted uses but the city has not set a project list or estimated revenue",
+  "typical_open": null,
+  "annual_pool": "Not estimated by the city; first collections began January 2026",
+  "url": "https://tetoniaidaho.com/non-property-local-option-tax",
+  "contact": "Jacque Beard, City Clerk/Treasurer, Clerk@cityoftetonia.com, 208-456-2249, P.O. Box 57, Tetonia, ID 83452",
+  "notes": "Idaho's newest resort city LOT, in force since Jan 1, 2026. Permitted uses are transportation and infrastructure (water, sewer, parks), facilities, visitor services, grant programs and property tax relief, so a small grant round is possible once the council sees a year of receipts, but nothing exists yet. Watch the FY2027 budget (adopted Aug-Sept 2026) and the FY2028 budget for a first allocation; Teton Valley events otherwise work through the Teton Valley Chamber and Yellowstone Teton Territory.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "Mayor and council page at tetoniaidaho.com not captured in fetched content",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "City Council meets monthly at Tetonia City Hall; schedule not published in fetched sources",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No revenue estimate; the city said it would not project receipts until the tax had been collected.",
+  "funding_docs": [
+   {
+    "title": "Tetonia Non-Property Local Option Tax page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://tetoniaidaho.com/non-property-local-option-tax",
+    "summary": "Ord. 2025-05: 5% lodging, 3% liquor by the drink, 1% prepared food, 0.5% other retail; 10 years from Jan 1, 2026; uses include transportation and infrastructure, facilities, visitor services, grant programs and a property tax relief fund; annual LOT permit and reporting forms; clerk contact."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Yellowstone Teton Territory (Region 6) ITC co-op and member programs",
+    "administrator": "Yellowstone Teton Territory",
+    "url": "https://yellowstoneteton.com/ytt/ytt-membership",
+    "funds": "Regional ITC grant marketing, trade shows and cash-match program",
+    "eligibility": "YTT members; Teton County is in the region",
+    "deadline": null,
+    "deadline_pattern": "Grant awarded to YTT late July",
+    "notes": null,
+    "contact": "Yellowstone Teton Territory, Idaho Falls"
+   },
+   {
+    "program": "City of Victor and City of Driggs local option taxes",
+    "administrator": "Cities of Victor and Driggs (Teton County)",
+    "url": "https://victoridaho.gov/2025-lot-ballot-measure",
+    "funds": "Neighboring Teton Valley resort-city LOTs; Victor's 2025 measure page describes its uses",
+    "eligibility": "Verify with each city",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not in this batch; listed because a Teton Valley event may fit their purposes better.",
+    "contact": null
+   },
+   {
+    "program": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "administrator": "Idaho Department of Commerce / Idaho Travel Council (funded by the 2% state travel and convention tax; 45% of each region's collections returned as grants)",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "funds": "Marketing and promotion that drives overnight visitation (advertising, trade shows, co-op campaigns); regional DMOs typically apply and run the region's share",
+    "eligibility": "Nonprofit, incorporated organizations with a viable travel or convention promotion program; for-profits participate through the regional DMO's co-op programs",
+    "deadline": "2026-03-30",
+    "deadline_pattern": "Annual; application opens early February and closes late March (4:30 p.m. MT, March 30, 2026 for the 2026 cycle); 2027 cycle expected on the same timing",
+    "notes": "Statewide program; applications are regionally competitive within Idaho's seven travel regions. Event producers usually access this money through the regional tourism board rather than directly.",
+    "contact": "Michael Cullen, Visit Idaho, 208-780-5141"
+   }
+  ],
+  "for_profit": "unknown",
+  "verified": "2026-11-04",
+  "state": "ID",
+  "local_awards": {
+   "years": {},
+   "sources": []
+  }
+ }
+]

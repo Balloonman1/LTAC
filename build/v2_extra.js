@@ -544,7 +544,7 @@ function cmpRender(){
     ['Open to outside applicants',S.map(s=>s.open),m,'hi'],
     ['Basis for "open" figure',S.map(s=>s.open==null?'not published':(s.openSrc?s.openSrc.replace(/^ \(|\)$/g,''):'documented')),v=>v],
     ['Share of fund open',S.map(s=>s.share),pct,'hi'],
-    ['sec','Awards (latest JLARC year)'],
+    ['sec',STATE==='WA'?'Awards (latest JLARC year)':'Awards (latest local record)'],
     ['Year',S.map(s=>s.y),v=>v||'–'],
     ['Total awarded',S.map(s=>s.jtotal),m],
     ['Awards made',S.map(s=>s.awards),num],
