@@ -83,10 +83,10 @@ function drawMap(){
   mapDrawn=true;
   const NS='http://www.w3.org/2000/svg';
   const el=(t,a)=>{const n=document.createElementNS(NS,t);for(const k in a)n.setAttribute(k,a[k]);return n;};
-  const topo=JSON.parse(document.getElementById('geo').textContent);
+  const topo=JSON.parse(document.getElementById(STATE==='OR'?'geo-or':'geo').textContent);
   const counties=topojson.feature(topo,topo.objects.counties);
   const svg=document.getElementById('wamap'); const W=960,H=600;
-  const proj=d3.geoAlbers().rotate([120,0]).parallels([46,48.5]).fitExtent([[10,10],[W-10,H-10]],counties);
+  const proj=(STATE==='OR'?d3.geoAlbers().rotate([120.5,0]).parallels([43,45.5]):d3.geoAlbers().rotate([120,0]).parallels([46,48.5])).fitExtent([[10,10],[W-10,H-10]],counties);
   const path=d3.geoPath(proj);
   const byCounty={}; data.filter(r=>r.type==='county').forEach(r=>byCounty[r.county]=r);
   const cities=data.filter(r=>r.type==='city' && CITY_XY[r.name]);
@@ -237,7 +237,7 @@ function benchRows(){
 }
 (function(){
   const rs=document.getElementById('bf-region'), cs=document.getElementById('bf-county'); if(!rs) return;
-  ['Puget Sound','Olympic Peninsula and Coast','Southwest','North Central','South Central','Northeast','Southeast'].forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;rs.appendChild(o);});
+  STATES[STATE].regions.filter(x=>x!=='Other').forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;rs.appendChild(o);});
   [...new Set(data.map(r=>r.county))].sort().forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x+' County';cs.appendChild(o);});
   const redraw=()=>{ if(typeof renderBenchTable==='function'){ renderBenchTable(); const n=benchRows().length; document.getElementById('bfcount').textContent=n+' jurisdiction'+(n===1?'':'s')+' match.'; } };
   document.querySelectorAll('#bfilt input,#bfilt select').forEach(el=>el.addEventListener('input',redraw));
@@ -347,7 +347,8 @@ document.addEventListener('click',e=>{
 document.addEventListener('keydown',e=>{ if(e.key==='Enter'&&e.target.matches('[data-detail]')) openDetail(e.target.dataset.detail); });
 
 /* ================= top events ================= */
-const EVENTS=JSON.parse(document.getElementById('events').textContent);
+const EVENTS=STATE==='WA'?JSON.parse(document.getElementById('events').textContent):[];
+if(STATE!=='WA'){ const t=document.querySelector('.tabs a[data-view=events]'); if(t) t.style.display='none'; }
 let evDone=false;
 function renderEvents(){
   evDone=true;
@@ -432,7 +433,7 @@ function localDetailHtml(r){
 }
 
 /* ================= other funding (grant catalog) ================= */
-const GRANTS=JSON.parse(document.getElementById('grants').textContent);
+const GRANTS=JSON.parse(document.getElementById('grants').textContent).filter(g=>(g.state||'WA')===STATE);
 let grantsDone=false;
 function gNext(g){ const ds=(g.deadlines||[]).map(d=>d.date).filter(d=>d&&daysUntil(d)>=0).sort(); return g.next_deadline&&daysUntil(g.next_deadline)>=0?g.next_deadline:(ds[0]||null); }
 function gWhere(g){ if(g.level==='statewide') return 'Statewide'; const geo=g.geography||{}; if(g.level==='city') return (geo.cities||[]).join(', ')||'City'; if(g.level==='county') return (geo.counties||[]).map(c=>c+' County').join(', ')||'County'; return geo.region||(geo.counties||[]).map(c=>c+' County').join(', ')||'Regional'; }
@@ -638,7 +639,7 @@ function reportHtml(r,peerList){
   // ---- data-driven findings for the "do better" section ----
   const dg=r.diag||null; const ST=META.state||{}; const better=[]; const help=[];
   if(dg){
-    if(dg.zero_nights&&dg.zero_nights.length) better.push(`<li><b>${dg.zero_nights.length} event award${dg.zero_nights.length>1?'s':''} of $10,000 or more reported no paid room nights in ${dg.year}</b> (${dg.zero_nights.slice(0,4).map(z=>esc(z[0])+' '+money(z[1])).join('; ')}${dg.zero_nights.length>4?'…':''}). Statewide that was $1.7M across 53 awards. Either the report is missing or the event does not draw overnight visitors; ask before renewing.</li>`);
+    if(dg.zero_nights&&dg.zero_nights.length) better.push(`<li><b>${dg.zero_nights.length} event award${dg.zero_nights.length>1?'s':''} of $10,000 or more reported no paid room nights in ${dg.year}</b> (${dg.zero_nights.slice(0,4).map(z=>esc(z[0])+' '+money(z[1])).join('; ')}${dg.zero_nights.length>4?'…':''}). ${STATE==='WA'?'Statewide that was $1.7M across 53 awards.':''} Either the report is missing or the event does not draw overnight visitors; ask before renewing.</li>`);
     if(dg.event_reports>=3){
       const ex=dg.exact/dg.event_reports, uh=dg.under_half/dg.event_reports, ov=dg.over_150/dg.event_reports;
       better.push(`<li><b>Of ${dg.event_reports} event reports with an estimate, ${dg.under_half} came in under half the projected room nights, ${dg.over_150} beat it by more than 50%, and ${dg.exact} matched the estimate to the night</b> (statewide: ${Math.round(ST.under_half_share*100)}%, ${Math.round(ST.over150_share*100)}% and ${Math.round(ST.exact_share*100)}%). ${ex>0.3?'Exact matches are copies, not counts; require a named direct count before the next renewal.':(uh>0.3?'More misses than typical; compare estimate to actual recipient by recipient before renewing.':'Within the normal range; keep reading estimate against actual each year.')}</li>`);

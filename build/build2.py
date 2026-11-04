@@ -24,9 +24,20 @@ REGION={'Puget Sound':['King','Pierce','Snohomish','Kitsap','Thurston','Island',
  'Northeast':['Spokane','Stevens','Pend Oreille','Ferry','Lincoln','Whitman','Adams'],
  'Southeast':['Asotin','Garfield']}
 C2R={c:r for r,cs in REGION.items() for c in cs}
-for r in data: r['region']=C2R.get(r.get('county'),'Other')
+REGION_OR={'Portland Region':['Multnomah','Washington','Clackamas','Columbia'],
+ 'Willamette Valley':['Marion','Polk','Yamhill','Linn','Benton','Lane'],
+ 'Oregon Coast':['Clatsop','Tillamook','Lincoln','Coos','Curry'],
+ 'Southern Oregon':['Jackson','Josephine','Douglas','Klamath','Lake'],
+ 'Central Oregon':['Deschutes','Crook','Jefferson'],
+ 'Mt. Hood and the Gorge':['Hood River','Wasco','Sherman'],
+ 'Eastern Oregon':['Umatilla','Union','Wallowa','Baker','Malheur','Grant','Harney','Morrow','Gilliam','Wheeler']}
+C2R_OR={c:r for r,cs in REGION_OR.items() for c in cs}
+for r in data:
+    r.setdefault('state','WA')
+    r['region']=(C2R_OR if r['state']=='OR' else C2R).get(r.get('county'),'Other')
 POP=json.load(open(S+'population.json'))
-for r in data: r['population']=POP.get(r['name'])
+if os.path.exists(S+'population_or.json'): POP.update({(k if k=='_source' else k+'|OR'):v for k,v in json.load(open(S+'population_or.json')).items()})
+for r in data: r['population']=POP.get(r['name']+'|OR') if r.get('state')=='OR' else POP.get(r['name'])
 for r in data: r.setdefault('verified','2026-10-29')
 
 # ---- JLARC merge (optional) ----
@@ -137,6 +148,8 @@ for r in data:
 print('alt programs with awards',hit)
 css=open(S+'parts_css.txt').read()+open(S+'v2_extra.css').read()
 law=open(S+'parts_law.txt').read()
+law_or=open(S+'parts_law_or.txt').read() if os.path.exists(S+'parts_law_or.txt') else '<section class="law" data-state="OR"><h2>Oregon law section pending</h2></section>'
+law='<div data-state="WA">'+law+'</div><div data-state="OR">'+law_or+'</div>'
 body=open(S+'v2_body.html').read().replace('<!--LAW-->',law)
 js=open(S+'parts_js.txt').read()
 def rep(a,b):
@@ -148,6 +161,7 @@ rep("  if(sortF==='name') return [0,0,r.name];","  if(sortF==='name') return [0,
 rep("document.getElementById('rail').addEventListener('click',e=>{const a=e.target.closest('a');if(!a)return;const t=document.querySelector(a.getAttribute('href'));if(t){e.preventDefault();t.scrollIntoView({block:'start'});t.classList.add('lead');}});","")
 extra=open(S+'v2_extra.js').read()+'\nroute();\n'
 geo=open(S+'geo/wa-counties.json').read()
+geo_or=open(S+'geo/or-counties.json').read()
 libs=open(S+'libs/d3-array.min.js').read()+'\n'+open(S+'libs/d3-geo.min.js').read()+'\n'+open(S+'libs/topojson-client.min.js').read()
 grants=[]
 for f in sorted(glob.glob(R+'grants/*.json')):
@@ -216,6 +230,7 @@ for r in data:
             'kinds':kinds or ['community event'],'applicants':apps,'award':a.get('funds'),'cycle':'rolling' if rolling else ('annual' if a.get('deadline') or a.get('deadline_pattern') else 'unknown'),'rolling':rolling,
             'deadlines':dl,'next_deadline':a.get('deadline'),'opens':a.get('deadline_pattern'),'match':None,'reimbursement':None,'notes':a.get('notes'),'recent_recipients':rec,
             'confidence':'medium','sources':[a['url']] if a.get('url') else [],'from_directory':True})
+for g in grants: g.setdefault('state','WA')
 print('grants',len(grants))
 gr=json.dumps(grants,separators=(',',':'),ensure_ascii=False).replace('</script','<\\/script')
 evs=open(R+'jlarc/events.json').read().replace('</script','<\\/script')
@@ -229,6 +244,7 @@ html=f'''<title>WA Lodging Tax Grants</title>
 <script>{libs}</script>
 <script id="meta" type="application/json">{meta}</script>
 <script id="geo" type="application/json">{geo}</script>
+<script id="geo-or" type="application/json">{geo_or}</script>
 <script id="events" type="application/json">{evs}</script>
 <script id="grants" type="application/json">{gr}</script>
 <script id="data" type="application/json">{dj}</script>

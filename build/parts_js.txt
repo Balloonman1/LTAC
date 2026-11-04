@@ -1,6 +1,16 @@
 
 const TODAY = new Date("2026-10-29T12:00:00");
-const data = JSON.parse(document.getElementById('data').textContent);
+const ALLDATA = JSON.parse(document.getElementById('data').textContent);
+const STATES={WA:{name:'Washington',short:'Washington State',law:'RCW 67.28',title:'Washington Lodging Tax Grants',lede:'Every city and county in Washington that levies a lodging tax: who runs a Lodging Tax Advisory Committee grant program, when applications are due, what they actually award, who sits on the committee, and what to apply to where there is no LTAC pool.',regions:['Puget Sound','Olympic Peninsula and Coast','Southwest','North Central','South Central','Northeast','Southeast','Other']},
+  OR:{name:'Oregon',short:'Oregon',law:'ORS 320.350',title:'Oregon Lodging Tax Grants',lede:'Every city and county in Oregon that levies a transient lodging tax: who runs a tourism grant program, when applications are due, what they actually award, who decides, and what else to apply to.',regions:['Portland Region','Willamette Valley','Oregon Coast','Southern Oregon','Central Oregon','Mt. Hood and the Gorge','Eastern Oregon','Other']}};
+const STATE=(()=>{const q=new URLSearchParams(location.search).get('state'); let s=null; try{s=localStorage.getItem('ltac-state');}catch(e){} const v=(q||s||'WA').toUpperCase(); return STATES[v]?v:'WA';})();
+try{localStorage.setItem('ltac-state',STATE);}catch(e){}
+const data = ALLDATA.filter(r=>(r.state||'WA')===STATE);
+document.documentElement.dataset.state=STATE;
+(function(){ const st=STATES[STATE]; const h1=document.querySelector('.mast h1'); if(h1) h1.textContent=st.title; const le=document.querySelector('.mast .lede'); if(le) le.textContent=st.lede; const ey=document.querySelector('.mast .eyebrow'); if(ey) ey.innerHTML=`${st.short} · ${st.law} · updated <span id="asof"></span>`; document.title=st.title;
+  document.querySelectorAll('[data-state]').forEach(el=>{ if(el.dataset.state!==STATE) el.hidden=true; });
+  const sw=document.getElementById('stateSwitch'); if(sw&&ALLDATA.some(r=>r.state==='OR')) sw.innerHTML=Object.keys(STATES).map(k=>`<a href="?state=${k}" class="${k===STATE?'on':''}">${STATES[k].name}</a>`).join('');
+})();
 const fmt = d => d ? new Date(d+"T12:00:00").toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}) : null;
 const fmtShort = d => new Date(d+"T12:00:00").toLocaleDateString('en-US',{month:'short',day:'numeric'});
 const addYear = (d,n=1)=>{const [y,m,day]=d.split('-');return `${+y+n}-${m}-${day}`;};
@@ -147,7 +157,7 @@ function renderStatic(){
 }
 document.getElementById('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();render();});
 document.getElementById('county').addEventListener('change',e=>{countyF=e.target.value;render();});
-(function(){const rs=document.getElementById('region'); const order=['Puget Sound','Olympic Peninsula and Coast','Southwest','North Central','South Central','Northeast','Southeast','Other']; order.filter(x=>data.some(r=>r.region===x)).forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;rs.appendChild(o);});
+(function(){const rs=document.getElementById('region'); const order=STATES[STATE].regions; order.filter(x=>data.some(r=>r.region===x)).forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;rs.appendChild(o);});
 rs.addEventListener('change',e=>{regionF=e.target.value; const cs=document.getElementById('county'); const cur=cs.value; [...cs.options].forEach(o=>{ if(!o.value) return; o.hidden = !!regionF && !data.some(r=>r.county===o.value&&r.region===regionF); }); if(cur && regionF && !data.some(r=>r.county===cur&&r.region===regionF)){cs.value='';countyF='';} render();});})();
 for(const [id,setter] of [['typeSeg',v=>typeF=v],['statSeg',v=>statF=v],['cycles',v=>cycF=v]]){
   const seg=document.getElementById(id);

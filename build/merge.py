@@ -11,9 +11,19 @@ for i in range(1,11):
     out+=fix(json.load(open(f'{B}batches/batch{i}.json')))
 out.append(fix(json.load(open(B+'poulsbo.json'))))
 import os
-for f in sorted(sorted(glob.glob(B+'batches/batch_x*.json'))):
+for f in sorted(glob.glob(B+'batches/batch_x*.json')):
     try: out+=fix(json.load(open(f)))
     except Exception as ex: print('bad',f,ex)
+for r in out: r['state']='WA'
+WA_NAMES={r['name'] for r in out}|{r['name']+' County' for r in out if r['type']=='county' and not r['name'].endswith('County')}
+for f in sorted(glob.glob(B+'batches/or_*.json')):
+    try: recs=fix(json.load(open(f)))
+    except Exception as ex: print('bad',f,ex); continue
+    for r in recs:
+        r['state']='OR'
+        if r.get('type')=='county' and not r['name'].endswith('County'): r['name']+=' County'
+        if r['name'] in WA_NAMES: r['name']=r['name']+', Oregon'
+    out+=recs
 alts={a['name']:a['alternatives'] for a in fix(json.load(open(B+'altA.json'))+json.load(open(B+'altB.json')))}
 alias={'Chelan':'City of Chelan'}
 for r in out:
