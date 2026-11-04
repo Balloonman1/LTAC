@@ -368,6 +368,14 @@ table.cmpt tr.sec td{background:var(--surface-2);font-family:var(--body);font-we
 table.cmpt td.best{color:var(--ok);font-weight:600}
 .cmp h4{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:18px 0 6px}
 .cmpawards td{white-space:normal}
+
+.bfilt{margin-top:16px}
+.bfgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px 14px;margin-top:10px}
+.bfgrid label{display:flex;flex-direction:column;gap:4px;font-size:12.5px;font-weight:600;color:var(--muted)}
+.bfgrid label.chk{flex-direction:row;align-items:center;gap:8px;font-weight:500;color:var(--fg);align-self:end}
+.bfgrid input,.bfgrid select{font:inherit;font-size:14px;padding:7px 9px;border:1px solid var(--line-strong);border-radius:7px;background:var(--bg);color:var(--fg);min-width:0}
+.bfgrid input[type=number]{font-family:var(--mono)}
+#bpreset{margin-top:8px}
 </style>
 <header class="mast gutter"><div class="inner">
   <p class="eyebrow">Washington State · RCW 67.28 · updated <span id="asof"></span></p>
@@ -526,6 +534,34 @@ table.cmpt td.best{color:var(--ok);font-weight:600}
     <button data-v="county" aria-pressed="false">Counties</button>
   </div>
   <div id="benchCharts" class="charts"></div>
+  <div class="kitsec bfilt" id="bfilt">
+    <h3>Narrow the table</h3>
+    <p class="gdesc">Set any combination. Every row that passes stays in the table below; click a name for every award and recipient, which is where the "why" lives.</p>
+    <div class="seg" id="bpreset" role="group" aria-label="Presets">
+      <button type="button" data-p="new">Best bets for a new event</button>
+      <button type="button" data-p="big">Biggest single event awards</button>
+      <button type="button" data-p="eff">Most room nights per dollar</button>
+      <button type="button" data-p="open">Most of the fund open</button>
+      <button type="button" data-p="clear">Clear</button>
+    </div>
+    <div class="bfgrid">
+      <label>Region<select id="bf-region"><option value="">Any</option></select></label>
+      <label>County<select id="bf-county"><option value="">Any</option></select></label>
+      <label>For-profit rule<select id="bf-fp"><option value="">Any</option><option value="yes">For-profits apply directly</option><option value="yes,sponsor">Direct or via sponsor</option></select></label>
+      <label>Cycle<select id="bf-cycle"><option value="">Any</option><option value="annual">Annual</option><option value="semiannual">Two or more rounds</option><option value="rolling">Rolling</option></select></label>
+      <label>Share open, at least %<input type="number" id="bf-share" min="0" max="100" step="5" placeholder="e.g. 50"></label>
+      <label>Open to applicants, at least $<input type="number" id="bf-open" min="0" step="10000" placeholder="e.g. 100000"></label>
+      <label>Event dollars, at least $<input type="number" id="bf-ev" min="0" step="10000" placeholder="e.g. 50000"></label>
+      <label>Median event award, at least $<input type="number" id="bf-med" min="0" step="1000" placeholder="e.g. 5000"></label>
+      <label>Largest event award, at least $<input type="number" id="bf-max" min="0" step="5000" placeholder="e.g. 25000"></label>
+      <label>Event room nights, at least<input type="number" id="bf-nights" min="0" step="500" placeholder="e.g. 2000"></label>
+      <label>Event $ per night, at most $<input type="number" id="bf-cpn" min="0" step="5" placeholder="e.g. 25"></label>
+      <label>Population, at most<input type="number" id="bf-pop" min="0" step="5000" placeholder="e.g. 50000"></label>
+      <label class="chk"><input type="checkbox" id="bf-data" checked> only rows with state award data</label>
+      <label class="chk"><input type="checkbox" id="bf-prog" checked> only programs open to outside applicants</label>
+    </div>
+    <p class="hint2" id="bfcount"></p>
+  </div>
   <div class="tablewrap"><table class="bench" id="benchTable"><thead><tr>
     <th data-k="name">Jurisdiction</th><th data-k="total_pool_usd">Total fund</th><th data-k="competitive_pool_usd">Open to applicants</th><th data-k="share">Share open</th><th data-k="awards">Awards (latest JLARC yr)</th><th data-k="evtotal">Event dollars</th><th data-k="median">Median event award</th><th data-k="max">Largest event award</th><th data-k="nights">Event paid room nights</th><th data-k="cpn">Event $ per night</th></tr></thead><tbody></tbody></table></div>
   <p class="gdesc" id="benchNote"></p>
@@ -1244,17 +1280,54 @@ function copyText(s,msgId){ const m=document.getElementById(msgId); const done=(
 
 /* ================= benchmarks ================= */
 let peer='all', benchSort={k:'competitive_pool_usd',dir:-1};
+const BF={};
+function bfRead(){ const g=id=>document.getElementById(id); const n=id=>{const v=g(id)&&g(id).value; return v===''||v==null?null:+v;};
+  BF.region=g('bf-region')?g('bf-region').value:''; BF.county=g('bf-county')?g('bf-county').value:''; BF.fp=g('bf-fp')?g('bf-fp').value:''; BF.cycle=g('bf-cycle')?g('bf-cycle').value:'';
+  BF.share=n('bf-share'); BF.open=n('bf-open'); BF.ev=n('bf-ev'); BF.med=n('bf-med'); BF.max=n('bf-max'); BF.nights=n('bf-nights'); BF.cpn=n('bf-cpn'); BF.pop=n('bf-pop');
+  BF.data=g('bf-data')?g('bf-data').checked:false; BF.prog=g('bf-prog')?g('bf-prog').checked:false; }
+function bfPass(x){ const r=x.r;
+  if(BF.region&&r.region!==BF.region) return false; if(BF.county&&r.county!==BF.county) return false;
+  if(BF.fp&&!BF.fp.split(',').includes(r.for_profit)) return false;
+  if(BF.cycle){ if(BF.cycle==='semiannual'){ if(r.cycle!=='semiannual') return false; } else if(r.cycle!==BF.cycle) return false; }
+  if(BF.prog&&!r.has_ltac_grants) return false; if(BF.data&&!x.year) return false;
+  if(BF.share!=null&&!(x.share!=null&&x.share*100>=BF.share)) return false;
+  if(BF.open!=null&&!(x.competitive_pool_usd!=null&&x.competitive_pool_usd>=BF.open)) return false;
+  if(BF.ev!=null&&!(x.evtotal!=null&&x.evtotal>=BF.ev)) return false;
+  if(BF.med!=null&&!(x.median!=null&&x.median>=BF.med)) return false;
+  if(BF.max!=null&&!(x.max!=null&&x.max>=BF.max)) return false;
+  if(BF.nights!=null&&!(x.nights!=null&&x.nights>=BF.nights)) return false;
+  if(BF.cpn!=null&&!(x.cpn!=null&&x.cpn<=BF.cpn)) return false;
+  if(BF.pop!=null&&!(r.population!=null&&r.population<=BF.pop)) return false;
+  return true; }
 function benchRows(){
+  bfRead();
   return data.filter(r=>peer==='all'||r.type===peer).map(r=>{
     const j=r.jlarc; const y=j&&Object.keys(j.years||{}).sort().reverse()[0]; const s=y?j.years[y]:null;
     const share=(r.total_pool_usd&&r.competitive_pool_usd!=null)?r.competitive_pool_usd/r.total_pool_usd:null;
     const cpn=s&&s.nights&&s.ev_total?s.ev_total/s.nights:null;
     return {r,name:r.name,total_pool_usd:r.total_pool_usd,competitive_pool_usd:r.competitive_pool_usd,share,awards:s?s.awards:null,median:s?s.ev_median:null,max:s?s.ev_max:null,nights:s?s.nights:null,cpn,year:y,evtotal:s?s.ev_total:null};
-  });
+  }).filter(bfPass);
 }
+(function(){
+  const rs=document.getElementById('bf-region'), cs=document.getElementById('bf-county'); if(!rs) return;
+  ['Puget Sound','Olympic Peninsula and Coast','Southwest','North Central','South Central','Northeast','Southeast'].forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;rs.appendChild(o);});
+  [...new Set(data.map(r=>r.county))].sort().forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x+' County';cs.appendChild(o);});
+  const redraw=()=>{ if(typeof renderBenchTable==='function'){ renderBenchTable(); const n=benchRows().length; document.getElementById('bfcount').textContent=n+' jurisdiction'+(n===1?'':'s')+' match.'; } };
+  document.querySelectorAll('#bfilt input,#bfilt select').forEach(el=>el.addEventListener('input',redraw));
+  const set=(id,v)=>{const el=document.getElementById(id); if(el){ if(el.type==='checkbox') el.checked=v; else el.value=v; }};
+  document.getElementById('bpreset').addEventListener('click',e=>{const b=e.target.closest('button'); if(!b) return;
+    ['bf-share','bf-open','bf-ev','bf-med','bf-max','bf-nights','bf-cpn','bf-pop'].forEach(id=>set(id,'')); set('bf-fp',''); set('bf-cycle',''); set('bf-data',true); set('bf-prog',true);
+    const p=b.dataset.p;
+    if(p==='new'){ set('bf-share',40); set('bf-max',10000); set('bf-med',3000); benchSort={k:'competitive_pool_usd',dir:-1}; }
+    if(p==='big'){ set('bf-max',25000); benchSort={k:'max',dir:-1}; }
+    if(p==='eff'){ set('bf-nights',1000); set('bf-cpn',30); benchSort={k:'cpn',dir:1}; }
+    if(p==='open'){ set('bf-share',75); set('bf-open',50000); benchSort={k:'share',dir:-1}; }
+    if(p==='clear'){ set('bf-region',''); set('bf-county',''); set('bf-data',false); set('bf-prog',false); }
+    redraw(); document.getElementById('benchTable').scrollIntoView({block:'start'}); });
+})();
 function renderBench(){
   benchDone=true;
-  const rows=benchRows();
+  const rows=benchRows(); const bc=document.getElementById('bfcount'); if(bc) bc.textContent=rows.length+' jurisdictions match.';
   const has=rows.filter(x=>x.year).length;
   document.getElementById('benchNote').textContent = has? `JLARC figures available for ${has} of ${rows.length} jurisdictions shown; the others have not been matched to a report yet. "$ per room night" is lodging tax awarded to events divided by the paid room nights those event recipients reported, a rough efficiency measure. Median and largest award are for event awards; the awards count includes marketing and facility awards.` : 'JLARC report data has not been loaded yet; award and room-night columns fill in once it is.';
   const bars=(title,sub,items,fmtv)=>{ const mx=Math.max(...items.map(i=>i.v)); return `<div class="chart"><h4>${title}</h4><p class="sub2">${sub}</p><div class="bars">${items.map(i=>`<div class="b" data-detail="${esc(i.n)}" role="button" tabindex="0"><span class="n" title="${esc(i.n)}">${esc(i.n)}</span><span class="t"><i style="width:${Math.max(2,i.v/mx*100)}%"></i></span><span class="v">${fmtv(i.v)}</span></div>`).join('')}</div></div>`; };

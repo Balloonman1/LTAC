@@ -197,3 +197,11 @@ table.cmpt tr.sec td{background:var(--surface-2);font-family:var(--body);font-we
 table.cmpt td.best{color:var(--ok);font-weight:600}
 .cmp h4{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:18px 0 6px}
 .cmpawards td{white-space:normal}
+
+.bfilt{margin-top:16px}
+.bfgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px 14px;margin-top:10px}
+.bfgrid label{display:flex;flex-direction:column;gap:4px;font-size:12.5px;font-weight:600;color:var(--muted)}
+.bfgrid label.chk{flex-direction:row;align-items:center;gap:8px;font-weight:500;color:var(--fg);align-self:end}
+.bfgrid input,.bfgrid select{font:inherit;font-size:14px;padding:7px 9px;border:1px solid var(--line-strong);border-radius:7px;background:var(--bg);color:var(--fg);min-width:0}
+.bfgrid input[type=number]{font-family:var(--mono)}
+#bpreset{margin-top:8px}

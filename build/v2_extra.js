@@ -204,17 +204,54 @@ function copyText(s,msgId){ const m=document.getElementById(msgId); const done=(
 
 /* ================= benchmarks ================= */
 let peer='all', benchSort={k:'competitive_pool_usd',dir:-1};
+const BF={};
+function bfRead(){ const g=id=>document.getElementById(id); const n=id=>{const v=g(id)&&g(id).value; return v===''||v==null?null:+v;};
+  BF.region=g('bf-region')?g('bf-region').value:''; BF.county=g('bf-county')?g('bf-county').value:''; BF.fp=g('bf-fp')?g('bf-fp').value:''; BF.cycle=g('bf-cycle')?g('bf-cycle').value:'';
+  BF.share=n('bf-share'); BF.open=n('bf-open'); BF.ev=n('bf-ev'); BF.med=n('bf-med'); BF.max=n('bf-max'); BF.nights=n('bf-nights'); BF.cpn=n('bf-cpn'); BF.pop=n('bf-pop');
+  BF.data=g('bf-data')?g('bf-data').checked:false; BF.prog=g('bf-prog')?g('bf-prog').checked:false; }
+function bfPass(x){ const r=x.r;
+  if(BF.region&&r.region!==BF.region) return false; if(BF.county&&r.county!==BF.county) return false;
+  if(BF.fp&&!BF.fp.split(',').includes(r.for_profit)) return false;
+  if(BF.cycle){ if(BF.cycle==='semiannual'){ if(r.cycle!=='semiannual') return false; } else if(r.cycle!==BF.cycle) return false; }
+  if(BF.prog&&!r.has_ltac_grants) return false; if(BF.data&&!x.year) return false;
+  if(BF.share!=null&&!(x.share!=null&&x.share*100>=BF.share)) return false;
+  if(BF.open!=null&&!(x.competitive_pool_usd!=null&&x.competitive_pool_usd>=BF.open)) return false;
+  if(BF.ev!=null&&!(x.evtotal!=null&&x.evtotal>=BF.ev)) return false;
+  if(BF.med!=null&&!(x.median!=null&&x.median>=BF.med)) return false;
+  if(BF.max!=null&&!(x.max!=null&&x.max>=BF.max)) return false;
+  if(BF.nights!=null&&!(x.nights!=null&&x.nights>=BF.nights)) return false;
+  if(BF.cpn!=null&&!(x.cpn!=null&&x.cpn<=BF.cpn)) return false;
+  if(BF.pop!=null&&!(r.population!=null&&r.population<=BF.pop)) return false;
+  return true; }
 function benchRows(){
+  bfRead();
   return data.filter(r=>peer==='all'||r.type===peer).map(r=>{
     const j=r.jlarc; const y=j&&Object.keys(j.years||{}).sort().reverse()[0]; const s=y?j.years[y]:null;
     const share=(r.total_pool_usd&&r.competitive_pool_usd!=null)?r.competitive_pool_usd/r.total_pool_usd:null;
     const cpn=s&&s.nights&&s.ev_total?s.ev_total/s.nights:null;
     return {r,name:r.name,total_pool_usd:r.total_pool_usd,competitive_pool_usd:r.competitive_pool_usd,share,awards:s?s.awards:null,median:s?s.ev_median:null,max:s?s.ev_max:null,nights:s?s.nights:null,cpn,year:y,evtotal:s?s.ev_total:null};
-  });
+  }).filter(bfPass);
 }
+(function(){
+  const rs=document.getElementById('bf-region'), cs=document.getElementById('bf-county'); if(!rs) return;
+  ['Puget Sound','Olympic Peninsula and Coast','Southwest','North Central','South Central','Northeast','Southeast'].forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;rs.appendChild(o);});
+  [...new Set(data.map(r=>r.county))].sort().forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x+' County';cs.appendChild(o);});
+  const redraw=()=>{ if(typeof renderBenchTable==='function'){ renderBenchTable(); const n=benchRows().length; document.getElementById('bfcount').textContent=n+' jurisdiction'+(n===1?'':'s')+' match.'; } };
+  document.querySelectorAll('#bfilt input,#bfilt select').forEach(el=>el.addEventListener('input',redraw));
+  const set=(id,v)=>{const el=document.getElementById(id); if(el){ if(el.type==='checkbox') el.checked=v; else el.value=v; }};
+  document.getElementById('bpreset').addEventListener('click',e=>{const b=e.target.closest('button'); if(!b) return;
+    ['bf-share','bf-open','bf-ev','bf-med','bf-max','bf-nights','bf-cpn','bf-pop'].forEach(id=>set(id,'')); set('bf-fp',''); set('bf-cycle',''); set('bf-data',true); set('bf-prog',true);
+    const p=b.dataset.p;
+    if(p==='new'){ set('bf-share',40); set('bf-max',10000); set('bf-med',3000); benchSort={k:'competitive_pool_usd',dir:-1}; }
+    if(p==='big'){ set('bf-max',25000); benchSort={k:'max',dir:-1}; }
+    if(p==='eff'){ set('bf-nights',1000); set('bf-cpn',30); benchSort={k:'cpn',dir:1}; }
+    if(p==='open'){ set('bf-share',75); set('bf-open',50000); benchSort={k:'share',dir:-1}; }
+    if(p==='clear'){ set('bf-region',''); set('bf-county',''); set('bf-data',false); set('bf-prog',false); }
+    redraw(); document.getElementById('benchTable').scrollIntoView({block:'start'}); });
+})();
 function renderBench(){
   benchDone=true;
-  const rows=benchRows();
+  const rows=benchRows(); const bc=document.getElementById('bfcount'); if(bc) bc.textContent=rows.length+' jurisdictions match.';
   const has=rows.filter(x=>x.year).length;
   document.getElementById('benchNote').textContent = has? `JLARC figures available for ${has} of ${rows.length} jurisdictions shown; the others have not been matched to a report yet. "$ per room night" is lodging tax awarded to events divided by the paid room nights those event recipients reported, a rough efficiency measure. Median and largest award are for event awards; the awards count includes marketing and facility awards.` : 'JLARC report data has not been loaded yet; award and room-night columns fill in once it is.';
   const bars=(title,sub,items,fmtv)=>{ const mx=Math.max(...items.map(i=>i.v)); return `<div class="chart"><h4>${title}</h4><p class="sub2">${sub}</p><div class="bars">${items.map(i=>`<div class="b" data-detail="${esc(i.n)}" role="button" tabindex="0"><span class="n" title="${esc(i.n)}">${esc(i.n)}</span><span class="t"><i style="width:${Math.max(2,i.v/mx*100)}%"></i></span><span class="v">${fmtv(i.v)}</span></div>`).join('')}</div></div>`; };
