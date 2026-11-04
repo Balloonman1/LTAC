@@ -10,19 +10,61 @@
   "funding_year": "2026",
   "deadline_pattern": "No fixed cycle. Tourism Promotion Grant applications are accepted year-round and must be submitted at least 60 days before the event; EWEB reviews them at its monthly meeting (first Wednesday, 3:00 pm) and forwards recommendations to City Council",
   "typical_open": "Open year-round; apply at least 60 days ahead of the event",
-  "annual_pool": "Not published. EWEB page gives no fund total or award caps; Wenatchee World (undated) reported council approving three previously tabled lodging tax requests without amounts",
+  "annual_pool": "About $450,000 budgeted for 2026; roughly $68,000 of it reached outside applicants through rolling Tourism Promotion Grants (awards $5,000 to $20,000)",
   "url": "https://www.eastwenatcheewa.gov/240/East-Wenatchee-Events-Board-EWEB",
   "contact": "East Wenatchee Events Board (EWEB) / Events Department, 271 9th Street NE, East Wenatchee, WA 98802, 509-886-6108 (EWEB line); City Hall 509-884-9515; staff name not published on the EWEB page (an Events Director was hired in 2019)",
   "notes": "The lodging tax advisory committee here is the East Wenatchee Events Board (EWEB), a 5 to 7 member council-appointed board that doubles as the city's events board. Applicants complete the Tourism Promotion Grant Application, give a 3 to 5 minute presentation at a monthly EWEB meeting, and if approved by EWEB and then City Council sign a contract; payment is reimbursement within 30 days of a post-event report and invoice, which are due within 30 days after the event. Funding is for tourism marketing, special events and festivals, and tourism facilities under RCW 67.28.1816. The Tourism Promotion Grant program page could not be fetched directly.",
   "confidence": "medium",
   "members": [
-   {"name": "Ken Arnold", "role": "City elected official (chair)", "affiliation": "East Wenatchee City Council", "email": null, "phone": null},
-   {"name": "Cody Beeson", "role": "Lodging representative", "affiliation": "Fairfield Inn & Suites", "email": null, "phone": null},
-   {"name": "Barb McCord", "role": "Lodging representative", "affiliation": "SureStay", "email": null, "phone": null},
-   {"name": "Mat Heinz", "role": "Activity representative", "affiliation": "EMPD (Eastmont Metropolitan Park District)", "email": null, "phone": null},
-   {"name": "Kaylin Ochs", "role": "Activity representative", "affiliation": "GWGSA", "email": null, "phone": null},
-   {"name": "Brent Schmitten", "role": "Citizen at large", "affiliation": "Bob's Classic East", "email": null, "phone": null},
-   {"name": "Alejandro Cruz", "role": "Citizen at large", "affiliation": "Wenatchee Valley CVB (Visit Wenatchee)", "email": null, "phone": null}
+   {
+    "name": "Ken Arnold",
+    "role": "City elected official (chair)",
+    "affiliation": "East Wenatchee City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Cody Beeson",
+    "role": "Lodging representative",
+    "affiliation": "Fairfield Inn & Suites",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Barb McCord",
+    "role": "Lodging representative",
+    "affiliation": "SureStay",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Mat Heinz",
+    "role": "Activity representative",
+    "affiliation": "EMPD (Eastmont Metropolitan Park District)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kaylin Ochs",
+    "role": "Activity representative",
+    "affiliation": "GWGSA",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Brent Schmitten",
+    "role": "Citizen at large",
+    "affiliation": "Bob's Classic East",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Alejandro Cruz",
+    "role": "Citizen at large",
+    "affiliation": "Wenatchee Valley CVB (Visit Wenatchee)",
+    "email": null,
+    "phone": null
+   }
   ],
   "members_source": "https://www.eastwenatcheewa.gov/240/East-Wenatchee-Events-Board-EWEB (Current Members table with 2024-2028 terms)",
   "members_as_of": "2026-10-30",
@@ -33,9 +75,9 @@
    "format": "3 to 5 minute in-person presentation followed by questions from the board, at Eastmont Parks and Recreation Community Center, 230 N Georgia Ave"
   },
   "meeting_schedule": "First Wednesday of each month at 3:00 pm, Eastmont Parks and Recreation Community Center, 230 N Georgia Avenue, East Wenatchee; agendas posted the Friday before",
-  "total_pool_usd": null,
-  "competitive_pool_usd": null,
-  "pool_note": "No fund total, budget line or award list is published on the EWEB or grant pages; the city's budget document was not located. Because applications are rolling, the open pool is whatever remains in the Hotel/Motel Tax fund for the year.",
+  "total_pool_usd": 450000,
+  "competitive_pool_usd": 68000,
+  "pool_note": "2026 hotel/motel tax income budgeted at $450,000 (available funds to date were $579,777 through April 2026, including carryover). Standing 2026 commitments: City Events Department $244,654, Wenatchee Valley Chamber (Visit Wenatchee) $90,000, Wenatchee Valley Museum $100,000, together $434,654. Outside Tourism Promotion Grants tracked at $68,000 across 10 recipients as of the June 8, 2026 EWEB packet, which is the realistic open pool for a new applicant; council has pushed EWEB toward smaller outside awards.",
   "funding_docs": [
    {
     "title": "East Wenatchee Events Board (EWEB) page",
@@ -66,7 +108,7 @@
    }
   ],
   "for_profit": "yes",
-  "verified": "2026-10-30"
+  "verified": "2026-11-04"
  },
  {
   "name": "DuPont",
@@ -85,11 +127,41 @@
   "notes": "Small program run by the Finance Director with a three-stage process: Part A application and contract, after-event attendee reporting, and receipt submittal for reimbursement (receipts due Dec 15 of the grant year; signed contracts due 30 days after the approval email). Eligible recipients are CVBs, DMOs, nonprofits and municipalities. LTAC meets as needed and recommends awards to City Council, which makes the final decision. No pool size or award history is posted.",
   "confidence": "medium",
   "members": [
-   {"name": "Councilmember Gasak", "role": "Elected official (chair)", "affiliation": "DuPont City Council (Councilmember Elliott, alternate)", "email": null, "phone": null},
-   {"name": "Justin Gravatt", "role": "User/recipient of lodging tax funds", "affiliation": null, "email": null, "phone": null},
-   {"name": "Amy Walker", "role": "User/recipient of lodging tax funds", "affiliation": null, "email": null, "phone": null},
-   {"name": "Chalon Burns", "role": "Provider/collector of lodging tax", "affiliation": "Best Western Liberty Inn", "email": null, "phone": null},
-   {"name": null, "role": "Provider/collector of lodging tax (vacant)", "affiliation": null, "email": null, "phone": null}
+   {
+    "name": "Councilmember Gasak",
+    "role": "Elected official (chair)",
+    "affiliation": "DuPont City Council (Councilmember Elliott, alternate)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Justin Gravatt",
+    "role": "User/recipient of lodging tax funds",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Amy Walker",
+    "role": "User/recipient of lodging tax funds",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Chalon Burns",
+    "role": "Provider/collector of lodging tax",
+    "affiliation": "Best Western Liberty Inn",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": null,
+    "role": "Provider/collector of lodging tax (vacant)",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
   ],
   "members_source": "https://dupontwa.gov/87/Lodging-Tax-Advisory-Committee",
   "members_as_of": "2026-10-30",
@@ -166,11 +238,41 @@
   "notes": "Applications are scored on six criteria (organizational capacity, innovation, marketing, collaboration, visitor economic impact, overnight-stay economic impact) plus up to six bonus points, with priority for November to April off-season events. Grants are reimbursement only after a municipal services contract is signed; awardees attend a January webinar. Historically the Chamber's visitor center takes more than half the pool, leaving roughly $50,000 for events in 2026. Two of the five LTAC seats were vacant as of Oct 2026.",
   "confidence": "high",
   "members": [
-   {"name": "Tami Beaumont", "role": "Elected official (chair)", "affiliation": "Monroe City Council", "email": null, "phone": null},
-   {"name": "Doug Hobbs", "role": "Committee member (Position 3)", "affiliation": "High Road Promotions", "email": null, "phone": null},
-   {"name": "Connie Goss", "role": "Committee member (Position 4)", "affiliation": "Monroe Arts Council", "email": null, "phone": null},
-   {"name": null, "role": "Position 1 (vacant)", "affiliation": null, "email": null, "phone": null},
-   {"name": null, "role": "Position 2 (vacant)", "affiliation": null, "email": null, "phone": null}
+   {
+    "name": "Tami Beaumont",
+    "role": "Elected official (chair)",
+    "affiliation": "Monroe City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Doug Hobbs",
+    "role": "Committee member (Position 3)",
+    "affiliation": "High Road Promotions",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Connie Goss",
+    "role": "Committee member (Position 4)",
+    "affiliation": "Monroe Arts Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": null,
+    "role": "Position 1 (vacant)",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": null,
+    "role": "Position 2 (vacant)",
+    "affiliation": null,
+    "email": null,
+    "phone": null
+   }
   ],
   "members_source": "https://www.monroewa.gov/256",
   "members_as_of": "2026-10-30",
@@ -417,7 +519,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": null,
   "competitive_pool_usd": null,
@@ -458,7 +565,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": 100900,
   "competitive_pool_usd": 50900,
@@ -507,7 +619,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": null,
   "competitive_pool_usd": null,
@@ -556,7 +673,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": 50000,
   "competitive_pool_usd": 50000,
@@ -670,7 +792,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": "Not published; council acts on applications at regular meetings (first and third Mondays, 5:00 pm)",
   "total_pool_usd": null,
   "competitive_pool_usd": null,
@@ -733,7 +860,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": null,
   "competitive_pool_usd": null,
@@ -774,7 +906,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": null,
   "competitive_pool_usd": null,
@@ -815,7 +952,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": null,
   "competitive_pool_usd": 0,
@@ -875,7 +1017,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": "Not published; LTAC meets after the spring deadline and again when council remands recommendations",
   "total_pool_usd": 65000,
   "competitive_pool_usd": 15000,
@@ -945,7 +1092,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": null,
   "competitive_pool_usd": null,
@@ -986,7 +1138,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": null,
   "competitive_pool_usd": null,
@@ -1027,7 +1184,12 @@
   "members": [],
   "members_source": null,
   "members_as_of": null,
-  "presentation": {"required": false, "date": null, "pattern": null, "format": null},
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
   "meeting_schedule": null,
   "total_pool_usd": null,
   "competitive_pool_usd": null,

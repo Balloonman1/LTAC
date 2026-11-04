@@ -458,7 +458,11 @@ function cmpStats(r){
   const bt=s?s.bytype||{}:{}; const tot=s?s.total:null;
   const dmo=s?(s.recs||[]).filter(q=>q[1]==='M').reduce((a,q)=>a+(q[2]||0),0):null;
   const lamts=ls?ls.awards.map(a=>a.amount).filter(a=>typeof a==='number').sort((p,q)=>p-q):[];
-  return {r,name:r.name,type:r.type,region:r.region,total:r.total_pool_usd,open:r.competitive_pool_usd,share:r.total_pool_usd&&r.competitive_pool_usd!=null?r.competitive_pool_usd/r.total_pool_usd:null,
+  const lout=ls?ls.awards.filter(a=>!a.dmo&&typeof a.amount==='number').reduce((x,a)=>x+a.amount,0):null;
+  const evOut=s?(s.recs||[]).filter(q=>q[1]==='E').reduce((x,q)=>x+(q[2]||0),0):null;
+  const openEst=r.competitive_pool_usd!=null?r.competitive_pool_usd:(lout||evOut||null); const openSrc=r.competitive_pool_usd!=null?'':(lout?' (est., council records)':(evOut?' (est., state data)':''));
+  const totEst=r.total_pool_usd!=null?r.total_pool_usd:(ls&&ls.total?ls.total:(tot||null));
+  return {r,name:r.name,type:r.type,region:r.region,total:totEst,open:openEst,openSrc,share:totEst&&openEst!=null?Math.min(1,openEst/totEst):null,
     y,awards:s?s.awards:null,ev_awards:s?s.ev_awards:null,jtotal:tot,ev_total:s?s.ev_total:null,ev_median:s?s.ev_median:null,ev_max:s?s.ev_max:null,
     evshare:tot?(bt['Event/Festival']||0)/tot:null,mshare:tot?(bt['Marketing']||0)/tot:null,fshare:tot?(bt['Facility']||0)/tot:null,
     nights:s?s.nights:null,cpn:s&&s.nights&&s.ev_total?s.ev_total/s.nights:null,shared:s?s.shared_nights:null,fp:s?s.forprofit:null,
@@ -479,8 +483,9 @@ function cmpRender(){
   const pct=v=>v==null?'–':Math.round(v*100)+'%'; const num=v=>v==null?'–':v.toLocaleString(); const m=v=>v==null?'–':money(v); const d=v=>v==null?'–':'$'+Math.round(v);
   const rows=[
     ['sec','Fund'],
-    ['Total lodging tax fund (documented, else latest awarded)',S.map(s=>s.total!=null?s.total:s.jtotal),m,'hi'],
+    ['Total lodging tax fund (documented, else latest year awarded)',S.map(s=>s.total),m,'hi'],
     ['Open to outside applicants',S.map(s=>s.open),m,'hi'],
+    ['Basis for "open" figure',S.map(s=>s.open==null?'not published':(s.openSrc?s.openSrc.replace(/^ \(|\)$/g,''):'documented')),v=>v],
     ['Share of fund open',S.map(s=>s.share),pct,'hi'],
     ['sec','Awards (latest JLARC year)'],
     ['Year',S.map(s=>s.y),v=>v||'–'],
