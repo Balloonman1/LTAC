@@ -7,6 +7,7 @@ CITIES={"Seattle":[47.6062,-122.3321],"Bellevue":[47.6101,-122.2015],"SeaTac":[4
 
 CITIES.update(json.load(open(S+'cities2.json')))
 CITIES_OR=json.load(open(S+'cities_or.json')) if os.path.exists(S+'cities_or.json') else {}
+CITIES_ID=json.load(open(S+'cities_id.json')) if os.path.exists(S+'cities_id.json') else {}
 data=json.load(open(R+'data.json'))
 def scrub(t):
     if not t: return t
@@ -33,12 +34,22 @@ REGION_OR={'Portland Region':['Multnomah','Washington','Clackamas','Columbia'],
  'Mt. Hood and the Gorge':['Hood River','Wasco','Sherman'],
  'Eastern Oregon':['Umatilla','Union','Wallowa','Baker','Malheur','Grant','Harney','Morrow','Gilliam','Wheeler']}
 C2R_OR={c:r for r,cs in REGION_OR.items() for c in cs}
+REGION_ID={'North Idaho':['Boundary','Bonner','Kootenai','Benewah','Shoshone'],
+ 'North Central Idaho':['Latah','Clearwater','Nez Perce','Lewis','Idaho'],
+ 'Southwest Idaho':['Ada','Canyon','Gem','Payette','Washington','Adams','Owyhee','Elmore','Boise'],
+ 'Central Idaho':['Valley','Custer','Lemhi','Blaine','Camas'],
+ 'South Central Idaho':['Twin Falls','Jerome','Gooding','Lincoln','Minidoka','Cassia'],
+ 'Southeast Idaho':['Bannock','Power','Oneida','Franklin','Bear Lake','Caribou','Bingham'],
+ 'Eastern Idaho':['Bonneville','Madison','Jefferson','Fremont','Teton','Clark','Butte']}
+C2R_ID={c:r for r,cs in REGION_ID.items() for c in cs}
+C2R_BY={'WA':C2R,'OR':C2R_OR,'ID':C2R_ID}
 for r in data:
     r.setdefault('state','WA')
-    r['region']=(C2R_OR if r['state']=='OR' else C2R).get(r.get('county'),'Other')
+    r['region']=C2R_BY.get(r['state'],C2R).get(r.get('county'),'Other')
 POP=json.load(open(S+'population.json'))
-if os.path.exists(S+'population_or.json'): POP.update({(k if k=='_source' else k+'|OR'):v for k,v in json.load(open(S+'population_or.json')).items()})
-for r in data: r['population']=POP.get(r['name']+'|OR') if r.get('state')=='OR' else POP.get(r['name'])
+for st in ('OR','ID'):
+    if os.path.exists(S+'population_%s.json'%st.lower()): POP.update({(k if k=='_source' else k+'|'+st):v for k,v in json.load(open(S+'population_%s.json'%st.lower())).items()})
+for r in data: r['population']=POP.get(r['name']) if r.get('state')=='WA' else POP.get(r['name']+'|'+r['state'])
 for r in data: r.setdefault('verified','2026-10-29')
 
 # ---- JLARC merge (optional) ----
@@ -150,7 +161,8 @@ print('alt programs with awards',hit)
 css=open(S+'parts_css.txt').read()+open(S+'v2_extra.css').read()
 law=open(S+'parts_law.txt').read()
 law_or=open(S+'parts_law_or.txt').read() if os.path.exists(S+'parts_law_or.txt') else '<section class="law" data-state="OR"><h2>Oregon law section pending</h2></section>'
-law='<div data-state="WA">'+law+'</div><div data-state="OR">'+law_or+'</div>'
+law_id=open(S+'parts_law_id.txt').read() if os.path.exists(S+'parts_law_id.txt') else '<section class="law"><h2>Idaho law section pending</h2></section>'
+law='<div data-state="WA">'+law+'</div><div data-state="OR">'+law_or+'</div><div data-state="ID">'+law_id+'</div>'
 body=open(S+'v2_body.html').read().replace('<!--LAW-->',law)
 js=open(S+'parts_js.txt').read()
 def rep(a,b):
@@ -163,9 +175,10 @@ rep("document.getElementById('rail').addEventListener('click',e=>{const a=e.targ
 extra=open(S+'v2_extra.js').read()+'\nroute();\n'
 geo=open(S+'geo/wa-counties.json').read()
 geo_or=open(S+'geo/or-counties.json').read()
+geo_id=open(S+'geo/id-counties.json').read()
 libs=open(S+'libs/d3-array.min.js').read()+'\n'+open(S+'libs/d3-geo.min.js').read()+'\n'+open(S+'libs/topojson-client.min.js').read()
 grants=[]
-for f in sorted(glob.glob(R+'grants/*.json'))+sorted(glob.glob(R+'grants_or/*.json')):
+for f in sorted(glob.glob(R+'grants/*.json'))+sorted(glob.glob(R+'grants_or/*.json'))+sorted(glob.glob(R+'grants_id/*.json')):
     try: grants+=json.load(open(f))
     except Exception as ex: print('bad',f,ex)
 # fold the directory's per-card alternative programs into the catalog (skipping LTAC programs and duplicates)
@@ -235,7 +248,7 @@ for g in grants: g.setdefault('state','WA')
 print('grants',len(grants))
 gr=json.dumps(grants,separators=(',',':'),ensure_ascii=False).replace('</script','<\\/script')
 evs=open(R+'jlarc/events.json').read().replace('</script','<\\/script')
-meta=json.dumps({'asof':ASOF,'cities_or':CITIES_OR,'state':{'exact_share':0.20,'under_half_share':0.20,'over150_share':0.15,'median_event_award':7562,'full_funding_share':0.59,'events_share_of_dollars':0.15,'median_cpn':55,'median_share_open':0.51,'awards_per_program':4,'programs_with_award_list':'59 of 128','sports_cpn':29,'oneday_cpn':93,'multiday_cpn':50},'contact':'eliav@seattleballooning.com','cities':CITIES},separators=(',',':'))
+meta=json.dumps({'asof':ASOF,'cities_or':CITIES_OR,'cities_id':CITIES_ID,'state':{'exact_share':0.20,'under_half_share':0.20,'over150_share':0.15,'median_event_award':7562,'full_funding_share':0.59,'events_share_of_dollars':0.15,'median_cpn':55,'median_share_open':0.51,'awards_per_program':4,'programs_with_award_list':'59 of 128','sports_cpn':29,'oneday_cpn':93,'multiday_cpn':50},'contact':'eliav@seattleballooning.com','cities':CITIES},separators=(',',':'))
 dj=json.dumps(data,separators=(',',':'),ensure_ascii=False).replace('</script','<\\/script')
 html=f'''<title>WA Lodging Tax Grants</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -246,6 +259,7 @@ html=f'''<title>WA Lodging Tax Grants</title>
 <script id="meta" type="application/json">{meta}</script>
 <script id="geo" type="application/json">{geo}</script>
 <script id="geo-or" type="application/json">{geo_or}</script>
+<script id="geo-id" type="application/json">{geo_id}</script>
 <script id="events" type="application/json">{evs}</script>
 <script id="grants" type="application/json">{gr}</script>
 <script id="data" type="application/json">{dj}</script>

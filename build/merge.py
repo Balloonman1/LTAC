@@ -16,13 +16,14 @@ for f in sorted(glob.glob(B+'batches/batch_x*.json')):
     except Exception as ex: print('bad',f,ex)
 for r in out: r['state']='WA'
 WA_NAMES={r['name'] for r in out}|{r['name']+' County' for r in out if r['type']=='county' and not r['name'].endswith('County')}
-for f in sorted(glob.glob(B+'batches/or_*.json')):
+for f in sorted(glob.glob(B+'batches/or_*.json'))+sorted(glob.glob(B+'batches/id_*.json')):
     try: recs=fix(json.load(open(f)))
     except Exception as ex: print('bad',f,ex); continue
+    ST='ID' if os.path.basename(f).startswith('id_') else 'OR'
     for r in recs:
-        r['state']='OR'
+        r['state']=ST
         if r.get('type')=='county' and not r['name'].endswith('County'): r['name']+=' County'
-        if r['name'] in WA_NAMES: r['name']=r['name']+', Oregon'
+        if r['name'] in WA_NAMES: r['name']=r['name']+(', Oregon' if ST=='OR' else ', Idaho')
         r['_or']=True
         la=r.get('local_awards')
         if isinstance(la,dict) and la.get('years'):
@@ -57,7 +58,7 @@ for r in out:
     for d in ('deadline',):
         if r[d] and not re.match(r'^\d{4}-\d{2}-\d{2}$',str(r[d])): r[d]=None
     r['county']=re.sub(r'\s+County$','',r['county'] or '')
-    if r['type']=='county' and not r['name'].endswith('County') and not r['name'].endswith(', Oregon'): r['name']+=' County'
+    if r['type']=='county' and not r['name'].endswith('County') and not r['name'].endswith(', Oregon') and not r['name'].endswith(', Idaho'): r['name']+=' County'
     for d in (r['deadline'],r['presentation'].get('date'),r['members_as_of']):
         if d and not re.match(r'^\d{4}-\d{2}-\d{2}$',d): print('bad date',r['name'],d)
 fp=json.load(open(B+'fp.json'))
