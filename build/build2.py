@@ -79,7 +79,25 @@ if os.path.exists(jl):
                       'ev_awards':len(evamts),'ev_total':round(sum(evamts)),'ev_median':round(statistics.median(evamts)) if evamts else None,'ev_max':round(max(evamts)) if evamts else None,
                       'nights':round(sum(evn)) if evn else None,'nights_n':len(evn),'dup_nights':round(dup),'shared_nights':round(shn),'shared':[[q[1],q[2],q[3]] for q in sh],
                       'bytype':bytype,'top':top,'forprofit':fp,'recs':recs}
-        if years: r['jlarc']={'years':years}
+        if years:
+            r['jlarc']={'years':years}
+            # diagnostics for the peer report, latest year
+            ly=max(years); lyr=[x for x in rs if str(x.get('year'))==ly and not x.get('recipient_is_jurisdiction') and num(x.get('amount_awarded')) and x['amount_awarded']>0]
+            evl=[x for x in lyr if x.get('activity_type')=='Event/Festival']
+            def hit(x):
+                p=num(x.get('paid_lodging_nights_predicted')); a=num(x.get('paid_lodging_nights'))
+                return (a/p) if (p and p>0 and a is not None) else None
+            hits=[(x,hit(x)) for x in evl]; hits=[(x,h) for x,h in hits if h is not None]
+            zero=[[x.get('recipient'),round(x['amount_awarded'])] for x in evl if x['amount_awarded']>=10000 and (num(x.get('paid_lodging_nights')) or 0)==0]
+            noest=sum(1 for x in evl if hit(x) is None)
+            recips={nrec(x.get('recipient')) for x in lyr}
+            evamts=sorted([x['amount_awarded'] for x in evl],reverse=True)
+            first=min(years); g_tot=(years[ly]['total']/years[first]['total']) if years[first]['total'] and ly!=first else None
+            g_ev=((years[ly]['bytype'].get('Event/Festival',0)+1)/(years[first]['bytype'].get('Event/Festival',0)+1)) if ly!=first else None
+            methods=collections.Counter((x.get('attendance_method') or 'none') for x in evl)
+            r['diag']={'year':ly,'first':first,'event_reports':len(hits),'exact':sum(1 for x,h in hits if abs(h-1)<1e-9),'under_half':sum(1 for x,h in hits if h<0.5),'over_150':sum(1 for x,h in hits if h>1.5),
+                       'zero_nights':zero,'no_estimate':noest,'event_awards':len(evl),'distinct_recipients':len(recips),'top_event_share':(evamts[0]/sum(evamts)) if len(evamts)>=3 else None,
+                       'growth_total':g_tot,'growth_event':g_ev,'weak_methods':sum(methods.get(m,0) for m in ('Informal Survey','none','N/A')),'direct':methods.get('Direct Count',0)}
     print('jlarc matched',sum(1 for r in data if r.get('jlarc')))
 else:
     print('no jlarc file yet')
@@ -201,7 +219,7 @@ for r in data:
 print('grants',len(grants))
 gr=json.dumps(grants,separators=(',',':'),ensure_ascii=False).replace('</script','<\\/script')
 evs=open(R+'jlarc/events.json').read().replace('</script','<\\/script')
-meta=json.dumps({'asof':ASOF,'contact':'eliav@seattleballooning.com','cities':CITIES},separators=(',',':'))
+meta=json.dumps({'asof':ASOF,'state':{'exact_share':0.20,'under_half_share':0.20,'over150_share':0.15,'median_event_award':7562,'full_funding_share':0.59,'events_share_of_dollars':0.15,'median_cpn':55,'median_share_open':0.51,'awards_per_program':4,'programs_with_award_list':'59 of 128','sports_cpn':29,'oneday_cpn':93,'multiday_cpn':50},'contact':'eliav@seattleballooning.com','cities':CITIES},separators=(',',':'))
 dj=json.dumps(data,separators=(',',':'),ensure_ascii=False).replace('</script','<\\/script')
 html=f'''<title>WA Lodging Tax Grants</title>
 <meta name="claude:viewport-fit-sides" content="cover">
