@@ -478,7 +478,7 @@ function initGrants(){
 function drawGrants(){
   const city=document.getElementById('g-city').value, kind=document.getElementById('g-kind').value, app=document.getElementById('g-app').value, when=document.getElementById('g-when').value;
   const r=city?data.find(x=>x.name===city):null; const county=r?r.county:null; const region=r?r.region:null; const cityName=r&&r.type==='city'?r.name:null;
-  let list=GRANTS.filter(g=>!city||gApplies(g,cityName,county,region));
+  let list=GRANTS.filter(g=>!city||g.level==='national'||gApplies(g,cityName,county,region));
   if(kind) list=list.filter(g=>(g.kinds||[]).includes(kind)||(kind==='cultural'&&(g.kinds||[]).some(k=>k==='heritage')));
   if(app) list=list.filter(g=>{const a=g.applicants||[]; if(app==='for-profit') return a.includes('for-profit')||a.includes('fiscal sponsor accepted'); if(app==='public agency') return a.includes('public agency')||a.includes('tribe'); return a.includes(app);});
   if(when==='rolling') list=list.filter(g=>g.rolling);
@@ -493,7 +493,7 @@ function drawGrants(){
     if(here.length) ltac=`<div class="gband fres"><h3>Lodging tax programs here</h3>${here.map(x=>{const s=status(x);return `<div class="fr gr"><h4><a href="#j-${slug(x.name)}">${esc(x.name)} lodging tax grants</a></h4><span class="score">${x.type==='county'?'County':(x.type==='district'?'District':'City')}</span><div class="why"><span class="gb ${s.key==='open'?'ok':''}">${s.label}${x.deadline?' · '+fmt(x.deadline):''}</span> ${x.competitive_pool_usd!=null?`<b>${money(x.competitive_pool_usd)} open to applicants</b>`:''} ${x.for_profit==='yes'?'<span class="gb ok">For-profit OK</span>':(x.for_profit==='sponsor'?'<span class="gb">Via fiscal sponsor</span>':'')}</div>${x.deadline_pattern?`<div class="why">${esc(x.deadline_pattern)}</div>`:''}</div>`;}).join('')}</div>`;
   }
   const bands=[['city','City programs'],['county','County programs'],['regional','Regional programs'],['statewide','Statewide and national programs']];
-  const html=bands.map(([lv,t])=>{const L=list.filter(g=>g.level===lv); return L.length?`<div class="gband fres"><h3>${t} <span class="dimtxt">${L.length}</span></h3>${L.map(gCard).join('')}</div>`:'';}).join('');
+  const html=bands.map(([lv,t])=>{const L=list.filter(g=>g.level===lv||(lv==='statewide'&&g.level==='national')); return L.length?`<div class="gband fres"><h3>${t} <span class="dimtxt">${L.length}</span></h3>${L.map(gCard).join('')}</div>`:'';}).join('');
   document.getElementById('grantRes').innerHTML=(ltac+html)||'<p class="empty">Nothing in the catalog matches. Loosen a filter.</p>';
 }
 
@@ -687,7 +687,7 @@ function reportHtml(r,peerList){
       <div class="rt"><b>${m(S.total)}</b><span>total fund</span></div><div class="rt"><b>${m(S.open)}</b><span>open to applicants${S.openSrc?' (est.)':''}</span></div><div class="rt"><b>${pct(S.share)}</b><span>share open</span></div>
       <div class="rt"><b>${m(S.ev_max)}</b><span>largest event award</span></div><div class="rt"><b>${num(S.nights)}</b><span>event room nights</span></div><div class="rt"><b>${S.cpn!=null?'$'+Math.round(S.cpn):'–'}</b><span>event $ per night</span></div>
     </div>
-    ${STATE==='OR'?'<p class="hint2">Oregon note: HB 4148 (2026) lowers the tourism share of post-2003 lodging tax from 70% to 50% for budgets starting Jan 1, 2027, adds resiliency grants as an allowed use, and starts biennial state reporting in September 2027. Councils deciding what to do with the freed 20% is the live question in most of these jurisdictions.</p>':''}
+    ${STATE==='OR'?'<p class="hint2">Oregon note: HB 4148 (2026) lowers the required tourism share of post-2003 lodging tax from 70% to 50% on January 1, 2027, applying to reserves as well as new collections. It also adds resiliency grants as an allowed use and starts reports to the Legislature on September 1, 2027. What each council does with the freed 20% is the live question. <a href="#guidelines" data-goto="hb4148">Read the council decision brief</a>.</p>':''}
     <h3>What stands out</h3><ol class="rins">${ins.join('')}</ol>
     <h3>${custom?'Against the selected jurisdictions':'Against peers of similar fund size'}</h3><div class="tw">${table}</div>
     <h3>Three-year trend</h3><div class="tw">${trend}</div>

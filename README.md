@@ -17,6 +17,15 @@ Idaho (`?state=ID`) works the same way with `build/batches/id_*.json`, `build/po
 
 Oregon and Idaho have no JLARC-style award series, so the Top events tab is hidden for them and benchmark, compare and peer-report figures come from the `local_awards` captured from council minutes, budgets and program pages (marked "local"). Room-night columns stay empty. HB 4148 (2026) cuts the tourism share of post-2003 lodging tax from 70% to 50% for budgets starting January 1, 2027 and starts biennial state reporting in September 2027; the law section and peer reports note this.
 
+## Planning and review tools
+
+- `#plan` Funding plan: event date, place, kind, applicant type, goal and room nights produce every lodging tax round and catalog grant whose deadline lands before the event, in order, with ask ranges from each program's own awards, a downloadable `.ics` calendar (deadline plus a start reminder three weeks earlier) and a copyable plan. It includes the return calculator (`#roiSec`): lodging tax generated = paid nights x room rate x local rate. Room rates come from `library/adr.json` (regional where published; otherwise an average of the state's published figures, or a $150 placeholder for Idaho). The local rate defaults to the first percentage in the card's `tax_rate` text (`rate_pct`, computed at build).
+- `#track` and `#track=<name>` Applicant track record: every award to an organization across jurisdictions and years. Washington rows come from `jlarc/normalized.json` (estimate vs. reported room nights, method); Oregon, Idaho and 2025/26 Washington rows come from `local_awards` (amounts only). Built in `build/v3_data.py` into the `track` script block.
+- `#library` Model documents: curated picks in `library/library.json` (category, state, jurisdiction, title, url, year, why, best_for).
+- Application kit, "Draft my application": builds a prompt from the program record and the event details. Inside the Claude artifact it drafts with the `sample` capability; on the public site it copies the prompt for pasting into Claude.
+- Change log: `build/v3_data.py` walks the git history of `data.json` and records changes to deadline, pool, cycle, roster size, program status, presentation date and program link. Cards show the latest three; the Directory has a "Recent changes" list.
+- Guides in `library/`: `counting_guide.html` (how to count room nights, shown under Guidelines for every state, anchor `#counting`) and `hb4148_brief.html` (Oregon council decision brief, anchor `#hb4148`).
+
 ## Follow lists and sorting
 
 - Every card has a Follow button; "My list" in the toolbar shows only followed jurisdictions. The Sort menu orders by soonest deadline, most dollars open to applicants, largest total fund, or name.

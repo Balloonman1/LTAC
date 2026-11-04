@@ -11,8 +11,9 @@
   <a href="#directory" data-view="directory">Directory</a>
   <a href="#map" data-view="map">Map</a>
   <a href="#finder" data-view="finder">Finder</a>
+  <a href="#plan" data-view="plan">Funding plan</a>
   <a href="#kit" data-view="kit">Application kit</a>
-  <a href="#benchmarks" data-view="benchmarks">Benchmarks</a><a href="#events" data-view="events">Top events</a><a href="#grants" data-view="grants">Other funding</a><a href="#report" data-view="report">Peer report</a>
+  <a href="#benchmarks" data-view="benchmarks">Benchmarks</a><a href="#track" data-view="track">Track record</a><a href="#events" data-view="events">Top events</a><a href="#grants" data-view="grants">Other funding</a><a href="#report" data-view="report">Peer report</a><a href="#library" data-view="library">Library</a>
   <a href="#guidelines" data-view="guidelines">Guidelines</a>
   <a href="#board" data-view="board">Board</a>
 </div></nav>
@@ -22,6 +23,7 @@
 <div class="rail-wrap gutter"><div class="inner">
   <div class="rail-head"><h2>Up next</h2><span>Soonest deadlines, published and projected</span></div>
   <div class="rail" id="rail"></div>
+  <details class="recent" id="recentWrap" hidden><summary>Recent changes <span id="recentN"></span></summary><div id="recentList"></div></details>
 </div></div>
 
 <div class="bar gutter" role="search"><div class="inner">
@@ -76,9 +78,77 @@
   <div id="finderOut"></div>
 </div></div>
 
+<!-- ============ FUNDING PLAN ============ -->
+<div class="view gutter" id="v-plan" hidden><div class="inner">
+  <div class="vhead"><h2>Funding plan</h2><p>Describe the event once. You get every lodging tax round and grant you can still make before the event, in deadline order, with a realistic ask for each, and a calendar file with every deadline.</p></div>
+  <form class="finder" id="planForm">
+    <label class="wide">Event name<input id="p-name" type="text" placeholder="Riverside Balloon Festival"></label>
+    <label>Event starts<input id="p-date" type="date" required></label>
+    <label>Where<select id="p-where" required><option value="">Choose a city, county or district…</option></select></label>
+    <label>Kind of event<select id="p-kind"><option value="festival">Festival</option><option value="arts">Arts</option><option value="music">Music</option><option value="cultural">Cultural or heritage</option><option value="sports">Sports or participant event</option><option value="community event">Community event</option><option value="tourism marketing">Tourism marketing</option></select></label>
+    <label>You are a<select id="p-app"><option value="nonprofit">Nonprofit</option><option value="for-profit">For-profit business</option><option value="public agency">City, county, tribe or district</option></select></label>
+    <label>Total event budget ($)<input id="p-budget" type="number" min="0" step="500" placeholder="80000"></label>
+    <label>Hoping to raise ($)<input id="p-goal" type="number" min="0" step="500" placeholder="25000"></label>
+    <label>Expected attendance<input id="p-att" type="number" min="0" step="100" placeholder="15000"></label>
+    <label>Expected paid room nights<input id="p-nights" type="number" min="0" step="10" placeholder="600"></label>
+    <label class="chk"><input type="checkbox" id="p-sponsor" checked> I can apply through a nonprofit fiscal sponsor if needed</label>
+    <button type="submit">Build my plan</button>
+  </form>
+  <div id="planOut"></div>
+  <section class="kitsec" id="roiSec">
+    <h3>Return on a lodging tax grant</h3>
+    <p class="hint2">What a grant brings back to the fund that paid it. Room rate defaults to the regional average; the tax rate defaults to the local rate on the jurisdiction's card. Change either to match your hotels.</p>
+    <div class="roigrid">
+      <label>Jurisdiction<select id="r-where"><option value="">Choose…</option></select></label>
+      <label>Grant amount ($)<input id="r-grant" type="number" min="0" step="500" value="10000"></label>
+      <label>Paid room nights<input id="r-nights" type="number" min="0" step="10" value="500"></label>
+      <label>Average room rate ($)<input id="r-adr" type="number" min="0" step="1" value="150"></label>
+      <label>Local lodging tax rate (%)<input id="r-rate" type="number" min="0" step="0.1" value="4"></label>
+    </div>
+    <div id="roiOut" class="roiout"></div>
+  </section>
+</div></div>
+<!-- ============ TRACK RECORD ============ -->
+<div class="view gutter" id="v-track" hidden><div class="inner">
+  <div class="vhead"><h2>Applicant track record</h2><p>Look up any organization's lodging tax history: every award, by year and jurisdiction, with the room nights it projected next to the room nights it reported. Washington rows come from the state's 2022 to 2024 reports; Oregon, Idaho and 2025 to 2026 Washington rows come from council and committee records and carry amounts only.</p></div>
+  <div class="cmpbar"><input id="t-q" type="search" list="t-list" placeholder="Organization name, for example Tulip Festival" aria-label="Organization"><datalist id="t-list"></datalist><button class="btn" id="t-go" type="button">Look up</button></div>
+  <div id="trackOut"></div>
+  <h3 class="gcal-h">Most funded organizations</h3>
+  <p class="hint2">Ranked by total lodging tax awarded across every jurisdiction and year on record. Click a name for its track record.</p>
+  <div id="trackTop"></div>
+</div></div>
+<!-- ============ LIBRARY ============ -->
+<div class="view gutter" id="v-library" hidden><div class="inner">
+  <div class="vhead"><h2>Model documents</h2><p>The strongest guidelines, scoring rubrics, application forms, report forms, bylaws and ordinances from across Washington, Oregon and Idaho, with a line on what each does well. Start or fix a program from the best example, not the nearest one.</p></div>
+  <form class="finder" id="libForm">
+    <label>Kind of document<select id="l-cat"><option value="">All</option></select></label>
+    <label>State<select id="l-state"><option value="">All three</option><option value="WA">Washington</option><option value="OR">Oregon</option><option value="ID">Idaho</option></select></label>
+    <label>Most useful to<select id="l-who"><option value="">Anyone</option><option value="city staff">City staff</option><option value="committee">Committee members</option><option value="producer">Event producers</option></select></label>
+  </form>
+  <div id="libOut"></div>
+  <p class="hint2" id="libAll"></p>
+</div></div>
 <!-- ============ KIT ============ -->
 <div class="view gutter" id="v-kit" hidden><div class="inner">
-  <div class="vhead"><h2>Application kit</h2><p>The three things every LTAC asks for and most applicants get wrong: a defensible tourism-impact estimate, a budget with a reduced-award plan, and a post-event report in the state's categories. Fill these in here, then copy into the jurisdiction's form.</p></div>
+  <div class="vhead"><h2>Application kit</h2><p>The three things every LTAC asks for and most applicants get wrong: a defensible tourism-impact estimate, a budget with a reduced-award plan, and a post-event report in the state's categories. Fill these in here, then copy into the jurisdiction's form. See also <a href="#guidelines" data-goto="counting">how to count room nights and attendance</a>.</p></div>
+
+    <section class="kitsec" id="draftSec">
+    <h3>Draft my application</h3>
+    <p class="hint2">Pick the program and describe the event. The draft answers that program's own priorities in plain language, using your numbers. Review every line before you submit; the committee will hold you to the estimates.</p>
+    <div class="roigrid">
+      <label>Program<select id="d-where"><option value="">Choose a lodging tax program…</option></select></label>
+      <label>Event name<input id="d-name" type="text"></label>
+      <label>Dates<input id="d-dates" type="text" placeholder="June 12 to 14, 2027"></label>
+      <label>Amount requested ($)<input id="d-ask" type="number" min="0" step="500"></label>
+      <label>Expected attendance<input id="d-att" type="number" min="0"></label>
+      <label>Expected paid room nights<input id="d-nights" type="number" min="0"></label>
+      <label>Share from 50+ miles (%)<input id="d-far" type="number" min="0" max="100"></label>
+      <label>Applicant<select id="d-app"><option>Nonprofit</option><option>For-profit business</option><option>Public agency</option></select></label>
+      <label class="wide">What the event is, who comes, how you will market it out of the area, and how you will count room nights<textarea id="d-desc" rows="5"></textarea></label>
+    </div>
+    <div class="cmpbar"><button class="btn" id="d-go" type="button">Draft it</button><button class="btn ghost2" id="d-copy" type="button">Copy as a prompt for Claude</button><span id="d-msg" class="hint2"></span></div>
+    <div id="draftOut" class="draftout"></div>
+  </section>
 
   <section class="kitsec">
     <h3>1. Tourism impact calculator</h3>
@@ -224,6 +294,7 @@
 <div class="view gutter" id="v-guidelines" hidden><div class="inner">
   <div class="vhead"><h2>Guidelines</h2><p>What the law allows, then practical guidance for each kind of person who uses this site: event producers, chambers and DMOs, committee members, and the staff who run the programs.</p></div>
   <!--LAW-->
+  <!--GUIDES-->
   <div class="seg gseg" id="guideSeg" role="group" aria-label="Who are you">
     <button data-v="all" aria-pressed="true">Everyone</button>
     <button data-v="event" aria-pressed="false">Event producers</button>
@@ -404,7 +475,7 @@
   <p data-state="OR">Compiled from official city and county pages, adopted budgets, council and committee agendas and minutes, ordinances and local news, as of <span class="asof2"></span>. Oregon publishes no statewide award series, so award figures come from local records and can be incomplete. Deadlines marked "projected" are taken from the last published date and must be confirmed with staff. Each card shows when it was last verified and has a correction link; corrections from city and county staff are welcome.</p>
   <p data-state="ID">Compiled from official city and district pages, local option tax ordinances and ballot language, adopted budgets, council and board minutes and local news, as of <span class="asof2"></span>. Idaho publishes no statewide award series, so award figures come from local records and can be incomplete. Deadlines marked "projected" are taken from the last published date and must be confirmed with staff. Each card shows when it was last verified and has a correction link; corrections from city and district staff are welcome.</p>
   <p data-state="WA">Under RCW 67.28.1817 every LTAC has at least five members: an elected official as chair, at least two representatives of businesses that collect the tax, and at least two representatives of activities the tax funds. </p>
-  <p data-state="OR">Oregon law sets no advisory committee requirement; each city or county decides who reviews requests. HB 4148 (2026) lowers the tourism share of post-2003 lodging tax from 70% to 50% on January 1, 2027.</p>
+  <p data-state="OR">Oregon law sets no advisory committee requirement; each city or county decides who reviews requests. HB 4148 (2026) lowers the required tourism share of post-2003 lodging tax from 70% to 50% on January 1, 2027.</p>
   <p data-state="ID">Idaho law sets no advisory committee requirement; resort city councils and auditorium district boards decide, often through a local option tax commission. Idaho counties cannot levy a lodging tax.</p>
   <p class="credit">Built and maintained by <a href="https://seattleballooning.com/?utm_source=walodgingtax&amp;utm_medium=footer" rel="noopener">Seattle Ballooning</a>, the Pacific Northwest's largest hot air balloon company, as a free public resource for Washington, Oregon and Idaho event producers, chambers, destination marketing organizations and lodging tax committees. Questions and corrections: <a href="mailto:eliav@seattleballooning.com">eliav@seattleballooning.com</a>.</p>
 </div></footer>

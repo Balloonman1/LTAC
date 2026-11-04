@@ -1,0 +1,248 @@
+{
+  "year_note": "Full-year 2025 hotel ADR is not publicly published for most of these regions; STR/CoStar regional tables sit behind DMO logins. Each entry states its actual period. Seattle is a Q4 2025 figure (Kidder Mathews, CoStar-based). Thurston County is 2025 year-end. Portland is full-year 2024 and Spokane is full-year 2023 (Newmark, CoStar/HotelCompete). Lane County is FY2024-25 (July-June). Central Oregon is Jan-Jul 2025 YTD. Null means no sourced figure was found, and no number was estimated. Figures are hotel ADR unless noted. Short-term rental ADRs are listed separately under str.",
+  "regions": {
+    "WA": {
+      "Puget Sound": {
+        "adr": 180,
+        "year": "2025 (Q4)",
+        "basis": "city:Seattle",
+        "source": "https://kidder.com/wp-content/uploads/market_report/hotel-market-research-seattle-2025-4q.pdf",
+        "note": "Seattle market ADR $180 in Q4 2025 per Kidder Mathews (occupancy shown as trailing twelve months, 69.0%). Q4 2025 submarkets in the same report: Seattle CBD $237, South Lake Union $200, Bellevue CBD $223, SeaTac $145, Tacoma $174, Lynnwood $150, Everett $125. Thurston County (Olympia) hotels 2025 year-end ADR $151.53 (Experience Olympia scorecard: https://experience-olympia.s3.amazonaws.com/images/files/December-2025-scorecard_digital-web.pdf)."
+      },
+      "Olympic Peninsula and Coast": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "Southwest": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04. Visit Vancouver USA materials list only group-quoted rates, not ADR. If the site places Thurston County in Southwest, use $151.53 (2025, https://experience-olympia.s3.amazonaws.com/images/files/December-2025-scorecard_digital-web.pdf)."
+      },
+      "North Central": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "South Central": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04. A June 2026 Tri-Cities Area Journal of Business article says Tri-Cities room rates 'remained consistent' but gives no figure."
+      },
+      "Northeast": {
+        "adr": 131.42,
+        "year": "2023",
+        "basis": "city:Spokane",
+        "source": "https://nmrk.com/storage-nmrk/uploads/documents/hotel-nsights/Newmark_VA_Hotel-Nsights-Report_Spokane_WA.PDF",
+        "note": "Spokane full-year 2023 Guest Paid ADR (Newmark Hotel Market Nsights, 1Q 2024 edition). 1Q 2024 was $127.23. No 2024 or 2025 Spokane ADR was found in public sources."
+      },
+      "Southeast": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "_statewide": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No statewide ADR found. State of Washington Tourism (May 2026) cites STR: Washington hotel demand fell 1.1% in 2025. Source: https://industry.stateofwatourism.com/new-tourism-report-indicates-slowing-visitation-for-state-of-washington/"
+      }
+    },
+    "OR": {
+      "Portland Region": {
+        "adr": 136.68,
+        "year": "2024",
+        "basis": "city:Portland",
+        "source": "https://nmrk.imgix.net/uploads/documents/hotel-nsights/Newmark_VA_Hotel-Nsights-Report_Portland_OR.PDF",
+        "note": "Portland OR Guest Paid ADR, full-year 2024 (Newmark Hotel Market Nsights, 1Q 2025 edition). 1Q 2025 was $126.98. Washington County OR hotels, September 2025 monthly: $128.02 (-7.5% YoY) per Explore Tualatin Valley: https://tualatinvalley.org/industry/industry-news/2025/10/tualatin-valley-insights-october-2025"
+      },
+      "Willamette Valley": {
+        "adr": 153.35,
+        "year": "FY2024-25 (Jul 2024-Jun 2025)",
+        "basis": "city:Eugene (Lane County)",
+        "source": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/lanecounty/Annual_Report_FY25_6dfaa622-d154-46c8-a51c-3175495663cd.pdf",
+        "note": "Lane County hotel ADR from Travel Lane County FY25 annual report, source STR; down 3.5%. Travel Salem reports only a % change (-2.6% hotel ADR, 2025-26 YTD), not a dollar figure."
+      },
+      "Oregon Coast": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04. HVS (2025) notes coastal ADR declines in Jan-Apr 2025 but gives no figure."
+      },
+      "Southern Oregon": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No full-year figure found. Travel Southern Oregon's December 2025 newsletter reports October 2025 (single month) Jackson County ADR of $121, the highest in the region: https://t.e2ma.net/webview/g3gsk9b/e4de0bcfaf852c593eb7c4d3b572e21d"
+      },
+      "Central Oregon": {
+        "adr": 161,
+        "year": "2025 (Jan-Jul YTD)",
+        "basis": "regional",
+        "source": "https://visitcentraloregon.com/wp-content/uploads/2025/09/Visit-Central-Oregon-Research-Update-July-2025-Review.pdf",
+        "note": "Central Oregon hotel ADR Jan-Jul 2025 YTD per Visit Central Oregon (STR via Travel Oregon). July 2025 alone: $227. Bend hotels, August 2025: $249 (STR, Visit Bend board deck: https://industry.visitbend.com/wp-content/uploads/2025/12/FINAL-09162025-Visit-Bend-Board-of-Directors-Meeting-Presentation.pdf). Partial year, so the summer-weighted YTD likely runs above the full-year figure."
+      },
+      "Mt. Hood and the Gorge": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "Eastern Oregon": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "_statewide": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No 2024 or 2025 statewide ADR found in public sources. The Travel Oregon/STR monthly report pages are not openly accessible. The December 2023 Travel Oregon PDF (https://industry.traveloregon.com/wp-content/uploads/2024/01/Statewide-Lodging-Performance-Statistics-for-December-2023.pdf) shows YTD 2023 room rates, but its regional columns did not extract reliably, so it is not used here. Dean Runyan's Oregon 2024 report gives only a +4% hotel/STVR room-rate change, not a dollar ADR."
+      }
+    },
+    "ID": {
+      "North Idaho": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04. Visit Coeur d'Alene said 2025 lodging tax collections were nearly flat vs 2024 (Spokane Journal of Business, Dec 2025)."
+      },
+      "North Central Idaho": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "Southwest Idaho": {
+        "adr": null,
+        "year": null,
+        "basis": "city:Boise",
+        "source": "https://www.hvs.com/article/10539-Boises-Expanding-Economy-Fuels-Long-Term-Hotel-Market-Strength",
+        "note": "HVS (Aug 2026) cites Visit Boise interviews: occupancy near 70% for the trailing 12 months ending June 2026, with ADR up more than 25% since 2019 (2019 ADR roughly $100-$120). No exact ADR is published, so this stays null. The Greater Boise Auditorium District FY2026 budget deck charts STR ADR but its values are not readable as text."
+      },
+      "Central Idaho": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No hotel ADR found. Visit Sun Valley publishes DestiMetrics vacation-rental data only. See str: Sun Valley December 2025 $451."
+      },
+      "South Central Idaho": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "Southeast Idaho": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "Eastern Idaho": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No published hotel ADR found for this region in state tourism, DMO or STR/CoStar-citing sources reachable on 2026-11-04."
+      },
+      "_statewide": {
+        "adr": null,
+        "year": null,
+        "basis": null,
+        "source": null,
+        "note": "No statewide ADR found. Idaho Commerce publishes lodging tax collections (Idaho State Tax Commission), not ADR."
+      }
+    }
+  },
+  "str": [
+    {
+      "place": "Lane County, OR (AirDNA)",
+      "adr": 215,
+      "year": "FY2024-25",
+      "source": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/lanecounty/Annual_Report_FY25_6dfaa622-d154-46c8-a51c-3175495663cd.pdf"
+    },
+    {
+      "place": "Bend, OR vacation rentals (AirDNA), August 2025 single month",
+      "adr": 206,
+      "year": "2025-08",
+      "source": "https://industry.visitbend.com/wp-content/uploads/2025/12/FINAL-09162025-Visit-Bend-Board-of-Directors-Meeting-Presentation.pdf"
+    },
+    {
+      "place": "Sunriver, OR (AirDNA), July 2025 single month",
+      "adr": 567,
+      "year": "2025-07",
+      "source": "https://visitcentraloregon.com/wp-content/uploads/2025/09/Visit-Central-Oregon-Research-Update-July-2025-Review.pdf"
+    },
+    {
+      "place": "Sisters, OR (AirDNA), July 2025 single month",
+      "adr": 508,
+      "year": "2025-07",
+      "source": "https://visitcentraloregon.com/wp-content/uploads/2025/09/Visit-Central-Oregon-Research-Update-July-2025-Review.pdf"
+    },
+    {
+      "place": "Sun Valley, ID vacation rentals (DestiMetrics sample, not AirDNA), December 2025 single month",
+      "adr": 451,
+      "year": "2025-12",
+      "source": "https://visitsunvalley.com/wp-content/uploads/2026/01/Sun_Valley_Executive_Summary_12.31.2025.pdf"
+    }
+  ],
+  "tax_notes": {
+    "WA": "Two local lodging taxes feed the city or county lodging tax fund that the LTAC allocates. (1) Basic tax up to 2% (RCW 67.28.180) is credited against the 6.5% state sales tax, so it costs the guest nothing extra. Cities in King County other than Bellevue, and Yakima County cities other than Yakima, cannot levy it. (2) Additional tax up to 2% (RCW 67.28.181) is added on top of sales tax. Several jurisdictions are exempt or grandfathered at other rates (e.g., Pierce, Snohomish, Grays Harbor and Cowlitz counties and their cities, plus Bellevue, Yakima, Wenatchee, East Wenatchee). Both must be spent on tourism promotion or tourism-related facilities. Typical total is 4%. Where both are levied, about 4% of the room rate lands in the LTAC fund ($6 on a $150 night). These do not flow to LTAC: the Washington State Convention Center PFD tax (7% in Seattle, 2.8% in the rest of King County, RCW 36.100.040, paid to the PFD), tourism promotion area (TPA) fees (a separate assessment), sales tax, and other PFD taxes. Calculator rule: grant-fund return = room revenue x the jurisdiction's combined 67.28.180 + 67.28.181 rate (usually 4%).",
+    "OR": "Each city or county sets its own local transient lodging tax (TLT) rate, and that revenue stays local. ORS 320.350 grandfathers how pre-July 2003 taxes are used. For new or increased local TLT since 2003, at least 70% must go to tourism promotion or tourism-related facilities, and up to 30% may go to general use. HB 4148 (2026) lets a local government choose to move that split to 50/50 starting Jan 1, 2027. It is optional, not automatic. The state TLT is 1.5% for stays through Dec 31, 2026. It goes to the state, not to the local fund: Travel Oregon, which sends 20% to the seven regional tourism organizations and also runs statewide competitive grants. HB 4134 raises the state rate to 2.75% for nights beginning on or after Jan 1, 2027. The extra 1.25 points is billed as a 'nature conservation fee' and funds wildlife and conservation programs, not tourism. Calculator rule: local tourism-fund return = room revenue x local TLT rate x 70% (or 50% if the jurisdiction adopts the HB 4148 option, or the grandfathered share for pre-2003 taxes). The state 1.5%/2.75% is excluded.",
+    "ID": "Idaho has no general city or county lodging tax. Only resort cities (local-option tax set by voters) and auditorium districts (e.g., Greater Boise Auditorium District) levy local room taxes. That money stays local. Auditorium district money is generally spent on the district's convention or event facility, not open grants. The statewide 2% travel and convention tax on hotels, motels, vacation rentals and private campgrounds is split 45% back to the region it was collected in, as Idaho Regional Travel and Convention (ITC) grants to nonprofit regional travel organizations, 45% to statewide promotion, and 10% to program administration. Calculator rule: regional ITC grant return = room revenue x 2% x 45% = 0.9% of room revenue, plus the local resort-city or auditorium-district rate where one applies (the rate varies by jurisdiction)."
+  },
+  "sources": [
+    "https://kidder.com/wp-content/uploads/market_report/hotel-market-research-seattle-2025-4q.pdf",
+    "https://experience-olympia.s3.amazonaws.com/images/files/December-2025-scorecard_digital-web.pdf",
+    "https://nmrk.com/storage-nmrk/uploads/documents/hotel-nsights/Newmark_VA_Hotel-Nsights-Report_Spokane_WA.PDF",
+    "https://nmrk.imgix.net/uploads/documents/hotel-nsights/Newmark_VA_Hotel-Nsights-Report_Portland_OR.PDF",
+    "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/lanecounty/Annual_Report_FY25_6dfaa622-d154-46c8-a51c-3175495663cd.pdf",
+    "https://visitcentraloregon.com/wp-content/uploads/2025/09/Visit-Central-Oregon-Research-Update-July-2025-Review.pdf",
+    "https://t.e2ma.net/webview/g3gsk9b/e4de0bcfaf852c593eb7c4d3b572e21d",
+    "https://tualatinvalley.org/industry/industry-news/2025/10/tualatin-valley-insights-october-2025",
+    "https://industry.stateofwatourism.com/new-tourism-report-indicates-slowing-visitation-for-state-of-washington/",
+    "https://industry.traveloregon.com/wp-content/uploads/2024/01/Statewide-Lodging-Performance-Statistics-for-December-2023.pdf",
+    "https://www.hvs.com/article/10539-Boises-Expanding-Economy-Fuels-Long-Term-Hotel-Market-Strength",
+    "https://visitsunvalley.com/wp-content/uploads/2026/01/Sun_Valley_Executive_Summary_12.31.2025.pdf",
+    "https://industry.visitbend.com/wp-content/uploads/2025/12/FINAL-09162025-Visit-Bend-Board-of-Directors-Meeting-Presentation.pdf",
+    "https://mrsc.org/explore-topics/finance/revenues/lodging-tax",
+    "https://www.dor.wa.gov/sites/default/files/2022-03/TRM_07ConventionCenter.pdf",
+    "https://www.oregon.gov/dor/programs/businesses/pages/lodging.aspx",
+    "https://oregoncounties.org/giving-local-communities-more-flexibility-with-transient-lodging-tax-revenue/",
+    "https://www.wweek.com/news/2026/03/04/tourism-tax-increase-aimed-at-helping-oregon-wildlife-passes-state-senate/",
+    "https://industry.traveloregon.com/wp-content/uploads/2026/01/TO_Toursim-Drives-Growth-STATEWIDE_2025_R5.pdf",
+    "https://commerce.idaho.gov/content/uploads/2025/02/2025-ITC-Grant-Guidelines.pdf",
+    "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "https://www.eastidahonews.com/2025/04/eastern-idaho-earned-nearly-2-million-in-lodging-tax-revenue-how-businesses-can-benefit/",
+    "https://industry.traveloregon.com/wp-content/uploads/2026/04/2026_Competitive-Grants-Data-Support.pdf",
+    "https://www.spokanejournal.com/articles/17794-steady-momentum-forecasted-for-inw-tourism-in-2026",
+    "https://www.tricitiesbusinessnews.com/articles/7980-state-hospitality-industry-faces-mounting-pressure-on-multiple-fronts",
+    "https://www.hospitalitynet.org/opinion/4128158/oregon-coast-a-thriving-tourism-destination",
+    "https://travel-salem.s3.amazonaws.com/images/Q2-Report-July-Dec-25-26-1.pdf",
+    "https://industry.traveloregon.com/wp-content/uploads/2025/05/Oregon_2024_2025-05-01.pdf",
+    "https://www.boiseauditorium.com/wp-content/uploads/2025/11/FY-2026-District-Budget-Presentation.pdf",
+    "https://commerce.idaho.gov/tourism/research/"
+  ]
+}

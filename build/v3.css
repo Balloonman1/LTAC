@@ -1,0 +1,38 @@
+/* v3 */
+.recent{margin-top:14px;font-size:14px}
+.recent summary{cursor:pointer;font-weight:600}
+.recent summary span{font-weight:400;color:var(--muted,#667)}
+.chg{margin:8px 0 0;font-size:12.5px;line-height:1.5;color:var(--ink2,#334)}
+.chg b{font-weight:600;margin-right:6px}
+.chg span{display:inline-block;margin-right:12px}
+.chg i{font-style:normal;opacity:.65;margin-left:3px}
+.trk,.plan{margin-top:18px;background:#fff;border:1px solid var(--line,#dde3df);border-radius:12px;padding:18px 20px}
+.trkhead{display:flex;flex-wrap:wrap;gap:10px;align-items:baseline;justify-content:space-between}
+.trkhead h3{margin:0}
+.trk h4,.plan h4{margin:18px 0 6px}
+.trkt td,.plant td{vertical-align:top}
+.trkt tr.loc td{background:#faf8f2}
+.plant tr.lt td{background:#f2f7f4}
+.gb.warn{background:#fff3d6;color:#7a5600}
+.gb.hot{background:#fde3dc;color:#8a2a12}
+.roigrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px 14px;margin:10px 0}
+.roigrid label{display:flex;flex-direction:column;gap:4px;font-size:13px;font-weight:500}
+.roigrid label.wide{grid-column:1/-1}
+.roigrid input,.roigrid select,.roigrid textarea{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line,#ccd4cf);border-radius:8px;background:#fff}
+.roiout{margin-top:6px}
+.finder input[type=text],.finder input[type=date],.finder input[type=number]{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line,#ccd4cf);border-radius:8px;background:#fff}
+#t-q{flex:1;min-width:220px;font:inherit;font-size:15px;padding:9px 12px;border:1px solid var(--line,#ccd4cf);border-radius:8px}
+.draftout .draft{margin-top:14px;background:#fff;border:1px solid var(--line,#dde3df);border-radius:12px;padding:16px 20px;font-size:14.5px;line-height:1.55;max-width:820px}
+.draft h4{margin:16px 0 4px}
+.draft p{margin:0 0 8px}
+.draft p.li{margin:0 0 4px;padding-left:12px}
+@media (max-width:640px){.trk,.plan{padding:14px}}
+@media print{.plan{border:0;padding:0}}
+@media (min-width:900px){.tabs .inner{flex-wrap:wrap;row-gap:0}.tabs a{padding:11px 10px;font-size:13.5px}}
+.plant{table-layout:fixed;width:100%}
+.plant td,.plant th{white-space:normal;word-break:normal;overflow-wrap:anywhere}
+.plant th:nth-child(1),.plant td:nth-child(1){width:110px}
+.plant th:nth-child(2),.plant td:nth-child(2){width:34%}
+.plant th:nth-child(4),.plant td:nth-child(4){width:24%}
+.trkt td{white-space:normal}
+@media (max-width:700px){.plant,.plant tbody,.plant tr,.plant td{display:block;width:auto!important}.plant thead{display:none}.plant tr{border-bottom:1px solid var(--line,#dde3df);padding:8px 0}.plant td{border:0;padding:2px 0}}

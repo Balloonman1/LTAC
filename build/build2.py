@@ -158,12 +158,13 @@ for r in data:
         if h and h.get('awards'):
             a['awards_history']={k:h.get(k) for k in ('source_urls','cycles_found','total_awarded_latest','awards_count_latest','typical_award','awards','notes')}; hit+=1
 print('alt programs with awards',hit)
-css=open(S+'parts_css.txt').read()+open(S+'v2_extra.css').read()
+exec(open(S+'v3_data.py').read())
+css=open(S+'parts_css.txt').read()+open(S+'v2_extra.css').read()+(open(S+'v3.css').read() if os.path.exists(S+'v3.css') else '')
 law=open(S+'parts_law.txt').read()
 law_or=open(S+'parts_law_or.txt').read() if os.path.exists(S+'parts_law_or.txt') else '<section class="law" data-state="OR"><h2>Oregon law section pending</h2></section>'
 law_id=open(S+'parts_law_id.txt').read() if os.path.exists(S+'parts_law_id.txt') else '<section class="law"><h2>Idaho law section pending</h2></section>'
 law='<div data-state="WA">'+law+'</div><div data-state="OR">'+law_or+'</div><div data-state="ID">'+law_id+'</div>'
-body=open(S+'v2_body.html').read().replace('<!--LAW-->',law)
+body=open(S+'v2_body.html').read().replace('<!--LAW-->',law).replace('<!--GUIDES-->',GUIDES)
 js=open(S+'parts_js.txt').read()
 def rep(a,b):
     global js
@@ -171,8 +172,9 @@ def rep(a,b):
 rep('const TODAY = new Date("2026-10-29T12:00:00");','const META=JSON.parse(document.getElementById("meta").textContent);\nconst TODAY = new Date(META.asof+"T12:00:00");')
 rep("      ${docs}\n      ${members}\n    </div>","      ${docs}\n      ${awardsHtml(r)}\n      ${members}\n    </div>\n    ${verifyHtml(r)}")
 rep("  if(sortF==='name') return [0,0,r.name];","  if(sortF==='name') return [0,0,r.name];\n  if(sortF==='awards'){const j=r.jlarc;const y=j&&Object.keys(j.years||{}).sort().reverse()[0];return [0,-(y?j.years[y].awards:-1),r.name];}")
+rep("\n    ${verifyHtml(r)}","\n    ${changesHtml(r)}${verifyHtml(r)}")
 rep("document.getElementById('rail').addEventListener('click',e=>{const a=e.target.closest('a');if(!a)return;const t=document.querySelector(a.getAttribute('href'));if(t){e.preventDefault();t.scrollIntoView({block:'start'});t.classList.add('lead');}});","")
-extra=open(S+'v2_extra.js').read()+'\nroute();\n'
+extra=open(S+'v2_extra.js').read()+'\n'+(open(S+'v3.js').read() if os.path.exists(S+'v3.js') else '')+'\nroute();\n'
 geo=open(S+'geo/wa-counties.json').read()
 geo_or=open(S+'geo/or-counties.json').read()
 geo_id=open(S+'geo/id-counties.json').read()
@@ -250,7 +252,7 @@ gr=json.dumps(grants,separators=(',',':'),ensure_ascii=False).replace('</script'
 evs=open(R+'jlarc/events.json').read().replace('</script','<\\/script')
 meta=json.dumps({'asof':ASOF,'cities_or':CITIES_OR,'cities_id':CITIES_ID,'state':{'exact_share':0.20,'under_half_share':0.20,'over150_share':0.15,'median_event_award':7562,'full_funding_share':0.59,'events_share_of_dollars':0.15,'median_cpn':55,'median_share_open':0.51,'awards_per_program':4,'programs_with_award_list':'59 of 128','sports_cpn':29,'oneday_cpn':93,'multiday_cpn':50},'contact':'eliav@seattleballooning.com','cities':CITIES},separators=(',',':'))
 dj=json.dumps(data,separators=(',',':'),ensure_ascii=False).replace('</script','<\\/script')
-html=f'''<title>WA Lodging Tax Grants</title>
+html=f'''<title>Lodging Tax Grants</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
 <style>{css}</style>
@@ -263,10 +265,14 @@ html=f'''<title>WA Lodging Tax Grants</title>
 <script id="events" type="application/json">{evs}</script>
 <script id="grants" type="application/json">{gr}</script>
 <script id="data" type="application/json">{dj}</script>
+<script id="track" type="application/json">{V3["track"]}</script>
+<script id="changes" type="application/json">{V3["changes"]}</script>
+<script id="library" type="application/json">{V3["library"]}</script>
+<script id="adr" type="application/json">{V3["adr"]}</script>
 <script>{js}
 {extra}</script>
 '''
 open(R+'ltac.html','w').write(html)
-open(R+'index.html','w').write('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n<meta name="description" content="Lodging tax (LTAC) grant deadlines, committees, award history and application tools for the 100 largest hotel-tax cities and counties in Washington.">\n'+html.replace('<style>','</head>\n<body>\n<style>',1)+'\n</body>\n</html>\n')
+open(R+'index.html','w').write('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n<meta name="description" content="Lodging tax grant deadlines, committees, award history and application tools for every city, county and district with a lodging tax in Washington, Oregon and Idaho.">\n'+html.replace('<style>','</head>\n<body>\n<style>',1)+'\n</body>\n</html>\n')
 json.dump(data,open(R+'data.json','w'),separators=(',',':'),ensure_ascii=False)
 print('built',len(html))
