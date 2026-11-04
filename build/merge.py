@@ -23,6 +23,19 @@ for f in sorted(glob.glob(B+'batches/or_*.json')):
         r['state']='OR'
         if r.get('type')=='county' and not r['name'].endswith('County'): r['name']+=' County'
         if r['name'] in WA_NAMES: r['name']=r['name']+', Oregon'
+        r['_or']=True
+        la=r.get('local_awards')
+        if isinstance(la,dict) and la.get('years'):
+            yrs={}
+            for y,v in la['years'].items():
+                if not isinstance(v,dict): continue
+                aw=[a for a in (v.get('awards') or []) if isinstance(a,dict) and a.get('recipient')]
+                if not aw and v.get('total') is None: continue
+                amts=[a['amount'] for a in aw if isinstance(a.get('amount'),(int,float))]
+                yrs[str(y)]={'total':v.get('total') if v.get('total') is not None else (round(sum(amts)) if amts else None),'decided':v.get('decided'),'note':v.get('note'),
+                    'awards':[{'recipient':a.get('recipient'),'event':a.get('event'),'amount':a.get('amount'),'dmo':bool(a.get('to_jurisdiction_or_dmo',a.get('dmo'))),'notes':a.get('notes')} for a in aw]}
+            r['local_awards']={'years':yrs,'sources':la.get('sources') or la.get('source_urls') or [],'upcoming':la.get('upcoming'),'not_found':la.get('not_found') or la.get('note')} if yrs else None
+        else: r['local_awards']=None
     out+=recs
 alts={a['name']:a['alternatives'] for a in fix(json.load(open(B+'altA.json'))+json.load(open(B+'altB.json')))}
 alias={'Chelan':'City of Chelan'}
@@ -44,13 +57,14 @@ for r in out:
     for d in ('deadline',):
         if r[d] and not re.match(r'^\d{4}-\d{2}-\d{2}$',str(r[d])): r[d]=None
     r['county']=re.sub(r'\s+County$','',r['county'] or '')
-    if r['type']=='county' and not r['name'].endswith('County'): r['name']+=' County'
+    if r['type']=='county' and not r['name'].endswith('County') and not r['name'].endswith(', Oregon'): r['name']+=' County'
     for d in (r['deadline'],r['presentation'].get('date'),r['members_as_of']):
         if d and not re.match(r'^\d{4}-\d{2}-\d{2}$',d): print('bad date',r['name'],d)
 fp=json.load(open(B+'fp.json'))
 for r in out:
     r['for_profit']=r.get('for_profit') if r.get('for_profit') in ('yes','sponsor','no') else next((k for k,v in fp.items() if r['name'] in v),'unknown')
 names=[r['name'] for r in out]; assert len(names)==len(set(names)),[n for n in names if names.count(n)>1]
+for r in out: r.pop('_or',None)
 json.dump(out,open(R+'data.json','w'),separators=(',',':'),ensure_ascii=False)
 from collections import Counter
 print(len(out),Counter(r['cycle'] for r in out),'docs:',sum(1 for r in out if r['funding_docs']))

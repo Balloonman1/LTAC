@@ -1,0 +1,1881 @@
+[
+ {
+  "name": "Portland",
+  "type": "city",
+  "county": "Multnomah",
+  "state": "OR",
+  "tax_rate": "6% city TLT + 2% city tourism tax, plus Multnomah County 5.5% and Oregon state 1.5%; separate 3% Tourism Improvement District fee and $4/night short-term rental fee",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Travel Portland Visitor Experience Grants open the first week of January and close in early February (Feb. 9, 2026 for the 2026 cycle); decisions by March 31; the 2027 cycle dates had not been posted as of Nov. 4, 2026",
+  "typical_open": "Early January (Jan. 5, 2026 for the 2026 cycle)",
+  "annual_pool": "Up to $200,000 per cycle for Visitor Experience Grants ($25,000 to $50,000 per award); more than $700,000 awarded to 21 projects since January 2023. Large Event Sponsorships (up to $30,000) and Cultural Enrichment Sponsorships (up to $2,500) run on a separate semiannual calendar",
+  "url": "https://www.travelportland.com/about-us/travel-portland-grant-opportunities/",
+  "contact": "Travel Portland grants team, grants@travelportland.com (no named program officer published); general Travel Portland grants and sponsorships page at travelportland.com/about-us/grants-sponsorships/",
+  "notes": "The City of Portland does not run its own competitive TLT grant; it contracts Travel Portland, which runs the TLT- and fee-funded Visitor Experience Grant (projects that attract visitors or improve their stay, $25,000 to $50,000, for-profit tourism businesses eligible) plus Large Event Sponsorships for public events of 7,500+ attendees held at least two years with 10%+ out-of-town attendance. A cross-departmental Travel Portland staff committee scores on tourism impact, marketing, equity and accessibility, budget leverage and partnerships; leadership makes final decisions. Organizations may receive one sponsorship per fiscal year and one grant per cycle, and can be funded up to three consecutive years for the same project.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "Visitor Experience Grants are scored by an internal Travel Portland staff committee; no public roster (https://www.travelportland.com/wp-content/uploads/2025/11/2026-Visitor-Experience-Grant-Guidelines.pdf)",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No applicant presentation; a virtual information session is held the week applications open (Jan. 7, 2026) and grantees do a midway phone or Zoom check-in",
+   "format": "Online application and quiz through Travel Portland's grant management platform; no live pitch"
+  },
+  "meeting_schedule": "No public committee meetings; staff review after the February deadline with decisions by March 31. Event sponsorship requests are reviewed twice a year (apply by April 15 for July-December events, by October 15 for January-June events)",
+  "total_pool_usd": 200000,
+  "competitive_pool_usd": 200000,
+  "pool_note": "The $200,000 figure is the Visitor Experience Grant pool only. Portland's roughly $23.9 million in city TLT largely funds Travel Portland's contract, the Portland Expo/convention facilities and the general fund; the amount Travel Portland spends on event sponsorships (up to $30,000 per large event) is not published as a pool.",
+  "funding_docs": [
+   {
+    "title": "2026 Visitor Experience Grant Guidelines",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.travelportland.com/wp-content/uploads/2025/11/2026-Visitor-Experience-Grant-Guidelines.pdf",
+    "summary": "Application opened Jan. 5, 2026 and closed Feb. 9, 2026; pool up to $200,000; awards $25,000 to $50,000; for-profit tourism businesses, nonprofits and tribes eligible; five scoring criteria rated 1 to 4; funds spent by May 1, 2027 with final report June 1, 2027."
+   },
+   {
+    "title": "Travel Portland Visitor Experience Grants program page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.travelportland.com/about-us/travel-portland-grant-opportunities/",
+    "summary": "Program overview, eligibility limits (one award per organization per cycle, three consecutive years maximum), and the funding source (lodging taxes and fees from Portland hotels and short-term rentals)."
+   },
+   {
+    "title": "Travel Portland Event Sponsorships",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.travelportland.com/about-us/travel-portland-event-sponsorships/",
+    "summary": "Large Event Sponsorship up to $30,000 for multi-day public events with 7,500+ attendees held in Portland at least two years; Cultural Enrichment Sponsorship up to $2,500 for 501(c)(3)/(c)(6) hosts; applications due April 15 and October 15 with decisions a month later."
+   },
+   {
+    "title": "Travel Portland Grants and Sponsorships overview",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.travelportland.com/about-us/grants-sponsorships/",
+    "summary": "Index of all Travel Portland funding programs including the Scale Up Grant run with Prosper Portland and small business scholarships."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Portland Large Event Sponsorship",
+    "administrator": "Travel Portland (Destination Affairs and Equity & Partnerships teams)",
+    "url": "https://www.travelportland.com/about-us/travel-portland-event-sponsorships/",
+    "funds": "Up to $30,000 per event depending on size",
+    "eligibility": "Public events of at least two consecutive days, held in Portland for at least two years, 7,500+ attendees with at least 10% from out of town; central city locations prioritized",
+    "deadline": null,
+    "deadline_pattern": "Apply by April 15 for events July 1 to Dec. 31 (decision May 15); apply by Oct. 15 for events Jan. 1 to June 30 (decision Nov. 15)",
+    "notes": "One sponsorship per organization per fiscal year (July to June); requests may be awarded at a lower amount",
+    "contact": "Travel Portland sponsorship platform; no email published"
+   },
+   {
+    "program": "Scale Up Grant Program",
+    "administrator": "Prosper Portland Office of Events & Film with Travel Portland",
+    "url": "https://www.travelportland.com/about-us/grants-sponsorships/",
+    "funds": "Up to $25,000 plus marketing, administrative and logistical support",
+    "eligibility": "Public Portland events held at least two years, July-December dates, at least two days, 1,000 to 10,000 attendees, with potential to draw attendance from outside the metro area",
+    "deadline": null,
+    "deadline_pattern": "Spring cycle (closed March 27 in its first round; next cycle announced for spring 2026)",
+    "notes": "Aimed at events that bring foot traffic back to areas with business losses and office vacancies",
+    "contact": null
+   }
+  ],
+  "for_profit": "yes",
+  "local_awards": {
+   "years": {},
+   "sources": [
+    "https://www.travelportland.com/about-us/travel-portland-grant-opportunities/"
+   ],
+   "note": "No recipient list for 2024, 2025 or 2026 is published; Travel Portland states only that more than $700,000 has gone to 21 Visitor Experience projects since January 2023."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Seaside",
+  "type": "city",
+  "county": "Clatsop",
+  "state": "OR",
+  "tax_rate": "10% city TLT, plus Clatsop County 3% (unincorporated and city-wide county levy) and Oregon state 1.5%",
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": "2026-12-04",
+  "funding_year": "2026-2027",
+  "deadline_pattern": "Applications open May 1 and are accepted on a rolling basis until the first Friday of December or until funds are exhausted (Dec. 5, 2025 for the 2025-26 cycle; Dec. 4, 2026 for the 2026-27 cycle); the Tourism Advisory Committee reviews at its monthly meeting and notifies within 60 days",
+  "typical_open": "May 1 (May 1, 2026 for the 2026-27 cycle; May 2, 2025 the year before)",
+  "annual_pool": "Up to $25,000 for Destination Events and Programming Grants plus up to $25,000 for Community Arts and Vitality Grants each fiscal year; as of September 2026, $22,500 of the events pool was committed with $2,500 remaining and $18,769 of the arts pool committed with $6,231 remaining",
+  "url": "https://www.seasideor.com/tourism-grant-program/",
+  "contact": "Joshua Heineman, Tourism Marketing Director, City of Seaside Visitors Bureau, 503-738-3097, info@seasideor.com (general bureau line; reports are emailed to the tourism director)",
+  "notes": "The Seaside Visitors Bureau is a city department funded by the 10% room tax, and its Tourism Advisory Committee allocates two small grant pools: Destination Events and Programming ($5,000 standard cap, $7,000 for a new-to-Seaside event in its first year, $3,000 cap for shoulder dates Sept. 8-30 and Mar. 16-May 28, $5,000 cap for Oct. 1-Mar. 15) and Community Arts and Vitality for murals and placemaking. Summer dates (May 29-Sept. 6, 2027) are ineligible; the committee favors proposals that generate commercial lodging room nights in the off-season and requires a detailed financial plan. Because the pool is small and rolling, apply early in the cycle (May) before funds are committed; the 2026-27 events pool was nearly spent by September.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Marci Utti",
+    "role": "Chair",
+    "affiliation": "Seaside Tourism Advisory Committee (appears as Marci Tikkala in 2024 minutes)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Ruth Swenson",
+    "role": "Vice-Chair",
+    "affiliation": "Seaside Tourism Advisory Committee",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Keith Chandler",
+    "role": "Member",
+    "affiliation": "Seaside Tourism Advisory Committee",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Linda Wyss",
+    "role": "Member",
+    "affiliation": "Seaside Tourism Advisory Committee",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Sadie Mercer",
+    "role": "Member",
+    "affiliation": "Seaside Tourism Advisory Committee",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.cityofseaside.us/node/536 (city committee page; lists terms ending 2024-2026, so the roster may be partly stale; staff liaisons are the Tourism Director and the Civic and Convention Center general manager)",
+  "members_as_of": "2026-11-04",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No applicant presentation is required; applications are reviewed at the committee's regular monthly meeting with notification within 60 days of submission",
+   "format": "Online Google Form application with financial plan; committee review at City Hall"
+  },
+  "meeting_schedule": "Tourism Advisory Committee meets at least monthly, 3 p.m. at Seaside City Hall, 989 Broadway; 2024 packets show meetings on the third Wednesday (one monthly meeting may be cancelled)",
+  "total_pool_usd": 50000,
+  "competitive_pool_usd": 50000,
+  "pool_note": "Both $25,000 pools are fully open to outside applicants; the rest of Seaside's roughly $5.9 million TLT funds the Visitors Bureau's own marketing, the Civic and Convention Center and city operations. 2025-26 awards totaled $41,800 against $69,650 requested.",
+  "funding_docs": [
+   {
+    "title": "Destination Events and Programming Grant Guidelines 2026-2027",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://www.seasideor.com/wp-content/uploads/2026/04/Destination-Events-and-Programming-Grant-Guidelines-2026-2027.pdf",
+    "summary": "Applications May 1 to Dec. 4, 2026 or until funds are allocated; pool up to $25,000; $5,000 standard cap, $7,000 for new events, lower $3,000 cap for shoulder dates; eligible program dates Sept. 8, 2026 to Dec. 31, 2027 excluding summer; reports due Dec. 15 and May 1."
+   },
+   {
+    "title": "Community Arts and Vitality Grant Guidelines 2026-2027",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://www.seasideor.com/wp-content/uploads/2026/04/Community-Arts-and-Vitality-Grant-Guidelines-2026-2027.pdf",
+    "summary": "Up to $25,000 for public art, murals and shovel-ready placemaking; same May 1 to Dec. 4, 2026 window; final report with spending breakdown at close-out."
+   },
+   {
+    "title": "Annual Tourism Grant Programs page",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://www.seasideor.com/tourism-grant-program/",
+    "summary": "Current cycle status with amounts awarded and remaining, links to both application forms and the fillable report form."
+   },
+   {
+    "title": "Seaside Tourism awards $41,800 in event and arts grants (Dec. 31, 2025 release)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://flashalert.net/id/CityofSeaside/185936",
+    "summary": "2025-26 cycle results: $25,000 in Destination Events grants to eight recipients and $16,800 in Community Arts grants to two recipients with $8,000 pending; $69,650 requested in total."
+   }
+  ],
+  "alternatives": [],
+  "for_profit": "yes",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": 41800,
+     "decided": "Rolling through 2025; applications closed Dec. 5, 2025; announced Dec. 31, 2025 (2025-26 cycle)",
+     "awards": [
+      {
+       "recipient": "Doxies of PNW Club",
+       "event": "DachSand dachshund beach gathering, Sept. 5-7, 2025",
+       "amount": 3750,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Destination Events grant"
+      },
+      {
+       "recipient": "Seaside SandFest",
+       "event": "Seaside SandFest sand sculpting, Sept. 11-14, 2025",
+       "amount": 3000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Destination Events grant"
+      },
+      {
+       "recipient": "Seaside Museum & Historical Society",
+       "event": "Saltmakers Return Lewis & Clark event, Sept. 6-7, 2025",
+       "amount": 2500,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Destination Events grant"
+      },
+      {
+       "recipient": "Winter Waters",
+       "event": "February 2026 programming",
+       "amount": 3000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Destination Events grant"
+      },
+      {
+       "recipient": "Seaside Downtown Development Association",
+       "event": "Halloween Happenin's, Oct. 25-26, 2025",
+       "amount": 3000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Destination Events grant"
+      },
+      {
+       "recipient": "Beach Books",
+       "event": "20th anniversary celebration, Nov. 1, 2025",
+       "amount": 5000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Destination Events grant; for-profit bookstore"
+      },
+      {
+       "recipient": "Tsunami Skippers Jump Rope Team",
+       "event": "Oregon Coast Classic, April 24-25, 2026",
+       "amount": 3750,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Destination Events grant"
+      },
+      {
+       "recipient": "North Coast Land Conservancy",
+       "event": "Indigenous Gathering at Circle Creek, May 1-3, 2026",
+       "amount": 1000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Destination Events grant"
+      },
+      {
+       "recipient": "Seaside Chamber of Commerce",
+       "event": null,
+       "amount": 6800,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "Community Arts grant for trash receptacle art wraps"
+      },
+      {
+       "recipient": "Seaside Downtown Development Association",
+       "event": null,
+       "amount": 10000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Community Arts grant for alley beautification and wayfinding"
+      }
+     ],
+     "note": "An $8,000 Necanicum Watershed Council mural request was still pending at announcement; 2026-27 cycle commitments ($22,500 events, $18,769 arts as of Sept. 2026) have not been itemized publicly."
+    }
+   },
+   "sources": [
+    "https://flashalert.net/id/CityofSeaside/185936",
+    "https://rightnoworegon.com/2026/01/02/seaside-awards-41800-in-tourism-grants-to-boost-offseason-events-and-community-arts/",
+    "https://www.seasideor.com/tourism-grant-program/"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Ashland",
+  "type": "city",
+  "county": "Jackson",
+  "state": "OR",
+  "tax_rate": "10% city transient occupancy tax (state DOR-administered), plus Oregon state 1.5%; no Jackson County tax inside city limits",
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": null,
+  "funding_year": "2026-2027",
+  "deadline_pattern": "No calendar deadline; Event Partnership Grant applications are accepted first-come, first-served for events occurring before June 30, 2027, due at least 90 days before the event (300+ attendees) or 30 days before (under 300) until the fiscal-year allocation is spent",
+  "typical_open": "July 1 with each fiscal year (relaunched August 2025 for FY2025-26; FY2026-27 round open as of Nov. 2026)",
+  "annual_pool": "$150,000 announced for FY2025-26 (Aug. 2025 city release); $100,000 supported 22 events in the first year (Oct. 2024 to mid 2025); FY2026-27 allocation not published",
+  "url": "https://ashlandoregon.gov/EconomicDevelopmentGrants",
+  "contact": "City Manager's Office, 541-552-2103, citymanageroffice@ashlandoregon.gov; Jordan Rooklyn, Deputy City Manager, jordan.rooklyn@ashlandoregon.gov, 541-552-2103",
+  "notes": "Ashland funds its Event Partnership Grant from the tourism share of its transient occupancy tax and awards it first-come, first-served rather than through a scored committee round: up to $5,000 per event (max $20,000 per series) for events over 300 attendees and up to $2,500 for smaller events, provided the event draws more than 100 people, is publicly advertised and attracts attendees from more than 50 miles away or into overnight lodging. By October 2025 the program had awarded $131,250 across 20 grants covering 25 events (about 6,000 visitors). Apply early in the fiscal year since funds run out; grantees sign an agreement, list the city as sponsor and file a post-event report. Travel Ashland (the chamber) receives the larger marketing contract (about $517,000 in FY2024) but does not run a public grant round.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "No committee; applications are processed by the City Manager's Office on a first-come basis (https://ashlandoregon.gov/EconomicDevelopmentGrants)",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation; online form reviewed by staff",
+   "format": "Online application form (FormCenter) with grant agreement on award"
+  },
+  "meeting_schedule": "None; staff administered. Ashland City Council meets the first and third Tuesdays and sets the annual tourism allocation in the biennial budget",
+  "total_pool_usd": 150000,
+  "competitive_pool_usd": 150000,
+  "pool_note": "The $150,000 is the FY2025-26 Event Partnership Grant allocation, fully open to outside applicants. Ashland's roughly $3 million TOT is split 30.96% tourism and 69.04% general fund under its pre-2003 grandfathering; the tourism share also pays Travel Ashland's marketing contract and beautification grants (FY2024 tourism grants totaled about $833,000 including $517,000 to Travel Ashland).",
+  "funding_docs": [
+   {
+    "title": "Ashland Economic Development Grants page (Event Partnership Grant)",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://ashlandoregon.gov/EconomicDevelopmentGrants",
+    "summary": "Eligibility (100+ attendees, visitors from 50+ miles or overnight, publicly advertised), award caps ($5,000 per event and $20,000 per series for 300+ attendees; $2,500 under 300), lead times (90 or 30 days), first-come allocation for events before June 30, 2027, and recipient obligations."
+   },
+   {
+    "title": "Event Partnership Grant Application",
+    "doc_type": "application",
+    "year": "2027",
+    "url": "https://ashlandoregon.gov/FormCenter/Economic-Development-22/Event-Partnership-Grant-Application-128",
+    "summary": "Online application form."
+   },
+   {
+    "title": "City relaunches Event Partnership Grant (news flash, Aug. 15, 2025)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://ashlandoregon.gov/CivicAlerts.asp?AID=328",
+    "summary": "Announces $150,000 available for FY2025-26 and notes the prior year funded 22 events with $100,000."
+   },
+   {
+    "title": "City Manager's Report, Oct. 7, 2025",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://ashlandoregon.gov/DocumentCenter/View/4209",
+    "summary": "Reports the TLT-funded Event Partnership Grant has awarded $131,250 across 20 grants funding 25 events with an estimated 6,000 visitors since its October 2024 launch; no recipient list."
+   },
+   {
+    "title": "Your Taxes at Work (tourism and TOT allocation)",
+    "doc_type": "budget",
+    "year": "2025",
+    "url": "https://ashlandoregon.gov/YourTaxesAtWork",
+    "summary": "Explains the 30.96% tourism / 69.04% general fund split of the TOT and the FY2024 tourism grant totals including Travel Ashland."
+   }
+  ],
+  "alternatives": [],
+  "for_profit": "unknown",
+  "local_awards": {
+   "years": {
+    "2025": {
+     "total": 100000,
+     "decided": "Rolling, Oct. 2024 to June 2025 (program's first year)",
+     "awards": [],
+     "note": "22 events supported with $100,000; no recipient-level list published."
+    },
+    "2026": {
+     "total": 131250,
+     "decided": "Rolling; cumulative figure reported Oct. 7, 2025",
+     "awards": [],
+     "note": "$131,250 across 20 grants funding 25 events as reported in the October 2025 City Manager's Report; appears to be cumulative since launch and overlaps the 2025 figure; no recipient list published."
+    }
+   },
+   "sources": [
+    "https://ashlandoregon.gov/CivicAlerts.asp?AID=328",
+    "https://ashlandoregon.gov/DocumentCenter/View/4209"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Hood River",
+  "type": "city",
+  "county": "Hood River",
+  "state": "OR",
+  "tax_rate": "8% city transient room tax, plus Oregon state 1.5% (Hood River County levies its own tax only in unincorporated areas)",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Visit Hood River's Community Investment Matching Grant opens in mid-March and closes April 30 at 5 p.m. (March 16 to April 30, 2026 for the 2026-27 program); the 2027 dates had not been posted as of Nov. 4, 2026",
+  "typical_open": "Mid-March (March 16, 2026)",
+  "annual_pool": "Up to $40,000 in matching funds in 2026 (six awards of $4,000 to $10,000), up from about $27,000 in 2025 and $27,600 in 2023; more than $140,000 to 21 recipients since the program began in 2022",
+  "url": "https://visithoodriver.com/",
+  "contact": "Katie Kadlub, CEO, Visit Hood River (Hood River County Chamber of Commerce), 800-366-3530; application and guidelines posted at visithoodriver.com each March in English and Spanish",
+  "notes": "The City of Hood River has no grant program of its own; its roughly $1.6 million to $2.0 million in room tax goes to the general fund and a tourism promotion contract. The chamber-run DMO, Visit Hood River, operates the annual Community Investment Matching Grant, which it describes as reinvesting tourism dollars from the public and private funds it manages; the funding is treated here as the local tourism grant but Visit Hood River has not stated the TRT share. Awards favor new events, programs and trail or placemaking projects with a matching contribution, and businesses have been funded (Pear Bloom Farm, Hood River Hotel, Button Bridge Comedy Jamboree). Each project needs its own application.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "Reviewed by Visit Hood River; no scoring committee roster published",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation reported; written application only",
+   "format": "PDF application with matching-fund plan"
+  },
+  "meeting_schedule": "Not published; awards announced in late spring after the April 30 deadline",
+  "total_pool_usd": 40000,
+  "competitive_pool_usd": 40000,
+  "pool_note": "The $40,000 is the 2026 grant pool, all open to outside applicants. City TRT revenue (about $1.9 million) is not broken out between the general fund and the Visit Hood River contract in any public source found, so the share of TRT behind the grant could not be confirmed.",
+  "funding_docs": [
+   {
+    "title": "Visit Hood River opens applications for $40,000 Community Investment Matching Grant (March 10, 2026)",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://columbiacommunityconnection.com/the-dalles/visit-hood-river-opens-applications-for-40000-community-investment-matching-grant-program",
+    "summary": "Applications March 16 to April 30, 2026, 5 p.m.; up to $40,000 in matching funds; one application per project; links the English and Spanish guideline PDFs on visithoodriver.com."
+   },
+   {
+    "title": "Visit Hood River awards $40,000 in grants (2026)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://gorgeradio.com/visit-hood-river-awards-40000-in-grants/",
+    "summary": "Six 2026 recipients with amounts: Pear Bloom Farm $10,000, Columbia Land Trust $10,000, Central Gorge Master Gardeners $7,000, Art of Community $5,000, Columbia Gorge Orchestra Association $4,000, Wylde Wind and Water $4,000."
+   },
+   {
+    "title": "Community Investment Grant Program in fifth year, winners announced (Columbia Gorge News)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://www.columbiagorgenews.com/visit-hood-rivers-community-investment-grant-program-in-fifth-year-winners-announced/article_b3c79069-0328-4a7d-a07d-70d9cd6b5af3.html",
+    "summary": "Same 2026 award list; notes $140,000+ awarded to 21 recipients since launch and quotes CEO Katie Kadlub on reinvesting tourism dollars."
+   },
+   {
+    "title": "Visit Hood River 2023 Community Investment Grant awards ($27,600)",
+    "doc_type": "award list",
+    "year": "2023",
+    "url": "https://gorgeradio.com/?p=32070",
+    "summary": "2023 recipients: Hood River Area Trail Stewards $7,500, Button Bridge Comedy Jamboree $6,000, Hood River Hotel (Pride Celebration) $5,500, Gorge Impact Film Festival $3,000, Music Festival of the Gorge $3,000, Wylde Wind and Water $2,600."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Strategic Investment Fund",
+    "administrator": "Experience Mt. Hood and the Gorge (regional DMO)",
+    "url": "https://www.hood-gorge.com/strategic-investment-fund",
+    "funds": "2024 cycle awarded over $50,000 across six projects; 2026 pool not stated",
+    "eligibility": "One-time investments in regionally impactful projects addressing the region's five priorities",
+    "deadline": null,
+    "deadline_pattern": "Annual; 2026 deadline April 7 at 5 p.m.",
+    "notes": "The RDMO also offers free one-on-one grant writing appointments",
+    "contact": "https://www.hood-gorge.com/grants-funding-opportunities"
+   },
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/",
+    "funds": "Roughly 10% of Travel Oregon's budget goes to grants; award sizes vary by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "yes",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": 40000,
+     "decided": "Spring 2026 after April 30 deadline",
+     "awards": [
+      {
+       "recipient": "Pear Bloom Farm",
+       "event": "Hood River Flower Trail",
+       "amount": 10000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "For-profit farm"
+      },
+      {
+       "recipient": "Columbia Land Trust",
+       "event": null,
+       "amount": 10000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Powerdale Catwalk restoration"
+      },
+      {
+       "recipient": "Central Gorge Master Gardeners Association",
+       "event": null,
+       "amount": 7000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Outdoor Learning Center"
+      },
+      {
+       "recipient": "Art of Community",
+       "event": "Big Art Outdoor Gallery (2026-2028)",
+       "amount": 5000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Columbia Gorge Orchestra Association",
+       "event": null,
+       "amount": 4000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "New website"
+      },
+      {
+       "recipient": "Wylde Wind and Water",
+       "event": "Free weekly watersports programs and migrant education camp",
+       "amount": 4000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      }
+     ],
+     "note": "Largest distribution in the program's five-year history, a 49% increase over 2025."
+    },
+    "2025": {
+     "total": 27000,
+     "decided": "Spring 2025",
+     "awards": [],
+     "note": "Reported as nearly $27,000 to three organizations; recipient names not captured."
+    }
+   },
+   "sources": [
+    "https://gorgeradio.com/visit-hood-river-awards-40000-in-grants/",
+    "https://www.columbiagorgenews.com/visit-hood-rivers-community-investment-grant-program-in-fifth-year-winners-announced/article_b3c79069-0328-4a7d-a07d-70d9cd6b5af3.html",
+    "https://columbiacommunityconnection.com/the-dalles/visit-hood-rivers-community-investment-grant-program-awards-nearly-27000-in-matching-funds-to-three-local-organizations"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Beaverton",
+  "type": "city",
+  "county": "Washington",
+  "state": "OR",
+  "tax_rate": "4% city TLT, plus Washington County 9% and Oregon state 1.5%",
+  "has_ltac_grants": true,
+  "cycle": "semiannual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Explore Tualatin Valley's Inspiration Event Award takes applications July 1 to Sept. 30 (awards by Oct. 31, for November-May events) and Feb. 1 to April 30 (awards by May 31, for June-October events); the Strategic Investment Grant takes applications July 1 to Sept. 15 with awards by Dec. 15; the FY2027 guideline dates had not been confirmed as of Nov. 4, 2026",
+  "typical_open": "July 1 and Feb. 1 (event awards); July 1 (strategic investment grants)",
+  "annual_pool": "Pool not published; the October 2025 Inspiration round distributed $16,500 across ten Washington County events (up to $5,000 each); Strategic Investment Grants are up to $20,000 with a 25% applicant match",
+  "url": "https://tualatinvalley.org/industry/",
+  "contact": "Explore Tualatin Valley, engage@tualatinvalley.org; Dave Parulo, President and CEO; Sylke Neal-Finnegan, Vice President of Marketing and Communications",
+  "notes": "The City of Beaverton has no TLT grant program; its 4% city tax goes to the general fund. Tourism grants in Beaverton come through Explore Tualatin Valley (formerly Washington County Visitors Association), the county DMO funded by 2.33% of the 9% Washington County TLT, which runs the semiannual Inspiration Event Award (up to $5,000 for public, visitor-facing events; one per organization per fiscal year) and the annual Strategic Investment Grant (up to $20,000, 75% ETV share). Both are limited to Washington County 501(c) nonprofits, tribes and government partners, so a for-profit producer needs a nonprofit or city co-applicant; the Beaverton Downtown Association received a 2025 award for Booverton. Priority goes to multi-day, off-season events that generate paid overnight stays.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "Explore Tualatin Valley Executive Committee presents and the Board of Directors approves Strategic Investment Grants; event awards are evaluated by staff; board roster not captured (https://tualatinvalley.org/wp-content/uploads/2025/06/Foundation-Award-Guidelines.pdf)",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation; competitive written review",
+   "format": "Online application (paper copies by request to engage@tualatinvalley.org)"
+  },
+  "meeting_schedule": "Not published; awards announced by Oct. 31 and May 31 (events) and Dec. 15 (strategic investment)",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "Beaverton's own TLT (about $1.16 million) has no grant allocation. Explore Tualatin Valley's grant budget is not published; the only documented round is $16,500 across ten events in October 2025. The county's 9% TLT is shared among the county, the DMO (2.33%) and county tourism facilities.",
+  "funding_docs": [
+   {
+    "title": "Explore Tualatin Valley Event Promotion and Marketing Sponsorship Guidelines (FY2026)",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://tualatinvalley.org/wp-content/uploads/2024/03/Event-Promotion-and-Marketing-Sponsorship-Guidelines.pdf",
+    "summary": "Inspiration Event Award up to $5,000; two cycles (July 1-Sept. 30 and Feb. 1-April 30); Washington County 501(c) nonprofits, tribes and governments only; priorities for overnight stays, off-season, multi-day, accessibility; funded by 2.33% of county TLT."
+   },
+   {
+    "title": "Explore Tualatin Valley Strategic Investment Grant (Foundation Award) Guidelines FY2026",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://tualatinvalley.org/wp-content/uploads/2025/06/Foundation-Award-Guidelines.pdf",
+    "summary": "Up to $20,000 per project with at least 25% applicant match; applications July 1 to Sept. 15, 2025, awards by Dec. 15, 2025; priority areas wine and craft beverage, arts and culture, recreation, agritourism; Executive Committee review, Board approval."
+   },
+   {
+    "title": "ETV announces Inspiration Award recipients (Nov. 3, 2025)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://tualatinvalley.org/industry/media-press/press-releases/2025/11/etv-announces-inspiration-award-recipients",
+    "summary": "$16,500 to ten events October 2025 to July 2026 including Booverton (Beaverton Downtown Association); individual amounts not listed."
+   },
+   {
+    "title": "Explore Tualatin Valley awards $27,400 for summer events (May 2025)",
+    "doc_type": "award list",
+    "year": "2025",
+    "url": "https://tualatinvalley.org/industry/media-press/press-releases/2025/05/explore-tualatin-valley-awards-27400-to-washington-county-organizations-for-summer-events",
+    "summary": "Spring 2025 Inspiration round totaling $27,400 for summer 2025 events."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Tourism Sign Grant Program",
+    "administrator": "Explore Tualatin Valley",
+    "url": "https://tualatinvalley.org/industry/tourism-sign-grant-program",
+    "funds": "Not stated",
+    "eligibility": "Washington County tourism attractions needing directional signage",
+    "deadline": null,
+    "deadline_pattern": "Applications announced December 2025",
+    "notes": null,
+    "contact": "engage@tualatinvalley.org"
+   }
+  ],
+  "for_profit": "sponsor",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": 16500,
+     "decided": "Announced Nov. 3, 2025 (October 2025 cycle)",
+     "awards": [
+      {
+       "recipient": "Beaverton Downtown Association",
+       "event": "Booverton, Oct. 26, 2025",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Only Beaverton recipient; nine other Washington County events funded (Washington County Open Studios, West Coast Giant Pumpkin Regatta, Forest Grove November Wine Walk, North Plains Jingle Parade, Holiday in the Grove, Tualatin Valley Earth Month, Hillsboro Film Festival, Pacific University Powwow, Hagg Lake Concert Series)"
+      }
+     ],
+     "note": "Individual award amounts not published; total $16,500 across ten events."
+    },
+    "2025": {
+     "total": 27400,
+     "decided": "May 2025 cycle",
+     "awards": [],
+     "note": "Recipients not captured."
+    }
+   },
+   "sources": [
+    "https://tualatinvalley.org/industry/media-press/press-releases/2025/11/etv-announces-inspiration-award-recipients",
+    "https://tualatinvalley.org/industry/media-press/press-releases/2025/05/explore-tualatin-valley-awards-27400-to-washington-county-organizations-for-summer-events"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Pendleton",
+  "type": "city",
+  "county": "Umatilla",
+  "state": "OR",
+  "tax_rate": "8% city transient room tax plus a $1.50 per room-night ($0.50 per RV space) Travel Promotion Assessment; Oregon state 1.5%; no Umatilla County tax inside city limits",
+  "has_ltac_grants": true,
+  "cycle": "quarterly",
+  "deadline": "2026-12-31",
+  "funding_year": "2027",
+  "deadline_pattern": "Travel Pendleton Marketing Grant applications are due by the last day of each calendar quarter (March 31, June 30, Sept. 30, Dec. 31) and reviewed monthly within the quarter; awards depend on event date and application volume",
+  "typical_open": "Continuous; submit any time before the quarter's end",
+  "annual_pool": "Not published; maximum $3,000 per award, reimbursed against invoices and spent within one year",
+  "url": "https://travelpendleton.com/wp-content/uploads/2024/05/Travel-Pendleton-Grant-Info-Application-1.pdf",
+  "contact": "Kara Woolsey, Travel Pendleton (Pendleton Chamber of Commerce), director@travelpendleton.com, 541-276-7411, 501 S Main St, Pendleton, OR 97801",
+  "notes": "Pendleton's 8% room tax is split 14% to the chamber for marketing, 48% to the convention center, 35% general fund and 1.75% public art; the chamber's Travel Pendleton Committee also receives 60% of the separate per-night Travel Promotion Assessment and uses it for the quarterly Marketing Grant (up to $3,000, for-profit and nonprofit organizers eligible) and a Room Rebate Program for groups. Grants must fund marketing that reaches residents at least 100 miles away, organizers must stay in city-limits lodging during the event, and scoring favors a lodging partner, shoulder-season dates (April to mid-June, August, mid-September to March), projected room nights and new or expanded events. A wrap-up report with room-night counts is due within 45 days.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "Travel Pendleton Committee (Pendleton Chamber of Commerce); member roster not published online",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No presentation; written application reviewed monthly by the Travel Pendleton Committee",
+   "format": "PDF application emailed or mailed to the chamber"
+  },
+  "meeting_schedule": "Travel Pendleton Committee reviews applications monthly; dates not published",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "City TRT is about $964,000 (2009 projection was $785,000 TRT plus $200,000 TPA); the chamber's 14% TRT share would be roughly $135,000 plus 60% of the TPA, but Travel Pendleton does not publish how much of that is set aside for grants versus its own marketing.",
+  "funding_docs": [
+   {
+    "title": "Travel Pendleton Marketing Grant information and application",
+    "doc_type": "guidelines",
+    "year": "2024",
+    "url": "https://travelpendleton.com/wp-content/uploads/2024/05/Travel-Pendleton-Grant-Info-Application-1.pdf",
+    "summary": "Quarterly deadlines, $3,000 cap, for-profit and nonprofit eligibility, 100-mile marketing reach rule, lodging partnership and shoulder-season scoring, 45-day wrap-up report, contact Kara Woolsey."
+   },
+   {
+    "title": "Travel Pendleton Room Rebate Program",
+    "doc_type": "guidelines",
+    "year": "2024",
+    "url": "https://travelpendleton.com/wp-content/uploads/2024/05/Travel-Pendleton-Room-Rebate-Program-1.pdf",
+    "summary": "Cash rebates of $4 to $7 per room night for groups booking 25 to 1,000 room nights at city-limits properties; reporting due 15 days after the event."
+   },
+   {
+    "title": "City of Pendleton FAQ: Hotel/Motel Tax and Transient Room Tax",
+    "doc_type": "ordinance",
+    "year": "2009",
+    "url": "https://pendletonor.gov/node/11121",
+    "summary": "Explains the 8% TRT split (14% chamber, 48% convention center, 35% general fund, 1.75% public art) and the Travel Promotion Assessment split (60% chamber Travel Pendleton Committee, 40% convention center)."
+   },
+   {
+    "title": "Travel Pendleton offers marketing grants to support local events (Dec. 2022)",
+    "doc_type": "other",
+    "year": "2023",
+    "url": "https://northeastoregonnow.com/?p=95720",
+    "summary": "Earlier annual-cycle version of the grant (Dec. 31 deadline, awards by Feb. 28) under then-director Kristen Dollarhide; confirms for-profit eligibility and the $3,000 cap."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Pendleton Room Rebate Program",
+    "administrator": "Travel Pendleton (Pendleton Chamber of Commerce)",
+    "url": "https://travelpendleton.com/wp-content/uploads/2024/05/Travel-Pendleton-Room-Rebate-Program-1.pdf",
+    "funds": "$100 to $7,000 per group depending on room nights (25 to 1,000)",
+    "eligibility": "Groups, conventions or meetings booking room blocks at properties inside Pendleton city limits",
+    "deadline": null,
+    "deadline_pattern": "Rolling; include in site selection packet, report within 15 days after the event",
+    "notes": "Paid after the event once properties verify room nights",
+    "contact": "director@travelpendleton.com, 541-276-7411"
+   }
+  ],
+  "for_profit": "yes",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "No award list published for 2024-2026."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Depoe Bay",
+  "type": "city",
+  "county": "Lincoln",
+  "state": "OR",
+  "tax_rate": "City transient room tax budgeted as 7% to the general fund, 1% to public safety and 4% to tourism (marketing and facilities), which implies a 12% city rate; the starting list showed 8%. Plus Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool. FY2026-27 budget: $2,100,000 in room tax of which $350,000 is tourism marketing/promotion and $350,000 tourism-related facilities; only $120,000 is budgeted for marketing spending and $38,175 for facility supplies, with the rest held in a $2.9 million unappropriated balance and $187,350 tourism infrastructure reserve",
+  "url": "https://www.cityofdepoebay.org/",
+  "contact": "Kimberly Wollenburg, City Administrator/Recorder, info@cityofdepoebay.org, City Hall, 570 SE Shell Avenue, Depoe Bay, OR 97341 (RFP 2025-02 contact; phone not published)",
+  "notes": "Depoe Bay collects about $2.1 million a year in room tax but runs no grant program. The FY2026-27 budget (Resolution 609-26) routes $1,225,000 to the general fund, $565,000 to sheriff and fire contracts, $200,000 to the Harbor Fund, $325,000 to ADA restrooms at Harbor View and only $120,000 to tourism marketing, with a $2.9 million unappropriated balance in the Transient Room Tax Fund. The city issued RFP 2025-02 in January 2025 to hire a destination management organization (proposals due Feb. 27, 2025; the RFP is now closed and no award has been posted). There is no tourism committee; requests would go to the city administrator and council. Depoe Bay is a prime example of unspent tourism-restricted TLT.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "No tourism committee; City Council decides (https://www.cityofdepoebay.org/media/18066)",
+  "members_as_of": null,
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No program; any request would be a council agenda item",
+   "format": null
+  },
+  "meeting_schedule": "Depoe Bay City Council meets the first Tuesday of the month at City Hall with Zoom access; budget hearing June 29, 2026",
+  "total_pool_usd": 700000,
+  "competitive_pool_usd": 0,
+  "pool_note": "FY2026-27: $2,100,000 room tax; $700,000 is tourism-restricted ($350,000 marketing, $350,000 facilities) but only $120,000 is budgeted for marketing and nothing for grants; the Transient Room Tax Fund carries a $4,477,056 beginning balance and $2,911,531 unappropriated ending balance.",
+  "funding_docs": [
+   {
+    "title": "City of Depoe Bay FY2026-27 adopted budget, Transient Room Tax Fund (Resolution 609-26)",
+    "doc_type": "budget",
+    "year": "2027",
+    "url": "https://www.cityofdepoebay.org/media/18066",
+    "summary": "Room tax $2,100,000 split 7% general fund, 1% public safety, 4% tourism; expenditures $1,337,175 materials and services (including $120,000 tourism marketing), $366,000 capital, $1,525,000 transfers; $2.9 million unappropriated balance; no grant or DMO line."
+   },
+   {
+    "title": "Notice of Budget Hearing FY2026-27 (fund summary)",
+    "doc_type": "budget",
+    "year": "2027",
+    "url": "https://www.cityofdepoebay.org/media/17571",
+    "summary": "Transient Room Tax Fund totals: $7,455,927 actual 2024-25, $6,582,004 adopted 2025-26, $6,577,056 approved 2026-27; hearing June 29, 2026; contact Kimberly Wollenburg."
+   },
+   {
+    "title": "RFP 2025-02 Establishment of a Destination Management Organization",
+    "doc_type": "other",
+    "year": "2025",
+    "url": "https://www.cityofdepoebay.org/administration/bids-rfp/rfp-2025-02-establishment-destination-management-organization",
+    "summary": "Closed RFP (due Feb. 27, 2025) for multimedia tourism marketing to increase overnight stays; City Administrator/Recorder recommends award to council; no award posted."
+   },
+   {
+    "title": "Council meeting summary, June 17, 2025 (TLT and HB 3962)",
+    "doc_type": "minutes",
+    "year": "2025",
+    "url": "https://cpo.soar.com/articles/6163563/Depoe-Bay/Lincoln-County/Oregon/Local-tourism-operator-urges-council-to-guard-transient-lodging-tax-for-tourism-as-legislature-weighs-HB-3962",
+    "summary": "Local tourism operator urged council to keep the 70% tourism share for promotion and facilities; adoption of the FY2025-26 budget (Resolution 585-25) the same night."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/2026-competitive-grants-program",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "No awards published."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Wilsonville",
+  "type": "city",
+  "county": "Clackamas",
+  "state": "OR",
+  "tax_rate": "5% city TLT, plus Clackamas County 6% and Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "The Community Tourism Matching Grant ran annually with a February or March deadline (March 11, 2022; Feb. 2 in a later cycle) and Tourism Promotion Committee decisions in April, but it does not appear in the FY2026-27 tourism plan or on the current Parks and Recreation grant page",
+  "typical_open": "Historically January",
+  "annual_pool": "Historically $25,000 per year (2023: $25,000 in city matching grants plus $19,000 in county CPP awards administered locally); no tourism grant line in the FY2026-27 plan",
+  "url": "https://www.wilsonvilleoregon.gov/bc-tp",
+  "contact": "Brian Stevenson, Parks and Recreation Program Manager (Tourism Promotion Committee staff), 503-570-1523, stevenson@ci.wilsonville.or.us; Zoe Mombert, Assistant to the City Manager (committee staff per 2025-26 minutes)",
+  "notes": "Wilsonville's Tourism Promotion Committee formerly awarded a $25,000 Community Tourism Matching Grant (dollar-for-dollar match, up to $25,000) from city TLT and also screened Clackamas County Tourism Community Partnership grants for local applicants, with 2023 awards to Celebration Days, Brewfest, Festival of the Arts and others. The committee's draft FY2026-27 plan budgets $262,664 for the Explore Wilsonville marketing contract, special projects and subscriptions with no grant or sponsorship line, and event funding is deferred to Stage 2 (years 5-7) of the tourism strategy, so the program is treated as dormant. The grant webform is still online, so confirm with Brian Stevenson before relying on it. Event organizers should look to Clackamas County's Community Partnership Program and the city's general-fund Community Cultural Events and Programs grant (nonprofits only, Dec. 4, 2026 deadline).",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Brandon Roben",
+    "role": "Chair",
+    "affiliation": "CEO, Oaks Amusement Park",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Gus Castaneda",
+    "role": "Vice Chair",
+    "affiliation": "General Manager, Hilton Garden Inn Wilsonville",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Sungmin Park",
+    "role": "Member",
+    "affiliation": "Owner, Holiday Inn Portland South - Wilsonville",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jennifer Gage",
+    "role": "Member",
+    "affiliation": "Former General Manager, Abella Italian Kitchen",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Elaine Owen",
+    "role": "Member",
+    "affiliation": "Owner, Lady Hill Winery",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Noelle Craddock",
+    "role": "Member",
+    "affiliation": "Owner, Our Sweet Retreat",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Justin Timm",
+    "role": "Member",
+    "affiliation": "Owner, Frog Pond Farms",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Caroline Berry",
+    "role": "Council Liaison",
+    "affiliation": "Wilsonville City Council President",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Elizabeth Keenan",
+    "role": "Ex-officio advisory member",
+    "affiliation": "Director, Clackamas County Tourism and Cultural Affairs (Oregon's Mt. Hood Territory)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jim Austin",
+    "role": "Ex-officio advisory member",
+    "affiliation": "Development and Community Relations Lead, Clackamas County Tourism and Cultural Affairs",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Kevin Ferrasci O'Malley",
+    "role": "Ex-officio advisory member",
+    "affiliation": "CEO, Wilsonville Area Chamber of Commerce",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Steve Rymer",
+    "role": "Ex-officio advisory member",
+    "affiliation": "Parks and Recreation Director, City of Wilsonville",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.wilsonvilleoregon.gov/bc-tp (roster) and Dec. 3, 2025 / Jan. 14, 2026 minutes in the March 4, 2026 packet (https://mccmeetings.blob.core.usgovcloudapi.net/wlsnvlleor-pubu/MEET-Packet-ac6d979b5f844fb68a2ca24bcba5661b.pdf)",
+  "members_as_of": "2026-03-04",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": "When the tourism grant ran, the committee held a dedicated grant review meeting in spring; the city's CCEP grant invites applicants to present at its January review meeting",
+   "format": null
+  },
+  "meeting_schedule": "Tourism Promotion Committee meets roughly monthly on Wednesdays at 10 a.m. at City Hall, 29799 SW Town Center Loop E, with Zoom (Dec. 3, 2025; Jan. 14, 2026; March 4, 2026; May 6, 2026)",
+  "total_pool_usd": 262664,
+  "competitive_pool_usd": 0,
+  "pool_note": "FY2026-27 draft tourism plan allocates $200,000 to the Explore Wilsonville marketing contract, $50,000 to special projects and $12,614 to subscriptions (stated total $262,664, although listed items sum higher); $0 is set aside for outside grants. Total city TLT revenue is about $450,000.",
+  "funding_docs": [
+   {
+    "title": "Draft FY2026-27 Tourism Development Strategy Action Plan (Tourism Promotion Committee, May 6, 2026)",
+    "doc_type": "budget",
+    "year": "2027",
+    "url": "https://mccmeetingspublic.blob.core.usgovcloudapi.net/wlsnvlleor-meet-ac6d979b5f844fb68a2ca24bcba5661b/ITEM-Attachment-001-d3639af9bbfb49eca0cda639a5f2be36.pdf",
+    "summary": "Budgets $200,000 marketing contract, $50,000 special projects and $12,614 subscriptions; no community grant or event sponsorship line; signature events deferred to Stage 2."
+   },
+   {
+    "title": "Tourism Promotion Committee packet, March 4, 2026 (with Dec. 2025 and Jan. 2026 minutes)",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://mccmeetings.blob.core.usgovcloudapi.net/wlsnvlleor-pubu/MEET-Packet-ac6d979b5f844fb68a2ca24bcba5661b.pdf",
+    "summary": "Committee attendance and votes; WVVA Strategic Investment Fund award for a Wheel the World accessibility assessment; application to the Metro Community Enhancement Grant; no outside grant round."
+   },
+   {
+    "title": "City awards $44,000 in grants to support community tourism efforts (2023)",
+    "doc_type": "award list",
+    "year": "2023",
+    "url": "https://wilsonvilleoregon.gov/administration/page/city-awards-44000-grants-local-organizations-support-community-tourism-efforts",
+    "summary": "Last documented round: $25,000 in city matching grants (Celebration Days $7,000, Brews for Community $5,000, Arts and Cultural Council $5,000, Kiwanis $4,000, Rotary $4,000) and $19,000 in Clackamas County CPP awards (World of Speed $10,000, Celebration Days $5,000, Willamette Falls Heritage Coalition $4,000)."
+   },
+   {
+    "title": "Funding available for Wilsonville tourism and community grant programs (2022 notice)",
+    "doc_type": "guidelines",
+    "year": "2022",
+    "url": "https://wilsonvilleoregon.gov/administration/page/funding-available-wilsonville-tourism-and-community-grant-programs",
+    "summary": "Describes the Community Tourism Grant (up to $25,000, TLT-funded, Tourism Promotion Committee review, Feb. 2 deadline) and the county CPP grant (up to $20,000, March 5 deadline); contact Brian Stevenson."
+   },
+   {
+    "title": "Community Tourism Grant application webform",
+    "doc_type": "application",
+    "year": null,
+    "url": "https://wilsonvilleoregon.gov/parksrec/webform/community-tourism-grant-application",
+    "summary": "Still-live webform requiring applicant match equal to or greater than the request; no deadline or year shown."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Community Cultural Events and Programs (CCEP) Grant",
+    "administrator": "City of Wilsonville Parks and Recreation (general fund, not TLT)",
+    "url": "https://www.wilsonvilleoregon.gov/parksrec/page/grant-programs",
+    "funds": "$25,000 total split among multiple organizations",
+    "eligibility": "Nonprofit organizations producing festivals, special events, arts, culture and heritage programs in Wilsonville",
+    "deadline": "2026-12-04",
+    "deadline_pattern": "Annual early-December deadline with a January review meeting (tentatively Jan. 20, 2027, 6 p.m.) where applicants present",
+    "notes": "Final report required from prior grantees before reapplying",
+    "contact": "Erika Valentine, Management Analyst, 503-570-1629"
+   },
+   {
+    "program": "Clackamas County Tourism Community Partnership Program (CPP) grant",
+    "administrator": "Clackamas County Tourism and Cultural Affairs (Oregon's Mt. Hood Territory), with local screening by the Wilsonville Tourism Promotion Committee in past years",
+    "url": "https://www.wilsonvilleoregon.gov/bc-tp",
+    "funds": "Up to $20,000 per community in the last documented cycle (2023 Wilsonville awards: $19,000)",
+    "eligibility": "Tourism projects that increase overnight stays or draw visitors from more than 50 miles, including out-of-area marketing for events",
+    "deadline": null,
+    "deadline_pattern": "Historically early March (March 5 in the 2022 notice)",
+    "notes": "County contacts on the Wilsonville committee are Elizabeth Keenan and Jim Austin",
+    "contact": "Brian Stevenson, 503-570-1523"
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": {
+   "years": {
+    "2023": {
+     "total": 44000,
+     "decided": "Spring 2023 by the Tourism Promotion Committee",
+     "awards": [
+      {
+       "recipient": "Wilsonville Celebration Days",
+       "event": "Fun in the Park, Aug. 5, 2023",
+       "amount": 7000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "City matching grant; also $5,000 county CPP for out-of-area marketing"
+      },
+      {
+       "recipient": "Brews for Community",
+       "event": "Wilsonville Brewfest, Aug. 12, 2023",
+       "amount": 5000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "City matching grant"
+      },
+      {
+       "recipient": "Wilsonville Arts & Cultural Council",
+       "event": "Wilsonville Festival of the Arts, June 3-4, 2023",
+       "amount": 5000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "City matching grant"
+      },
+      {
+       "recipient": "Wilsonville Kiwanis",
+       "event": "Kiwanis Kids Fun Run, Aug. 25, 2023",
+       "amount": 4000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "City matching grant"
+      },
+      {
+       "recipient": "Rotary Club of Wilsonville",
+       "event": "Rotary Summer Concert Series",
+       "amount": 4000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "City matching grant"
+      },
+      {
+       "recipient": "World of Speed Motorsports Museum",
+       "event": "Porsche 911 exhibit marketing",
+       "amount": 10000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Clackamas County CPP award"
+      },
+      {
+       "recipient": "Willamette Falls Heritage Coalition",
+       "event": null,
+       "amount": 4000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "Clackamas County CPP award"
+      }
+     ],
+     "note": "Last published round; no 2024, 2025 or 2026 city tourism grant awards were found."
+    }
+   },
+   "sources": [
+    "https://wilsonvilleoregon.gov/administration/page/city-awards-44000-grants-local-organizations-support-community-tourism-efforts"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Wallowa County",
+  "type": "county",
+  "county": "Wallowa",
+  "state": "OR",
+  "tax_rate": "5% county TLT in unincorporated areas (a November 2018 measure to add 3% for the fairgrounds and sheriff was referred by commissioners), plus Oregon state 1.5%; Enterprise 5% and Joseph 3% levy their own city taxes",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "Not published; Commissioner Todd Nash cited about $360,000 in county lodging tax collections in 2018. Small TLT grants (for example $1,000 to the Courthouse Concert Series in 2026) are approved by the Board of Commissioners on request",
+  "url": "https://co.wallowa.or.us/",
+  "contact": "Wallowa County Board of Commissioners, 101 S River St, Enterprise, OR 97828; TLT administration through the Planning Department: Jean Jancaitis, Department Specialist, 541-426-7770, plansec@co.wallowa.or.us; Franz Goebel, Planning Director, 541-426-7768",
+  "notes": "Wallowa County collects a 5% TLT in unincorporated areas (including Wallowa Lake) through its Planning Department and has no published grant program, committee or application; the Board of Commissioners approves individual TLT grants on request at regular meetings (a $1,000 grant to the Courthouse Concert Series in 2026 is the only documented award). The county tried in 2018 to add 3% earmarked 70% to the fairgrounds and 30% to the sheriff, which a Wallowa Lake lodging owner challenged as not tourism-related. Treat the county as a direct ask to the commissioners with a short written request; the Wallowa County Chamber of Commerce handles visitor marketing. Joseph collected $47,446 in city TLT in 2023-24 and tabled both a 5% rate and its TLT fund allocations in March 2026.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Wallowa County Board of Commissioners meets the first and third Wednesdays at the courthouse in Enterprise (verify on co.wallowa.or.us)",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No allocation data located.",
+  "funding_docs": [
+   {
+    "title": "Commissioners approve $1,000 TLT grant for Courthouse Concert Series (citizen portal summary)",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://citizenportal.ai/articles/9585525/Oregon/Wallowa-County/Commissioners-approve-1000-TLT-grant-for-Courthouse-Concert-Series",
+    "summary": "Headline-only evidence that the Board of Commissioners approves individual TLT grant requests; page could not be fetched."
+   },
+   {
+    "title": "Joseph City Council tables transient lodging tax (Wallowa County Chieftain, March 6, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://wallowa.com/2026/03/06/joseph-city-council-tables-transient-lodging-tax/",
+    "summary": "Joseph's 3% TLT raised $47,445.68 in 2023-24; proposal to go to 5% (matching Enterprise) and draft TLT fund allocations tabled; Commissioner John Hillock cautioned against raising the tax."
+   },
+   {
+    "title": "Wallowa County Transient Lodging Tax Return Form",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://form.jotform.com/222336502110034",
+    "summary": "County Planning Department TLT return: 5% rate, quarterly filing, contacts Jean Jancaitis and Franz Goebel."
+   },
+   {
+    "title": "Commissioners refer 3% lodging tax increase to Nov. 2018 ballot (Wallowa County Chieftain, Aug. 22, 2018)",
+    "doc_type": "other",
+    "year": "2018",
+    "url": "https://oregonnews.uoregon.edu/lccn/sn90057139/2018-08-22/ed-1/seq-1/ocr/",
+    "summary": "Existing 5% unincorporated-area tax yields about $360,000; proposed 3% add-on estimated at $129,520 split 70% fairgrounds, 30% sheriff; ballot title challenged by David Hurley."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/2026-competitive-grants-program",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": null,
+     "decided": "2026 commissioners meeting (date not retrieved)",
+     "awards": [
+      {
+       "recipient": "Courthouse Concert Series",
+       "event": "Courthouse Concert Series",
+       "amount": 1000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "From citizen-portal headline only; unverified"
+      }
+     ],
+     "note": "Single award known from a headline; no full list."
+    }
+   },
+   "sources": [
+    "https://citizenportal.ai/articles/9585525/Oregon/Wallowa-County/Commissioners-approve-1000-TLT-grant-for-Courthouse-Concert-Series"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Hines",
+  "type": "city",
+  "county": "Harney",
+  "state": "OR",
+  "tax_rate": "8% city TLT, plus Oregon state 1.5%; Harney County has discussed a county TLT (2026)",
+  "has_ltac_grants": null,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "City staff estimated $62,500 of TRT had to go to tourism in FY2019-20 (25% share), of which $53,000 was planned for the Harney County Chamber and $9,500 left for council direction; since Ordinance 327 the council sets the tourism allocation each budget year",
+  "url": null,
+  "contact": "City of Hines, City Administrator, 101 E Barnes Ave, Hines, OR 97738 (Kirby Letham held the role in 2019); Harney County Chamber of Commerce, 484 N Broadway, Burns, 541-573-2636, director@harneycounty.com",
+  "notes": "Hines reserves 25% of its TRT for tourism. In June 2019 councilors objected to sending the full share (about $53,000 of an estimated $62,500) to the Harney County Chamber without evidence of benefit to Hines events such as Obsidian Days, and Ordinance 327 (July 9, 2019) repealed the automatic chamber payment so the council now decides the tourism allocation annually, with the mayor suggesting a fixed chamber percentage set at budget time. No application form, committee or award list has been published since; treat it as an ad hoc request to the city administrator before spring budget hearings. Harney County Judge Bill Hart discussed a county-level TLT in April 2026.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Hines Common Council meets the second and fourth Tuesdays (per 2019 coverage of July 9 and July 23 meetings)",
+  "total_pool_usd": 62500,
+  "competitive_pool_usd": null,
+  "pool_note": "$62,500 is the FY2019-20 tourism share cited by staff (25% of TRT); with TRT now near $221,000 the share would be about $55,000. No published allocation since 2019.",
+  "funding_docs": [
+   {
+    "title": "Hines council repeals chamber funding ordinance (Burns Times-Herald, July 17, 2019)",
+    "doc_type": "ordinance",
+    "year": "2019",
+    "url": "https://btimesherald.com/?p=6550",
+    "summary": "Ordinance 327 repeals the section of Ordinance 272 directing 25% of TLT to the chamber; council to decide annually on tourism spending; councilor suggested organizations could submit proposals."
+   },
+   {
+    "title": "Harney County Judge Bill Hart explains the transient lodging tax (Elkhorn Media, April 24, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://elkhornmediagroup.com/harney-county-judge-bill-hart-explains-what-the-transient-lodging-tax-is/",
+    "summary": "County-level TLT discussion; no grant program described."
+   },
+   {
+    "title": "Hines Common Council minutes, June 11, 2019 (TRT and chamber funding)",
+    "doc_type": "minutes",
+    "year": "2019",
+    "url": "https://btimesherald.com/?p=6452",
+    "summary": "$62,500 tourism share, $53,000 planned for chamber; council directed staff to draft an ordinance giving council control of the tourism allocation."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "No awards published."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Grant County",
+  "type": "county",
+  "county": "Grant",
+  "state": "OR",
+  "tax_rate": "8% county-wide TLT (voter-approved May 15, 1990; Ordinance 2012-04), plus Oregon state 1.5%; John Day adds a 3% city tax",
+  "has_ltac_grants": true,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": "Not published; the chamber posts a standing application, guidelines, budget form and recipient report and says to call for current guidelines",
+  "typical_open": null,
+  "annual_pool": "Not published; county TLT is about $157,000 and the chamber administers the tourism share",
+  "url": "https://www.gcoregonlive.com/?p=3067",
+  "contact": "Grant County Chamber of Commerce, 541-575-0547, 301 W. Main Street, John Day, OR 97845 (no named grant contact; Sherrie Rininger represented the chamber at a 2021 John Day council session)",
+  "notes": "Grant County contracts its 8% transient room tax to the Grant County Chamber of Commerce, which runs a Transient Room Tax Grant 'to promote tourism and economic development in Grant County' open to recognized Grant County organizations. The chamber site carries the application, guidelines, budget form and recipient report (all 2022 uploads) but no deadline, pool, scoring rubric or award list; a lodging owner questioned the chamber's financial transparency at a 2021 John Day council meeting. Call the chamber for the current cycle and whether out-of-county event producers can apply through a local sponsor.",
+  "confidence": "low",
+  "members": [],
+  "members_source": "Grant County Chamber of Commerce board; roster not published on the chamber site",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "No allocation data; county TLT about $157,000.",
+  "funding_docs": [
+   {
+    "title": "Grant County Chamber Transient Room Tax Grant page",
+    "doc_type": "guidelines",
+    "year": "2022",
+    "url": "https://www.gcoregonlive.com/?p=3067",
+    "summary": "States purpose and eligibility (recognized Grant County organizations) and links the application, guidelines, budget form and recipient report."
+   },
+   {
+    "title": "Grant Application for Funding",
+    "doc_type": "application",
+    "year": "2022",
+    "url": "http://www.gcoregonlive.com/wp-content/uploads/2022/03/GRANT-APPLICATION-FOR-FUNDING-09.pdf",
+    "summary": "Application form (could not be fetched)."
+   },
+   {
+    "title": "TRT Guidelines (revised)",
+    "doc_type": "guidelines",
+    "year": "2022",
+    "url": "http://www.gcoregonlive.com/wp-content/uploads/2022/03/TRT-Guidelines-Revised.doc-1.pdf",
+    "summary": "Guidelines PDF (could not be fetched)."
+   },
+   {
+    "title": "Chamber information, TRT ordinance and filing forms",
+    "doc_type": "ordinance",
+    "year": "2022",
+    "url": "https://www.gcoregonlive.com/chamberinformation/",
+    "summary": "8% county TLT history, Ordinance 2012-04, filing and registration forms, chamber phone 541-575-0547."
+   }
+  ],
+  "alternatives": [],
+  "for_profit": "unknown",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "No award list published."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Dallas",
+  "type": "city",
+  "county": "Polk",
+  "state": "OR",
+  "tax_rate": "9% city TLT, plus Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool; the city pays the Dallas Area Chamber of Commerce $60,000 a year from TLT to operate the Dallas Area Visitors Center (contract reviewed at the Feb. 20, 2024 council work session, then expiring June 30, 2024)",
+  "url": "https://www.dallasor.gov/",
+  "contact": "City of Dallas City Manager's Office, 187 SE Court St, Dallas, OR 97338; Dallas Area Chamber of Commerce and Visitors Center for event partnerships",
+  "notes": "Dallas spends its roughly $97,000 in TLT on a $60,000 annual contract with the Dallas Area Chamber of Commerce for the visitors center plus about 10 hours a week of city staff time; the chamber's contract tasks include event production (Krazy Dayz, Christmas Town) and grant-support letters, but there is no competitive grant round for outside event producers. The remaining TLT goes to the general fund. Event organizers would partner with the chamber's event committees rather than apply for funds.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Dallas City Council meets the first and third Mondays; work sessions as scheduled",
+  "total_pool_usd": 60000,
+  "competitive_pool_usd": 0,
+  "pool_note": "$60,000 of about $97,000 TLT goes to the chamber visitor center contract; nothing is open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "City Council work session packet, Feb. 20, 2024 (Chamber/Visitors Center annual report)",
+    "doc_type": "minutes",
+    "year": "2024",
+    "url": "https://www.dallasor.gov/sites/default/files/fileattachments/city_council/meeting/packets/7186/2024.02.20_ws_agenda_packet.pdf",
+    "summary": "Staff report confirming the $60,000 annual TLT-funded distribution to the Dallas Area Chamber of Commerce and the city staffing commitment to the visitors center; no grant program."
+   }
+  ],
+  "alternatives": [],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "No grants awarded; TLT funds the chamber contract."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Shady Cove",
+  "type": "city",
+  "county": "Jackson",
+  "state": "OR",
+  "tax_rate": "6% city TLT, plus Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool; about $75,000 TLT a year, $52,500 (70%) restricted to tourism promotion or overnight-stay facilities and held as a General Fund reserve in FY2026-27",
+  "url": "https://shadycove.org/",
+  "contact": "John Edwards, Interim City Administrator and Budget Officer, City of Shady Cove, 22451 Highway 62, Shady Cove, OR 97539; Recreation and Tourism Commission (five council-appointed members, meets monthly at the library, 5:15 p.m. Wednesdays)",
+  "notes": "Shady Cove collects about $75,000 a year in TLT; the FY2026-27 budget retires the separate Transient Lodging Tax Fund, folds it into the General Fund and reserves 70% ($52,500) for tourism promotion or facilities, with a note that it could help develop the newly purchased park property. No grant program exists. The city's Recreation and Tourism Commission advises council on events (Summer Bash, Shady Cove Birthday) and reviews fundraising and donations, so an event proposal would go to that commission and then council. Public questioned the TLT estimates at the June 11, 2026 budget hearing.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "Recreation and Tourism Commission (https://shadycove.org/parks-and-recreation-commission/page/2/); member names not posted",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Recreation and Tourism Commission meets at least monthly, Wednesdays 5:15 p.m. at the Shady Cove Library (Aug. 13 and Oct. 8, 2025); City Council meets the second Thursday",
+  "total_pool_usd": 52500,
+  "competitive_pool_usd": 0,
+  "pool_note": "About $75,000 TLT; $52,500 tourism-restricted reserve; $0 open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "City of Shady Cove FY2026-27 Budget Summary",
+    "doc_type": "budget",
+    "year": "2027",
+    "url": "https://shadycove.org/wp-content/uploads/2026/05/FY2026-27-Budget-Summary-DRAFT-FINAL-SIGNED.pdf",
+    "summary": "About $75,000 TLT per year; $52,500 restricted; recommends retiring Fund 11 and reserving 70% in the General Fund for tourism; no chamber, event or grant lines; budget officer John Edwards."
+   },
+   {
+    "title": "Recreation and Tourism Commission agenda, Aug. 13, 2025",
+    "doc_type": "minutes",
+    "year": "2025",
+    "url": "https://shadycove.org/wp-content/uploads/2025/08/Agenda-08-13-2025.pdf",
+    "summary": "Commission workshop on Summer Bash, Shady Cove Birthday and its 2026 role; no funding items."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/2026-competitive-grants-program",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "None found."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Creswell",
+  "type": "city",
+  "county": "Lane",
+  "state": "OR",
+  "tax_rate": "City transient room tax (rate not confirmed; state law applies the 70% tourism rule), plus Lane County 8% countywide and Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool; the Creswell Chamber's three-year tourism contract was cut to $31,225 a year in 2020 and the council then declined to renew it (expired July 1, 2020), redirecting room tax toward Hobby Field Airport tourism projects. Revenue fell about $17,544 a year after the Super 8 burned in 2018, leaving one hotel",
+  "url": "https://www.ci.creswell.or.us/",
+  "contact": "City of Creswell, 13 S 1st St, Creswell, OR 97426 (Michelle Amberg was City Manager and Jim Piper Finance Director in 2020)",
+  "notes": "Creswell levies its own room tax and until 2020 passed it to the Creswell Chamber of Commerce under a $31,225-a-year contract that funded the visitor center, July Fourth, the citywide yard sale and Winter Lights; the council let that contract lapse in July 2020 and discussed spending the money on Hobby Field Airport entrance repairs, with councilors asking for more oversight of tourism spending. No grant program, committee or later allocation was found, and the city now has a single hotel (Comfort Inn), so TLT is small. Lane County and Travel Lane County are the realistic funding routes.",
+  "confidence": "low",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Creswell City Council meets the second and fourth Mondays",
+  "total_pool_usd": 31225,
+  "competitive_pool_usd": 0,
+  "pool_note": "$31,225 was the FY2020-21 chamber contract amount (roughly the tourism share of city room tax); nothing is open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "City, airport see tourism taking off (Creswell Chronicle, Aug. 12, 2020)",
+    "doc_type": "other",
+    "year": "2020",
+    "url": "https://www.chronicle1909.com/?p=2034",
+    "summary": "Council declined to renew the chamber tourism contract (expired July 1, 2020); considering airport projects; 70% tourism rule; Super 8 loss of about $17,544 TLT a year."
+   },
+   {
+    "title": "Council weighs chamber tourism contract (Creswell Chronicle, Feb. 26, 2020)",
+    "doc_type": "minutes",
+    "year": "2020",
+    "url": "https://www.chronicle1909.com/?p=7786",
+    "summary": "Proposed $15,243 cut to a $31,225 three-year contract; chamber 2019 tourism spending by event (July Fourth $25,814, visitor center $17,221); council discussed a liaison subcommittee."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/2026-competitive-grants-program",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "None found."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Winston",
+  "type": "city",
+  "county": "Douglas",
+  "state": "OR",
+  "tax_rate": "7% city TLT, plus Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool; Ordinance 24-717 (adopted Sept. 3, 2024) cut the tourism share of TRT from 87.8% to 70%, with 30% to the General Fund; about $18,000 of the roughly $26,000 TRT is therefore 'tourist promotion' money with no published program",
+  "url": "https://winstoncity.org/",
+  "contact": "City of Winston, Cindy M. Sarti, City Recorder, 201 NW Douglas Blvd, Winston, OR 97496",
+  "notes": "Winston's TRT ordinance (Title III, Chapter 30, Section 35.096(B)) directs 70% of room tax to 'tourist promotion' and 30% to the General Fund after Ordinance 24-717 reduced the tourism share from 87.8% in September 2024. With only about $26,000 in annual TRT the tourism share is about $18,000 and no grant program, committee or award list exists; the money supports city promotion tied to Wildlife Safari traffic. A request would be an item for the city council.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Winston City Council meets the first and third Mondays",
+  "total_pool_usd": 18000,
+  "competitive_pool_usd": 0,
+  "pool_note": "70% of about $26,000 TRT is roughly $18,000 for tourist promotion; nothing is open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Ordinance 24-717 amending TRT allocation to the General Fund",
+    "doc_type": "ordinance",
+    "year": "2024",
+    "url": "https://winstoncity.org/wp-content/uploads/2026/06/24-717-Amending-TRT-Percentage-to-GF.pdf",
+    "summary": "First reading Aug. 19, 2024, adopted Sept. 3, 2024; changes split from 87.8% tourism / 12.2% General Fund (Ordinance 18-677) to 70% tourist promotion / 30% General Fund."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/2026-competitive-grants-program",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "None found."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Lowell",
+  "type": "city",
+  "county": "Lane",
+  "state": "OR",
+  "tax_rate": "No separate city tax; Lane County 8% county TLT applies with a share remitted to Lowell, plus Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool; the FY2025-26 adopted budget carries a General Fund Tourism program of $18,700 (materials and services) and a separate Blackberry Jam Fund of $17,730 for the city-run festival",
+  "url": "https://www.lowelloregon.gov/",
+  "contact": "Max Baker, Interim City Administrator and Budget Officer, City of Lowell, 107 E 3rd St, Lowell, OR 97452; Blackberry Jam Festival Committee (city committee)",
+  "notes": "Lowell budgets tourism as a General Fund program ($18,700 in FY2025-26, up from under $1,300 actual spending in prior years) and runs its own Blackberry Jam Festival through a city committee with a dedicated $17,730 fund. There is no outside grant program; the city's lodging-tax share is small and the Blackberry Jam Festival Committee is the body an outside event producer would approach about partnering.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "Blackberry Jam Festival Committee (https://www.lowelloregon.gov/bcbbj/page/blackberry-jam-festival-committee-3); members not listed",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Lowell City Council meets the first and third Tuesdays",
+  "total_pool_usd": 18700,
+  "competitive_pool_usd": 0,
+  "pool_note": "FY2025-26 Tourism program $18,700 plus Blackberry Jam Fund $17,730, both city-spent; $0 for outside applicants.",
+  "funding_docs": [
+   {
+    "title": "City of Lowell adopted budget FY2025-26",
+    "doc_type": "budget",
+    "year": "2026",
+    "url": "https://www.lowelloregon.gov/sites/default/files/fileattachments/administration/page/9155/00_-_adopted_budget_fy_26.pdf",
+    "summary": "General Fund Tourism program $18,700; Blackberry Jam Fund $17,730; no grant line; budget officer Max Baker."
+   },
+   {
+    "title": "Blackberry Jam Festival Committee page",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.lowelloregon.gov/bcbbj/page/blackberry-jam-festival-committee-3",
+    "summary": "City committee that organizes the festival to boost tourism in Lowell and Lane County."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/2026-competitive-grants-program",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "None found."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Curry County",
+  "type": "county",
+  "county": "Curry",
+  "state": "OR",
+  "tax_rate": "10% county TLT in unincorporated areas (raised from 7% by Ordinance 25-01, effective July 1, 2025), plus Oregon state 1.5%",
+  "has_ltac_grants": true,
+  "cycle": null,
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Not yet published. At the May 13, 2026 budget committee meeting staff said a competitive grant program for tourism, facade improvements and marketing was being drafted with 'guardrails' for allocation, with most new revenue not expected until FY2027",
+  "typical_open": null,
+  "annual_pool": "Not published; the board chair said the TLT increase and a legislative shift to a 50/50 split could add close to $600,000 in unrestricted funds, part of which is being considered for the competitive grant program; most would not arrive until FY2027",
+  "url": "https://www.currypilot.com/news/curry-county-boosts-lodging-tax-to-fuel-tourism-growth/article_cf2e9088-03e7-4f8e-8a02-dde7e7887afa.html",
+  "contact": "Miranda Plagge, Economic Development Administrator, Curry County Economic Development Department, 541-247-3222, econdev@currycountyor.gov",
+  "notes": "Curry County raised its unincorporated-area lodging tax from 7% to 10% under Ordinance 25-01 (effective July 1, 2025) to seed 'Curry's Destination Development Fund' under the county Economic Development Department's 2022 Destination Strategy, with infrastructure grants (trails, signage, visitor amenities) and advertising support for tourism-related businesses. As of the May 13, 2026 budget committee meeting the grant process was still being drafted (tourism, facade improvement and marketing grants) and the chair said much of the revenue would not arrive until FY2027, so expect the first round in FY2026-27 at the earliest. No application, deadline, pool or scoring document has been published; email econdev@currycountyor.gov to get on the notification list. Incorporated cities (Brookings, Gold Beach, Port Orford) levy their own TLT.",
+  "confidence": "low",
+  "members": [],
+  "members_source": "Curry County Board of Commissioners and Economic Development Department; no grant committee published",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Curry County Board of Commissioners regular meetings in Gold Beach; schedule not captured",
+  "total_pool_usd": null,
+  "competitive_pool_usd": null,
+  "pool_note": "The increase from 7% to 10% is the funding source; projected revenue was not stated in the ordinance coverage.",
+  "funding_docs": [
+   {
+    "title": "Curry County boosts lodging tax to fuel tourism growth (Curry Coastal Pilot)",
+    "doc_type": "ordinance",
+    "year": "2025",
+    "url": "https://www.currypilot.com/news/curry-county-boosts-lodging-tax-to-fuel-tourism-growth/article_cf2e9088-03e7-4f8e-8a02-dde7e7887afa.html",
+    "summary": "Ordinance 25-01 raises the county TLT to 10% effective July 1; Destination Development Fund to launch FY2026 with infrastructure grants and advertising support, administered by Economic Development; Miranda Plagge quoted."
+   },
+   {
+    "title": "Curry County to increase transient lodging tax to go towards tourism (KDRV)",
+    "doc_type": "other",
+    "year": "2025",
+    "url": "https://www.kdrv.com/news/top-stories/curry-county-to-increase-transient-lodging-tax-to-go-towards-tourism/article_f04c2a26-3d71-4cdb-aa5d-8aacaf58dd1d.html",
+    "summary": "Rate 7% to 10% effective July 1, 2025 under ORS 320.350(6); Destination Development Fund planned for 2026 for tourism businesses; contact 541-247-3222, econdev@currycountyor.gov."
+   },
+   {
+    "title": "Budget committee told lodging tax and timber changes could add revenue (May 13, 2026 summary)",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://cpo.soar.com/articles/7969617/Curry-County/Oregon/Budget-committee-told-lodging-tax-and-timber-changes-could-add-hundreds-of-thousands-to-Curry-County-revenues",
+    "summary": "Staff drafting a competitive grant process for tourism, facade and marketing; close to $600,000 additional unrestricted funds possible; most revenue not until FY27; budget reviews May 27 and June 3, 2026."
+   },
+   {
+    "title": "Curry County Destination Strategy Roadmap (June 2022)",
+    "doc_type": "other",
+    "year": "2022",
+    "url": "https://cms6.revize.com/revize/currycountyor/Curry%20Co%20Destination%20Strategy%20ROADMAP%206.12.22.pdf",
+    "summary": "County destination strategy that the Destination Development Fund implements."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/2026-competitive-grants-program",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "yes",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "Program not yet launched; no awards."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Carlton",
+  "type": "city",
+  "county": "Yamhill",
+  "state": "OR",
+  "tax_rate": "City TLT administered by the Oregon Department of Revenue since 2022 (rate not confirmed), plus Oregon state 1.5%; Yamhill County levies its own tax in unincorporated areas",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool; 2025 and January 2026 council minutes contain no lodging tax allocation, tourism grant or committee items",
+  "url": "https://www.cityofcarlton.com/",
+  "contact": "Carol Conway, Clerk/Treasurer, City of Carlton, 191 E Main St, Carlton, OR 97111",
+  "notes": "Carlton's room tax is collected by the Oregon Department of Revenue and the city council minutes reviewed (Sept. 10, 2025 and Jan. 14, 2026) show only short-term rental license renewals, with no tourism fund, grant program or committee. Tourism promotion in Carlton is carried by the Carlton Business Association and Yamhill County wine-country marketing rather than city TLT grants.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Carlton City Council meets the second Wednesday of the month",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "City TLT revenue not published; no allocation to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Carlton City Council minutes, Jan. 14, 2026",
+    "doc_type": "minutes",
+    "year": "2026",
+    "url": "https://www.cityofcarlton.com/app/download/7250812148/1.14.2026+Regular+Council+Meeting.pdf",
+    "summary": "No lodging tax or tourism items; short-term rental renewals approved; staff Carol Conway, Derek Wolf, Jodie Johnson."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Travel Oregon Competitive Grants Program",
+    "administrator": "Travel Oregon",
+    "url": "https://industry.traveloregon.com/grants/competitive-grants-program/2026-competitive-grants-program",
+    "funds": "Varies by cycle",
+    "eligibility": "Projects that develop or improve local economies through the visitor industry",
+    "deadline": null,
+    "deadline_pattern": "Cycles announced on the Travel Oregon industry site",
+    "notes": null,
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "None found."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "John Day",
+  "type": "city",
+  "county": "Grant",
+  "state": "OR",
+  "tax_rate": "3% city TLT under Ordinance 21-195-06 (effective Sept. 1, 2021; 70% to tourism promotion and tourism-related facilities, 30% to city services), plus Grant County 8% and Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool; 70% of the 3% city tax is reserved for tourism promotion and facilities but no program, committee or award has been published",
+  "url": "https://www.cityofjohnday.com/",
+  "contact": "City of John Day, 450 E Main St, John Day, OR 97845, 541-575-0028",
+  "notes": "John Day adopted a 3% city lodging tax on top of the 8% Grant County tax by Ordinance 21-195-06 (approved July 13, 2021, effective Sept. 1, 2021) after a 5-2 council vote; the ordinance sends 70% to tourism promotion and tourism-related facilities and 30% to city services, with no committee or grant provision. City Manager Nick Green said the money would promote John Day and organize visitor events; no grant program, allocation or award list has appeared since. The Grant County Chamber's TRT grant remains the only application route in the county.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "John Day City Council meets the second and fourth Tuesdays",
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "City TLT revenue not published (expected to be small; one Best Western and a few motels); 70% tourism-restricted; nothing open to outside applicants.",
+  "funding_docs": [
+   {
+    "title": "City Council study session minutes, March 31, 2021 (TLT discussion)",
+    "doc_type": "minutes",
+    "year": "2021",
+    "url": "https://www.cityofjohnday.com/sites/default/files/fileattachments/city_council/meeting/3991/2021_0331_council_study_session_amended_approved.pdf",
+    "summary": "Council discussed a 3% city TLT for tourism projects and events; chamber presented marketing materials and said it has grants; a lodging owner questioned chamber transparency."
+   },
+   {
+    "title": "Ordinance 21-195-06, John Day Transient Lodging Tax",
+    "doc_type": "ordinance",
+    "year": "2021",
+    "url": "https://www.cityofjohnday.com/sites/default/files/fileattachments/city_council/meeting/packets/4241/7._ordinance_no._21-195-06_-_tlt.pdf",
+    "summary": "3% tax; 70% tourism promotion and facilities, 30% city services; effective Sept. 1, 2021."
+   },
+   {
+    "title": "City council favors city transient room tax (Blue Mountain Eagle, April 13, 2021)",
+    "doc_type": "other",
+    "year": "2021",
+    "url": "https://bluemountaineagle.com/?p=188975",
+    "summary": "5-2 vote to pursue a tax of at least 3% for tourism promotion and events; comments from City Manager Nick Green, Councilors Dave Holland and Shannon Adair, fairgrounds manager Mindy Winegar, hotel owner Malin Patel."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Grant County Transient Room Tax Grant",
+    "administrator": "Grant County Chamber of Commerce",
+    "url": "https://www.gcoregonlive.com/?p=3067",
+    "funds": "Not published",
+    "eligibility": "Recognized Grant County organizations; purpose is tourism and economic development",
+    "deadline": null,
+    "deadline_pattern": "Not published; call for current guidelines",
+    "notes": "Application, guidelines, budget form and recipient report posted on the chamber site",
+    "contact": "541-575-0547, 301 W. Main Street, John Day"
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "None found."
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Sherwood",
+  "type": "city",
+  "county": "Washington",
+  "state": "OR",
+  "tax_rate": "3% city TLT, plus Washington County 9% and Oregon state 1.5%",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": "No grant pool; the FY2024-25 budget's Transient Lodging Tax Fund transfers $155,000 to the Sherwood Center for the Arts and the Public Art Fund (the 70% tourism share), with 30% unrestricted",
+  "url": "https://www.sherwoodoregon.gov/",
+  "contact": "City of Sherwood Finance Department, 22560 SW Pine St, Sherwood, OR 97140, 503-625-5522",
+  "notes": "Sherwood created its TLT Fund by Resolution 2018-046 and adopted the 3% tax in Ordinance 2019-002; the city dedicates the 70% tourism share to the Public Art Fund and the Sherwood Center for the Arts (FY2024-25: $155,000 transferred out, leaving a $39,085 fund balance) and the 30% to general purposes. Event promotion is budgeted in a separate general-fund Economic Development and Promotion Fund, and there is no TLT grant round or committee. Washington County's DMO, Explore Tualatin Valley, is the grant route for Sherwood events (Robin Hood Festival and similar) via nonprofit or city applicants.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Sherwood City Council meets the first and third Tuesdays",
+  "total_pool_usd": 155000,
+  "competitive_pool_usd": 0,
+  "pool_note": "FY2024-25 TLT Fund appropriation $155,000, all transferred to the Center for the Arts; beginning balance $150,040, ending $39,085; $0 for outside applicants.",
+  "funding_docs": [
+   {
+    "title": "Resolution 2024-048 adopting the FY2024-25 budget (TLT Fund)",
+    "doc_type": "budget",
+    "year": "2025",
+    "url": "https://sherwoodoregon.gov/sites/default/files/fileattachments/ordinance/52344/resolution_2024-048_adopt_fy2024-25_budget.pdf",
+    "summary": "TLT Fund $155,000 transfer to the Center for the Arts; 70% of TLT to Public Art Fund and Arts Center, 30% unrestricted."
+   },
+   {
+    "title": "Ordinance 2019-002 adopting Municipal Code Chapter 3.30 Local Transient Lodging Tax",
+    "doc_type": "ordinance",
+    "year": "2019",
+    "url": "https://www.sherwoodoregon.gov/sites/default/files/fileattachments/ordinance/30661/ordinance_2019-002_adopt_muni_code_chap_3.30_local_transient_lodge_tax_02.19.2019.pdf",
+    "summary": "Establishes the city lodging tax (Feb. 19, 2019)."
+   },
+   {
+    "title": "Resolution 2018-046 creating the TLT Fund",
+    "doc_type": "resolution",
+    "year": "2018",
+    "url": "https://sherwoodoregon.gov/sites/default/files/fileattachments/ordinance/24421/resolution_2018-046_creating_the_tlt_fund_06.12.18.pdf",
+    "summary": "Creates the Transient Lodging Tax Fund (June 12, 2018)."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Explore Tualatin Valley Inspiration Event Award",
+    "administrator": "Explore Tualatin Valley (Washington County DMO, funded by 2.33% of county TLT)",
+    "url": "https://tualatinvalley.org/wp-content/uploads/2024/03/Event-Promotion-and-Marketing-Sponsorship-Guidelines.pdf",
+    "funds": "Up to $5,000 per event; one award per organization per fiscal year",
+    "eligibility": "Washington County 501(c) nonprofits, tribes and government partners; public, visitor-facing, ADA-compliant events",
+    "deadline": null,
+    "deadline_pattern": "Two cycles: July 1 to Sept. 30 (for November-May events) and Feb. 1 to April 30 (for June-October events)",
+    "notes": "Priority for paid overnight stays, off-season and multi-day events",
+    "contact": "engage@tualatinvalley.org"
+   },
+   {
+    "program": "Explore Tualatin Valley Strategic Investment Grant",
+    "administrator": "Explore Tualatin Valley",
+    "url": "https://tualatinvalley.org/wp-content/uploads/2025/06/Foundation-Award-Guidelines.pdf",
+    "funds": "Up to $20,000 with at least 25% applicant match",
+    "eligibility": "Washington County 501(c) nonprofits, tribes and government partners",
+    "deadline": null,
+    "deadline_pattern": "Applications July 1 to Sept. 15; awards by Dec. 15",
+    "notes": "Executive Committee review, Board approval; priority areas wine and craft beverage, arts and culture, recreation, agritourism",
+    "contact": "engage@tualatinvalley.org"
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": {
+   "years": {},
+   "sources": [],
+   "note": "None found."
+  },
+  "verified": "2026-11-04"
+ }
+]

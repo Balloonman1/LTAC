@@ -1,0 +1,1876 @@
+[
+ {
+  "name": "Deschutes County",
+  "type": "county",
+  "county": "Deschutes",
+  "state": "OR",
+  "tax_rate": "8% unincorporated county TLT (6% + 1% 1988 + 1% 2014) plus 1.5% state; cities levy their own in place of the county rate",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027",
+  "deadline_pattern": "Applications open the first week of January and close mid-February (Feb 16, 2024; Feb 13, 2026); recipients announced in April; 12-month grant period starting May 1. The 2027 round reopens January 4, 2027; deadline not yet posted",
+  "typical_open": "First Monday of January (Jan 8, 2024; Jan 5, 2026; Jan 4, 2027 per VCO funding page)",
+  "annual_pool": "$300,000 in 2026 (12 projects); $280,000 in 2025 (7 projects); $450,000 in 2024 (15 projects); about $840,000 in the 2023 launch round. 2027 pool not announced",
+  "url": "https://visitcentraloregon.com/industry/future-fund/",
+  "contact": "Future Fund inbox grants@visitcentraloregon.com; Scott Larson, CEO, Visit Central Oregon, scott@visitcentraloregon.com, 541-389-8799. Program administered for VCO by Rural Prosperity Partners",
+  "notes": "Deschutes County does not run its own open grant round; county TLT goes to the Sheriff, Central Oregon Visitors Association (Visit Central Oregon) and Fair & Expo marketing. The outside-applicant program is the Central Oregon Future Fund, which VCO funds from county TRT and Travel Oregon RCTP dollars and opens each January for projects in Deschutes, Jefferson, Crook and South Wasco counties. Awards are judged against three pillars (stewardship, cultural tourism, access adventure) by seven to eight advisory reviewers, with priority points for off-peak season (Oct 1 to the Friday before Memorial Day), multi-jurisdiction impact and a 10% cash match; typical requests are $20,000 to $50,000 and for-profits are eligible. The pool has fallen from $840,000 to $300,000 in four years, and 26 applicants sought over $1 million in 2026.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "https://ktvz.com/news/local-news/2026/04/28/12-regional-tourism-projects-awarded-grants-by-visit-central-oregon-totaling-300k/ (eight unnamed advisory reviewers from tourism, hospitality, media, outdoor recreation, rural communities and Warm Springs)",
+  "members_as_of": "2026-04-28",
+  "presentation": {
+   "required": false,
+   "date": null,
+   "pattern": "No applicant presentation; VCO hosts informational and project-development webinars in early January",
+   "format": "Online application portal; reviewers score written applications"
+  },
+  "meeting_schedule": "No public committee; VCO advisory reviewers score in March, status notices early April, contracts late April, funds released May 1",
+  "total_pool_usd": 13373608,
+  "competitive_pool_usd": 300000,
+  "pool_note": "County collected $12,714,324 in FY2024-25 (est. $13.37M current). The first 6% splits 80% Sheriff/county and 20% COVA; the 1988 1% goes to COVA; the 2014 1% is 70% Fair & Expo marketing. None of that is open to outside applicants. The only competitive dollars are the Future Fund ($300,000 in 2026), which VCO funds from its TRT share plus Travel Oregon RCTP money, so the $300,000 is not purely Deschutes County TLT.",
+  "funding_docs": [
+   {
+    "title": "Central Oregon Future Fund program page and FAQ",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://visitcentraloregon.com/industry/future-fund/",
+    "summary": "Eligibility (nonprofits, for-profits with EIN letter, tribes, cities), three pillars, priority points, suggested $20K-$50K requests, portal instructions and the 2024 award list; grants@visitcentraloregon.com."
+   },
+   {
+    "title": "Visit Central Oregon funding opportunities page",
+    "doc_type": "other",
+    "year": "2027",
+    "url": "https://visitcentraloregon.com/industry/funding-opportunities/",
+    "summary": "States the Future Fund cycle is closed and reopens January 4, 2027; also lists Bend Sustainability Fund and Bend Cultural Tourism Fund (Visit Bend) and other regional grants."
+   },
+   {
+    "title": "2026 Future Fund award press release (April 2026)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://visitcentraloregon.com/wp-content/uploads/2026/05/EXT_VCO-Future-Fund-Press-Release_April-2026-1.pdf",
+    "summary": "$300,000 to 12 projects; eight advisory reviewers; contact Scott Larson scott@visitcentraloregon.com 541-389-8799. Individual amounts not listed."
+   },
+   {
+    "title": "Oregon Business: 2026 Future Fund opens (Jan 5 to Feb 13, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://oregonbusiness.com/visit-central-oregon-set-to-open-applications-for-the-2026-central-oregon-future-fund/",
+    "summary": "2026 cycle dates, $300,000 pool, webinar Jan 7, 2026, project completion by May 30, 2027."
+   },
+   {
+    "title": "KTVZ: 12 regional tourism projects awarded $300K (Apr 28, 2026)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://ktvz.com/news/local-news/2026/04/28/12-regional-tourism-projects-awarded-grants-by-visit-central-oregon-totaling-300k/",
+    "summary": "2026 recipients and projects; 26 applications requested over $1 million."
+   },
+   {
+    "title": "Bend Chamber: VCO awards $280,000 to seven projects (May 13, 2025)",
+    "doc_type": "award list",
+    "year": "2025",
+    "url": "https://www.bendchamber.org/news/visit-central-oregon-awards-280000-in-funding-to-seven-regional-tourism-projects",
+    "summary": "2025 recipients; 19 applications requested over $800,000; seven advisory reviewers."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Bend Sustainability Fund",
+    "administrator": "Visit Bend",
+    "url": "https://visitcentraloregon.com/industry/funding-opportunities/",
+    "funds": "Pool not captured this session",
+    "eligibility": "Projects in Bend judged on economic, environmental and social sustainability; funded by Bend short-term lodging tax",
+    "deadline": null,
+    "deadline_pattern": "Applications currently closed per VCO page (updated June 2026)",
+    "notes": "City of Bend TLT program, separate from the county. Visit Bend site not fetched this session.",
+    "contact": "Visit Bend"
+   },
+   {
+    "program": "Bend Cultural Tourism Fund",
+    "administrator": "Visit Bend",
+    "url": "https://visitcentraloregon.com/industry/funding-opportunities/",
+    "funds": "Pool not captured this session",
+    "eligibility": "Cultural events and productions in Bend that draw visitors (music, art, film festivals)",
+    "deadline": null,
+    "deadline_pattern": "Applications currently closed per VCO page",
+    "notes": "Best fit for an event in Bend itself. Visit Bend site not fetched this session.",
+    "contact": "Visit Bend"
+   },
+   {
+    "program": "Deschutes County Fair & Expo Center marketing (2014 1% TLT share)",
+    "administrator": "Deschutes County Fair & Expo Center",
+    "url": null,
+    "funds": "70% of the 2014 1% TLT increment",
+    "eligibility": "Internal county allocation; not an application program",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Not an open grant; a venue partnership route for an event held at the Fair & Expo Center in Redmond.",
+    "contact": "Deschutes County Fair & Expo Center"
+   }
+  ],
+  "for_profit": "yes",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": 300000,
+     "decided": "2026-04-28",
+     "awards": [
+      {
+       "recipient": "Jefferson County Event Complex",
+       "event": "Cowdeo youth rodeo expansion and Corwin Arena improvements",
+       "amount": null,
+       "to_jurisdiction_or_dmo": true,
+       "notes": null
+      },
+      {
+       "recipient": "Wasco County Fairgrounds",
+       "event": "Mobile performance stage, lighting and accessibility",
+       "amount": null,
+       "to_jurisdiction_or_dmo": true,
+       "notes": null
+      },
+      {
+       "recipient": "High Desert Food and Farm Alliance",
+       "event": "High Desert Food Trail Accessibility Edition",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Sunriver Nature Center and Observatory",
+       "event": "Accessible Trails and Inclusive Interpretation Initiative",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Deschutes Land Trust",
+       "event": "Metolius Preserve visitor access",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Sisters Trails Alliance",
+       "event": "Verified accessible adventure trail system",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Ballet Bend",
+       "event": "National and international dance presentations",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "BendFilm",
+       "event": "BendFilm Festival expansion incl. Warm Springs and Madras outreach",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Oregon Adaptive Sports",
+       "event": "All Access Adventure, Sept 2026 to May 2027",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "ThinkWild",
+       "event": "Accessible pollinator garden and outdoor classroom",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "ScaleHouse",
+       "event": "Two exhibitions at Scalehouse Gallery, Bend",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Wake Creative, Inc.",
+       "event": "Sketch and Release touring production",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      }
+     ],
+     "note": "Individual amounts not published; 12 of 26 applicants funded."
+    },
+    "2025": {
+     "total": 280000,
+     "decided": "2025-05-13",
+     "awards": [
+      {
+       "recipient": "Antelope 3, LLC",
+       "event": "Antelope Pavilion final phase",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "for-profit LLC"
+      },
+      {
+       "recipient": "Dirty Freehub",
+       "event": "High Desert Gravel Guide",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Explore Prineville",
+       "event": "Golf Fore All adaptive golf",
+       "amount": null,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "city DMO"
+      },
+      {
+       "recipient": "Deschutes River Alliance",
+       "event": "Troutfest 2025 Access Adventure promotion",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "High Desert Museum",
+       "event": "Our Place, Our Cultures",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Oregon Adaptive Sports",
+       "event": "Access, Elevated",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Tower Theatre Foundation",
+       "event": "ADA accessibility at Tower Theatre",
+       "amount": null,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      }
+     ],
+     "note": "Individual amounts not published; 7 of 19 applicants funded."
+    },
+    "2024": {
+     "total": 450000,
+     "decided": "2024-04-08",
+     "awards": [
+      {
+       "recipient": "Antelope 3, LLC",
+       "event": "Antelope Pavilion",
+       "amount": 50000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "for-profit LLC"
+      },
+      {
+       "recipient": "Bend Endurance Academy",
+       "event": "Enhancement and Accessibility Project",
+       "amount": 13200,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "DarkSky Oregon",
+       "event": "Beautiful Oregon Night Skies outreach",
+       "amount": 24500,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Explore Prineville",
+       "event": "High Desert Moonfest",
+       "amount": 28725,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "city DMO; event"
+      },
+      {
+       "recipient": "Gramma Roses",
+       "event": "Accessibility Project",
+       "amount": 20000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Kah-Nee-Ta Resort",
+       "event": "Artwork Design Project",
+       "amount": 22431,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Oregon Equestrian Trails",
+       "event": "Cline Buttes Trail Signs",
+       "amount": 28510,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "So. Wasco Alliance",
+       "event": "Simnasho Tribal Market Project",
+       "amount": 42064,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Asterisk Astronomy",
+       "event": "Astronomy Education",
+       "amount": 16155,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Central Oregon Trail Alliance",
+       "event": "Cline Butte Mountain Bike Trail Enhancement",
+       "amount": 45900,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Ensoterra",
+       "event": "Adaptive Water Sports and Accessibility",
+       "amount": 21865,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "The Father's Group",
+       "event": "Juneteenth Jubilee",
+       "amount": 14000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "event"
+      },
+      {
+       "recipient": "High Desert Museum",
+       "event": "Diverse Stories Exhibition Series",
+       "amount": 50000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Onward Project",
+       "event": "AdvenChair AdvenTours",
+       "amount": 44650,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "ScaleHouse",
+       "event": "Accessible Bend Design Conference",
+       "amount": 28000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      }
+     ],
+     "note": "Amounts from the VCO Future Fund page."
+    }
+   },
+   "sources": [
+    "https://visitcentraloregon.com/industry/future-fund/",
+    "https://ktvz.com/news/local-news/2026/04/28/12-regional-tourism-projects-awarded-grants-by-visit-central-oregon-totaling-300k/",
+    "https://www.bendchamber.org/news/visit-central-oregon-awards-280000-in-funding-to-seven-regional-tourism-projects"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Cannon Beach",
+  "type": "city",
+  "county": "Clatsop",
+  "state": "OR",
+  "tax_rate": "8% city (9% proposed in a 2025-26 council work session) plus 1.5% state; Clatsop County 3% applies per the source list",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027-28",
+  "deadline_pattern": "Spring window for the following fiscal year: the FY2024-26 round opened May 3 and closed June 7, 2024; the Tourism and Arts Commission's FY2026-27 recommendations went to City Council on August 6, 2026. Expect a May-June 2027 window for FY2027-28",
+  "typical_open": "Early May (May 3, 2024)",
+  "annual_pool": "Not published online; a city work session estimated about $385,000 a year in tourism-restricted TLT, of which $160,000 funds the Visitor Information Center and about $220,000 covers other tourism uses including the Tourism and Arts Fund",
+  "url": "https://www.ci.cannon-beach.or.us/tourismartscommission/page/tourism-arts-fund-taf-applicationsfunding-requests-0",
+  "contact": "City of Cannon Beach, City Hall, 163 E Gower, P.O. Box 368, Cannon Beach OR 97110; no named TAF staff contact published (community grants went through Kelsey Balensifer, balensifer@ci.cannon-beach.or.us, in 2022)",
+  "notes": "The Tourism and Arts Fund (TAF) is the city's TLT grant program; the five-member Tourism and Arts Commission writes the guidelines, reviews applications and sends award recommendations to City Council, which approved the FY2026-27 awards by motion on August 6, 2026. The commission describes the fund as money local nonprofit groups use to promote tourism and the arts, so for-profit event producers should expect to partner with a nonprofit. The city website returned errors for the TAF application page, finance reports and the August 2026 packet during this research, so the pool, award list and 2027 dates are unconfirmed even after a second pass through Daily Astorian and Gazette coverage (no award article found); a separate city Community Grants program ($175,000 to 20 groups in 2025) is general-fund money, not TLT.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Libby Gast",
+    "role": "Chair",
+    "affiliation": "Tourism and Arts Commission",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Greg Swedenborg",
+    "role": "Vice Chair",
+    "affiliation": "Tourism and Arts Commission",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Drea Frost",
+    "role": "Member",
+    "affiliation": "Tourism and Arts Commission",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jackie Brown",
+    "role": "Member",
+    "affiliation": "Tourism and Arts Commission",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Thom Allison",
+    "role": "Member",
+    "affiliation": "Tourism and Arts Commission",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://www.ci.cannon-beach.or.us/tourismartscommission",
+  "members_as_of": "2026-11-04",
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "Tourism and Arts Commission meets as needed, 9:00 AM in Council Chambers (next listed: Monday, November 16, 2026); council acts on award recommendations in summer (Aug 6, 2026)",
+  "total_pool_usd": 4270546,
+  "competitive_pool_usd": null,
+  "pool_note": "Est. $4.27M city TLT. State law restricts 70% of post-2003 increments to tourism; the city's own estimate for the proposed 1% increase was about $385,000 tourism share per point-equivalent year, with $160,000 to the visitor center. The TAF grant pool itself was not retrievable (city PDFs blocked), so competitive dollars are unknown.",
+  "funding_docs": [
+   {
+    "title": "Tourism & Arts Commission page (members, purpose)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.ci.cannon-beach.or.us/tourismartscommission",
+    "summary": "Commission roster, four-year terms, purpose: develop TAF grant guidelines for local nonprofits promoting tourism and the arts."
+   },
+   {
+    "title": "City Council agenda, August 6, 2026 (item 6: FY2026-27 Tourism & Arts Funding Grant Award)",
+    "doc_type": "minutes",
+    "year": "2027",
+    "url": "https://www.ci.cannon-beach.or.us/media/52896",
+    "summary": "Council motion to approve the commission's FY2026-27 award recommendations; packet with amounts not retrieved."
+   },
+   {
+    "title": "GrantExec listing: Tourism & Arts Fund",
+    "doc_type": "other",
+    "year": "2025",
+    "url": "https://grantexec.com/grants/b1f7afc4-a8dd-4a65-b63c-016ff50b4658",
+    "summary": "Third-party listing showing the May 3 to June 7, 2024 window for the July 2024 to June 2026 grant period; eligibility nonprofits and some for-profits; description text is partly mis-merged with a San Francisco program."
+   },
+   {
+    "title": "Tillamook Headlight Herald: Cannon Beach considers lodging tax hike",
+    "doc_type": "other",
+    "year": null,
+    "url": "https://www.tillamookheadlightherald.com/news/cannon-beach-considers-lodging-tax-hike/article_478491f1-44fe-50d0-9ca1-a01b2f93d694.html",
+    "summary": "8% current rate, 9% proposed; 70/30 tourism split; $160,000 visitor center and about $220,000 other tourism uses."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Cannon Beach Community Grants Program",
+    "administrator": "City of Cannon Beach Parks & Community Services Committee",
+    "url": "https://seasidesignal.com/?p=22266",
+    "funds": "$175,000 to 20 organizations in the 2025 round (general fund)",
+    "eligibility": "Nonprofits serving Cannon Beach in arts, education, community, recreation, environment or social services",
+    "deadline": null,
+    "deadline_pattern": "Annual; 2026 applicant list dated February 20, 2026 on the city site",
+    "notes": "Not TLT money, but the city's larger grant pot for nonprofits.",
+    "contact": "City Hall, P.O. Box 368, Cannon Beach OR 97110"
+   },
+   {
+    "program": "Clatsop County Cultural Coalition grants",
+    "administrator": "Clatsop County Cultural Coalition (Oregon Cultural Trust)",
+    "url": "https://discoverourcoast.com/?p=7670",
+    "funds": "Small grants, typically under $5,000",
+    "eligibility": "Arts, heritage and humanities projects in Clatsop County",
+    "deadline": null,
+    "deadline_pattern": "Annual",
+    "notes": "Not TLT; small arts grants.",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Astoria",
+  "type": "city",
+  "county": "Clatsop",
+  "state": "OR",
+  "tax_rate": "11% city plus 1.5% state; Clatsop County 3% applies per the source list",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": null,
+  "funding_year": "2027-28",
+  "deadline_pattern": "Applications due the last Friday of February at 5:00 PM for the fiscal year starting July 1 (Feb 28, 2025; Feb 27, 2026); applicants present to the Budget Committee in early March; awards final when council adopts the budget in June. Expect a late-February 2027 deadline for FY2027-28",
+  "typical_open": "January, when the Finance Department mails invitation letters",
+  "annual_pool": "Two programs from the Promote Astoria Fund: (1) Funding for Promotion, Development and Services Supporting Tourism, amount set in the budget (last cycle: Chamber $183,653, ADHDA $120,000, Uppertown $69,000); (2) Arts and Culture Program to Promote Tourism, up to $100,000 for FY2026-27",
+  "url": "https://www.astoria.gov/Grant_Applications.php?deptid=4",
+  "contact": "Ryan Quigley, Assistant to the City Manager, rquigley@astoria.gov, City of Astoria, 1095 Duane Street, Astoria OR 97103; invitation letters issued by Hilary Norton, Finance Director",
+  "notes": "Astoria runs two TLT-funded grant rounds each winter out of the Promote Astoria Fund, and the Budget Committee (council plus appointed citizens) sets the amounts during the budget process rather than a tourism committee. The tourism-organization program mostly re-funds the same four groups each year (Chamber visitor center, Downtown Historic District Association, Uppertown Business Association, Travel Alliance), while the Arts and Culture program (up to $100,000) is the realistic entry point for an outside event. Applicants must attend the March Budget Committee meeting for a five-minute presentation plus five minutes of questions, be a 501(c) or apply through one, and file semi-annual reports; funds are reimbursement-based.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "Astoria Budget Committee (City Council plus citizen members); roster not captured this session",
+  "members_as_of": null,
+  "presentation": {
+   "required": true,
+   "date": "2026-03-05",
+   "pattern": "Budget Committee meeting in the first week of March, about one week after the deadline (March 4, 2026 council hearing; March 5, 2026 Budget Committee at 5:30 PM)",
+   "format": "In person; up to 10 minutes: 5-minute presentation and 5 minutes of Budget Committee questions"
+  },
+  "meeting_schedule": "Budget Committee reviews tourism applications in early March and the arts subcommittee about a week later; full Budget Committee meetings begin late April; council adopts budget in June",
+  "total_pool_usd": 1998522,
+  "competitive_pool_usd": 100000,
+  "pool_note": "Est. $2.0M city TLT; 70% ($1.4M) is restricted to tourism. The tourism-organization program absorbed about $372,653 last cycle across the Chamber, ADHDA and Uppertown, all repeat DMO-type recipients. The Arts and Culture program, capped at $100,000 for FY2026-27, is the portion realistically open to new applicants.",
+  "funding_docs": [
+   {
+    "title": "Grant Applications page (Promote Astoria Fund)",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://www.astoria.gov/Grant_Applications.php?deptid=4",
+    "summary": "Both programs, key dates, application window status."
+   },
+   {
+    "title": "Invitation Letter: Tourism Organization funding FY2026-27",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://www.astoria.gov/assets/dept_4/pm/pdf/Grants/2026/Invitation Letter Tourism Org 2026.pdf",
+    "summary": "Feb 27, 2026 deadline; eligibility (501(c)(3)/(4)/(6)/(7)/(8)/(10), governments, sponsored groups); Budget Committee March 5, 2026 attendance required; 10-minute presentation; reporting Aug 1 and Feb 1."
+   },
+   {
+    "title": "Invitation Letter: Arts and Culture Program to Promote Tourism FY2026-27",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://www.astoria.gov/assets/dept_4/pm/pdf/Grants/Invitation Letter Arts 2026.pdf",
+    "summary": "Up to $100,000 available; Feb 27, 2026 deadline; one year per application; capital, overhead and partisan or religious events ineligible."
+   },
+   {
+    "title": "FY26-27 Funding for the Promotion, Development and Services Supporting Tourism application",
+    "doc_type": "application",
+    "year": "2027",
+    "url": "https://www.astoria.gov/assets/dept_4/pm/pdf/Grants/2026/26 - 27 Funding for the Promotion, Development, and Services Supporting Tourism.pdf",
+    "summary": "Application form: scope of work, tourism impact, impact on local businesses, success measures, budget; unused funds returned by June 30."
+   },
+   {
+    "title": "FY26-27 Arts and Culture Program application",
+    "doc_type": "application",
+    "year": "2027",
+    "url": "https://www.astoria.gov/assets/dept_4/pm/pdf/Grants/2026/26 - 27 Arts and Culture Program to Promote Tourism Grant Program - PDF version.pdf",
+    "summary": "Arts program application form."
+   },
+   {
+    "title": "Daily Astorian: council hears from groups seeking TLT funding (Mar 4, 2026)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://dailyastorian.com/2026/03/04/astoria-city-council-hears-from-local-groups-seeking-tlt-funding/",
+    "summary": "Prior-year Promote Astoria awards: ADHDA $120,000, Uppertown $69,000, Chamber $183,653; all four groups reapplied for FY2026-27."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Astoria-Warrenton Area Chamber of Commerce / Astoria-Warrenton Travel Alliance",
+    "administrator": "Astoria-Warrenton Area Chamber of Commerce",
+    "url": null,
+    "funds": "Chamber received $183,653 of Promote Astoria funds for the visitor center",
+    "eligibility": "Partnership or sponsorship rather than a grant program",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "The Travel Alliance is the destination marketing arm funded by city TLT; a co-promotion partner for an event.",
+    "contact": "David Reid, Executive Director"
+   },
+   {
+    "program": "Clatsop County Cultural Coalition grants",
+    "administrator": "Clatsop County Cultural Coalition",
+    "url": "https://discoverourcoast.com/?p=7670",
+    "funds": "Small arts and heritage grants",
+    "eligibility": "Arts, heritage and humanities projects in Clatsop County",
+    "deadline": null,
+    "deadline_pattern": "Annual",
+    "notes": "Not TLT.",
+    "contact": null
+   }
+  ],
+  "for_profit": "sponsor",
+  "local_awards": {
+   "years": {
+    "2026": {
+     "total": null,
+     "decided": "FY2025-26 budget (adopted June 2025); reported March 4, 2026",
+     "awards": [
+      {
+       "recipient": "Astoria-Warrenton Area Chamber of Commerce",
+       "event": "Visitor center operations",
+       "amount": 183653,
+       "to_jurisdiction_or_dmo": true,
+       "notes": null
+      },
+      {
+       "recipient": "Astoria Downtown Historic District Association",
+       "event": "Program fees, advertising, marketing incl. Astoria Sunday Market",
+       "amount": 120000,
+       "to_jurisdiction_or_dmo": true,
+       "notes": null
+      },
+      {
+       "recipient": "Astoria Uppertown Business Association",
+       "event": "Marketing materials for 90 businesses",
+       "amount": 69000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Astoria-Warrenton Travel Alliance",
+       "event": null,
+       "amount": null,
+       "to_jurisdiction_or_dmo": true,
+       "notes": "amount not reported"
+      }
+     ],
+     "note": "Promote Astoria Fund tourism-organization awards for the fiscal year preceding the March 2026 hearing; Arts and Culture program recipients not reported."
+    }
+   },
+   "sources": [
+    "https://dailyastorian.com/2026/03/04/astoria-city-council-hears-from-local-groups-seeking-tlt-funding/"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Lake Oswego",
+  "type": "city",
+  "county": "Clackamas",
+  "state": "OR",
+  "tax_rate": "6% city plus 1.5% state; Clackamas County 6% applies per the source list",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "Lake Oswego's code directs its TLT to the general fund and the city has no tourism board, DMO contract or grant round; it did not take part in the 2020 LOC survey and nothing surfaced for 2026. Events in Lake Oswego would look to Clackamas County Tourism (Oregon's Mt. Hood Territory), which runs county TLT programs, or to the city's parks and arts programs for sponsorship.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 1249000,
+  "competitive_pool_usd": 0,
+  "pool_note": "Est. $1.25M city TLT, all to the general fund; no competitive dollars.",
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Clackamas County Tourism (Oregon's Mt. Hood Territory) tourism grants",
+    "administrator": "Clackamas County Tourism and Cultural Affairs",
+    "url": null,
+    "funds": "Not captured this session",
+    "eligibility": "Tourism projects and events in Clackamas County",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County TLT-funded programs exist but were not verified this session; confirm current cycle at mthoodterritory.com.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Albany",
+  "type": "city",
+  "county": "Linn",
+  "state": "OR",
+  "tax_rate": "9% city plus 1.5% state (DOR table also shows a 10% listing); Linn County 3% applies per the source list",
+  "has_ltac_grants": true,
+  "cycle": "annual",
+  "deadline": "2027-09-01",
+  "funding_year": "2027",
+  "deadline_pattern": "Applications accepted July 1 through September 1 (11:59 PM) every year; the Tourism Advisory Committee reviews in September and may open a second round if funds remain",
+  "typical_open": "July 1",
+  "annual_pool": "$50,000 per year of the city biennium (Collaborative Tourism Promotion grant)",
+  "url": "https://albanyoregon.gov/ecodev/tourism-funding",
+  "contact": "Jennifer Wehr, Economic Development Program Coordinator, jennifer.wehr@albanyoregon.gov, 541-791-0180 (page contact box also lists Sophie Adams, sophie.adams@albanyoregon.gov, 541-917-7550); mail to 333 Broadalbin Street SW, P.O. Box 490, Albany OR 97321",
+  "notes": "Albany's Collaborative Tourism Promotion (CTP) grant sets aside $50,000 a year of TLT for new events, new marketing campaigns, convention bids and placemaking, with the Tourism Advisory Committee making the final decision by majority vote. Applicants submit a five-page application with vendor quotes (one quote under $10,000, three above) and attend the committee meeting in person to describe the project; wages, alcohol, marijuana and tobacco are excluded and repeat requests are discouraged. The bulk of Albany's TLT goes to the Albany Visitors Association under contract, so $50,000 is the competitive ceiling.",
+  "confidence": "high",
+  "members": [
+   {
+    "name": "Pam Silbernagel",
+    "role": "Chair",
+    "affiliation": "Tourism Advisory Committee (Ward 1 appointee)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Bob Moore",
+    "role": "Vice Chair",
+    "affiliation": "Tourism Advisory Committee (Mayor appointee)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Sharon Konopa",
+    "role": "Member",
+    "affiliation": "Tourism Advisory Committee (Ward 2 appointee)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Nick Andrews",
+    "role": "Member",
+    "affiliation": "Tourism Advisory Committee (Ward 3 appointee)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Oscar Hult",
+    "role": "Member",
+    "affiliation": "Tourism Advisory Committee (Ward 1 appointee)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Peggy Burris",
+    "role": "Member",
+    "affiliation": "Tourism Advisory Committee (Ward 2 appointee)",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Jonni Hudgens",
+    "role": "Member",
+    "affiliation": "Tourism Advisory Committee (Ward 3 appointee)",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://news.albanyoregon.gov/council/groups/tra",
+  "members_as_of": "2026-11-04",
+  "presentation": {
+   "required": true,
+   "date": null,
+   "pattern": "Applicants attend the Tourism Advisory Committee meeting following the September 1 deadline (Sept 18, 2025; Sept 16, 2026)",
+   "format": "In person; brief project description and Q&A with the committee, which votes the same meeting"
+  },
+  "meeting_schedule": "Tourism Advisory Committee meets as needed, hybrid, typically January, March and September (Jan 16, Mar 20, Sept 18, 2025; Sept 16, 2026)",
+  "total_pool_usd": 1061288,
+  "competitive_pool_usd": 50000,
+  "pool_note": "Est. $1.06M city TLT. Finance Policy F-12-12-001 routes the tourism share to the Albany Visitors Association contract and city purposes; the CTP grant is fixed at $50,000 per year.",
+  "funding_docs": [
+   {
+    "title": "Collaborative Tourism Promotion grant program page",
+    "doc_type": "guidelines",
+    "year": "2027",
+    "url": "https://albanyoregon.gov/ecodev/tourism-funding",
+    "summary": "Objective, eligible projects, $50,000 annual pool, July 1 to Sept 1 window, five-page limit, vendor quote rules, in-person presentation, exclusions."
+   },
+   {
+    "title": "Transient Lodging Tax Policy F-12-12-001",
+    "doc_type": "other",
+    "year": null,
+    "url": "https://albanyoregon.gov/ccpolicies?m=policy&policyid=196&cat=Finance",
+    "summary": "Council finance policy allocating TLT revenue."
+   },
+   {
+    "title": "Tourism Advisory Committee page",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://news.albanyoregon.gov/council/groups/tra",
+    "summary": "Roster, terms, agendas and video; staff contact Jennifer Wehr 541-791-0180."
+   },
+   {
+    "title": "Tourism Advisory Committee minutes, March 20, 2025",
+    "doc_type": "minutes",
+    "year": "2025",
+    "url": "https://albanyoregon.gov/mnt/html/citycouncil/bcc/archive/2025/tra_20250320_min.pdf",
+    "summary": "Committee revised the CTP application and evaluation process; approx. $50,000 program."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Albany Visitors Association",
+    "administrator": "Albany Visitors Association (contracted DMO)",
+    "url": null,
+    "funds": "Receives the bulk of Albany's tourism TLT under contract",
+    "eligibility": "Partnership and co-marketing rather than open grants",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "The AVA is the marketing partner for any Albany event.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Troutdale",
+  "type": "city",
+  "county": "Multnomah",
+  "state": "OR",
+  "tax_rate": "6.95% city (0.95% dedicated to tourism) plus Multnomah County 5.5% and 1.5% state",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.troutdaleoregon.gov/node/42921",
+  "contact": "Tourism & Economic Development Division / Explore Troutdale, Gateway to the Gorge Visitor Center, 475 E Historic Columbia River Hwy, visit@troutdaleoregon.gov, 503-491-4000; TLT remittance: Finance, 503-665-5175, Erich.Mueller@troutdaleoregon.gov",
+  "notes": "Troutdale dedicates only the 0.95% tourism increment of its 6.95% TLT to tourism promotion and facilities, and spends it through its own in-house DMO, Explore Troutdale (launched 2022), rather than a grant round. No application program exists; an event would approach the Tourism & Economic Development Division for co-promotion or the West Columbia Gorge Chamber's regional cooperative marketing program.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 724912,
+  "competitive_pool_usd": 0,
+  "pool_note": "Est. $725K city TLT; only the 0.95% increment (roughly $99K at that ratio) is tourism-restricted and it funds Explore Troutdale staff and marketing.",
+  "funding_docs": [
+   {
+    "title": "Troutdale Transient Lodging Tax page",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.troutdaleoregon.gov/node/42921",
+    "summary": "6.95% rate, 0.95% tourism dedication, quarterly remittance, Explore Troutdale, contacts."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "West Columbia Gorge Chamber Regional Cooperative Marketing Program",
+    "administrator": "West Columbia Gorge Chamber of Commerce",
+    "url": "https://westcolumbiagorgechamber.com/?p=617",
+    "funds": "Not captured",
+    "eligibility": "Chamber members and regional tourism partners",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Cooperative marketing rather than cash grants.",
+    "contact": null
+   },
+   {
+    "program": "Explore Troutdale event promotion",
+    "administrator": "City of Troutdale Tourism & Economic Development Division",
+    "url": "https://www.troutdaleoregon.gov/node/42921",
+    "funds": "In-kind promotion",
+    "eligibility": "Events in Troutdale",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "Ask for listing and promotion through the city DMO.",
+    "contact": "visit@troutdaleoregon.gov, 503-491-4000"
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Tigard",
+  "type": "city",
+  "county": "Washington",
+  "state": "OR",
+  "tax_rate": "2.5% city plus Washington County 9% and 1.5% state",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "Tigard Area Chamber of Commerce and Visitors Center, Megan De Salvo, CEO (chamber testimony on HB 4148, Feb 9, 2026)",
+  "notes": "Tigard's 2.5% city TLT has no grant round; the chamber's visitor center handles local promotion and the chamber testified against HB 4148 in February 2026, saying dedicated TLT funds underpin long-range planning and that local talks about investing in events and cultural amenities are under way. The real money for a Tigard event is Washington County's 9% TLT, passed to Explore Tualatin Valley, which runs the Foundation Grant (up to $20,000) and the twice-yearly Inspiration Event Award (up to $5,000) for nonprofit-run public events.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 542780,
+  "competitive_pool_usd": 0,
+  "pool_note": "Est. $543K city TLT; no city application program found. County-level competitive dollars flow through Explore Tualatin Valley (see alternatives).",
+  "funding_docs": [
+   {
+    "title": "Tigard Area Chamber testimony on HB 4148 (Feb 9, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://apps.oregonlegislature.gov/liz/2026R1/Downloads/PublicTestimonyDocument/243727",
+    "summary": "Chamber CEO Megan De Salvo opposes HB 4148; describes TLT use for tourism promotion and interest in event investment; no grant program described."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Tualatin Valley Inspiration Event Award (Heart & Inspiration Awards)",
+    "administrator": "Explore Tualatin Valley",
+    "url": "https://tualatinvalley.org/industry/heart-inspiration",
+    "funds": "Up to $5,000 per event as paid sponsorship; up to $25,000 per cycle",
+    "eligibility": "Public events in Washington County run by 501(c) nonprofits or federally recognized tribes; government agencies not eligible; no fundraisers, galas, classes or permanent ongoing events",
+    "deadline": "2027-04-15",
+    "deadline_pattern": "Two cycles a year: July 31 to Sept 15 (for Nov-May events, awards by Oct 15) and March 1 to April 15 (for June-Oct events, awards by May 15)",
+    "notes": "Best fit for a balloon glow or festival in Washington County cities such as Tigard. Next window is March 1 to April 15, 2027 for summer and fall 2027 events.",
+    "contact": "engage@tualatinvalley.org, 503-644-5555"
+   },
+   {
+    "program": "Explore Tualatin Valley Foundation Grant Award (Strategic Investment Grant Program)",
+    "administrator": "Explore Tualatin Valley (Washington County Visitors Association)",
+    "url": "https://tualatinvalley.org/industry/foundation-award",
+    "funds": "Up to $20,000 per project; program page states up to $75,000 per fiscal year (strategic investments page says up to $100,000)",
+    "eligibility": "501(c) nonprofits and tribes located in Washington County; government agencies and for-profits not eligible; project must generate overnight visitation",
+    "deadline": "2026-09-30",
+    "deadline_pattern": "Opens late July, closes September 30; awards by December 15 (2026 cycle: opened July 21, closed Sept 30, 2026)",
+    "notes": "Funded by Washington County TLT passed to ETV. Capital, public art, trails, signage; not marketing-only projects.",
+    "contact": "engage@tualatinvalley.org, 503-644-5555, 12725 SW Millikan Way Suite 210, Beaverton OR 97005"
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Tillamook",
+  "type": "city",
+  "county": "Tillamook",
+  "state": "OR",
+  "tax_rate": "10% city plus Tillamook County 1% (county 10% applies in unincorporated areas) and 1.5% state",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://codelibrary.amlegal.com/codes/tillamookor/latest/tillamook_or/0-0-0-924",
+  "contact": "Tillamook Area Chamber of Commerce (receives the 2010 1% TLT increment under city code)",
+  "notes": "City of Tillamook code splits its 10% TLT by ordinance with no grant round: the base 7% goes half to the general fund and half to parking, City Hall, tourism advertising, economic development, police and beautification; the 2004 2% increment is 70% tourism; and the 2010 1% increment goes entirely to the Tillamook Area Chamber of Commerce. No tourism committee or application process exists, and the city is itself a recipient of county facilities grants (gateway sign lighting, 2022). Events in Tillamook route through the Tillamook Coast Visitors Association, which administers the county's TLT facilities grant ($400,000, Dec 15 deadline), marketing grants open to businesses, and event sponsorships under a county contract running through June 30, 2027.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 374686,
+  "competitive_pool_usd": 0,
+  "pool_note": "Est. $375K city TLT, allocated by code to city uses and the Chamber; no competitive dollars at the city level. County TLT to TCVA was $1.58M in FY2022-23 with $500,000 set aside for community facilities grants.",
+  "funding_docs": [
+   {
+    "title": "Tillamook Municipal Code: Transient Room Tax (rate and allocation)",
+    "doc_type": "ordinance",
+    "year": null,
+    "url": "https://codelibrary.amlegal.com/codes/tillamookor/latest/tillamook_or/0-0-0-924",
+    "summary": "10% rate history and the allocation of each increment, including 100% of the 2010 1% to the Tillamook Area Chamber."
+   },
+   {
+    "title": "Tillamook County / TCVA tourism promotion agreement, amendment 4 (through June 30, 2027)",
+    "doc_type": "other",
+    "year": "2027",
+    "url": "https://www.tillamookcounty.gov/sites/default/files/fileattachments/board_of_county_commissioners/meeting/74489/5012_amd4_tcva_tourism_promotion_exp_2027_06-30.pdf",
+    "summary": "Annual county TLT distributions to TCVA ($1.1M to $1.68M), facilities grant allocations ($890,050 in 2021-22; $500,000 in 2022-23), TCVA duties and board composition."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "TCVA Tourism-Related Facilities Grant (Tillamook County TLT)",
+    "administrator": "Tillamook Coast Visitors Association (Visit Tillamook Coast) for the Tillamook County Board of Commissioners",
+    "url": "https://tillamookcoast.com/wp-content/uploads/2025/10/Info-Facilities-Grant-2025-2026.pdf",
+    "funds": "$400,000 pool in the 2025-26 round; max request $75,000; reimbursement basis",
+    "eligibility": "Local governments (cities, ports, districts), state and federal agencies, and nonprofits conducting tourism-related activities in Tillamook County; for-profits not listed",
+    "deadline": "2025-12-15",
+    "deadline_pattern": "Opens October 15, closes mid-December; Tourism Advisory Committee scores and ranks; BOCC approves in February",
+    "notes": "Facilities only (parks, restrooms, venues, trails). City of Tillamook (gateway sign lighting) and Bay City (Al Griffin Park campground) both received awards in the April 2022 round. 2026-27 round dates not yet confirmed.",
+    "contact": "Nan Devlin, TCVA Executive Director, nan@tillamookcoast.com, 503-842-2672 ext. 1"
+   },
+   {
+    "program": "TCVA Tourism Marketing Grants and Event Sponsorships",
+    "administrator": "Tillamook Coast Visitors Association",
+    "url": "https://www.tillamookcountypioneer.net/tourism-marks-monumental-milestone-with-6-million-awarded-from-tlt-grant-programs/",
+    "funds": "Cumulative $1.2M in marketing grants and $100,000 in event sponsorships awarded 2015-2023; per-round pool not published",
+    "eligibility": "For-profit businesses and nonprofits involved in tourism in Tillamook County (marketing grants, scored by the Tourism Promotion Advisory Committee); events Sept-May ($2,500 sponsorships)",
+    "deadline": null,
+    "deadline_pattern": "Annual marketing grant round offered in the fall alongside the facilities grant; sponsorships handled by TCVA",
+    "notes": "Marketing grants are open to for-profit businesses, unlike the facilities grant (18 recipients incl. Netarts Surf Inn and Bay City Arts Center in FY2017-18, $107,600). Details at tillamookcoast.com/grants (not fetched this session).",
+    "contact": "Nan Devlin, nan@tillamookcoast.com, 503-842-2672"
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Silverton",
+  "type": "city",
+  "county": "Marion",
+  "state": "OR",
+  "tax_rate": "9% city plus 1.5% state",
+  "has_ltac_grants": true,
+  "cycle": "semiannual",
+  "deadline": null,
+  "funding_year": "2026-27",
+  "deadline_pattern": "Two cycles a year: fall applications due early November (Nov 3, 2023) with council allocation in early December, and spring applications due early April (Apr 3, 2024; Apr 15, 2024 extended) with council allocation in early May. The committee set an eight-week application window; 2026-27 dates not posted",
+  "typical_open": "Early September (fall cycle) and early February (spring cycle)",
+  "annual_pool": "About $87,000 for the two FY2023-24 cycles per the Community Development Director; the 2022 budget was $96,000 with about $44,000 awarded",
+  "url": "https://silverton.or.us/node/2304",
+  "contact": "Tourism Promotion Committee c/o Assistant to the City Manager/HR Coordinator, 306 S. Water St., Silverton OR 97381, 503-874-2204; Jason Gottgetreu, Community Development Director (staff lead); City Clerk 503-874-2216",
+  "notes": "Silverton's Tourism Promotion Committee, formed in 2008, runs spring and fall TLT grant cycles and recommends awards to City Council, which approves them about a month after each deadline. Applicants submit ten printed copies, present to the committee in a public meeting, and are scored out of 60 points with extra weight for overnight stays, off-season (November to March) timing, objectives and budget; a 30-point minimum earns preference, 50% is paid on signing and the rest after a two-page exit report. Past awards went to a for-profit resort (Oregon Garden Resort Christmas Market, $5,000) as well as the Chamber and festivals, so businesses can apply directly; a hotel-operator seat on the committee was vacant.",
+  "confidence": "medium",
+  "members": [
+   {
+    "name": "Marie Traeger",
+    "role": "Chair (at-large)",
+    "affiliation": "Tourism Promotion Committee",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Norm English",
+    "role": "Member",
+    "affiliation": "Silverton Mural Society",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Becky Ludden",
+    "role": "Member",
+    "affiliation": "Silverton Chamber of Commerce",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Taryn Desmarteau",
+    "role": "Member",
+    "affiliation": "Silverton Arts Association",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Lynn Schlater-Williams",
+    "role": "City Council member",
+    "affiliation": "Silverton City Council",
+    "email": null,
+    "phone": null
+   },
+   {
+    "name": "Stacy Shaw",
+    "role": "At-large member",
+    "affiliation": "Tourism Promotion Committee",
+    "email": null,
+    "phone": null
+   }
+  ],
+  "members_source": "https://silverton.or.us/node/2304 (Homer Davenport Community Festival, hotel/short-term stay operator and one at-large seat vacant)",
+  "members_as_of": "2026-11-04",
+  "presentation": {
+   "required": true,
+   "date": null,
+   "pattern": "Applicants present to the Tourism Promotion Committee about 10 days after each deadline (Nov 13, 2023; Apr 22, 2024), 6:00 PM",
+   "format": "In-person or Zoom presentation at a public TPC meeting, followed by committee recommendation to council"
+  },
+  "meeting_schedule": "Meets as needed, typically spring and fall around grant cycles, 6:00 PM at 421 S Water Street; council acts the following month",
+  "total_pool_usd": 231074,
+  "competitive_pool_usd": 87000,
+  "pool_note": "Est. $231K city TLT; 70% is tourism-restricted. Staff reported $87,000 available for the two FY2023-24 cycles, essentially all of it open to applicants since Silverton has no DMO contract.",
+  "funding_docs": [
+   {
+    "title": "Tourism Promotion Committee page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://silverton.or.us/node/2304",
+    "summary": "Committee purpose, roster, approval criteria (tourism and economic development, overnight stays tracked, budget, ROI)."
+   },
+   {
+    "title": "Tourism Promotion Grant Application 2023-2024",
+    "doc_type": "application",
+    "year": "2024",
+    "url": "https://silverton.or.us/sites/default/files/fileattachments/tourism_promotion_committee/page/2304/tourism_promotion_grant_application_2023-2024.pdf",
+    "summary": "Cycle dates, 60-point scoring rubric, submission of ten copies, 50/50 payment, exit report requirements."
+   },
+   {
+    "title": "TPC packet, November 13, 2023",
+    "doc_type": "minutes",
+    "year": "2024",
+    "url": "https://silverton.or.us/sites/default/files/fileattachments/tourism_promotion_committee/meeting/packets/3875/11-13-23_tpc_packet.pdf",
+    "summary": "$87,000 available for two cycles; exit reports; eight-week application window."
+   },
+   {
+    "title": "Spring Grant Cycle notice (April 15, 2024 deadline)",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://silverton.or.us/node/4018",
+    "summary": "Spring 2024 deadline and April 22, 2024 TPC meeting."
+   },
+   {
+    "title": "Silverton Municipal Code Chapter 3.12 Transient Lodging Tax",
+    "doc_type": "ordinance",
+    "year": null,
+    "url": "https://codepublishing.com/OR/Silverton/html/Silverton03/Silverton0312.html",
+    "summary": "9% TLT ordinance."
+   },
+   {
+    "title": "Our Town: Tourism grants, $44,000 given to nine Silverton groups (Oct 2022)",
+    "doc_type": "award list",
+    "year": "2022",
+    "url": "https://ourtownlive.com/ourtown/?p=11969",
+    "summary": "2022 award list; $96,000 budget."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "North Marion Tourism Collaborative / Travel Salem",
+    "administrator": "Travel Salem (Marion County RDMO partner)",
+    "url": null,
+    "funds": "Not captured",
+    "eligibility": "Regional tourism projects",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Marion County TLT flows to Travel Salem; not verified this session.",
+    "contact": null
+   }
+  ],
+  "for_profit": "yes",
+  "local_awards": {
+   "years": {
+    "2022": {
+     "total": 43762,
+     "decided": "2022-10-03",
+     "awards": [
+      {
+       "recipient": "Silverton Chamber of Commerce",
+       "event": "First Friday",
+       "amount": 10026,
+       "to_jurisdiction_or_dmo": true,
+       "notes": null
+      },
+      {
+       "recipient": "Homer Davenport Community Festival",
+       "event": "Invitational Brewfest",
+       "amount": 10000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Silverton Sidewalk Shindig",
+       "event": "Annual Sidewalk Shindig",
+       "amount": 6500,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "The Fox Foundation",
+       "event": "Fall Line Stout and Ale Fest",
+       "amount": 5000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Oregon Garden Resort",
+       "event": "Christmas Market",
+       "amount": 5000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": "for-profit resort"
+      },
+      {
+       "recipient": "Silverton Chamber of Commerce",
+       "event": "Silverton in Bloom",
+       "amount": 2791,
+       "to_jurisdiction_or_dmo": true,
+       "notes": null
+      },
+      {
+       "recipient": "Silverton Chamber of Commerce",
+       "event": "Paws in the Park",
+       "amount": 2445,
+       "to_jurisdiction_or_dmo": true,
+       "notes": null
+      },
+      {
+       "recipient": "The Gordon House",
+       "event": null,
+       "amount": 1000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      },
+      {
+       "recipient": "Silverton Arts Association",
+       "event": "Arts Festival",
+       "amount": 1000,
+       "to_jurisdiction_or_dmo": false,
+       "notes": null
+      }
+     ],
+     "note": "Fall 2022 cycle; later cycles' award lists not retrieved."
+    }
+   },
+   "sources": [
+    "https://ourtownlive.com/ourtown/?p=11969"
+   ]
+  },
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Sutherlin",
+  "type": "city",
+  "county": "Douglas",
+  "state": "OR",
+  "tax_rate": "8% city plus 1.5% state (no Douglas County TLT)",
+  "has_ltac_grants": null,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://cms4files.revize.com/sutherlinor//Adopted%20Annual%20Budget%20and%20Fin%20Plan%20YE%2026.pdf",
+  "contact": "City of Sutherlin, 126 E. Central Ave, Sutherlin OR 97479, 541-459-2856; Jerry Gillham, City Manager; Sutherlin Area Chamber of Commerce, Jessica Cannon, Executive Director, 541-315-6516, jessica@socialstrategies.biz",
+  "notes": "Sutherlin budgets $317,500 of transient room tax for FY2025-26 into a Tourism-Motel Tax Fund ($567,500 in resources with carryover, $280,000 materials and services, $85,000 capital) and has a Transient Lodging Tax Committee that advises on spending, but no published application round. In March 2024 the city and the Sutherlin Area Chamber held a town hall introducing a community fund open to individuals and organizations proposing local projects; the chamber is the practical door for TLT support. The city manager said in June 2025 that the city and chamber spend TLT dollars jointly, and cited Blackberry Festival costs while supporting HB 3962, so expect a general-fund tilt once HB 4148 takes effect.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 317500,
+  "competitive_pool_usd": null,
+  "pool_note": "FY2025-26 budget: $317,500 transient room tax, all into the Tourism-Motel Tax Fund ($365,000 appropriated incl. $85,000 capital, $25,000 transfer to general fund). No line item for outside grants; the chamber community fund amount is unpublished.",
+  "funding_docs": [
+   {
+    "title": "City of Sutherlin Adopted Budget FY2025-26",
+    "doc_type": "budget",
+    "year": "2026",
+    "url": "https://cms4files.revize.com/sutherlinor//Adopted%20Annual%20Budget%20and%20Fin%20Plan%20YE%2026.pdf",
+    "summary": "Transient Room Tax $317,500; Tourism-Motel Tax Fund resources, appropriations and TLT Committee staff transfer."
+   },
+   {
+    "title": "KQEN: Sutherlin meeting on transient tax and community fund (Mar 2024)",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://kqennewsradio.com/?p=116479",
+    "summary": "City and Chamber town hall, March 20, 2024, introducing a community fund open to applications; chamber contact."
+   },
+   {
+    "title": "Sutherlin Municipal Code Chapter 3.08 Transient Lodging Tax",
+    "doc_type": "ordinance",
+    "year": null,
+    "url": "https://www.codepublishing.com/OR/Sutherlin/html/Sutherlin03/Sutherlin0308.html",
+    "summary": "City TLT ordinance."
+   },
+   {
+    "title": "News-Review: City Manager apology re Blackberry Festival and HB 3962 (Jun 2025)",
+    "doc_type": "other",
+    "year": "2025",
+    "url": "https://www.nrtoday.com/news/sutherlin-city-manager-issues-public-apology-concerning-sutherlin-blackberry-festival-oregon-hb-3962/article_7dd88c68-28f1-4df2-90a7-47b256b84c8e.html",
+    "summary": "City position on TLT flexibility; city and chamber jointly spend TLT."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Sutherlin Area Chamber community fund (TLT-supported)",
+    "administrator": "Sutherlin Area Chamber of Commerce with City of Sutherlin",
+    "url": "https://kqennewsradio.com/?p=116479",
+    "funds": "Not published",
+    "eligibility": "Individuals and organizations proposing projects that benefit residents and town development",
+    "deadline": null,
+    "deadline_pattern": "Announced March 2024 as open for application; no cycle published",
+    "notes": "Confirm current status with the chamber.",
+    "contact": "Jessica Cannon, 541-315-6516, jessica@socialstrategies.biz"
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "St. Helens",
+  "type": "city",
+  "county": "Columbia",
+  "state": "OR",
+  "tax_rate": "10% city plus 1.5% state; Columbia County proposed 4% in St. Helens under Measure 5-314 (Nov 3, 2026 ballot)",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.sthelensoregon.gov/sites/default/files/fileattachments/administration/page/57839/rfp_-_st._helens_-_special_event_coordination_and_management_services_-_addendum_no._1.pdf",
+  "contact": "City of St. Helens Tourism Program (Tourism Director position, most recently Tina Curry); Finance Director Gloria Butsch; city events produced under contract by Treadway",
+  "notes": "St. Helens runs its TLT through a city Tourism Fund that produces its own events (Spirit of Halloweentown with a roughly $1.2M budget, 13 Nights on the River, Independence Day, Christmas Ships tree lighting, Sand Island Sandcastle Competition) under a contracted event company, Treadway, rather than granting to outside applicants. The fund hit a $350,000 shortfall in September 2026 that council covered with a $250,000 contingency transfer and a $100,000 loan, so new outside requests are unlikely in FY2026-27. Columbia County's Measure 5-314, which would have layered a 4% county TLT inside St. Helens, was failing 73% to 27% in Nov 3, 2026 early returns.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 123148,
+  "competitive_pool_usd": 0,
+  "pool_note": "Est. $123K city TLT; the Tourism Fund is dominated by event revenue and sponsorships for city-produced events and had a $350,000 gap in 2026. No competitive grant dollars.",
+  "funding_docs": [
+   {
+    "title": "RFP: Special Event Coordination and Management Services, Addendum 1 (2024)",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://www.sthelensoregon.gov/sites/default/files/fileattachments/administration/page/57839/rfp_-_st._helens_-_special_event_coordination_and_management_services_-_addendum_no._1.pdf",
+    "summary": "Scope and budgets of the city Tourism Program events; contractor paid fee plus 5% of net revenue."
+   },
+   {
+    "title": "KPTV: Halloweentown cuts avoided amid St. Helens budget shortfall (Sep 11, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.kptv.com/2026/09/11/halloweentown-cuts-avoided-amid-st-helens-budget-shortfall/",
+    "summary": "$350,000 Tourism Fund shortfall; $250,000 contingency transfer and $100,000 loan."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Sponsorship or vendor participation in St. Helens city events",
+    "administrator": "City of St. Helens Tourism Program / Treadway",
+    "url": "https://www.sthelensoregon.gov/administration/page/wauna-credit-union-supports-st-helens-funding-new-outdoor-stage-and-tourism",
+    "funds": "In-kind; the city sells sponsorships for its own events",
+    "eligibility": "Businesses and nonprofits can sponsor or generate revenue at Spirit of Halloweentown",
+    "deadline": null,
+    "deadline_pattern": "Rolling; Halloweentown runs late September through November 1",
+    "notes": "A balloon glow would be pitched as a paid attraction inside the city's event calendar rather than a grant.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Fairview",
+  "type": "city",
+  "county": "Multnomah",
+  "state": "OR",
+  "tax_rate": "6% city (RV parks 6% first 30 days, 1.8% after) plus Multnomah County 5.5% and 1.5% state",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://codepublishing.com/OR/Fairview/html/Fairview03/Fairview0305.html",
+  "contact": null,
+  "notes": "Fairview Municipal Code 3.05 sets a 6% TLT with no dedicated tourism fund, committee or grant program (the council may appoint an advisory committee on the tax itself only); with about $73,000 a year in revenue the city runs no tourism program. Travel Portland is the county-level DMO and the West Columbia Gorge Chamber covers Fairview, Troutdale and Wood Village for cooperative marketing.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 73305,
+  "competitive_pool_usd": 0,
+  "pool_note": "Est. $73K city TLT; code makes no tourism allocation.",
+  "funding_docs": [
+   {
+    "title": "Fairview Municipal Code Chapter 3.05 Transient Lodging Tax",
+    "doc_type": "ordinance",
+    "year": null,
+    "url": "https://codepublishing.com/OR/Fairview/html/Fairview03/Fairview0305.html",
+    "summary": "6% rate; no allocation to tourism; optional advisory committee."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "West Columbia Gorge Chamber Regional Cooperative Marketing Program",
+    "administrator": "West Columbia Gorge Chamber of Commerce",
+    "url": "https://westcolumbiagorgechamber.com/?p=617",
+    "funds": "Not captured",
+    "eligibility": "Chamber members and regional tourism partners",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Cooperative marketing rather than cash grants.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Enterprise",
+  "type": "city",
+  "county": "Wallowa",
+  "state": "OR",
+  "tax_rate": "5% city motel tax (city grant packet; source list shows 3%) plus Wallowa County 5% and 1.5% state",
+  "has_ltac_grants": true,
+  "cycle": "semiannual",
+  "deadline": "2027-03-01",
+  "funding_year": "2026-27",
+  "deadline_pattern": "Applications due March 1 and September 1 at 3:30 PM; applicants present in person to City Council the second Monday of March or September at 6:30 PM; awards announced the second Monday of April or October",
+  "typical_open": "Rolling; packets available year-round from City Hall",
+  "annual_pool": "Not published; maximum $2,000 per applicant per grant cycle (events outside city limits capped at 20% of that)",
+  "url": "https://www.enterpriseoregon.gov/city-council/page/city-grants",
+  "contact": "Zak Bradshaw, City Administrator/Recorder, zbradshaw@enterpriseoregon.gov, 541-426-4196 x3, 102 E. North St., Enterprise OR 97828",
+  "notes": "Enterprise runs the Hotel/Motel Tax (CETRA, Community-Economic-Tourism Related Activities) grant twice a year from its city and county motel tax share, for special events, tourism promotion, downtown enhancement and public beautification. Applicants submit seven paper copies plus a digital copy by March 1 or September 1, must present in person to City Council for 10 minutes (applications not presented in person are not considered), then the Motel Tax Committee reviews and council votes the following month; awards are capped at $2,000 per cycle and a follow-up report is due within 30 days. For-profit ventures and individuals are excluded, so a business-run event needs a nonprofit or public sponsor; priority goes to projects generating overnight stays, local business support and media coverage.",
+  "confidence": "high",
+  "members": [],
+  "members_source": "Motel Tax Committee reviews and recommends; roster not published on the city grants page",
+  "members_as_of": null,
+  "presentation": {
+   "required": true,
+   "date": "2027-03-08",
+   "pattern": "Second Monday of March and September, 6:30 PM, regular City Council meeting",
+   "format": "In person, 10 minutes before City Council; mandatory"
+  },
+  "meeting_schedule": "City Council meets the second Monday of each month at 6:30 PM; grant presentations in March and September, awards in April and October",
+  "total_pool_usd": 46000,
+  "competitive_pool_usd": null,
+  "pool_note": "Est. $46K city TLT; the grants page says a portion of the Hotel/Motel Tax Fund (5% county-wide plus 5% city motel tax) goes to community projects, with no published annual total. With a $2,000 cap per award, expect a small pool.",
+  "funding_docs": [
+   {
+    "title": "City of Enterprise City Grants page",
+    "doc_type": "guidelines",
+    "year": "2026",
+    "url": "https://www.enterpriseoregon.gov/city-council/page/city-grants",
+    "summary": "CETRA Hotel/Motel Tax grants and Historic Preservation Facade grant; deadlines March 1 and September 1; eligible categories; contact."
+   },
+   {
+    "title": "CETRA/Motel Tax Grant Application Packet",
+    "doc_type": "application",
+    "year": "2026",
+    "url": "https://www.enterpriseoregon.gov/media/956",
+    "summary": "Eligibility (nonprofits and governmental units only), $2,000 cap, in-person presentation requirement, review steps, follow-up report, 12-month completion."
+   },
+   {
+    "title": "Elkhorn Media: CETRA grant deadline (Feb 2021)",
+    "doc_type": "other",
+    "year": "2021",
+    "url": "https://elkhornmediagroup.com/?p=116022",
+    "summary": "Spring 2021 round notice describing the program."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Wallowa County transient room tax",
+    "administrator": "Wallowa County Board of Commissioners",
+    "url": "https://lagrandeobserver.com/?p=102905",
+    "funds": "County 5% TLT; a 2018 3% increase proposal split 70% fairgrounds, 30% sheriff",
+    "eligibility": "Not an open grant program",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "County TLT supports the fairgrounds and sheriff; no county grant round found.",
+    "contact": null
+   },
+   {
+    "program": "Wallowa County Chamber of Commerce",
+    "administrator": "Wallowa County Chamber of Commerce",
+    "url": null,
+    "funds": "Visitor promotion",
+    "eligibility": "Partnership",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Co-promotion partner for events in Enterprise and Joseph.",
+    "contact": null
+   }
+  ],
+  "for_profit": "no",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Oakridge",
+  "type": "city",
+  "county": "Lane",
+  "state": "OR",
+  "tax_rate": "Lane County 8% TLT applies (no separate city TLT); plus 1.5% state",
+  "has_ltac_grants": null,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://lookouteugene-springfield.com/story/government-politics/2026/02/10/lane-county-commissioners-approve-fun-money-to-promote-rural-tourism",
+  "contact": "City of Oakridge; Lane County Community and Economic Development (Samantha Roberts, analyst, presented the 2026 rural tourism allocation)",
+  "notes": "Oakridge levies no city TLT; it receives $29,066 for 2026 from Lane County's rural tourism marketing allocation (10% of county TLT, $553,172 split among ten small cities and the McKenzie River area by visitor data, approved Feb 10, 2026). How the city spends that share, and whether any of it is offered to outside applicants, was not found; the city likely uses it for its own marketing. Lane County itself shifted TLT toward sheriff patrols and the courthouse under HB 4148 in its FY2026-27 budget, over Travel Lane County's objection, and still funds marketing grants through Travel Lane County.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 29066,
+  "competitive_pool_usd": null,
+  "pool_note": "$29,066 is the city's 2026 Lane County rural tourism allocation, not a city tax. Use unpublished.",
+  "funding_docs": [
+   {
+    "title": "Lookout Eugene-Springfield: Lane County approves rural tourism marketing allocation (Feb 10, 2026)",
+    "doc_type": "award list",
+    "year": "2026",
+    "url": "https://lookouteugene-springfield.com/story/government-politics/2026/02/10/lane-county-commissioners-approve-fun-money-to-promote-rural-tourism",
+    "summary": "$553,172 to ten cities and the McKenzie River area; Oakridge $29,066."
+   },
+   {
+    "title": "Lookout Eugene-Springfield: county plan to spend TLT on nontourism items draws opposition (Jun 9, 2026)",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://lookouteugene-springfield.com/story/government-politics/2026/06/09/county-plan-to-spend-more-lodging-tax-dollars-on-nontourism-items-draws-opposition/",
+    "summary": "Lane County FY2026-27 TLT ($15.8M est.) uses under HB 4148; marketing grants remain a tourism line."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Lane County TLT marketing grants via Travel Lane County",
+    "administrator": "Travel Lane County",
+    "url": null,
+    "funds": "Not captured; listed as a tourism-related TLT line in the county FY2026-27 budget",
+    "eligibility": "Tourism marketing projects in Lane County",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Program details not verified this session; contact Travel Lane County (Samara Phelps, President and CEO).",
+    "contact": null
+   },
+   {
+    "program": "Lane County Community and Economic Development Grant Program",
+    "administrator": "Lane County",
+    "url": "https://www.lanecountyor.gov/news/what_s_new/PR_081825_CEDGrants",
+    "funds": "Not captured",
+    "eligibility": "Community and economic development projects in Lane County",
+    "deadline": null,
+    "deadline_pattern": "2025-26 round opened August 2025",
+    "notes": "Not TLT-specific; not verified this session.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Bay City",
+  "type": "city",
+  "county": "Tillamook",
+  "state": "OR",
+  "tax_rate": "9% city plus Tillamook County 1% and 1.5% state",
+  "has_ltac_grants": true,
+  "cycle": "rolling",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.tillamookcountypioneer.net/?p=65391",
+  "contact": "City of Bay City, City Manager (applications to City Hall or by email per committee notice); ci.bay-city.or.us/forms",
+  "notes": "Bay City has a council-appointed TLT Committee that reviews tourism-related grant applications and advises council on use of its roughly $22,000 a year in TLT, meeting one to two times a quarter; no application form, deadline or pool is published online, so treat it as a small rolling request to City Hall. The city's 2022 destination management plan earmarks its TLT for website, social media, concerts and festivals, interpretive signage and small capital items, and the city itself won a county facilities grant for the Al Griffin Park campground. Larger asks go to the Tillamook Coast Visitors Association programs (facilities grant, marketing grants, $2,500 event sponsorships for September to May events).",
+  "confidence": "medium",
+  "members": [],
+  "members_source": "TLT Committee (council-appointed residents); roster not published; two vacancies advertised January 2024",
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": "TLT Committee meets one to two times each quarter",
+  "total_pool_usd": 22000,
+  "competitive_pool_usd": null,
+  "pool_note": "Est. $22K city TLT; the plan commits portions to a website contract, marketing and small capital, leaving an unpublished remainder for event requests.",
+  "funding_docs": [
+   {
+    "title": "Tillamook County Pioneer: Bay City seeking applicants for Budget Committee, Planning Commission, TLT Committee (Jan 2024)",
+    "doc_type": "other",
+    "year": "2024",
+    "url": "https://www.tillamookcountypioneer.net/?p=65391",
+    "summary": "TLT Committee reviews tourism grant applications and advises council; meets 1-2 times a quarter."
+   },
+   {
+    "title": "Bay City Destination Management Plan (approved Dec 2022)",
+    "doc_type": "other",
+    "year": "2022",
+    "url": "https://tillamookcoast.com/wp-content/uploads/2023/07/Approved-Bay-City-Dest-Mgmt-Plan-Dec-2022.pdf",
+    "summary": "Planned uses of Bay City TLT (website, marketing, concerts and festivals, signage, $45K crossing match) and TCVA grant routes."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "TCVA Tourism-Related Facilities Grant (Tillamook County TLT)",
+    "administrator": "Tillamook Coast Visitors Association (Visit Tillamook Coast) for the Tillamook County Board of Commissioners",
+    "url": "https://tillamookcoast.com/wp-content/uploads/2025/10/Info-Facilities-Grant-2025-2026.pdf",
+    "funds": "$400,000 pool in the 2025-26 round; max request $75,000; reimbursement basis",
+    "eligibility": "Local governments (cities, ports, districts), state and federal agencies, and nonprofits conducting tourism-related activities in Tillamook County; for-profits not listed",
+    "deadline": "2025-12-15",
+    "deadline_pattern": "Opens October 15, closes mid-December; Tourism Advisory Committee scores and ranks; BOCC approves in February",
+    "notes": "Facilities only (parks, restrooms, venues, trails). City of Tillamook (gateway sign lighting) and Bay City (Al Griffin Park campground) both received awards in the April 2022 round. 2026-27 round dates not yet confirmed.",
+    "contact": "Nan Devlin, TCVA Executive Director, nan@tillamookcoast.com, 503-842-2672 ext. 1"
+   },
+   {
+    "program": "TCVA Tourism Marketing Grants and Event Sponsorships",
+    "administrator": "Tillamook Coast Visitors Association",
+    "url": "https://www.tillamookcountypioneer.net/tourism-marks-monumental-milestone-with-6-million-awarded-from-tlt-grant-programs/",
+    "funds": "Cumulative $1.2M in marketing grants and $100,000 in event sponsorships awarded 2015-2023; per-round pool not published",
+    "eligibility": "For-profit businesses and nonprofits involved in tourism in Tillamook County (marketing grants, scored by the Tourism Promotion Advisory Committee); events Sept-May ($2,500 sponsorships)",
+    "deadline": null,
+    "deadline_pattern": "Annual marketing grant round offered in the fall alongside the facilities grant; sponsorships handled by TCVA",
+    "notes": "Marketing grants are open to for-profit businesses, unlike the facilities grant (18 recipients incl. Netarts Surf Inn and Bay City Arts Center in FY2017-18, $107,600). Details at tillamookcoast.com/grants (not fetched this session).",
+    "contact": "Nan Devlin, nan@tillamookcoast.com, 503-842-2672"
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Boardman",
+  "type": "city",
+  "county": "Morrow",
+  "state": "OR",
+  "tax_rate": "5% city plus 1.5% state",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": null,
+  "notes": "Boardman's TLT page says revenue supports community services and tourism promotion; there is no application program.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Revenue not published; no competitive dollars.",
+  "funding_docs": [],
+  "alternatives": [],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Heppner",
+  "type": "city",
+  "county": "Morrow",
+  "state": "OR",
+  "tax_rate": "5% city plus 1.5% state",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": null,
+  "contact": "Heppner Chamber of Commerce",
+  "notes": "Heppner passes 90% of its TRT to the Heppner Chamber of Commerce for Willow Creek Valley promotion (LOC 2024 survey); there is no city grant round. An event would partner with the Chamber directly.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "Revenue not published; 90% to the Chamber under contract.",
+  "funding_docs": [],
+  "alternatives": [
+   {
+    "program": "Heppner Chamber of Commerce tourism promotion",
+    "administrator": "Heppner Chamber of Commerce",
+    "url": null,
+    "funds": "90% of city TRT",
+    "eligibility": "Chamber partnership",
+    "deadline": null,
+    "deadline_pattern": "Rolling",
+    "notes": "Not a formal grant.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Mosier",
+  "type": "city",
+  "county": "Wasco",
+  "state": "OR",
+  "tax_rate": "8% city TLT (FY2023-24 budget), DOR-administered since Oct 2022, plus 1.5% state; Wasco County has no county TLT",
+  "has_ltac_grants": null,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://www.cityofmosier.gov/?p=7119",
+  "contact": "City of Mosier, 208 Washington St, PO Box 456, Mosier OR 97040, 541-478-3505, info@cityofmosier.gov",
+  "notes": "Mosier's FY2023-24 budget sets an 8% TLT with 25% to the general fund and 75% to a special revenue fund for tourism promotion, budgeting about $72,000 in short-term rental tax and a $54,203 restricted tourism reserve; no grant program, tourism committee or application process is published. With that little money the practical route is a direct request to the city council or the Columbia Gorge regional programs.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": 72270,
+  "competitive_pool_usd": null,
+  "pool_note": "FY2023-24 budget: $72,270 short-term rental tax; 75% ($54K) restricted to tourism promotion; no grant line.",
+  "funding_docs": [
+   {
+    "title": "Mosier Transient Lodging Tax FAQ",
+    "doc_type": "other",
+    "year": "2026",
+    "url": "https://www.cityofmosier.gov/?p=7119",
+    "summary": "DOR-administered TLT; collection rules and city contacts; no use-of-funds statement."
+   },
+   {
+    "title": "City of Mosier Budget FY2023-24",
+    "doc_type": "budget",
+    "year": "2024",
+    "url": "https://cityofmosier.com/wp-content/uploads/2024/02/BUDGET-FY-2023_2024.pdf",
+    "summary": "8% rate; 25% general fund, 75% tourism special revenue fund; $72,270 revenue; $54,203 restricted tourism reserve."
+   },
+   {
+    "title": "Mosier Municipal Code Chapter 5.10 Transient Lodging Tax",
+    "doc_type": "ordinance",
+    "year": null,
+    "url": "https://cityofmosier.gov/?p=7103",
+    "summary": "City TLT ordinance."
+   }
+  ],
+  "alternatives": [],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ },
+ {
+  "name": "Union",
+  "type": "city",
+  "county": "Union",
+  "state": "OR",
+  "tax_rate": "5% city TLT (DOR-administered, adopted 2022) plus Union County 3% and 1.5% state",
+  "has_ltac_grants": false,
+  "cycle": "none",
+  "deadline": null,
+  "funding_year": null,
+  "deadline_pattern": null,
+  "typical_open": null,
+  "annual_pool": null,
+  "url": "https://lagrandeobserver.com/?p=184108",
+  "contact": "Doug Wiggins, City Administrator, City of Union",
+  "notes": "Union adopted a 5% TLT in 2022 with the council expected to put the 75% tourism share toward city projects such as bike paths, a welcome center and the Union County Museum rather than a grant round; no city program exists. The real route is Union County's Transient Tax Attraction and Events grants, which fund public and nonprofit applicants (the Union Chamber got $3,500 for Thunder at the Peak in FY2024-25) through a June 1 to mid-July window.",
+  "confidence": "medium",
+  "members": [],
+  "members_source": null,
+  "members_as_of": null,
+  "presentation": {
+   "required": null,
+   "date": null,
+   "pattern": null,
+   "format": null
+  },
+  "meeting_schedule": null,
+  "total_pool_usd": null,
+  "competitive_pool_usd": 0,
+  "pool_note": "City revenue not published; no city grant program.",
+  "funding_docs": [
+   {
+    "title": "La Grande Observer: Union transient lodging tax may be in place by July 1 (Apr 2022)",
+    "doc_type": "other",
+    "year": "2022",
+    "url": "https://lagrandeobserver.com/?p=184108",
+    "summary": "5% city TLT; 75% to tourism; intended uses."
+   }
+  ],
+  "alternatives": [
+   {
+    "program": "Union County Transient Tax Events and Attractions Grants",
+    "administrator": "Union County Administrative Office; Transient Tax Advisory Committee recommends, Board of Commissioners approves",
+    "url": "https://unioncountyor.gov/wp-content/uploads/2024/05/Transient-Tax-Attraction-Application-5.1.2024.pdf",
+    "funds": "$96,894 awarded for FY2024-25 across 8 projects (events $51,194; attractions $45,700)",
+    "eligibility": "Public sector and nonprofit entities only; attraction or event in Union County; IRS letter required",
+    "deadline": null,
+    "deadline_pattern": "Applications open June 1 and are due mid-July (July 14, 2023) for the fiscal year starting July 1; BOC approves late June",
+    "notes": "Scored on visitors, out-of-area draw, multi-day overnight events, community involvement and match; applicants may be asked to present. Completion report due within 60 days or a three-year ban.",
+    "contact": "Union County Administrative Office, 1106 K Avenue, La Grande; commissioners@union-county.org, 541-963-1001"
+   },
+   {
+    "program": "Union County Chamber of Commerce Tourism Discretionary Fund Grant",
+    "administrator": "Union County Chamber of Commerce",
+    "url": "https://growthzonesitesprod.azureedge.net/wp-content/uploads/sites/1937/2021/04/Union-County-Chamber-of-Commerce-Tourism-Discretionary-Fund-Grant-Program.pdf",
+    "funds": "Not captured",
+    "eligibility": "Not captured",
+    "deadline": null,
+    "deadline_pattern": null,
+    "notes": "Chamber-run TRT grant; not verified this session.",
+    "contact": null
+   }
+  ],
+  "for_profit": "unknown",
+  "local_awards": null,
+  "verified": "2026-11-04"
+ }
+]

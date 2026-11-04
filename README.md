@@ -1,13 +1,19 @@
-# WA Lodging Tax Grants (LTAC)
+# Lodging Tax Grants (Washington and Oregon)
 
-Single-page site listing LTAC grant programs for all 219 Washington cities and counties that levy a lodging tax (every jurisdiction in JLARC's reporting list): funding cycle (annual, twice a year, rolling, biennial, none), application deadlines, presentation requirements, committee rosters, staff contacts, funding guidance documents (guidelines, resolutions, award lists), and alternative funding routes where a jurisdiction has no open LTAC pool.
+Single-page site listing lodging tax grant programs for all 219 Washington cities and counties that levy a lodging tax (every jurisdiction in JLARC's reporting list): funding cycle (annual, twice a year, rolling, biennial, none), application deadlines, presentation requirements, committee rosters, staff contacts, funding guidance documents (guidelines, resolutions, award lists), and alternative funding routes where a jurisdiction has no open LTAC pool.
 
 - `index.html` is the whole site. `tacoma.html` is a separate page: a Tacoma event funding planner (Tacoma has no LTAC round) that takes an event date and splits the city, county, utility, tribal and state programs into still-open vs. next-cycle, with program data inline in the file; the Tacoma card links to it. The data is embedded in the `<script id="data">` block near the bottom.
 - `data.json` is the same data as a standalone file for editing. After editing it, paste the contents into the `<script id="data" type="application/json">` block in `index.html`.
 - The "today" date used for open/closed status comes from the `asof` field in the `<script id="meta">` block. Update it when refreshing the data.
 - The site has seven views, routed by URL hash: `#directory`, `#map`, `#finder`, `#kit`, `#benchmarks`, `#guidelines`, `#board`. `#j-<slug>` jumps to one jurisdiction's card.
 
-Data was compiled from official city and county pages, application packets, agendas and minutes as of October 29, 2026. Each record carries a `confidence` field and a `members_as_of` date.
+Data was compiled from official city and county pages, application packets, agendas and minutes as of October 29, 2026 (Washington) and November 4, 2026 (Oregon). Each record carries a `confidence` field and a `members_as_of` date.
+
+## Oregon
+
+The site covers two states. `?state=OR` (or the Washington / Oregon switch in the masthead) shows the 140 Oregon cities and counties that levy a transient lodging tax; the choice is remembered in the browser. Oregon records live in `build/batches/or_*.json` with the same fields as Washington plus `state` and an inline `local_awards` block; `build/merge.py` tags them `state: "OR"`, appends " County" to county names and adds ", Oregon" to names that collide with a Washington jurisdiction (Newport, Redmond, North Bend, Grant, Lincoln, Jefferson, Benton). Supporting files: `build/population_or.json`, `build/cities_or.json`, `build/geo/or-counties.json`, `build/parts_law_or.txt` (ORS 320.300 to 320.350, HB 4148 and HB 4134), and `grants_or/grants_or.json` (the Oregon other-funding catalog). Regions are assigned in `build/build2.py` (`REGION_OR`).
+
+Oregon has no JLARC-style award series, so the Top events tab is hidden for Oregon and benchmark, compare and peer-report figures come from the `local_awards` captured from council minutes, budgets and program pages (marked "local"). Room-night columns stay empty. HB 4148 (2026) cuts the tourism share of post-2003 lodging tax from 70% to 50% for budgets starting January 1, 2027 and starts biennial state reporting in September 2027; the law section and peer reports note this.
 
 ## Follow lists and sorting
 
@@ -53,6 +59,6 @@ Caveats: figures are self-reported by recipients; about a quarter of rows have n
 
 ## Rebuilding
 
-`python3 build/run.py` rebuilds everything from the data files: `build/batches/*.json` (jurisdiction research, one record per jurisdiction), `jlarc/normalized.json`, `awards2526/out_*.json`, `altawards/*.json`, `grants/*.json`. It writes `data.json`, `jlarc/events.json` and `index.html`. The site date (`ASOF` in `build/build2.py`) should be set to the rebuild date. No dependencies beyond Python 3.
+`python3 build/run.py` rebuilds everything from the data files: `build/batches/*.json` (jurisdiction research, one record per jurisdiction; `or_*.json` are Oregon), `jlarc/normalized.json`, `awards2526/out_*.json`, `altawards/*.json`, `grants/*.json`. It writes `data.json`, `jlarc/events.json` and `index.html`. The site date (`ASOF` in `build/build2.py`) should be set to the rebuild date. No dependencies beyond Python 3.
 
-To update a jurisdiction, edit its record in the right `build/batches/` file (search by `"name"`). To add a funding program, append to `grants/local.json` or `grants/statewide.json` using the same fields. Then rebuild and commit; Netlify deploys from `main`.
+To update a jurisdiction, edit its record in the right `build/batches/` file (search by `"name"`). To add a funding program, append to `grants/local.json` or `grants/statewide.json` (Washington) or `grants_or/grants_or.json` (Oregon) using the same fields. Then rebuild and commit; Netlify deploys from `main`.
