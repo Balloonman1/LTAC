@@ -172,8 +172,8 @@ for r in data:
         dup=False
         for g in grants:
             if g.get('from_directory'): continue
-            geo=g.get('geography') or {}
-            same_place=(r['name'] in (geo.get('cities') or [])) or (r['county'] in (geo.get('counties') or [])) or g.get('level')=='statewide'
+            ggeo=g.get('geography') or {}
+            same_place=(r['name'] in (ggeo.get('cities') or [])) or (r['county'] in (ggeo.get('counties') or [])) or g.get('level')=='statewide'
             gt=set(gk(g.get('name')).split())-STOPG
             if same_place and nt and gt and len(nt&gt)>=2 and len(nt&gt)/len(nt|gt)>=0.4: dup=True; break
         if dup: continue
