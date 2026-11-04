@@ -16,6 +16,7 @@ let firstRoute=true;
 function route(){
   const h=(location.hash||'').replace('#','');
   if(VIEWS.includes(h)) { showView(h); const tabs=document.querySelector('.tabs'); if(window.innerWidth<720 && tabs && !firstRoute){ const m=document.querySelector('.mast'); const go=()=>window.scrollTo({top:m?m.offsetTop+m.offsetHeight:0,behavior:'instant'}); go(); requestAnimationFrame(go); setTimeout(go,60); setTimeout(go,250); } else window.scrollTo({top:0,behavior:'instant'}); firstRoute=false; return; }
+  if(h.startsWith('compare=')){ showView('benchmarks'); return; }
   if(h.startsWith('j-')){ showView('directory'); const t=document.getElementById(h); if(t){ t.scrollIntoView({block:'start'}); t.classList.add('lead'); } return; }
   showView('directory');
 }
@@ -35,7 +36,7 @@ function awardsHtml(r){
   const top=(latest.top||[]).slice(0,3).map(t=>`${esc(t.recipient)} (${money(t.amount)}, ${esc((t.type||'').replace('Event/Festival','event').toLowerCase())})`).join('; ');
   const bt=latest.bytype||{}; const split=`${yrs[0]} split: events ${money(bt['Event/Festival']||0)}, marketing ${money(bt['Marketing']||0)}, facilities ${money(bt['Facility']||0)}.`;
   const shared=latest.shared_nights?`<div class="top warn2">${latest.shared_nights.toLocaleString()} of these ${yrs[0]} nights come from recipients also funded by ${[...new Set((latest.shared||[]).flatMap(s=>s[1]))].slice(0,4).join(', ')}; the same visitors may be counted there too.</div>`:'';
-  return `<details><summary>Award history (JLARC reports) <span>${yrs.length} yr</span></summary><div class="awards">${shared}<button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards (all)</th><th>Total (all)</th><th>Event awards</th><th>Event median</th><th>Event max</th><th>Event nights</th><th>$/night</th></tr></thead><tbody>${lrows}${rows}</tbody></table></div>${lnote}<div class="top">${split}</div>${top?`<div class="top">Largest ${yrs[0]} recipients: ${top}</div>`:''}${latest.forprofit!=null?`<div class="top">${latest.forprofit} of ${latest.awards} ${yrs[0]} awards went to recipients that appear to be businesses.</div>`:''}<div class="top">From the jurisdiction's annual reports to JLARC. Room nights are event recipients' own estimates; marketing and facility rows are excluded from nights because DMOs report county-wide totals.</div></div></details>`;
+  return `<details><summary>Award history (JLARC reports) <span>${yrs.length} yr</span></summary><div class="awards">${shared}<button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button> <button class="btn ghost2 small" data-cmp="${esc(r.name)}">Compare with peers</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards (all)</th><th>Total (all)</th><th>Event awards</th><th>Event median</th><th>Event max</th><th>Event nights</th><th>$/night</th></tr></thead><tbody>${lrows}${rows}</tbody></table></div>${lnote}<div class="top">${split}</div>${top?`<div class="top">Largest ${yrs[0]} recipients: ${top}</div>`:''}${latest.forprofit!=null?`<div class="top">${latest.forprofit} of ${latest.awards} ${yrs[0]} awards went to recipients that appear to be businesses.</div>`:''}<div class="top">From the jurisdiction's annual reports to JLARC. Room nights are event recipients' own estimates; marketing and facility rows are excluded from nights because DMOs report county-wide totals.</div></div></details>`;
 }
 function verifyHtml(r){
   return `<div class="verify"><span>Last verified ${fmt(r.verified||META.asof)}</span><button class="corr" data-j="${esc(r.name)}">Report a correction</button></div>`;
@@ -369,13 +370,14 @@ function openAlt(program){
   </div>`);
   modal.querySelector('.modalbox').classList.add('wide');
 }
-document.addEventListener('click',e=>{const b=e.target.closest('[data-alt]'); if(b){e.preventDefault(); openAlt(b.dataset.alt);}});
+document.addEventListener('click',e=>{const c=e.target.closest('[data-cmp]'); if(c){ e.preventDefault(); cmpSel=[c.dataset.cmp]; const lead=data.find(r=>r.name===c.dataset.cmp); cmpPeers(lead,false).forEach(r=>cmpAdd(r.name)); location.hash='#benchmarks'; setTimeout(()=>{cmpRender(); document.getElementById('cmpSec').scrollIntoView({block:'start'});},50); return; }
+  const b=e.target.closest('[data-alt]'); if(b){e.preventDefault(); openAlt(b.dataset.alt);}});
 
 
 function localOnlyHtml(r){
   const la=r.local_awards.years; const yrs=Object.keys(la).sort().reverse();
   const rows=yrs.map(y=>{const s=la[y];const amts=s.awards.map(a=>a.amount).filter(a=>typeof a==='number').sort((p,q)=>p-q);return `<tr class="loc"><td>${y}<span class="src">minutes</span></td><td>${s.awards.length||'–'}</td><td>${s.total!=null?money(s.total):'–'}</td><td>${amts.length?money(amts[Math.floor(amts.length/2)]):'–'}</td><td>${amts.length?money(amts[amts.length-1]):'–'}</td></tr>`;}).join('');
-  return `<details><summary>Award history (local records) <span>${yrs.length} yr</span></summary><div class="awards"><button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards</th><th>Total</th><th>Median</th><th>Largest</th></tr></thead><tbody>${rows}</tbody></table></div><div class="top">From council and committee records; the state dataset has no rows for this jurisdiction.</div></div></details>`;
+  return `<details><summary>Award history (local records) <span>${yrs.length} yr</span></summary><div class="awards"><button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button> <button class="btn ghost2 small" data-cmp="${esc(r.name)}">Compare with peers</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards</th><th>Total</th><th>Median</th><th>Largest</th></tr></thead><tbody>${rows}</tbody></table></div><div class="top">From council and committee records; the state dataset has no rows for this jurisdiction.</div></div></details>`;
 }
 function localSection(r){
   const la=r.local_awards; if(!la||!la.years) return '';
@@ -447,3 +449,94 @@ function drawGrants(){
   const html=bands.map(([lv,t])=>{const L=list.filter(g=>g.level===lv); return L.length?`<div class="gband fres"><h3>${t} <span class="dimtxt">${L.length}</span></h3>${L.map(gCard).join('')}</div>`:'';}).join('');
   document.getElementById('grantRes').innerHTML=(ltac+html)||'<p class="empty">Nothing in the catalog matches. Loosen a filter.</p>';
 }
+
+/* ================= compare jurisdictions ================= */
+let cmpSel=[], cmpEvOnly=false;
+function cmpStats(r){
+  const j=r.jlarc&&r.jlarc.years?r.jlarc.years:{}; const yrs=Object.keys(j).sort().reverse(); const y=yrs[0]; const s=y?j[y]:null;
+  const la=r.local_awards&&r.local_awards.years?r.local_awards.years:{}; const lyrs=Object.keys(la).sort().reverse(); const ly=lyrs[0]; const ls=ly?la[ly]:null;
+  const bt=s?s.bytype||{}:{}; const tot=s?s.total:null;
+  const dmo=s?(s.recs||[]).filter(q=>q[1]==='M').reduce((a,q)=>a+(q[2]||0),0):null;
+  const lamts=ls?ls.awards.map(a=>a.amount).filter(a=>typeof a==='number').sort((p,q)=>p-q):[];
+  return {r,name:r.name,type:r.type,region:r.region,total:r.total_pool_usd,open:r.competitive_pool_usd,share:r.total_pool_usd&&r.competitive_pool_usd!=null?r.competitive_pool_usd/r.total_pool_usd:null,
+    y,awards:s?s.awards:null,ev_awards:s?s.ev_awards:null,jtotal:tot,ev_total:s?s.ev_total:null,ev_median:s?s.ev_median:null,ev_max:s?s.ev_max:null,
+    evshare:tot?(bt['Event/Festival']||0)/tot:null,mshare:tot?(bt['Marketing']||0)/tot:null,fshare:tot?(bt['Facility']||0)/tot:null,
+    nights:s?s.nights:null,cpn:s&&s.nights&&s.ev_total?s.ev_total/s.nights:null,shared:s?s.shared_nights:null,fp:s?s.forprofit:null,
+    ly,lawards:ls?ls.awards.length:null,ltotal:ls?ls.total:null,lmedian:lamts.length?lamts[Math.floor(lamts.length/2)]:null,lmax:lamts.length?lamts[lamts.length-1]:null,
+    cycle:r.cycle,deadline:r.deadline,pres:r.presentation&&r.presentation.required,forprofit:r.for_profit};
+}
+function cmpFund(r){ const j=r.jlarc&&r.jlarc.years?r.jlarc.years:{}; const y=Object.keys(j).sort().reverse()[0]; return Math.max(r.total_pool_usd||0, y?j[y].total||0:0, r.competitive_pool_usd||0); }
+function cmpPeers(lead,sameRegion){
+  const f=cmpFund(lead); if(!f) return [];
+  return data.filter(r=>r!==lead&&r.has_ltac_grants&&r.type===lead.type&&(!sameRegion||r.region===lead.region)).map(r=>({r,f:cmpFund(r)})).filter(x=>x.f&&Math.abs(x.f-f)/f<=0.4).sort((a,b)=>Math.abs(a.f-f)-Math.abs(b.f-f)).slice(0,5).map(x=>x.r);
+}
+function cmpAdd(name){ if(!name||cmpSel.includes(name)||cmpSel.length>=6) return; cmpSel.push(name); cmpRender(); }
+function cmpRender(){
+  const chips=document.getElementById('cmpChips'); chips.innerHTML=cmpSel.map((n,i)=>`<span class="chip ${i===0?'lead':''}">${esc(n)}<button type="button" data-rm="${esc(n)}" aria-label="Remove">×</button></span>`).join('');
+  const out=document.getElementById('cmpOut');
+  if(cmpSel.length<2){ out.innerHTML=cmpSel.length?'<p class="hint2">Add at least one more, or click "Add peers of the first".</p>':''; return; }
+  const S=cmpSel.map(n=>cmpStats(data.find(r=>r.name===n)));
+  const pct=v=>v==null?'–':Math.round(v*100)+'%'; const num=v=>v==null?'–':v.toLocaleString(); const m=v=>v==null?'–':money(v); const d=v=>v==null?'–':'$'+Math.round(v);
+  const rows=[
+    ['sec','Fund'],
+    ['Total lodging tax fund (documented, else latest awarded)',S.map(s=>s.total!=null?s.total:s.jtotal),m,'hi'],
+    ['Open to outside applicants',S.map(s=>s.open),m,'hi'],
+    ['Share of fund open',S.map(s=>s.share),pct,'hi'],
+    ['sec','Awards (latest JLARC year)'],
+    ['Year',S.map(s=>s.y),v=>v||'–'],
+    ['Total awarded',S.map(s=>s.jtotal),m],
+    ['Awards made',S.map(s=>s.awards),num],
+    ['Event awards',S.map(s=>s.ev_awards),num,'hi'],
+    ['Event dollars',S.map(s=>s.ev_total),m,'hi'],
+    ['Median event award',S.map(s=>s.ev_median),m],
+    ['Largest event award',S.map(s=>s.ev_max),m,'hi'],
+    ['Awards to recipients that look like businesses',S.map(s=>s.fp),num],
+    ['sec','Where the money goes'],
+    ['Events and festivals',S.map(s=>s.evshare),pct,'hi'],
+    ['Marketing and DMO contracts',S.map(s=>s.mshare),pct],
+    ['Facilities',S.map(s=>s.fshare),pct],
+    ['sec','Results reported by event recipients'],
+    ['Paid room nights (deduplicated)',S.map(s=>s.nights),num,'hi'],
+    ['Event dollars per room night',S.map(s=>s.cpn),d,'lo'],
+    ['Nights from recipients also funded by neighbors',S.map(s=>s.shared),num],
+    ['sec','Since the state data ended (council records)'],
+    ['Year',S.map(s=>s.ly),v=>v||'–'],
+    ['Awards listed',S.map(s=>s.lawards),num],
+    ['Total',S.map(s=>s.ltotal),m],
+    ['Median award',S.map(s=>s.lmedian),m],
+    ['Largest award',S.map(s=>s.lmax),m,'hi'],
+    ['sec','Process'],
+    ['Cycle',S.map(s=>s.cycle),v=>v||'–'],
+    ['Next deadline',S.map(s=>s.deadline),v=>v?fmt(v):'–'],
+    ['Presentation required',S.map(s=>s.pres),v=>v===true?'yes':(v===false?'no':'–')],
+    ['For-profit applicants',S.map(s=>s.forprofit),v=>({yes:'yes',sponsor:'via sponsor',no:'no'})[v]||'not stated'],
+  ];
+  const head=`<thead><tr><th></th>${S.map(s=>`<th><a href="#j-${slug(s.name)}">${esc(s.name)}</a></th>`).join('')}</tr></thead>`;
+  const body=rows.map(row=>{ if(row[0]==='sec') return `<tr class="sec"><td colspan="${S.length+1}">${row[1]}</td></tr>`;
+    const [label,vals,f,best]=row; let bi=-1; if(best){ const nums=vals.map((v,i)=>typeof v==='number'?[v,i]:null).filter(Boolean); if(nums.length>1){ nums.sort((a,b)=>best==='hi'?b[0]-a[0]:a[0]-b[0]); bi=nums[0][1]; } }
+    return `<tr><td>${label}</td>${vals.map((v,i)=>`<td class="${i===bi?'best':''}">${f(v)}</td>`).join('')}</tr>`; }).join('');
+  // merged award list
+  const all=[]; S.forEach(s=>{ const j=s.r.jlarc&&s.r.jlarc.years?s.r.jlarc.years:{}; const y=Object.keys(j).sort().reverse()[0]; if(y) (j[y].recs||[]).forEach(q=>all.push({jur:s.name,year:y,recipient:q[0],type:q[1],amount:q[2],nights:q[3],others:q[8]||[]})); });
+  if(cmpEvOnly) all.splice(0,all.length,...all.filter(a=>a.type==='E'));
+  all.sort((a,b)=>(b.amount||0)-(a.amount||0));
+  const shared={}; all.forEach(a=>{const k=a.recipient.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim(); (shared[k]=shared[k]||new Set()).add(a.jur);});
+  const sharedList=Object.entries(shared).filter(([k,v])=>v.size>1).map(([k,v])=>{const rec=all.find(a=>a.recipient.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()===k); return `<li><b>${esc(rec.recipient)}</b>: ${[...v].map(j=>{const x=all.find(a=>a.jur===j&&a.recipient.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()===k);return esc(j)+' '+money(x.amount);}).join('; ')}</li>`;});
+  const TYPEN2={E:'Event',M:'Marketing',F:'Facility'};
+  const awardsTable=all.length?`<div class="tw"><table class="dt cmpawards"><thead><tr><th>Jurisdiction</th><th>Recipient</th><th>Type</th><th>Award</th><th>Paid nights</th><th>Also funded by</th></tr></thead><tbody>${all.slice(0,200).map(a=>`<tr class="${a.type==='E'?'':'dim'}"><td>${esc(a.jur)} ${a.year}</td><td>${esc(a.recipient)}</td><td>${TYPEN2[a.type]||'?'}</td><td class="num">${money(a.amount)}</td><td class="num">${a.nights!=null?a.nights.toLocaleString():'–'}</td><td>${a.others.map(esc).join(', ')}</td></tr>`).join('')}</tbody></table></div>${all.length>200?'<p class="hint2">Showing the 200 largest.</p>':''}`:'<p class="hint2">No state award rows for the selected programs.</p>';
+  out.innerHTML=`<div class="tw"><table class="cmpt">${head}<tbody>${body}</tbody></table></div>
+    <p class="hint2">Green marks the strongest value in each row (highest, or lowest for dollars per night). Room nights are recipients' own reports and are not audited; the state series ends at 2024.</p>
+    ${sharedList.length?`<h4>Recipients funded by more than one of these</h4><ul class="flist">${sharedList.join('')}</ul>`:''}
+    <h4>Every award, latest state year, all selected <label class="chk" style="font-weight:500;text-transform:none;letter-spacing:0;margin-left:10px"><input type="checkbox" id="cmpEv" ${cmpEvOnly?'checked':''}> events only</label> <button type="button" class="linkbtn" id="cmpLink">Copy link to this comparison</button></h4>${awardsTable}`;
+  const ev=document.getElementById('cmpEv'); if(ev) ev.addEventListener('change',()=>{cmpEvOnly=ev.checked;cmpRender();});
+  const lk=document.getElementById('cmpLink'); if(lk) lk.addEventListener('click',()=>{const u=location.href.split('#')[0]+'#compare='+encodeURIComponent(cmpSel.join('|')); navigator.clipboard&&navigator.clipboard.writeText(u).then(()=>{lk.textContent='Link copied';setTimeout(()=>lk.textContent='Copy link to this comparison',1500);});});
+}
+(function(){
+  const pick=document.getElementById('cmpPick'); if(!pick) return;
+  data.filter(r=>r.has_ltac_grants||r.jlarc).sort((a,b)=>a.name.localeCompare(b.name)).forEach(r=>{const o=document.createElement('option');o.value=r.name;o.textContent=r.name;pick.appendChild(o);});
+  pick.addEventListener('change',()=>{cmpAdd(pick.value);pick.value='';});
+  document.getElementById('cmpPeers').addEventListener('click',()=>{ if(!cmpSel.length){ document.getElementById('cmpOut').innerHTML='<p class="hint2">Pick a jurisdiction first.</p>'; return; } const lead=data.find(r=>r.name===cmpSel[0]); cmpPeers(lead,document.getElementById('cmpRegion').checked).forEach(r=>cmpAdd(r.name)); });
+  document.getElementById('cmpClear').addEventListener('click',()=>{cmpSel=[];cmpRender();});
+  document.getElementById('cmpChips').addEventListener('click',e=>{const b=e.target.closest('[data-rm]'); if(b){ cmpSel=cmpSel.filter(n=>n!==b.dataset.rm); cmpRender(); }});
+  // deep link: #compare=A|B|C
+  const h=location.hash; if(h.startsWith('#compare=')){ decodeURIComponent(h.slice(9)).split('|').forEach(cmpAdd); }
+})();
