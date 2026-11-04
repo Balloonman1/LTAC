@@ -163,6 +163,7 @@
       <button type="button" data-p="big">Biggest single event awards</button>
       <button type="button" data-p="eff">Most room nights per dollar</button>
       <button type="button" data-p="open">Most of the fund open</button>
+      <button type="button" data-p="percap">Small towns, big tourism money</button>
       <button type="button" data-p="clear">Clear</button>
     </div>
     <div class="bfgrid">
@@ -178,13 +179,14 @@
       <label>Event room nights, at least<input type="number" id="bf-nights" min="0" step="500" placeholder="e.g. 2000"></label>
       <label>Event $ per night, at most $<input type="number" id="bf-cpn" min="0" step="5" placeholder="e.g. 25"></label>
       <label>Population, at most<input type="number" id="bf-pop" min="0" step="5000" placeholder="e.g. 50000"></label>
+      <label>Fund per resident, at least $<input type="number" id="bf-percap" min="0" step="5" placeholder="e.g. 25"></label>
       <label class="chk"><input type="checkbox" id="bf-data" checked> only rows with state award data</label>
       <label class="chk"><input type="checkbox" id="bf-prog" checked> only programs open to outside applicants</label>
     </div>
     <p class="hint2" id="bfcount"></p>
   </div>
   <div class="tablewrap"><table class="bench" id="benchTable"><thead><tr>
-    <th data-k="name">Jurisdiction</th><th data-k="total_pool_usd">Total fund</th><th data-k="competitive_pool_usd">Open to applicants</th><th data-k="share">Share open</th><th data-k="awards">Awards (latest JLARC yr)</th><th data-k="evtotal">Event dollars</th><th data-k="median">Median event award</th><th data-k="max">Largest event award</th><th data-k="nights">Event paid room nights</th><th data-k="cpn">Event $ per night</th></tr></thead><tbody></tbody></table></div>
+    <th data-k="name">Jurisdiction</th><th data-k="pop">Population</th><th data-k="percap">Fund per resident</th><th data-k="total_pool_usd">Total fund</th><th data-k="competitive_pool_usd">Open to applicants</th><th data-k="share">Share open</th><th data-k="awards">Awards (latest JLARC yr)</th><th data-k="evtotal">Event dollars</th><th data-k="median">Median event award</th><th data-k="max">Largest event award</th><th data-k="nights">Event paid room nights</th><th data-k="cpn">Event $ per night</th></tr></thead><tbody></tbody></table></div>
   <p class="gdesc" id="benchNote"></p>
 </div></div>
 
