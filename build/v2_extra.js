@@ -79,6 +79,7 @@ function statusColor(r){
 }
 let mapMode='status';
 function drawMap(){
+  if(STATE==='ID'){ const ml=document.getElementById('mapLede'); if(ml) ml.textContent='Idaho counties cannot levy a lodging tax, so none are shaded. Resort cities and auditorium districts are dots, colored by the measure you pick. Click a dot to open its card in the Directory.'; }
   if(!window.d3||!window.topojson){ document.getElementById('wamap').outerHTML='<p class="empty">Map library did not load.</p>'; return; }
   mapDrawn=true;
   const NS='http://www.w3.org/2000/svg';
