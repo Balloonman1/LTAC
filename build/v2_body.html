@@ -139,11 +139,11 @@
   <div class="vhead"><h2>Benchmarks</h2><p>How each jurisdiction's program compares. Pool figures come from the documents on each card; award and visitor figures come from the annual reports jurisdictions file with JLARC, where available (2022 to 2024; the state suspended 2025 reporting, so 2024 is the latest year).</p></div>
   <section class="kitsec cmp" id="cmpSec">
     <h3>Compare jurisdictions</h3>
-    <p class="gdesc">Pick two to six programs by hand, or start from one and add its peers (same type, fund within 40 percent, optional same region). The table lines up fund size, what is open to applicants, award counts and sizes, where the money goes, reported room nights and process, then lists every award the selected programs made with the recipients they share.</p>
+    <p class="gdesc">Pick two to six programs by hand, or start from one and add its peers: similar fund size, similar population, everyone in its county, or the biggest funds in its region. The table lines up fund size, what is open to applicants, award counts and sizes, where the money goes, reported room nights and process, then lists every award the selected programs made with the recipients they share.</p>
     <div class="cmpbar">
       <select id="cmpPick" aria-label="Add a jurisdiction"><option value="">Add a jurisdiction…</option></select>
+      <select id="cmpMode" aria-label="How to pick peers"><option value="fund">Peers by fund size (within 40%)</option><option value="pop">Peers by population (within 40%)</option><option value="county">Everyone in the same county</option><option value="region">Largest funds in the same region</option></select>
       <button type="button" class="btn ghost2" id="cmpPeers">Add peers of the first</button>
-      <label class="chk"><input type="checkbox" id="cmpRegion"> same region only</label>
       <button type="button" class="btn ghost2" id="cmpClear">Clear</button>
     </div>
     <div id="cmpChips" class="cmpchips"></div>

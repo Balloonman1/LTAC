@@ -25,6 +25,8 @@ REGION={'Puget Sound':['King','Pierce','Snohomish','Kitsap','Thurston','Island',
  'Southeast':['Asotin','Garfield']}
 C2R={c:r for r,cs in REGION.items() for c in cs}
 for r in data: r['region']=C2R.get(r.get('county'),'Other')
+POP=json.load(open(S+'population.json'))
+for r in data: r['population']=POP.get(r['name'])
 for r in data: r.setdefault('verified','2026-10-29')
 
 # ---- JLARC merge (optional) ----

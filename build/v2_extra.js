@@ -370,7 +370,7 @@ function openAlt(program){
   </div>`);
   modal.querySelector('.modalbox').classList.add('wide');
 }
-document.addEventListener('click',e=>{const c=e.target.closest('[data-cmp]'); if(c){ e.preventDefault(); cmpSel=[c.dataset.cmp]; const lead=data.find(r=>r.name===c.dataset.cmp); cmpPeers(lead,false).forEach(r=>cmpAdd(r.name)); location.hash='#benchmarks'; setTimeout(()=>{cmpRender(); document.getElementById('cmpSec').scrollIntoView({block:'start'});},50); return; }
+document.addEventListener('click',e=>{const c=e.target.closest('[data-cmp]'); if(c){ e.preventDefault(); cmpSel=[c.dataset.cmp]; const lead=data.find(r=>r.name===c.dataset.cmp); cmpPeers(lead,'fund').forEach(r=>cmpAdd(r.name)); location.hash='#benchmarks'; setTimeout(()=>{cmpRender(); document.getElementById('cmpSec').scrollIntoView({block:'start'});},50); return; }
   const b=e.target.closest('[data-alt]'); if(b){e.preventDefault(); openAlt(b.dataset.alt);}});
 
 
@@ -462,7 +462,7 @@ function cmpStats(r){
   const evOut=s?(s.recs||[]).filter(q=>q[1]==='E').reduce((x,q)=>x+(q[2]||0),0):null;
   const openEst=r.competitive_pool_usd!=null?r.competitive_pool_usd:(lout||evOut||null); const openSrc=r.competitive_pool_usd!=null?'':(lout?' (est., council records)':(evOut?' (est., state data)':''));
   const totEst=r.total_pool_usd!=null?r.total_pool_usd:(ls&&ls.total?ls.total:(tot||null));
-  return {r,name:r.name,type:r.type,region:r.region,total:totEst,open:openEst,openSrc,share:totEst&&openEst!=null?Math.min(1,openEst/totEst):null,
+  return {r,name:r.name,type:r.type,region:r.region,pop:r.population,county:r.county,perCap:r.population&&totEst?totEst/r.population:null,total:totEst,open:openEst,openSrc,share:totEst&&openEst!=null?Math.min(1,openEst/totEst):null,
     y,awards:s?s.awards:null,ev_awards:s?s.ev_awards:null,jtotal:tot,ev_total:s?s.ev_total:null,ev_median:s?s.ev_median:null,ev_max:s?s.ev_max:null,
     evshare:tot?(bt['Event/Festival']||0)/tot:null,mshare:tot?(bt['Marketing']||0)/tot:null,fshare:tot?(bt['Facility']||0)/tot:null,
     nights:s?s.nights:null,cpn:s&&s.nights&&s.ev_total?s.ev_total/s.nights:null,shared:s?s.shared_nights:null,fp:s?s.forprofit:null,
@@ -470,9 +470,13 @@ function cmpStats(r){
     cycle:r.cycle,deadline:r.deadline,pres:r.presentation&&r.presentation.required,forprofit:r.for_profit};
 }
 function cmpFund(r){ const j=r.jlarc&&r.jlarc.years?r.jlarc.years:{}; const y=Object.keys(j).sort().reverse()[0]; return Math.max(r.total_pool_usd||0, y?j[y].total||0:0, r.competitive_pool_usd||0); }
-function cmpPeers(lead,sameRegion){
+function cmpPeers(lead,mode){
+  const pool=data.filter(r=>r!==lead&&(r.has_ltac_grants||r.jlarc));
+  if(mode==='county') return data.filter(r=>r!==lead&&r.county===lead.county).sort((a,b)=>cmpFund(b)-cmpFund(a)).slice(0,5);
+  if(mode==='region') return pool.filter(r=>r.region===lead.region&&r.type===lead.type).sort((a,b)=>cmpFund(b)-cmpFund(a)).slice(0,5);
+  if(mode==='pop'){ const p=lead.population; if(!p) return []; return pool.filter(r=>r.type===lead.type&&r.population).map(r=>({r,d:Math.abs(r.population-p)/p})).filter(x=>x.d<=0.4).sort((a,b)=>a.d-b.d).slice(0,5).map(x=>x.r); }
   const f=cmpFund(lead); if(!f) return [];
-  return data.filter(r=>r!==lead&&r.has_ltac_grants&&r.type===lead.type&&(!sameRegion||r.region===lead.region)).map(r=>({r,f:cmpFund(r)})).filter(x=>x.f&&Math.abs(x.f-f)/f<=0.4).sort((a,b)=>Math.abs(a.f-f)-Math.abs(b.f-f)).slice(0,5).map(x=>x.r);
+  return pool.filter(r=>r.type===lead.type).map(r=>({r,f:cmpFund(r)})).filter(x=>x.f&&Math.abs(x.f-f)/f<=0.4).sort((a,b)=>Math.abs(a.f-f)-Math.abs(b.f-f)).slice(0,5).map(x=>x.r);
 }
 function cmpAdd(name){ if(!name||cmpSel.includes(name)||cmpSel.length>=6) return; cmpSel.push(name); cmpRender(); }
 function cmpRender(){
@@ -482,6 +486,10 @@ function cmpRender(){
   const S=cmpSel.map(n=>cmpStats(data.find(r=>r.name===n)));
   const pct=v=>v==null?'–':Math.round(v*100)+'%'; const num=v=>v==null?'–':v.toLocaleString(); const m=v=>v==null?'–':money(v); const d=v=>v==null?'–':'$'+Math.round(v);
   const rows=[
+    ['sec','Place'],
+    ['County',S.map(s=>s.county),v=>v||'–'],
+    ['Population',S.map(s=>s.pop),num],
+    ['Lodging tax fund per resident',S.map(s=>s.perCap),v=>v==null?'–':'$'+(v>=10?Math.round(v):v.toFixed(2)),'hi'],
     ['sec','Fund'],
     ['Total lodging tax fund (documented, else latest year awarded)',S.map(s=>s.total),m,'hi'],
     ['Open to outside applicants',S.map(s=>s.open),m,'hi'],
@@ -539,7 +547,7 @@ function cmpRender(){
   const pick=document.getElementById('cmpPick'); if(!pick) return;
   data.filter(r=>r.has_ltac_grants||r.jlarc).sort((a,b)=>a.name.localeCompare(b.name)).forEach(r=>{const o=document.createElement('option');o.value=r.name;o.textContent=r.name;pick.appendChild(o);});
   pick.addEventListener('change',()=>{cmpAdd(pick.value);pick.value='';});
-  document.getElementById('cmpPeers').addEventListener('click',()=>{ if(!cmpSel.length){ document.getElementById('cmpOut').innerHTML='<p class="hint2">Pick a jurisdiction first.</p>'; return; } const lead=data.find(r=>r.name===cmpSel[0]); cmpPeers(lead,document.getElementById('cmpRegion').checked).forEach(r=>cmpAdd(r.name)); });
+  document.getElementById('cmpPeers').addEventListener('click',()=>{ if(!cmpSel.length){ document.getElementById('cmpOut').innerHTML='<p class="hint2">Pick a jurisdiction first.</p>'; return; } const lead=data.find(r=>r.name===cmpSel[0]); cmpPeers(lead,document.getElementById('cmpMode').value).forEach(r=>cmpAdd(r.name)); });
   document.getElementById('cmpClear').addEventListener('click',()=>{cmpSel=[];cmpRender();});
   document.getElementById('cmpChips').addEventListener('click',e=>{const b=e.target.closest('[data-rm]'); if(b){ cmpSel=cmpSel.filter(n=>n!==b.dataset.rm); cmpRender(); }});
   // deep link: #compare=A|B|C
