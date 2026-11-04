@@ -533,7 +533,7 @@ table.cmpt.rpt td.med,table.cmpt.rpt th.med{color:var(--muted);font-style:italic
   <div class="vhead"><h2>Benchmarks</h2><p>How each jurisdiction's program compares. Pool figures come from the documents on each card; award and visitor figures come from the annual reports jurisdictions file with JLARC, where available (2022 to 2024; the state suspended 2025 reporting, so 2024 is the latest year).</p></div>
   <section class="kitsec cmp" id="cmpSec">
     <h3>Compare jurisdictions</h3>
-    <p class="gdesc">Pick two to six programs by hand, or start from one and add its peers: similar fund size, similar population, everyone in its county, or the biggest funds in its region. The table lines up fund size, what is open to applicants, award counts and sizes, where the money goes, reported room nights and process, then lists every award the selected programs made with the recipients they share.</p>
+    <p class="gdesc">Pick two to six programs by hand, or start from one and add its peers: similar fund size, similar population, everyone in its county, or the biggest funds in its region. The table lines up fund size, what is open to applicants, award counts and sizes, where the money goes, reported room nights and process, then lists every award the selected programs made with the recipients they share. From there, build the printable peer report for the first jurisdiction against the ones you picked.</p>
     <div class="cmpbar">
       <select id="cmpPick" aria-label="Add a jurisdiction"><option value="">Add a jurisdiction…</option></select>
       <select id="cmpMode" aria-label="How to pick peers"><option value="fund">Peers by fund size (within 40%)</option><option value="pop">Peers by population (within 40%)</option><option value="county">Everyone in the same county</option><option value="region">Largest funds in the same region</option></select>
@@ -1678,7 +1678,10 @@ function cmpRender(){
   out.innerHTML=`<div class="tw"><table class="cmpt">${head}<tbody>${body}</tbody></table></div>
     <p class="hint2">Green marks the strongest value in each row (highest, or lowest for dollars per night). Room nights are recipients' own reports and are not audited; the state series ends at 2024.</p>
     ${sharedList.length?`<h4>Recipients funded by more than one of these</h4><ul class="flist">${sharedList.join('')}</ul>`:''}
+    <div class="rowbtn"><button type="button" class="btn" id="cmpReportBtn">Build the peer report for ${esc(S[0].name)} against these</button> <span class="hint2">The first jurisdiction is the subject; the others are its peers.</span></div>
+    <div id="cmpReport"></div>
     <h4>Every award, latest state year, all selected <label class="chk" style="font-weight:500;text-transform:none;letter-spacing:0;margin-left:10px"><input type="checkbox" id="cmpEv" ${cmpEvOnly?'checked':''}> events only</label> <button type="button" class="linkbtn" id="cmpLink">Copy link to this comparison</button></h4>${awardsTable}`;
+  const rb=document.getElementById('cmpReportBtn'); if(rb) rb.addEventListener('click',()=>{ const lead=data.find(x=>x.name===cmpSel[0]); const peers=cmpSel.slice(1).map(n=>data.find(x=>x.name===n)).filter(Boolean); const box=document.getElementById('cmpReport'); box.innerHTML=reportHtml(lead,peers); box.scrollIntoView({block:'start'}); });
   const ev=document.getElementById('cmpEv'); if(ev) ev.addEventListener('change',()=>{cmpEvOnly=ev.checked;cmpRender();});
   const lk=document.getElementById('cmpLink'); if(lk) lk.addEventListener('click',()=>{const u=location.href.split('#')[0]+'#compare='+encodeURIComponent(cmpSel.join('|')); navigator.clipboard&&navigator.clipboard.writeText(u).then(()=>{lk.textContent='Link copied';setTimeout(()=>lk.textContent='Copy link to this comparison',1500);});});
 }
@@ -1696,8 +1699,8 @@ function cmpRender(){
 /* ================= peer report ================= */
 function pctile(arr,v){ const a=arr.filter(x=>typeof x==='number').sort((p,q)=>p-q); if(!a.length||v==null) return null; const below=a.filter(x=>x<v).length; return Math.round(below/a.length*100); }
 function median(arr){ const a=arr.filter(x=>typeof x==='number').sort((p,q)=>p-q); if(!a.length) return null; return a[Math.floor(a.length/2)]; }
-function reportHtml(r){
-  const S=cmpStats(r); const peers=cmpPeers(r,'fund').slice(0,6); const PS=peers.map(cmpStats);
+function reportHtml(r,peerList){
+  const S=cmpStats(r); const peers=(peerList&&peerList.length?peerList:cmpPeers(r,'fund')).slice(0,6); const PS=peers.map(cmpStats); const custom=!!(peerList&&peerList.length);
   const universe=data.filter(x=>x.type===r.type&&(x.has_ltac_grants||x.jlarc)).map(cmpStats).filter(x=>x.y);
   const j=r.jlarc&&r.jlarc.years?r.jlarc.years:{}; const yrs=Object.keys(j).sort(); const latest=yrs[yrs.length-1]; const s=latest?j[latest]:null;
   const m=v=>v==null?'–':money(v); const pct=v=>v==null?'–':Math.round(v*100)+'%'; const num=v=>v==null?'–':v.toLocaleString();
@@ -1741,17 +1744,17 @@ function reportHtml(r){
   if(!r.local_awards) recs.push('Publish the award list for the current funding year on the program page; the state series ended in 2024 and the public record otherwise goes dark.');
   return `<div class="report">
     <div class="rhead"><p class="eyebrow2">Lodging tax peer report · ${esc(r.county)} County · prepared ${fmt(META.asof)}</p><h2>${esc(r.name)}</h2>
-      <p class="lede2">How ${esc(r.name)}'s lodging tax program compares with ${PS.length} jurisdictions of similar fund size${PS.length?` (${PS.map(p=>esc(p.name)).join(', ')})`:''} and with all ${universe.length} Washington ${r.type==='county'?'counties':'cities'} that report award data. Sources: the jurisdiction's own program documents, council and committee records, and the annual lodging tax reports filed with JLARC (latest year ${latest||'n/a'}).</p></div>
+      <p class="lede2">How ${esc(r.name)}'s lodging tax program compares with ${PS.length} ${custom?'selected jurisdictions':'jurisdictions of similar fund size'}${PS.length?` (${PS.map(p=>esc(p.name)).join(', ')})`:''} and with all ${universe.length} Washington ${r.type==='county'?'counties':'cities'} that report award data. Sources: the jurisdiction's own program documents, council and committee records, and the annual lodging tax reports filed with JLARC (latest year ${latest||'n/a'}).</p></div>
     <div class="rtiles">
       <div class="rt"><b>${m(S.total)}</b><span>total fund</span></div><div class="rt"><b>${m(S.open)}</b><span>open to applicants${S.openSrc?' (est.)':''}</span></div><div class="rt"><b>${pct(S.share)}</b><span>share open</span></div>
       <div class="rt"><b>${m(S.ev_max)}</b><span>largest event award</span></div><div class="rt"><b>${num(S.nights)}</b><span>event room nights</span></div><div class="rt"><b>${S.cpn!=null?'$'+Math.round(S.cpn):'–'}</b><span>event $ per night</span></div>
     </div>
     <h3>What stands out</h3><ol class="rins">${ins.join('')}</ol>
-    <h3>Against peers of similar fund size</h3><div class="tw">${table}</div>
+    <h3>${custom?'Against the selected jurisdictions':'Against peers of similar fund size'}</h3><div class="tw">${table}</div>
     <h3>Three-year trend</h3><div class="tw">${trend}</div>
     ${top5?`<h3>Largest ${latest} recipients</h3><div class="tw"><table class="cmpt rpt"><thead><tr><th>Recipient</th><th>Type</th><th>Award</th><th>Paid nights reported</th></tr></thead><tbody>${top5}</tbody></table></div>`:''}
     ${recs.length?`<h3>Things worth considering</h3><ul class="rrec">${recs.map(x=>`<li>${x}</li>`).join('')}</ul>`:''}
-    <p class="hint2">Room nights are recipients' own reports to the jurisdiction and are not audited. "Peers" are the programs of the same type whose fund is within 40 percent of ${esc(r.name)}'s. Figures marked est. are derived from award lists where the jurisdiction publishes no pool total. Full detail for every number is on the directory card and in the Benchmarks tab at ${location.host||'the site'}.</p>
+    <p class="hint2">Room nights are recipients' own reports to the jurisdiction and are not audited. "Peers" are ${custom?'the jurisdictions selected for this comparison':`the programs of the same type whose fund is within 40 percent of ${esc(r.name)}'s`}. Figures marked est. are derived from award lists where the jurisdiction publishes no pool total. Full detail for every number is on the directory card and in the Benchmarks tab at ${location.host||'the site'}.</p>
     <div class="rbtns noprint"><button type="button" class="btn" onclick="window.print()">Print or save as PDF</button> <button type="button" class="btn ghost2" data-cmp="${esc(r.name)}">Open in compare</button> <a class="btn ghost2" href="#j-${slug(r.name)}">Directory card</a></div>
   </div>`;
 }
