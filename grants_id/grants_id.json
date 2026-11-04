@@ -1,0 +1,2931 @@
+[
+  {
+    "state": "ID",
+    "name": "Idaho Regional Travel and Convention (ITC) Grant Program",
+    "funder": "Idaho Department of Commerce / Idaho Travel Council",
+    "url": "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+    "contact": "grants@commerce.idaho.gov; Michael Cullen, Visit Idaho, 208-780-5141",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Statewide, allocated to seven travel regions by where the 2% lodging tax was collected"
+    },
+    "kinds": [
+      "tourism marketing",
+      "festival",
+      "sports",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "No minimum; maximum is the region's share of 2% lodging tax collections. 2026 cycle awarded $11,155,592 to 24 organizations (largest: Yellowstone Teton Territory $2,064,539; Visit Boise $1,847,022; Coeur d'Alene CVB $1,330,000; SWITA $1,258,331). Awards of $100,000+ require an independent compliance audit.",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-30",
+        "label": "2026 cycle application close, 4:30 p.m. MT (grant period Aug 1, 2026 to Sept 30, 2027) (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027 cycle not yet posted; 2026 cycle opened Feb 5 and closed March 30, 2025 cycle opened Feb 2 and closed March 31 with presentations in May and awards at the late-July council meeting",
+    "match": "12.5% cash match documented by actual exchange of money from the applicant or partners; higher match viewed favorably (2025 guidelines)",
+    "reimbursement": null,
+    "notes": "Funded by Idaho's 2% statewide lodging tax. Applicants must be incorporated nonprofits with a viable travel or convention promotion program; preference to destination marketing organizations promoting overnight visitation. Eligible uses include advertising, familiarization tours, sponsorship of major events and partnerships, trade shows, PR and research; entertainment, alcohol and honoraria are not eligible. Festivals rarely apply directly; the practical route is to ask the regional grantee (Visit Boise, Coeur d'Alene CVB, YTT, SWITA, Twin Falls Area Chamber, Southeast Idaho High Country Tourism, Sun Valley Marketing Alliance, Hailey Chamber, Stanley-Sawtooth Chamber, Greater Pocatello CVB, Visit Lewis Clark Valley, Moscow Chamber, Greater Sandpoint Chamber, Post Falls Chamber, McCall Area Chamber, Nampa Chamber, LCEDA, Challis Chamber, Bear Lake Valley CVB, NCITA, North Alliance) for event sponsorship from their ITC budget.",
+    "recent_recipients": [
+      {
+        "name": "Yellowstone Teton Territory",
+        "amount": "$2,064,539"
+      },
+      {
+        "name": "Boise Metro Chamber dba Visit Boise",
+        "amount": "$1,847,022"
+      },
+      {
+        "name": "Coeur d'Alene Convention & Visitors Bureau",
+        "amount": "$1,330,000"
+      },
+      {
+        "name": "Southwest Idaho Travel Association",
+        "amount": "$1,258,331"
+      },
+      {
+        "name": "McCall Area Chamber of Commerce & Visitors Bureau",
+        "amount": "$500,000"
+      },
+      {
+        "name": "Sun Valley Marketing Alliance",
+        "amount": "$495,000"
+      }
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://commerce.idaho.gov/tourism-resources/itc-grant-program",
+      "https://commerce.idaho.gov/press/idaho-commerce-opens-2026-application-for-the-idaho-regional-travel-convention-grant-program/",
+      "https://commerce.idaho.gov/content/uploads/2025/02/2025-ITC-Grant-Guidelines.pdf",
+      "https://industry.visitidaho.org/idaho-travel-council-announces-annual-grant-awards-2026/",
+      "https://idahobusinessreview.com/2025/08/06/idaho-tourism-grants-2025/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Entry Track",
+    "funder": "Idaho Commission on the Arts (Arts Idaho)",
+    "url": "https://arts.idaho.gov/grants/entry-track/",
+    "contact": "info@arts.idaho.gov, 208-334-2119",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Varies; set by formula weighing panel assessment, organization fiscal size and past Commission funding. Program-wide, Arts Idaho's FY2026 annual grants totaled nearly $750,000 to 108 organizations and schools.",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-01-31",
+        "label": "FY2028 annual deadline, 11:59 p.m. MT"
+      }
+    ],
+    "next_deadline": "2027-01-31",
+    "opens": "Open now; approvals at the May Commission meeting, notification in June, funds available in July",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual operating-style support for arts nonprofits and university arts programs, and the required first step before Public Programs in the Arts. Requires 501(c)(3) determination letter dated at least three years before the deadline (or a unit of local, county, tribal or state government), a SAM.gov UEI, three years of program history, payment of professional artists, and arts as the nonprofit's primary purpose. Arts Idaho says it is restructuring grant opportunities, so check the site before applying.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://arts.idaho.gov/grants/entry-track/",
+      "https://arts.idaho.gov/grants/",
+      "https://arts.idaho.gov/grant-guidelines",
+      "https://arts.idaho.gov/press/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Public Programs in the Arts (PPA)",
+    "funder": "Idaho Commission on the Arts (Arts Idaho)",
+    "url": "https://arts.idaho.gov/grants/public-programs-in-the-arts/",
+    "contact": "info@arts.idaho.gov, 208-334-2119",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Varies; formula based on panel review, fiscal size and funding history",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-01-31",
+        "label": "FY2028 annual deadline (year three of the 2025-2027 three-year review cycle)"
+      }
+    ],
+    "next_deadline": "2027-01-31",
+    "opens": "Open now; applications due each January, review in April, final report due July 31",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Annual support for established professional arts organizations (three-year track record, paid professional artists and administrators, arts as primary purpose). Organizations enter only after at least one year of Entry Track funding and staff notification of PPA status. 2025 was a full panel year; 2026 and 2027 use interim staff review.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://arts.idaho.gov/grants/public-programs-in-the-arts/",
+      "https://arts.idaho.gov/grants/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Arts Education Annual Projects",
+    "funder": "Idaho Commission on the Arts (Arts Idaho)",
+    "url": "https://arts.idaho.gov/grants/arts-education-annual-projects/",
+    "contact": "info@arts.idaho.gov, 208-334-2119",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "youth",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Up to $10,000; awards depend on panel scores and available funds",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-01-31",
+        "label": "FY2028 annual deadline"
+      }
+    ],
+    "next_deadline": "2027-01-31",
+    "opens": "Open now; projects must begin after July 1, 2027",
+    "match": "1:1 cash or in-kind; grant covers no more than 50% of projected expenses",
+    "reimbursement": null,
+    "notes": "Projects uniting schools, artists and community organizations in arts learning. Nonprofits need a 501(c)(3) letter effective at least one year before the deadline and one year of Idaho operations; schools, districts and units of government are eligible. A festival with a school residency or youth workshop component fits here.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://arts.idaho.gov/grants/arts-education-annual-projects/",
+      "https://arts.idaho.gov/grants/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "QuickFunds / Quarterly Grants for Organizations (not currently listed)",
+    "funder": "Idaho Commission on the Arts (Arts Idaho)",
+    "url": "https://arts.idaho.gov/grants/",
+    "contact": "info@arts.idaho.gov, 208-334-2119",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Historically up to $1,100 per quarterly project grant (2024 listings)",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "No quarterly deadlines posted; the grants page currently lists only the January 31, 2027 annual programs and says Arts Idaho is restructuring grant opportunities",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Arts Idaho's small quarterly project grants (marketed as QuickFunds and later as quarterly Projects grants for organizations, informal groups through a fiscal agent, and schools) paid up to about $1,100 and notified applicants about three weeks after each deadline. The 2026 grant guidelines still describe quarterly-grant rules but no quarterly opportunity is listed on the site as of Nov 2026; treat as paused and ask staff whether a small-project track will return.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://arts.idaho.gov/grants/",
+      "https://arts.idaho.gov/grant-guidelines",
+      "https://www.developmentaid.org/grants/view/1396015/arts-idaho-launches-quarterly-grants-program-in-the-us",
+      "https://theshareway.com/grant/idaho-commission-68494-arts-idaho-projects-for-organizations-grant"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Major Grants",
+    "funder": "Idaho Humanities Council",
+    "url": "https://idahohumanities.org/majorgrants/",
+    "contact": "programs@idahohumanities.org; info@idahohumanities.org",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "heritage",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Up to $4,000 (board may reduce requests)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "label": "FY2027 letter of inquiry and proposed budget"
+      },
+      {
+        "date": "2027-01-15",
+        "label": "FY2027 final draft application; board review February 2027"
+      }
+    ],
+    "next_deadline": "2026-12-15",
+    "opens": "Open now through the Foundant portal",
+    "match": "Cost share required; budget must show how it is matched (no percentage published)",
+    "reimbursement": null,
+    "notes": "Humanities-based public programs for the out-of-school adult public: exhibits, local history projects, discussion programs, lectures, speaker series. A festival can apply for the humanities component (history talks, author panels, cultural interpretation) rather than entertainment. Any Idaho nonprofit or government agency may apply.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://idahohumanities.org/majorgrants/",
+      "https://idahohumanities.org/grants/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Action Grants",
+    "funder": "Idaho Humanities Council",
+    "url": "https://idahohumanities.org/grants/",
+    "contact": "programs@idahohumanities.org",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "heritage",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Up to $1,000",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Reviewed on the 1st of each month; decisions typically within two weeks, so submit at least six weeks before the program",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Small, quick-turnaround humanities grants for any Idaho nonprofit or government agency. Good fit for a speaker, exhibit panel or history walk attached to an event. A separate K-12 track (up to $500) serves teachers and schools.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://idahohumanities.org/grants/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Enhancement Grants (CEG)",
+    "funder": "Idaho State Historical Society",
+    "url": "https://history.idaho.gov/grants/ceg/",
+    "contact": "grants@ishs.idaho.gov, 208-334-2682",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "heritage",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "$500 to $2,500 per project from a $25,000 annual pool",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-07-01",
+        "label": "FY2027 cycle (passed)"
+      },
+      {
+        "date": "2027-07-01",
+        "label": "FY2028 cycle (July 1 per the program's published annual timeline; confirm when the May call opens)"
+      }
+    ],
+    "next_deadline": "2027-07-01",
+    "opens": "Call for applications each May; applications due July 1; awards announced August/September; projects end May 15",
+    "match": "1:1 required",
+    "reimbursement": null,
+    "notes": "For Idaho 501(c)(3)s with a history, preservation or education mission and tribal, city or county governments; ineligible groups can partner with an eligible entity. Funds projects that strengthen collections, expand educational opportunities, improve access and promote heritage tourism. Apply through the Euna Grants portal.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://history.idaho.gov/grants/ceg/",
+      "https://history.idaho.gov/wp-content/uploads/FY27-CEG-Grant-Guidelines.pdf"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Recreational Grant Programs (RV, Waterways, Trails, ORMV, Motorbike, Road and Bridge, Cutthroat Plate, Mountain Bike)",
+    "funder": "Idaho Department of Parks and Recreation",
+    "url": "https://parksandrecreation.idaho.gov/grants-and-funding/",
+    "contact": "Kellie Joyce (south), kellie.joyce@idpr.idaho.gov, 208-514-2432; Anissa Crane (north), anissa.crane@idpr.idaho.gov, 208-415-3396; Shelly Smith (east), shelly.smith@idpr.idaho.gov, 208-701-7077",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "capital",
+      "sports"
+    ],
+    "applicants": [
+      "public agency",
+      "nonprofit",
+      "tribe"
+    ],
+    "award": "About $10 million a year across eight programs; per-award amounts vary by program",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-01-30",
+        "label": "FY2027 cycle (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY2028 cycle: regional workshops held each October with an application window closing at the end of January (FY2027 closed Jan 30, 2026); confirm the FY2028 date in the FY2028 Recreational Grant Program Guidance",
+    "match": "Varies by program; see program guidance",
+    "reimbursement": null,
+    "notes": "Capital grants for outdoor recreation facilities and equipment (RV campground and dump station improvements, boat launches and docks, trails, motorized and non-motorized facilities). Primarily for government entities; some programs accept nonprofits with a public agency partner. Relevant to event venues at fairgrounds, river parks and launch sites, not to event operations. Submit through the IDPR online grant portal.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://parksandrecreation.idaho.gov/grants-and-funding/",
+      "https://parksandrecreation.idaho.gov/wp-content/uploads/Flyer-2025.pdf",
+      "https://parksandrecreation.idaho.gov/?p=21182"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Rural Community Investment Fund (RCIF)",
+    "funder": "Idaho Department of Commerce",
+    "url": "https://commerce.idaho.gov/communities/grants/rural-community-block-grant/",
+    "contact": "Idaho Commerce community development team, 208-334-2470",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Cities under 25,000, counties and tribes with a measurable rural benefit"
+    },
+    "kinds": [
+      "capital"
+    ],
+    "applicants": [
+      "public agency",
+      "tribe"
+    ],
+    "award": "$50,000 to $500,000",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "No posted deadline; contact Commerce before applying",
+    "match": "Local match required; amount not fixed",
+    "reimbursement": null,
+    "notes": "State-funded infrastructure grants for job-creating projects: streets, water, sewer, utilities, buildings for a company to lease, telecom and rail. Cities and counties apply and may sub-grant to an approved sub-recipient. Not an events program; listed because a fairgrounds or event-center utility extension tied to business expansion could qualify.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://commerce.idaho.gov/communities/grants/rural-community-block-grant/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Commission Community Challenge Grants",
+    "funder": "Idaho Department of Fish and Game",
+    "url": "https://idfg.idaho.gov/article/applications-fg-commission-community-challenge-grants-are-due-april-30",
+    "contact": "Ellary Tucker-Williams, Ellary.TuckerWilliams@idfg.idaho.gov, 208-287-2788",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "sports",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "Up to $10,000 per Fish and Game region; up to $30,000 for statewide projects",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-04-30",
+        "label": "2026 cycle (window March 23 to April 30; awards at July Commission meeting) (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027 window not yet posted; recent cycles opened in March with mid-to-late April deadlines",
+    "match": "Cash or in-kind match required; no percentage specified",
+    "reimbursement": null,
+    "notes": "Funds projects that enhance fish and wildlife habitat or the recreational opportunities tied to them and have broad local sporting-community support. Nonprofits, businesses with a tax ID and sporting organizations are eligible; individuals are not. Outdoor expos, youth fishing days and hunting-heritage events have fit past rounds; confirm with the regional office.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://idfg.idaho.gov/article/applications-fg-commission-community-challenge-grants-are-due-april-30",
+      "https://idfg.idaho.gov/press/community-challenge-grant-program"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Contributions and Event Sponsorships",
+    "funder": "Idaho Power",
+    "url": "https://idahopower.com/community-safety/community-engagement/funds-scholarships/",
+    "contact": "contributions@idahopower.com",
+    "level": "regional",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Idaho Power service area (southern Idaho from the Treasure Valley to Pocatello and the Wood River Valley, plus eastern Oregon)"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "arts",
+      "youth",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published per award; total giving was $1,584,614 in 2023",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Online application accepted year-round at tools.idahopower.com/forms/CommunityContribution/Submit; no lead time published, so apply a quarter ahead",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Supports 501(c)(3)s in health and human services, education, culture and arts, civic and community, and environment and recreation, including sponsorship of events and capital fund drives. Priority to organizations serving large numbers of people, with broad community support and Idaho Power employee involvement. Ticketed contests, raffles and prize-oriented activities are excluded.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://idahopower.com/community-safety/community-engagement/funds-scholarships/",
+      "https://docs.idahopower.com/pdfs/AboutUs/CommunityOutreach/CommunityContributionGuidelines.pdf"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Involvement and Sponsorship Requests",
+    "funder": "Idaho Central Credit Union",
+    "url": "https://iccu.com/?p=4998",
+    "contact": "ICCU community team via Kadince request form; 1-800-456-5067",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Idaho and ICCU's Washington markets"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "sports",
+      "youth",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Submit at least 30 days before you need an answer",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Sponsorships, donations and event participation where ICCU can interact with people and promote the credit union. Travel, conference, membership and athletic fees, and political requests are declined. ICCU is Idaho's largest credit union and a frequent title sponsor of community events.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://iccu.com/?p=4998"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Sponsorships and Donations",
+    "funder": "CapEd Credit Union",
+    "url": "https://capedcu.com/about/sponsorships-donations/",
+    "contact": "Online request form; 208-884-0150 (do not call about requests)",
+    "level": "regional",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Idaho communities served by CapEd (Treasure Valley, Magic Valley, Idaho Falls)"
+    },
+    "kinds": [
+      "community event",
+      "youth",
+      "cultural",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "for-profit"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Submit the online application at least 30 days before the event; decisions emailed within 30 days",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Civic or charitable efforts in Idaho communities that acknowledge CapEd on materials. Excludes religious, legislative or political projects, administrative, conference and travel costs, field trips, club sports and individual youth sponsorships.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://capedcu.com/about/sponsorships-donations/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Outreach Donation and Sponsorship Requests",
+    "funder": "Idaho First Bank",
+    "url": "https://www.idahofirstbank.com/community/community-first/outreach-donation-request/",
+    "contact": "Online application (form.typeform.com/to/ViS6mlyV); 866-634-2760",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Valley",
+        "Adams",
+        "Blaine",
+        "Ada",
+        "Canyon"
+      ],
+      "cities": [
+        "McCall",
+        "Ketchum",
+        "Boise",
+        "Nampa"
+      ],
+      "region": "Greater Valley and Adams counties, Wood River Valley, Boise metro and Central Oregon"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Submit at least 60 days before the event",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Explicitly accepts requests from organizers of community events as well as charities in the bank's markets. Does not fund individuals, general operating or annual appeals, capital campaigns, government agencies, schools or historic preservation. Multiple requests per year are discouraged.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.idahofirstbank.com/community/community-first/outreach-donation-request/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Contribution and Sponsorship Requests",
+    "funder": "Saint Alphonsus Health System",
+    "url": "https://saintalphonsus.org/community-contribution",
+    "contact": "Contributions Committee via saintalphonsus.formstack.com/forms/contribution_request_form",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Ada",
+        "Canyon",
+        "Elmore",
+        "Owyhee",
+        "Gem",
+        "Payette",
+        "Washington"
+      ],
+      "cities": [
+        "Boise",
+        "Nampa",
+        "Caldwell"
+      ],
+      "region": "Saint Alphonsus service area in southwest Idaho and eastern Oregon"
+    },
+    "kinds": [
+      "community event",
+      "sports",
+      "youth",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Submit at least 90 days in advance; committee meets monthly",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Sponsorships, donations and event participation for nonprofits; for-profits, national organizations without local benefit, political groups, endowments and multi-year pledges are excluded. Health-themed activations (runs, wellness zones, family activities) fit best.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://saintalphonsus.org/community-contribution"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Health Improvement Fund (CHIF) Grants",
+    "funder": "St. Luke's Health System",
+    "url": "https://www.stlukesonline.org/about-st-lukes/supporting-the-community/submit-a-grant-application/community-health-improvement-fund-grants",
+    "contact": "St. Luke's Community Health and Engagement via stlukesonline.org contact page",
+    "level": "regional",
+    "geography": {
+      "counties": [],
+      "cities": [
+        "Boise",
+        "Meridian",
+        "Nampa",
+        "Twin Falls",
+        "Ketchum",
+        "McCall",
+        "Mountain Home",
+        "Jerome",
+        "Buhl"
+      ],
+      "region": "St. Luke's service areas in the Treasure Valley, Magic Valley, Wood River Valley, McCall and Elmore County"
+    },
+    "kinds": [
+      "community event",
+      "youth",
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published per award; 2026 round funded 113 organizations",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "2027 application window is closed; next window planned for August 2027 for 2028 funding",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Financial or in-kind support for nonprofits improving community health, prioritizing needs in St. Luke's Community Health Needs Assessment (physical activity, nutrition, mental health, safe neighborhoods). Event producers have won support for free active-living events and food-access programming; a pure entertainment festival will not fit.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.stlukesonline.org/about-st-lukes/supporting-the-community/submit-a-grant-application/community-health-improvement-fund-grants",
+      "https://www.kmvt.com/2025/08/09/st-lukes-opens-applications-community-health-grants"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Project Grant (Community Health Academy cities)",
+    "funder": "Blue Cross of Idaho Foundation for Health",
+    "url": "https://www.bcidahofoundation.org/community-project/",
+    "contact": "Blue Cross of Idaho Foundation for Health, Meridian",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "capital",
+      "community event"
+    ],
+    "applicants": [
+      "public agency"
+    ],
+    "award": "Up to $85,000 plus technical assistance and a celebration event (2025 award to City of Bellevue for Memorial Park)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Invitation-based; open to Idaho cities that completed the foundation's Community Health Academy",
+    "match": null,
+    "reimbursement": null,
+    "notes": "The foundation's grants are health-focused and mostly run through city partnerships (Community Health Academy, Community Transformation Grants such as $250,000 to Twin Falls). Not a direct event grant; an event producer would partner with a participating city on an outdoor public space or active-living project. Employee Community Fund grants are a separate small-grant track.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.bcidahofoundation.org/community-project/",
+      "https://bellevueidaho.gov/press-release-the-community-project-grant-2025-announcement/",
+      "https://tfid.org/766/Community-Transformation-Grant"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Foundation Grants (Arts, Education, Community, Youth, Food and Agriculture)",
+    "funder": "J.R. Simplot Company Foundation",
+    "url": "https://550cd1-simplot.www.simplot.com/company/foundation",
+    "contact": "Proposal request link on the foundation page",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Idaho and other U.S. Simplot communities (headquarters in Boise; plants in Caldwell, Pocatello, Aberdeen, Heyburn, Burley, Nampa)"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "youth",
+      "community event",
+      "food/ag"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "quarterly",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Proposals accepted any time; reviewed quarterly, so submit at least four to six months ahead",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Corporate foundation of the Boise-based agribusiness. Arts is a named focus area alongside education, community health and human services, youth prevention programs and global food and agriculture. Nonprofits submit a proposal through the online request link; the page lists no amounts or deadlines.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://550cd1-simplot.www.simplot.com/company/foundation"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Hecla Charitable Foundation Grants",
+    "funder": "Hecla Mining Company",
+    "url": "https://www.hecla.com/sustainability/communities/hecla-charitable-foundation",
+    "contact": "Hecla Charitable Foundation, 6500 N. Mineral Dr., Suite 200, Coeur d'Alene, ID 83815, 208-769-4100; contact a local Hecla employee first",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Shoshone",
+        "Kootenai"
+      ],
+      "cities": [
+        "Mullan",
+        "Wallace",
+        "Kellogg",
+        "Coeur d'Alene"
+      ],
+      "region": "Communities near Hecla operations (Silver Valley / Lucky Friday mine and Coeur d'Alene headquarters)"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "heritage",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published; past gifts include a Mullan museum remodel and Silver Valley meal programs",
+    "cycle": "semiannual",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "2026 cycle open; online application accepted any time with reviews in September and December, so submit well ahead of need",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Educational and charitable grants to 501(c)(3)s in Hecla communities; applications recommended by a local Hecla employee have a better chance. Silver Valley festivals and heritage events are a natural fit.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.hecla.com/sustainability/communities/hecla-charitable-foundation"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "INL Community Giving Grants",
+    "funder": "Battelle Energy Alliance / Idaho National Laboratory",
+    "url": "https://inl.gov/?p=9180",
+    "contact": "INL Community Outreach (inl.gov)",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Bonneville",
+        "Bingham",
+        "Butte",
+        "Jefferson",
+        "Madison",
+        "Bannock"
+      ],
+      "cities": [
+        "Idaho Falls",
+        "Pocatello",
+        "Blackfoot",
+        "Rexburg"
+      ],
+      "region": "Eastern Idaho, with priority to rural and underserved Idaho communities"
+    },
+    "kinds": [
+      "cultural",
+      "arts",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "$1,500 to $15,000 per project or program",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Annual application opens in the fall (dates not posted for the current cycle)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Battelle Energy Alliance corporate giving in health and human services, environment, veterans and civic activities, and culture and the arts, scored on critical need, basic needs, rural reach and underrepresented residents. Eastern Idaho arts and heritage organizations are regular recipients.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://inl.gov/?p=9180"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Rocky Mountain Power Foundation Grants (Arts and Culture, Community Enhancement, Education, Safety and Wellness cycles)",
+    "funder": "Rocky Mountain Power Foundation (PacifiCorp)",
+    "url": "https://www.rockymountainpower.net/community/foundation.html",
+    "contact": "pacificorpfoundation@pacificorp.com, 503-813-7257",
+    "level": "regional",
+    "geography": {
+      "counties": [],
+      "cities": [
+        "Rexburg",
+        "Preston",
+        "Malad",
+        "Montpelier",
+        "Soda Springs",
+        "Driggs",
+        "Shelley"
+      ],
+      "region": "Rocky Mountain Power service area in southeastern Idaho"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "heritage",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Most awards $2,000 to $5,000; typical grants under $10,000. Arts and culture round announced Feb 2026 made 69 grants totaling $261,800 across Utah, Wyoming and Idaho",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-09-15",
+        "label": "Arts and culture cycle (passed)"
+      },
+      {
+        "date": "2026-12-15",
+        "label": "Safety and wellness cycle"
+      },
+      {
+        "date": "2027-03-15",
+        "label": "Education and STEM cycle"
+      },
+      {
+        "date": "2027-06-15",
+        "label": "Community enhancement and environmental respect cycle"
+      },
+      {
+        "date": "2027-09-15",
+        "label": "Arts and culture cycle"
+      }
+    ],
+    "next_deadline": "2026-12-15",
+    "opens": "Apply through the Fluxx portal (pacificorpfoundation.fluxx.io) about a month before each cycle deadline",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Projects must take place in the Rocky Mountain Power service area. Arts and culture cycle (Sept 15) funds community performances, arts education, cultural preservation and public art; community enhancement (June 15) covers civic and community projects. Eastern Idaho communities on Idaho Power or municipal power are not eligible.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.rockymountainpower.net/community/foundation.html",
+      "https://www.ruralhealthinfo.org/funding/5211",
+      "https://www.pinedaleonline.com/news/2026/02/RockyMountainPowerFo.htm"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Avista Foundation Grants (Arts and Culture, Economic and Community Vitality, Education, Health, Environment)",
+    "funder": "Avista Foundation",
+    "url": "https://www.avistafoundation.com/",
+    "contact": "Kristine Meyer, Executive Director, Avista Foundation, PO Box 3727, Spokane, WA 99220; 509-495-8156",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Kootenai",
+        "Bonner",
+        "Boundary",
+        "Benewah",
+        "Shoshone",
+        "Latah",
+        "Nez Perce",
+        "Lewis",
+        "Clearwater",
+        "Idaho"
+      ],
+      "cities": [
+        "Coeur d'Alene",
+        "Sandpoint",
+        "Lewiston",
+        "Moscow",
+        "Kellogg"
+      ],
+      "region": "Avista Utilities service area in northern Idaho"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published per award; 2024 giving was more than 150 grants totaling over $500,000 (median grant about $1,000 per 990 data)",
+    "cycle": "quarterly",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Applications accepted every three months; take the eligibility quiz and check the current quarter's deadline on avistafoundation.com",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Supports 501(c)(3)s, civic organizations, schools and groups serving Avista communities in eastern Washington, northern Idaho, southern Oregon, Sanders County MT and Juneau. Arts and culture is a named proposal category. Religious, political, individual, trip/tour and memorial requests are declined.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.avistafoundation.com/",
+      "https://www.myavista.com/connect/articles/2024/12/avista-foundations-provides-year-round",
+      "https://grantable.co/grants/arts-and-culture-proposals-grant-d1e979142d3e",
+      "https://impala.digital/public/profiles/75-3003371/how-to-apply"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Avista Foundation Event Sponsorships",
+    "funder": "Avista Foundation",
+    "url": "https://www.avistafoundation.com/",
+    "contact": "Avista Foundation, 509-495-8156",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Kootenai",
+        "Bonner",
+        "Boundary",
+        "Benewah",
+        "Shoshone",
+        "Latah",
+        "Nez Perce",
+        "Lewis",
+        "Clearwater",
+        "Idaho"
+      ],
+      "cities": [],
+      "region": "Avista Utilities service area in northern Idaho"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "cultural",
+      "music"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Accepted year-round with a 90-day review, so apply at least four months before the event",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Separate from the grant program: sponsorships are specifically for event support rather than programs or asset purchases. Nonprofits meeting essential community needs in the service area.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.avistafoundation.com/",
+      "https://www.theshareway.com/grant/avista-foundation-36828-avista-foundation-sponsorships"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "MDU Resources Foundation Grants (Intermountain Gas communities)",
+    "funder": "MDU Resources Foundation (parent of Intermountain Gas Company)",
+    "url": "https://www.mdu.com/about-us/community/mdu-resources-foundation-grant-form/",
+    "contact": "Cory Fong, President and Director, MDU Resources Foundation; Intermountain Gas 800-548-3679",
+    "level": "regional",
+    "geography": {
+      "counties": [],
+      "cities": [
+        "Boise",
+        "Nampa",
+        "Idaho Falls",
+        "Pocatello",
+        "Twin Falls"
+      ],
+      "region": "Intermountain Gas service area in southern Idaho"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "arts",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published; Intermountain Gas gifts cited on its site run $1,000 to $7,500",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "Requests for 2027 funding (passed)"
+      },
+      {
+        "date": "2027-10-01",
+        "label": "Requests for 2028 funding"
+      }
+    ],
+    "next_deadline": "2027-10-01",
+    "opens": "Submit by October 1 of the year before funding is needed; board approves the calendar-year budget in the first quarter",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Intermountain Gas itself lists supported organizations (United Way, FUNDSY, Idaho Public Television, Boise CVB, Pocatello-Chubbuck Chamber) but publishes no application; requests go through the MDU Resources Foundation grant form. Plan a year ahead.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.mdu.com/about-us/community/mdu-resources-foundation-grant-form/",
+      "https://www.intgas.com/in-the-community/in-the-community-to-serve/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Charitable Giving and Sponsorships (Arts and Culture focus)",
+    "funder": "Zions Bank",
+    "url": "https://www.snpo.org/publications/fundingalert_details.php?id=4311",
+    "contact": "Local Zions Bank branch manager or corporate giving office (Boise)",
+    "level": "statewide",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Idaho, Utah and Wyoming communities with a Zions Bank branch"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Varies; e.g., $25,000 to the Bonneville County Fair Board in 2019",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "No published deadline; one request per nonprofit per year, so approach the local branch early in planning",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Zions Bank is one of Idaho's most visible event sponsors (county fairs, arts organizations, community festivals). Giving is handled through branches and the corporate giving office rather than an open portal; the listing is a third-party funding alert.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.snpo.org/publications/fundingalert_details.php?id=4311",
+      "https://grantedai.com/grants/zions-bank-charitable-giving-arts-and-culture-zions-bank-33b9718c",
+      "https://www.eastidahonews.com/2019/03/bonneville-county-fair-board-receives-25000-donation-from-zions-bank/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Possible Grant Program (Play: arts and culture)",
+    "funder": "U.S. Bank Foundation",
+    "url": "https://www.usbank.com/community",
+    "contact": "usbankfoundation@usbank.com",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Designated U.S. Bank communities in Idaho and 25 other states"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Invitation only; submit an electronic Letter of Interest through the Community Possible page at any time",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Play focus area funds access to visual and performing arts for low- and moderate-income residents and arts education; fundraising events, athletic teams and travel are not eligible. Organizations must be based in and serve a designated U.S. Bank community.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.usbank.com/community",
+      "https://www.usbank.com/content/dam/usbank/en/documents/pdfs/about-us-bank/community-possible-grant-guidelines-2026.pdf"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Charitable Foundation RFP Grants and Local Sponsorships",
+    "funder": "Bank of America Charitable Foundation",
+    "url": "https://about.bankofamerica.com/en/making-an-impact/charitable-foundation-grant-faq",
+    "contact": "Bank of America Idaho market team; apply via NPO Hub",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [
+        "Boise"
+      ],
+      "region": "Bank of America markets; Idaho presence is primarily the Treasure Valley"
+    },
+    "kinds": [
+      "community event",
+      "arts",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Varies by market and organization size",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-02",
+        "label": "2026 Basic Needs and Income Creation RFP (passed)"
+      },
+      {
+        "date": "2026-06-29",
+        "label": "2026 Stable Housing and Empowering Communities RFP (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027 RFP dates not yet posted; 2026 windows were Feb 2 to Mar 2 and May 18 to June 29",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Arts organizations may apply only if they show alignment with income creation or empowering communities. Local sponsorships are handled by market teams; unsolicited applications outside RFP windows are not accepted. Low priority for a pure festival request.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://about.bankofamerica.com/en/making-an-impact/charitable-foundation-grant-faq",
+      "https://grantedai.com/grants/community-sponsorship-funding-bank-of-america-foundation-49e3d156"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Spark Good Local Grants",
+    "funder": "Walmart and the Walmart Foundation",
+    "url": "https://walmart.org/how-we-give/program-guidelines/spark-good-local-grants-guidelines",
+    "contact": "Apply through a Spark Good account at walmart.com/nonprofits; verification by Deed",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Service area of each Idaho Walmart or Sam's Club facility"
+    },
+    "kinds": [
+      "community event",
+      "youth",
+      "food/ag"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "$250 to $5,000 per facility; one grant per facility per fiscal year, up to 25 pending applications",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-04-15",
+        "label": "FY27 cycle 1 (Feb 1 to Apr 15) (passed)"
+      },
+      {
+        "date": "2026-07-15",
+        "label": "FY27 cycle 2 (May 1 to Jul 15) (passed)"
+      },
+      {
+        "date": "2026-11-30",
+        "label": "FY27 cycle 3 last day to submit as stated on the guidelines page (cycle window shown as Aug 1 to Dec 31; confirm)"
+      },
+      {
+        "date": "2027-04-15",
+        "label": "FY28 cycle 1 (Feb 1 to Apr 15, if the FY27 pattern repeats)"
+      }
+    ],
+    "next_deadline": "2026-11-30",
+    "opens": "FY27 cycle 3 is open now; FY28 cycles expected Feb 1 to Apr 15, May 1 to Jul 15 and Aug 1 to Dec 31",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Store-level grants for 501(c)(3)s, government entities, schools and faith-based groups serving the store's community. Festivals have used these for community connection and food-access activations; apply to each nearby store separately.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://walmart.org/how-we-give/program-guidelines/spark-good-local-grants-guidelines"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Hometown Grants (program concluded)",
+    "funder": "T-Mobile with Main Street America and Smart Growth America",
+    "url": "https://www.t-mobile.com/HometownGrant",
+    "contact": "See t-mobile.com/HometownGrant",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Towns under 50,000 population"
+    },
+    "kinds": [
+      "capital",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Up to $50,000 per town; no match required",
+    "cycle": "one-time",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Program is in its final phase; the last grants were announced June 26, 2026 and no further quarterly rounds are posted",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funded shovel-ready physical builds (gathering spaces, parks, trails, stages) completed within 12 months. Listed so readers know it has ended; watch for a successor program.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.t-mobile.com/HometownGrant"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Lowe's Hometowns Community Impact Grants",
+    "funder": "Lowe's",
+    "url": "https://corporate.lowes.com/our-responsibilities/lowes-hometowns/faqs",
+    "contact": "Nomination form on corporate.lowes.com (Lowe's customer service for technical questions)",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": "Projects within 30 miles of a Lowe's store"
+    },
+    "kinds": [
+      "capital",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "individual"
+    ],
+    "award": "Not published per project; up to 100 projects a year nationwide, sized to the request",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-20",
+        "label": "2026 nominations (Feb 18 to Mar 20) (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027 window not yet posted; 2025 and 2026 nominations opened in mid-February",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Any adult can nominate a physical renovation of a community space (park, fairground building, community center); funds go to the local nonprofit, school or municipality. Not for event operations.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://corporate.lowes.com/our-responsibilities/lowes-hometowns/faqs"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "AARP Community Challenge",
+    "funder": "AARP",
+    "url": "https://www.aarp.org/livable-communities/community-challenge/info-2026/2026-challenge.html",
+    "contact": "AARP Idaho state office; communitychallenge.aarp.org",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "community event",
+      "capital",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "Flagship grants from a few hundred dollars to $15,000 (average $10,000 to $12,000); Capacity-Building Microgrants $2,500; Demonstration grants $10,000 to $25,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-04",
+        "label": "2026 cycle, 5 p.m. ET (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027 cycle not yet posted; 2026 applications opened Jan 7 and closed Mar 4, with grantees announced June 24 and projects completed by Dec 15",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Quick-action projects that improve livability for people 50 and over: public space activations, temporary demonstrations, pop-up events and programming pilots are eligible for 501(c)(3), (c)(4), (c)(6) and government applicants. Idaho communities receive several awards each year.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.aarp.org/livable-communities/community-challenge/info-2026/2026-challenge.html",
+      "https://communitychallenge.aarp.org"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Grants for Arts Projects (GAP)",
+    "funder": "National Endowment for the Arts",
+    "url": "https://www.arts.gov/news/press-releases/2025/nea-fy-2027-grants-arts-projects-guidelines-now-available",
+    "contact": "NEA discipline specialists listed in the GAP guidelines; Idaho Commission on the Arts can advise",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "festival",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "$10,000 to $100,000 per the GAP guidelines; most awards toward the lower end",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-02-12",
+        "label": "FY2027 round 1, Grants.gov Part 1 (projects beginning 2027) (passed)"
+      },
+      {
+        "date": "2026-07-09",
+        "label": "FY2027 round 2, Grants.gov Part 1 (projects beginning 2027) (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY2028 guidelines expected in late 2026 with Part 1 deadlines in February and July 2027",
+    "match": "1:1 nonfederal match required under GAP guidelines",
+    "reimbursement": true,
+    "notes": "Project support across Arts Education, Dance, Folk and Traditional Arts, Literary Arts, Local Arts Agencies, Museums, Music, Opera, Presenting and Multidisciplinary Works (festivals apply here), Theater, Visual and Media Arts, plus Challenge America (smaller $10,000 grants for underserved communities) and Our Town. Applicants need a three-year programming history, SAM.gov registration and a Grants.gov account.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.arts.gov/news/press-releases/2025/nea-fy-2027-grants-arts-projects-guidelines-now-available",
+      "https://americanorchestras.org/learn/development-fundraising/nea-funding/nea-funding-opportunities/nea-grants-application-deadlines/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Levitt Music Series Grants (AMP, VIBE, BLOC)",
+    "funder": "Mortimer and Mimi Levitt Foundation",
+    "url": "https://levitt.org/grants",
+    "contact": "grants@levitt.org",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "music",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "Three-year matching grants of up to $40,000 a year ($120,000 total) for 7 to 10 free outdoor concerts per year",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "2026-2028 cycle closed (26 grantees selected); next application cycle opens in 2028",
+    "match": "Annual matching funds required (ratio not published)",
+    "reimbursement": null,
+    "notes": "For 501(c)(3)s presenting free concert series April to October in underused outdoor public spaces; AMP track for towns up to 250,000, VIBE for larger cities, BLOC for multi-site series. Proposed sites must be 50+ miles from an existing Levitt series. No Idaho series currently; plan for the 2028 call.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://levitt.org/grants"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "National Trust Preservation Funds",
+    "funder": "National Trust for Historic Preservation",
+    "url": "https://savingplaces.org/preservation-funds",
+    "contact": "grants@savingplaces.org, 202-588-6000",
+    "level": "national",
+    "geography": {
+      "counties": [],
+      "cities": [],
+      "region": ""
+    },
+    "kinds": [
+      "heritage",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe"
+    ],
+    "award": "$2,500 to $5,000",
+    "cycle": "multiple",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-10-01",
+        "label": "October 2026 round (Idaho among states with dedicated funding) (passed)"
+      },
+      {
+        "date": "2027-02-01",
+        "label": "February 2027 round (first of the month per the published Feb/Jun/Oct pattern; confirm in portal)"
+      },
+      {
+        "date": "2027-06-01",
+        "label": "June 2027 round (confirm)"
+      }
+    ],
+    "next_deadline": "2027-02-01",
+    "opens": "Portal opens six to eight weeks before each deadline",
+    "match": "1:1 match encouraged, not required",
+    "reimbursement": null,
+    "notes": "Planning and education grants: feasibility studies, community visioning forums, preservation education programs and conference sessions; construction and general conference support are not eligible. Grantees must join Preservation Leadership Forum or Main Street America before funds are released. Useful for heritage festivals adding interpretive programming or planning for a historic venue.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://savingplaces.org/preservation-funds"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Forever Idaho Regional Grant Program: Northern Region",
+    "funder": "Idaho Community Foundation",
+    "url": "https://www.idahocf.org/forever-idaho-funds",
+    "contact": "Grants@idahocf.org, 208-342-3535; portal help ApplicantPortal@idahocf.org",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Benewah",
+        "Bonner",
+        "Boundary",
+        "Clearwater",
+        "Idaho",
+        "Kootenai",
+        "Latah",
+        "Lewis",
+        "Nez Perce",
+        "Shoshone"
+      ],
+      "cities": [
+        "Coeur d'Alene",
+        "Sandpoint",
+        "Lewiston",
+        "Moscow"
+      ],
+      "region": "North Idaho (Panhandle and north central Idaho)"
+    },
+    "kinds": [
+      "cultural",
+      "arts",
+      "community event",
+      "heritage",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Up to $25,000 requested; most grants $3,000 to $8,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-06-15",
+        "label": "2026 cycle (passed)"
+      },
+      {
+        "date": "2027-06-15",
+        "label": "2027 cycle (same annual date per the Forever Idaho guidelines; confirm when the portal opens)"
+      }
+    ],
+    "next_deadline": "2027-06-15",
+    "opens": "Portal opens in spring; awards announced in September",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Trust-based general operating grants for 501(c)(3) public charities and governmental entities (including public schools) that self-select an impact area such as Arts and Culture or Community Benefit. Funds may cover payroll, rent, supplies, project costs and capital. No final report required. Apply in the region where your office is located or where you serve residents. Volunteer Regional Councils recommend awards.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.idahocf.org/forever-idaho-funds",
+      "https://www.idahocf.org/docs/grants/Forever-Idaho-Grant-Guidelines.pdf",
+      "https://www.idahocf.org/blog/forever-idaho-2026-grant-cycle",
+      "https://idahocf.org/grants-scholarships"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Forever Idaho Regional Grant Program: Eastern Region",
+    "funder": "Idaho Community Foundation",
+    "url": "https://www.idahocf.org/forever-idaho-funds",
+    "contact": "Grants@idahocf.org, 208-342-3535; portal help ApplicantPortal@idahocf.org",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Bannock",
+        "Bear Lake",
+        "Bingham",
+        "Bonneville",
+        "Butte",
+        "Caribou",
+        "Clark",
+        "Custer",
+        "Franklin",
+        "Fremont",
+        "Jefferson",
+        "Lemhi",
+        "Madison",
+        "Oneida",
+        "Power",
+        "Teton"
+      ],
+      "cities": [
+        "Idaho Falls",
+        "Pocatello",
+        "Rexburg",
+        "Salmon"
+      ],
+      "region": "Eastern Idaho"
+    },
+    "kinds": [
+      "cultural",
+      "arts",
+      "community event",
+      "heritage",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Up to $25,000 requested; most grants $3,000 to $8,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-06-15",
+        "label": "2026 cycle (passed)"
+      },
+      {
+        "date": "2027-06-15",
+        "label": "2027 cycle (same annual date per the Forever Idaho guidelines; confirm when the portal opens)"
+      }
+    ],
+    "next_deadline": "2027-06-15",
+    "opens": "Portal opens in spring; awards announced in September",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Trust-based general operating grants for 501(c)(3) public charities and governmental entities (including public schools) that self-select an impact area such as Arts and Culture or Community Benefit. Funds may cover payroll, rent, supplies, project costs and capital. No final report required. Apply in the region where your office is located or where you serve residents. Volunteer Regional Councils recommend awards.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.idahocf.org/forever-idaho-funds",
+      "https://www.idahocf.org/docs/grants/Forever-Idaho-Grant-Guidelines.pdf",
+      "https://www.idahocf.org/blog/forever-idaho-2026-grant-cycle",
+      "https://idahocf.org/grants-scholarships"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Forever Idaho Regional Grant Program: Southwestern Region",
+    "funder": "Idaho Community Foundation",
+    "url": "https://www.idahocf.org/forever-idaho-funds",
+    "contact": "Grants@idahocf.org, 208-342-3535; portal help ApplicantPortal@idahocf.org",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Ada",
+        "Adams",
+        "Boise",
+        "Canyon",
+        "Gem",
+        "Owyhee",
+        "Payette",
+        "Valley",
+        "Washington"
+      ],
+      "cities": [
+        "Boise",
+        "Nampa",
+        "Caldwell",
+        "McCall"
+      ],
+      "region": "Southwest Idaho / Treasure Valley and west central mountains"
+    },
+    "kinds": [
+      "cultural",
+      "arts",
+      "community event",
+      "heritage",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Up to $25,000 requested; most grants $3,000 to $8,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-15",
+        "label": "2026 cycle (passed)"
+      },
+      {
+        "date": "2027-08-15",
+        "label": "2027 cycle (same annual date per the Forever Idaho guidelines; confirm when the portal opens)"
+      }
+    ],
+    "next_deadline": "2027-08-15",
+    "opens": "Portal opens in spring; awards announced in November",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Trust-based general operating grants for 501(c)(3) public charities and governmental entities (including public schools) that self-select an impact area such as Arts and Culture or Community Benefit. Funds may cover payroll, rent, supplies, project costs and capital. No final report required. Apply in the region where your office is located or where you serve residents. Volunteer Regional Councils recommend awards.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.idahocf.org/forever-idaho-funds",
+      "https://www.idahocf.org/docs/grants/Forever-Idaho-Grant-Guidelines.pdf",
+      "https://www.idahocf.org/blog/forever-idaho-2026-grant-cycle",
+      "https://idahocf.org/grants-scholarships"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Forever Idaho Regional Grant Program: South Central Region",
+    "funder": "Idaho Community Foundation",
+    "url": "https://www.idahocf.org/forever-idaho-funds",
+    "contact": "Grants@idahocf.org, 208-342-3535; portal help ApplicantPortal@idahocf.org",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Blaine",
+        "Camas",
+        "Cassia",
+        "Elmore",
+        "Gooding",
+        "Jerome",
+        "Lincoln",
+        "Minidoka",
+        "Twin Falls"
+      ],
+      "cities": [
+        "Twin Falls",
+        "Ketchum",
+        "Hailey",
+        "Burley"
+      ],
+      "region": "South Central Idaho / Magic Valley and Wood River Valley"
+    },
+    "kinds": [
+      "cultural",
+      "arts",
+      "community event",
+      "heritage",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Up to $25,000 requested; most grants $3,000 to $8,000",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-15",
+        "label": "2026 cycle (passed)"
+      },
+      {
+        "date": "2027-08-15",
+        "label": "2027 cycle (same annual date per the Forever Idaho guidelines; confirm when the portal opens)"
+      }
+    ],
+    "next_deadline": "2027-08-15",
+    "opens": "Portal opens in spring; awards announced in November",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Trust-based general operating grants for 501(c)(3) public charities and governmental entities (including public schools) that self-select an impact area such as Arts and Culture or Community Benefit. Funds may cover payroll, rent, supplies, project costs and capital. No final report required. Apply in the region where your office is located or where you serve residents. Volunteer Regional Councils recommend awards.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.idahocf.org/forever-idaho-funds",
+      "https://www.idahocf.org/docs/grants/Forever-Idaho-Grant-Guidelines.pdf",
+      "https://www.idahocf.org/blog/forever-idaho-2026-grant-cycle",
+      "https://idahocf.org/grants-scholarships"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "F.M., Anne G., and Beverly B. Bistline Foundation Fund (arts)",
+    "funder": "Idaho Community Foundation",
+    "url": "https://www.idahocf.org/docs/grants/Bistline-Foundation-Guidelines.pdf",
+    "contact": "Grants@idahocf.org, 208-342-3535",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Bannock",
+        "Bear Lake",
+        "Bingham",
+        "Caribou",
+        "Franklin",
+        "Oneida",
+        "Power"
+      ],
+      "cities": [
+        "Pocatello",
+        "Blackfoot",
+        "Preston",
+        "Soda Springs",
+        "Montpelier",
+        "Malad"
+      ],
+      "region": "Southeastern Idaho"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Typically $3,000 to $10,000; larger requests considered",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-11-01",
+        "label": "Fall 2026 cycle (notification January) (passed)"
+      },
+      {
+        "date": "2027-05-01",
+        "label": "Spring 2027 cycle (notification late June)"
+      },
+      {
+        "date": "2027-11-01",
+        "label": "Fall 2027 cycle"
+      }
+    ],
+    "next_deadline": "2027-05-01",
+    "opens": "Apply through the ICF portal (goapply2.akoyago.com/idahocf) before each deadline",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Arts activities that entertain or educate the public and training or performance opportunities for local artists: performances, concerts, exhibits, fees to bring in out-of-town artists, production costs, instruments and facility improvements. Open to 501(c)(3)s, public schools and government entities in the seven counties.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.idahocf.org/docs/grants/Bistline-Foundation-Guidelines.pdf",
+      "https://idahocf.org/grants-scholarships"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Ifft Foundation Fund (beautification and public recreation)",
+    "funder": "Idaho Community Foundation",
+    "url": "https://www.idahocf.org/docs/grants/Ifft-Guidelines.pdf",
+    "contact": "Grants@idahocf.org, 208-342-3535",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Bannock",
+        "Bear Lake",
+        "Bingham",
+        "Caribou",
+        "Franklin",
+        "Oneida",
+        "Power"
+      ],
+      "cities": [
+        "Pocatello"
+      ],
+      "region": "Southeastern Idaho"
+    },
+    "kinds": [
+      "capital",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-15",
+        "label": "August 2026 cycle (passed)"
+      },
+      {
+        "date": "2027-03-15",
+        "label": "March 2027 cycle"
+      },
+      {
+        "date": "2027-08-15",
+        "label": "August 2027 cycle"
+      }
+    ],
+    "next_deadline": "2027-03-15",
+    "opens": "ICF portal; two cycles a year",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Community beautification and public recreation projects, with emphasis on landscaping and beautification; suited to park, plaza and event-site improvements in Bannock and neighboring counties rather than event operations.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.idahocf.org/docs/grants/Ifft-Guidelines.pdf",
+      "https://idahocf.org/grants-scholarships"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Bonner County Fund for Arts Enhancement",
+    "funder": "Idaho Community Foundation",
+    "url": "https://www.idahocf.org/docs/grants/Bonner-County-Arts-Enhancement-Guidelines.pdf",
+    "contact": "Grants@idahocf.org, 208-342-3535",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Bonner"
+      ],
+      "cities": [
+        "Sandpoint",
+        "Priest River",
+        "Clark Fork",
+        "Hope"
+      ],
+      "region": "Bonner County"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "festival",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Typically $3,000 to $12,000 from a pool of about $75,000 (2026 awards)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-05-01",
+        "label": "2026 cycle (passed)"
+      },
+      {
+        "date": "2027-05-01",
+        "label": "2027 cycle (annual May 1 deadline per guidelines)"
+      }
+    ],
+    "next_deadline": "2027-05-01",
+    "opens": "ICF portal opens in spring; awards announced in June",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funds a community education component of an existing arts program or a new arts program with a strong educational focus in Bonner County. The Festival at Sandpoint received $20,000 in 2026 for its summer performance series. Capital projects, travel and conference attendance are less favored.",
+    "recent_recipients": [
+      {
+        "name": "Festival at Sandpoint (43rd Summer Performance Series)",
+        "amount": "$20,000"
+      },
+      {
+        "name": "Arts Alliance, Inc.",
+        "amount": "$12,000"
+      },
+      {
+        "name": "Music Conservatory of Sandpoint",
+        "amount": "$12,000"
+      },
+      {
+        "name": "Pend Oreille Arts Council",
+        "amount": "$12,000"
+      },
+      {
+        "name": "Memorial Community Center",
+        "amount": "$6,000"
+      }
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.idahocf.org/docs/grants/Bonner-County-Arts-Enhancement-Guidelines.pdf",
+      "https://www.idahocf.org/docs/press/07.27.26-Bonner-County-Grants.pdf",
+      "https://www.idahocf.org/docs/press/03.09.26-Bonner-County-Grants.pdf"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Perc H. Shelton and Gladys A. Pospisil Shelton Foundation Advised Fund",
+    "funder": "Idaho Community Foundation",
+    "url": "https://www.idahocf.org/docs/grants/Shelton-Fund.pdf",
+    "contact": "Grants@idahocf.org, 208-342-3535",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Valley"
+      ],
+      "cities": [
+        "McCall",
+        "Cascade",
+        "Donnelly"
+      ],
+      "region": "Valley County"
+    },
+    "kinds": [
+      "cultural",
+      "community event",
+      "arts",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Not published",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-15",
+        "label": "2026 cycle (with Forever Idaho Southwest) (passed)"
+      },
+      {
+        "date": "2027-08-15",
+        "label": "2027 cycle (same annual date; confirm)"
+      }
+    ],
+    "next_deadline": "2027-08-15",
+    "opens": "One Forever Idaho Southwestern application automatically considers Valley County applicants for the Shelton Fund",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Valley County organizations submitting a Forever Idaho Southwest application are considered for both funds. McCall Winter Carnival-type events and Valley County arts groups are typical applicants.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.idahocf.org/docs/grants/Shelton-Fund.pdf",
+      "https://idahocf.org/grants-scholarships"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Grangeville Community Foundation Grants",
+    "funder": "Grangeville Community Foundation (affiliate of Idaho Community Foundation)",
+    "url": "https://www.idahocf.org/grangeville",
+    "contact": "grangevillecommunityfoundation@gmail.com; Alaina Redenbo, 208-507-8470",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Idaho"
+      ],
+      "cities": [
+        "Grangeville"
+      ],
+      "region": "Within five miles of Grangeville city limits or primarily benefiting Grangeville residents"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "youth",
+      "heritage"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Generally $250 to $2,500; larger requests considered on merit",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2027-03-15",
+        "label": "2027 cycle, 5 p.m. (notification Mar 25; award event May 6, 2027)"
+      }
+    ],
+    "next_deadline": "2027-03-15",
+    "opens": "Apply through the ICF applicant portal; grant period May 6 to Nov 30, 2027",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Small-community grants that fit Border Days and other Grangeville events. Operating expenses, salaries, religious and political projects are excluded; groups without an EIN may use a fiscal sponsor.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.idahocf.org/grangeville",
+      "https://www.idahocf.org/docs/grants/GCF-2027-Grant-Guideline.pdf"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Lemhi Valley Community Foundation Grants",
+    "funder": "Lemhi Valley Community Foundation (affiliate of Idaho Community Foundation)",
+    "url": "https://www.idahocf.org/lemhi-valley",
+    "contact": "lemhivalleycommunityfoundation@gmail.com",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Lemhi"
+      ],
+      "cities": [
+        "Salmon"
+      ],
+      "region": "Lemhi County"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "arts",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Most grants $1,000, unrestricted",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Deadline not posted on the fund page; check the ICF portal (goapply2.akoyago.com/idahocf) for the current opportunity",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Unrestricted grants on the Forever Idaho trust-based model for organizations in or primarily serving Lemhi County; clubs without 501(c)(3) status may use a fiscal sponsor.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.idahocf.org/lemhi-valley"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Women's Gift Alliance Grants",
+    "funder": "Women's Gift Alliance (fund at Idaho Community Foundation)",
+    "url": "https://www.womensgiftalliance.org/",
+    "contact": "See womensgiftalliance.org",
+    "level": "county",
+    "geography": {
+      "counties": [
+        "Kootenai"
+      ],
+      "cities": [
+        "Coeur d'Alene",
+        "Post Falls",
+        "Hayden"
+      ],
+      "region": "Kootenai County"
+    },
+    "kinds": [
+      "cultural",
+      "community event",
+      "arts",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "$5,000 to $30,000 (2026 awards: four at $30,000 and three at $5,000, $135,000 total)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-11-09",
+        "label": "2026-27 cycle (November 9 deadline per ICF grant listing; confirm with WGA)"
+      }
+    ],
+    "next_deadline": "2026-11-09",
+    "opens": "Applications are run by WGA, not the ICF portal; awards presented at a June ceremony",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Collective giving circle funding charitable, cultural and educational projects in Kootenai County. 2026 recipients included the Coeur d'Alene Symphony and the North Idaho Fair and Rodeo Foundation ($5,000 each).",
+    "recent_recipients": [
+      {
+        "name": "Coeur d'Alene Symphony",
+        "amount": "$5,000"
+      },
+      {
+        "name": "North Idaho Fair and Rodeo Foundation",
+        "amount": "$5,000"
+      },
+      {
+        "name": "3rd Avenue Marketplace",
+        "amount": "$30,000"
+      }
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.womensgiftalliance.org/",
+      "https://idahocf.org/grants-scholarships",
+      "https://cdapress.com/news/2026/jun/21/wga-presents-135k-to-nonproits/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "IWCF Pooled-Fund Grants (Cultural Arts and five other areas)",
+    "funder": "Idaho Women's Charitable Foundation",
+    "url": "https://www.iwcfgives.org/information-for-grant-seekers/",
+    "contact": "See iwcfgives.org grant-seeker page",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Ada",
+        "Adams",
+        "Boise",
+        "Camas",
+        "Canyon",
+        "Elmore",
+        "Gem",
+        "Owyhee",
+        "Payette",
+        "Valley",
+        "Washington"
+      ],
+      "cities": [
+        "Boise",
+        "Nampa",
+        "Caldwell",
+        "McCall"
+      ],
+      "region": "Southwest Idaho (Health and Welfare Regions 3 and 4)"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "$20,000 to $35,000 per grant (listings vary; 2025 990 shows 18 grants totaling about $376,000)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "label": "2026-27 cycle application (date per aggregator listing; confirm at iwcfgives.org)"
+      }
+    ],
+    "next_deadline": "2026-12-01",
+    "opens": "Applications typically due in early winter with member voting and awards in spring",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Members pool dues and vote on project grants in Cultural Arts (humanities, performing and visual arts), Education, Environment, Health, Basic Needs and Rural Communities. Sponsorships, fundraisers and general operating are not funded; organizations under $50,000 revenue are ineligible. A festival's education or access program is the right ask.",
+    "recent_recipients": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.iwcfgives.org/information-for-grant-seekers/",
+      "https://us.fundsforngos.org/type-of-grantgrant/idaho-womens-charitable-foundation-grant-program-2026/",
+      "https://grantable.co/grants/iwcf-pool-fund-grant-884cae12db91"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Grants Program",
+    "funder": "Innovia Foundation",
+    "url": "https://innovia.org/apply-for-a-grant",
+    "contact": "Innovia Foundation, Spokane (innovia.org)",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Benewah",
+        "Bonner",
+        "Boundary",
+        "Clearwater",
+        "Idaho",
+        "Kootenai",
+        "Latah",
+        "Lewis",
+        "Nez Perce",
+        "Shoshone"
+      ],
+      "cities": [
+        "Coeur d'Alene",
+        "Sandpoint",
+        "Bonners Ferry",
+        "Lewiston",
+        "Moscow",
+        "Kellogg"
+      ],
+      "region": "Ten North Idaho counties plus ten Eastern Washington counties"
+    },
+    "kinds": [
+      "arts",
+      "cultural",
+      "community event",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "tribe",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$2,500 to $15,000; more than $1 million distributed annually",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-02-06",
+        "label": "2026 cycle (early-bird Jan 9 for a $1,000 operating drawing) (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027 cycle not yet posted; the 2026 round opened in December 2025 with a February 6 deadline",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Impact areas include arts and culture and quality of life (community spaces); project types include new or expanded programs, capital and equipment, and capacity building. The 2026 theme was Building Stability and Belonging. Innovia also runs Longest Table microgrants and the LaunchNW rural program.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://innovia.org/apply-for-a-grant",
+      "https://www.dailyfly.com/?p=98301",
+      "https://grantable.co/grants/innovia-foundation-community-grant-program-22b79bea4d30"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "First Federal Foundation Grants",
+    "funder": "First Federal Foundation (First Federal Bank, Twin Falls)",
+    "url": "https://www.bankfirstfed.com/bank-foundation",
+    "contact": "See bankfirstfed.com contact page",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Blaine",
+        "Camas",
+        "Cassia",
+        "Elmore",
+        "Gooding",
+        "Jerome",
+        "Lincoln",
+        "Minidoka",
+        "Twin Falls",
+        "Ada",
+        "Canyon"
+      ],
+      "cities": [
+        "Twin Falls",
+        "Burley",
+        "Rupert",
+        "Jerome",
+        "Buhl"
+      ],
+      "region": "Southern Idaho: Magic Valley, Mini-Cassia and Treasure Valley"
+    },
+    "kinds": [
+      "capital",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Generally $1,000 to $5,000 for capital projects",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-11-20",
+        "label": "Winter 2026 cycle (board decides in December)"
+      }
+    ],
+    "next_deadline": "2026-11-20",
+    "opens": "Two cycles a year; summer cycle closes before the July board meeting (date not posted)",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Capital grants for educational, civic, health, human services, social and cultural organizations; equipment such as sound systems, staging or AEDs for a festival qualifies. Individuals, political causes, religious organizations and private clubs are not funded.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.bankfirstfed.com/bank-foundation",
+      "https://grantedai.com/grants/first-federal-foundation-grants-first-federal-foundation-f1276557"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "YTT Tourism Grant (marketing and event sponsorship)",
+    "funder": "Yellowstone Teton Territory",
+    "url": "https://yellowstoneteton.com/ytt/ytt-grant-application",
+    "contact": "info@yellowstoneteton.com",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Bonneville",
+        "Madison",
+        "Clark",
+        "Teton",
+        "Jefferson",
+        "Fremont"
+      ],
+      "cities": [
+        "Idaho Falls",
+        "Rexburg",
+        "Driggs",
+        "Victor",
+        "Island Park",
+        "Ashton"
+      ],
+      "region": "Idaho Travel Region 6 (eastern Idaho)"
+    },
+    "kinds": [
+      "tourism marketing",
+      "festival",
+      "community event",
+      "sports"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "Not published per award; funded from YTT's ITC grant ($2,064,539 in 2026, $1.92 million in 2025)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-02-16",
+        "label": "2026-27 cycle (funds available Aug 1, 2026) (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2027-28 cycle expected to open in early 2027 with a February deadline; YTT membership ($100 a year) gives applicants more say in spending",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Businesses and organizations in the six counties apply for marketing support and event sponsorships that show heads-in-beds return. YTT also runs a cash match program with partners and trade-show booth co-ops. Dates come from Post Register and East Idaho News coverage of the 2026 call; confirm on the YTT site.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://yellowstoneteton.com/ytt/ytt-grant-application",
+      "https://www.postregister.com/news/business/eastern-idaho-businesses-can-apply-for-tourism-dollars/article_b63432fa-1607-48d7-906b-a1c3f16e545e.html",
+      "https://www.eastidahonews.com/?p=741472"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Small Community Advertising and Brochure Co-Op Programs",
+    "funder": "Southeast Idaho High Country Tourism (Region 5 travel council)",
+    "url": "https://idahohighcountry.org/?p=1696",
+    "contact": "Destiny Egley, destiny.egley@lava.idaho.gov; info@seidaho.org, 888-201-1063",
+    "level": "regional",
+    "geography": {
+      "counties": [
+        "Power",
+        "Oneida",
+        "Bannock",
+        "Bingham",
+        "Caribou",
+        "Bear Lake",
+        "Franklin"
+      ],
+      "cities": [
+        "Pocatello",
+        "Lava Hot Springs",
+        "Preston",
+        "Montpelier",
+        "Soda Springs",
+        "Blackfoot",
+        "Malad"
+      ],
+      "region": "Idaho Travel Region 5 (southeast Idaho)"
+    },
+    "kinds": [
+      "tourism marketing",
+      "community event",
+      "festival"
+    ],
+    "applicants": [
+      "public agency",
+      "nonprofit",
+      "for-profit"
+    ],
+    "award": "Up to $2,500 per community per year (advertising co-op), covering up to 50% of cost",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Requests due by the January HCT meeting each year; projects completed by September 30",
+    "match": "50% cash match from the community",
+    "reimbursement": null,
+    "notes": "Members partner with HCT on out-of-region advertising, including event promotion, and on printing community brochures. The local HCT member must submit the request. Funded by HCT's ITC grant ($240,157 in 2025).",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://idahohighcountry.org/?p=1696",
+      "https://idahohighcountry.org/wp-content/uploads/Small-Communtiy-Advertising-Co-Op-Program.pdf"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Event and Sports Event Sponsorships",
+    "funder": "Visit Boise (Boise Metro Chamber of Commerce)",
+    "url": "https://visitboise.com/sponsorships/",
+    "contact": "Lucas Gebhart, Associate Director of Sports Sales, 208-472-5204, lgebhart@visitboise.com; Julia Carroll, 208-472-5237, jcarroll@visitboise.com",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Ada"
+      ],
+      "cities": [
+        "Boise"
+      ],
+      "region": "Boise and Visit Boise partner-hotel market"
+    },
+    "kinds": [
+      "festival",
+      "sports",
+      "music",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "for-profit",
+      "public agency"
+    ],
+    "award": "Not published; scored on economic impact, partner-hotel room nights and media exposure",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Submit the Sports Event or Other Event Sponsorship Form 9 to 12 months before the event; funds are budgeted a year ahead",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Funded mostly by Visit Boise's ITC grant ($1,847,022 in 2026). The best-matched Idaho sponsorship program for an overnight-driving festival or glow in the Treasure Valley; a post-event survey is required.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://visitboise.com/sponsorships/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Community Event Sponsorship Program",
+    "funder": "City of Boise, Office of Community Engagement",
+    "url": "https://www.cityofboise.org/departments/community-engagement/sponsorship/",
+    "contact": "communityengagement@cityofboise.org, 208-972-8500",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Ada"
+      ],
+      "cities": [
+        "Boise"
+      ],
+      "region": "Boise city limits"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "cultural",
+      "arts"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published",
+    "cycle": "rolling",
+    "rolling": true,
+    "deadlines": [],
+    "next_deadline": null,
+    "opens": "Apply via cityofboise.jotform.com/form/sponsorship-request; allow at least six weeks for review and contact the city early in planning",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Sponsorships for free, broadly accessible events organized by nonprofits, public agencies or community groups in Boise that highlight local culture and align with city goals. Ticketed galas, fundraisers, private and invitation-only events are not funded; a free public glow would qualify, a ticketed one would not.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.cityofboise.org/departments/community-engagement/sponsorship/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Arts and History Annual Grant",
+    "funder": "City of Boise, Department of Arts and History",
+    "url": "https://boiseartsandhistory.org/media/0ikbf0fz/fy27-ah-annual-grant-guidelines.pdf",
+    "contact": "Makenzi Dunstan, Grants and Outreach Manager, mdunstan@cityofboise.org, 208-608-7793",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Ada",
+        "Boise",
+        "Canyon",
+        "Elmore",
+        "Gem"
+      ],
+      "cities": [
+        "Boise"
+      ],
+      "region": "Programming in Boise by applicants based in Ada, Boise, Canyon, Elmore or Gem County"
+    },
+    "kinds": [
+      "arts",
+      "heritage",
+      "cultural",
+      "music",
+      "festival"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual",
+      "for-profit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "$1,000 to $5,000 in $500 increments from a $150,000 pool (FY27)",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-06-16",
+        "label": "FY2027 cycle (projects Oct 2026 to Sept 2027) (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "FY2028 cycle expected to open around May 1, 2027 (FY27 opened May 1 and closed June 16)",
+    "match": "Grant may not exceed 50% of total project expenses",
+    "reimbursement": null,
+    "notes": "Project grants for individuals, organizations and community groups offering arts, history or cultural programming in Boise. Government agencies and groups already receiving significant in-kind city support are ineligible. Final report due within 30 days of the project.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://boiseartsandhistory.org/media/0ikbf0fz/fy27-ah-annual-grant-guidelines.pdf"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Energize A.C.T. (Activate, Connect, Transform) Neighborhood Grants",
+    "funder": "City of Boise, Energize Our Neighborhoods",
+    "url": "https://www.cityofboise.org/media/20187/energize-act-grants-2026.pdf",
+    "contact": "energize@cityofboise.org",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Ada"
+      ],
+      "cities": [
+        "Boise"
+      ],
+      "region": "Boise recognized neighborhood associations"
+    },
+    "kinds": [
+      "community event",
+      "festival",
+      "arts"
+    ],
+    "applicants": [
+      "public agency"
+    ],
+    "award": "Up to $2,500 per neighborhood association per fiscal year",
+    "cycle": "semiannual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-08-31",
+        "label": "Summer 2026 cycle (funding Oct 1) (passed)"
+      },
+      {
+        "date": "2027-02-28",
+        "label": "Winter 2027 cycle (Jan 1 to Feb 28; funding April 1)"
+      },
+      {
+        "date": "2027-08-31",
+        "label": "Summer 2027 cycle"
+      }
+    ],
+    "next_deadline": "2027-02-28",
+    "opens": "Winter cycle accepts applications January 1 to February 28; summer cycle July 1 to August 31",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Only recognized Boise neighborhood associations may apply, but the Celebration category pays for block parties, picnics and neighborhood festivals including entertainment, sound equipment and park permit fees. An event producer partners with the association as the applicant. Projects must be on public property within city limits.",
+    "recent_recipients": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.cityofboise.org/media/20187/energize-act-grants-2026.pdf"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Art Spotlight CDA: Performing Arts Grant",
+    "funder": "City of Coeur d'Alene Arts Commission",
+    "url": "https://cdaid.org/government/committees/arts-commission/art-spotlight-cda-performing-arts/",
+    "contact": "Jo Anne Mateski, City Staff Support to the Arts Commission (email on program page)",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Kootenai"
+      ],
+      "cities": [
+        "Coeur d'Alene"
+      ],
+      "region": "Kootenai County-based performing arts nonprofits"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural"
+    ],
+    "applicants": [
+      "nonprofit"
+    ],
+    "award": "$5,000 or $7,500 from a $15,000 annual pool, with a possible second-year payment",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2025-08-15",
+        "label": "2025-26 cycle, 5 p.m. PT (year one Nov 2025 to Oct 2026) (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "2026-27 performing arts deadline not posted on the program page; the companion Visual Arts round closed July 10, 2026",
+    "match": null,
+    "reimbursement": null,
+    "notes": "For 501(c)(3)s with at least five years of performing arts programming that regularly present artists to general audiences. Applications submitted by email with the subject line specified on the page.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://cdaid.org/government/committees/arts-commission/art-spotlight-cda-performing-arts/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Art Spotlight CDA: Visual Arts Grant",
+    "funder": "City of Coeur d'Alene Arts Commission",
+    "url": "https://www.cdaid.org/government/committees/arts-commission/art-spotlight-cda-visual-arts/",
+    "contact": "City of Coeur d'Alene Arts Commission staff",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Kootenai"
+      ],
+      "cities": [
+        "Coeur d'Alene"
+      ],
+      "region": "Coeur d'Alene"
+    },
+    "kinds": [
+      "arts",
+      "youth",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "$5,000 or $7,500 per project from a $15,000 pool, with possible second-year support",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-07-10",
+        "label": "2026-27 cycle (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Next round expected summer 2027",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Exhibitions, educational programs, public art, youth arts, workshops and collaborative community arts projects, with priority on K-12 opportunities. Reviewed on artistic quality, community engagement, feasibility and public impact.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.cdaid.org/government/committees/arts-commission/art-spotlight-cda-visual-arts/",
+      "https://cdapress.com/news/2026/jul/09/apps-due-friday-for-art-spotlight-cda/"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Small Local Grants (quarterly)",
+    "funder": "Pocatello Arts Council",
+    "url": "https://mandolin-burgundy-6msd.squarespace.com/grants",
+    "contact": "Pocatello Arts Council contact form",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Bannock"
+      ],
+      "cities": [
+        "Pocatello",
+        "Chubbuck"
+      ],
+      "region": "Pocatello area"
+    },
+    "kinds": [
+      "arts",
+      "music",
+      "cultural",
+      "community event"
+    ],
+    "applicants": [
+      "nonprofit",
+      "individual",
+      "for-profit",
+      "fiscal sponsor accepted"
+    ],
+    "award": "Not published; funding is limited and one grant per recipient per fiscal year",
+    "cycle": "quarterly",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-03-20",
+        "label": "2026 cycle 2 (passed)"
+      },
+      {
+        "date": "2026-06-26",
+        "label": "2026 cycle 3 (passed)"
+      },
+      {
+        "date": "2026-09-25",
+        "label": "2026 cycle 4 (passed)"
+      }
+    ],
+    "next_deadline": null,
+    "opens": "Next cycle (for January 2027 consideration) expected around December 20, 2026 per the prior-year pattern; not yet posted",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Visual, literary and performance art projects with clear benefit to Pocatello, including bringing in outside artists. For-profits qualify only for not-for-profit public-benefit projects. Murals accepted only in cycles 2 and 3. Final report due within six months.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://mandolin-burgundy-6msd.squarespace.com/grants"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Municipal Powers Outsource Grants (MPOG)",
+    "funder": "City of Twin Falls",
+    "url": "https://tfid.org/757/Municipal-Powers-Outsource-Grants",
+    "contact": "Mandi Thompson, mthompson@tfid.org",
+    "level": "city",
+    "geography": {
+      "counties": [
+        "Twin Falls"
+      ],
+      "cities": [
+        "Twin Falls"
+      ],
+      "region": "Twin Falls"
+    },
+    "kinds": [
+      "community event",
+      "cultural",
+      "youth"
+    ],
+    "applicants": [
+      "nonprofit",
+      "public agency"
+    ],
+    "award": "Up to $10,000 per organization; all-or-nothing awards",
+    "cycle": "annual",
+    "rolling": false,
+    "deadlines": [
+      {
+        "date": "2026-05-30",
+        "label": "FY2026 round, 4 p.m. (passed)"
+      },
+      {
+        "date": "2027-05-30",
+        "label": "FY2027 round (May 30 per the program page's annual timeline; confirm)"
+      }
+    ],
+    "next_deadline": "2027-05-30",
+    "opens": "Council scoring in early June; MPOG meeting the following week",
+    "match": null,
+    "reimbursement": null,
+    "notes": "Grants to local nonprofits and government units delivering a municipal power under Idaho Code Title 50 Chapter 3 tied to a city Strategic Plan goal. Past examples are senior services; a community event serving a city goal (parks and recreation, cultural programming) can be argued.",
+    "recent_recipients": [],
+    "confidence": "medium",
+    "sources": [
+      "https://tfid.org/757/Municipal-Powers-Outsource-Grants"
+    ]
+  }
+]
