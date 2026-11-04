@@ -1,6 +1,6 @@
 
 /* ================= v2: routing ================= */
-const VIEWS=['directory','map','finder','kit','benchmarks','events','grants','guidelines','board'];
+const VIEWS=['directory','map','finder','kit','benchmarks','events','grants','report','guidelines','board'];
 let mapDrawn=false, benchDone=false, boardLoaded=false;
 function showView(v){
   for(const x of VIEWS){ const el=document.getElementById('v-'+x); if(el) el.hidden = x!==v; }
@@ -17,6 +17,7 @@ function route(){
   const h=(location.hash||'').replace('#','');
   if(VIEWS.includes(h)) { showView(h); const tabs=document.querySelector('.tabs'); if(window.innerWidth<720 && tabs && !firstRoute){ const m=document.querySelector('.mast'); const go=()=>window.scrollTo({top:m?m.offsetTop+m.offsetHeight:0,behavior:'instant'}); go(); requestAnimationFrame(go); setTimeout(go,60); setTimeout(go,250); } else window.scrollTo({top:0,behavior:'instant'}); firstRoute=false; return; }
   if(h.startsWith('compare=')){ showView('benchmarks'); return; }
+  if(h.startsWith('report=')){ showView('report'); showReport(decodeURIComponent(h.slice(7))); window.scrollTo({top:document.querySelector('.mast').offsetHeight,behavior:'instant'}); return; }
   if(h.startsWith('j-')){ showView('directory'); const t=document.getElementById(h); if(t){ t.scrollIntoView({block:'start'}); t.classList.add('lead'); } return; }
   showView('directory');
 }
@@ -36,7 +37,7 @@ function awardsHtml(r){
   const top=(latest.top||[]).slice(0,3).map(t=>`${esc(t.recipient)} (${money(t.amount)}, ${esc((t.type||'').replace('Event/Festival','event').toLowerCase())})`).join('; ');
   const bt=latest.bytype||{}; const split=`${yrs[0]} split: events ${money(bt['Event/Festival']||0)}, marketing ${money(bt['Marketing']||0)}, facilities ${money(bt['Facility']||0)}.`;
   const shared=latest.shared_nights?`<div class="top warn2">${latest.shared_nights.toLocaleString()} of these ${yrs[0]} nights come from recipients also funded by ${[...new Set((latest.shared||[]).flatMap(s=>s[1]))].slice(0,4).join(', ')}; the same visitors may be counted there too.</div>`:'';
-  return `<details><summary>Award history (JLARC reports) <span>${yrs.length} yr</span></summary><div class="awards">${shared}<button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button> <button class="btn ghost2 small" data-cmp="${esc(r.name)}">Compare with peers</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards (all)</th><th>Total (all)</th><th>Event awards</th><th>Event median</th><th>Event max</th><th>Event nights</th><th>$/night</th></tr></thead><tbody>${lrows}${rows}</tbody></table></div>${lnote}<div class="top">${split}</div>${top?`<div class="top">Largest ${yrs[0]} recipients: ${top}</div>`:''}${latest.forprofit!=null?`<div class="top">${latest.forprofit} of ${latest.awards} ${yrs[0]} awards went to recipients that appear to be businesses.</div>`:''}<div class="top">From the jurisdiction's annual reports to JLARC. Room nights are event recipients' own estimates; marketing and facility rows are excluded from nights because DMOs report county-wide totals.</div></div></details>`;
+  return `<details><summary>Award history (JLARC reports) <span>${yrs.length} yr</span></summary><div class="awards">${shared}<button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button> <button class="btn ghost2 small" data-cmp="${esc(r.name)}">Compare with peers</button> <a class="btn ghost2 small" href="#report=${encodeURIComponent(r.name)}">Peer report</a><div class="tw"><table><thead><tr><th>Year</th><th>Awards (all)</th><th>Total (all)</th><th>Event awards</th><th>Event median</th><th>Event max</th><th>Event nights</th><th>$/night</th></tr></thead><tbody>${lrows}${rows}</tbody></table></div>${lnote}<div class="top">${split}</div>${top?`<div class="top">Largest ${yrs[0]} recipients: ${top}</div>`:''}${latest.forprofit!=null?`<div class="top">${latest.forprofit} of ${latest.awards} ${yrs[0]} awards went to recipients that appear to be businesses.</div>`:''}<div class="top">From the jurisdiction's annual reports to JLARC. Room nights are event recipients' own estimates; marketing and facility rows are excluded from nights because DMOs report county-wide totals.</div></div></details>`;
 }
 function verifyHtml(r){
   return `<div class="verify"><span>Last verified ${fmt(r.verified||META.asof)}</span><button class="corr" data-j="${esc(r.name)}">Report a correction</button></div>`;
@@ -417,7 +418,7 @@ document.addEventListener('click',e=>{const c=e.target.closest('[data-cmp]'); if
 function localOnlyHtml(r){
   const la=r.local_awards.years; const yrs=Object.keys(la).sort().reverse();
   const rows=yrs.map(y=>{const s=la[y];const amts=s.awards.map(a=>a.amount).filter(a=>typeof a==='number').sort((p,q)=>p-q);return `<tr class="loc"><td>${y}<span class="src">minutes</span></td><td>${s.awards.length||'–'}</td><td>${s.total!=null?money(s.total):'–'}</td><td>${amts.length?money(amts[Math.floor(amts.length/2)]):'–'}</td><td>${amts.length?money(amts[amts.length-1]):'–'}</td></tr>`;}).join('');
-  return `<details><summary>Award history (local records) <span>${yrs.length} yr</span></summary><div class="awards"><button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button> <button class="btn ghost2 small" data-cmp="${esc(r.name)}">Compare with peers</button><div class="tw"><table><thead><tr><th>Year</th><th>Awards</th><th>Total</th><th>Median</th><th>Largest</th></tr></thead><tbody>${rows}</tbody></table></div><div class="top">From council and committee records; the state dataset has no rows for this jurisdiction.</div></div></details>`;
+  return `<details><summary>Award history (local records) <span>${yrs.length} yr</span></summary><div class="awards"><button class="btn ghost2 small" data-detail="${esc(r.name)}">Every recipient, every year</button> <button class="btn ghost2 small" data-cmp="${esc(r.name)}">Compare with peers</button> <a class="btn ghost2 small" href="#report=${encodeURIComponent(r.name)}">Peer report</a><div class="tw"><table><thead><tr><th>Year</th><th>Awards</th><th>Total</th><th>Median</th><th>Largest</th></tr></thead><tbody>${rows}</tbody></table></div><div class="top">From council and committee records; the state dataset has no rows for this jurisdiction.</div></div></details>`;
 }
 function localSection(r){
   const la=r.local_awards; if(!la||!la.years) return '';
@@ -592,4 +593,72 @@ function cmpRender(){
   document.getElementById('cmpChips').addEventListener('click',e=>{const b=e.target.closest('[data-rm]'); if(b){ cmpSel=cmpSel.filter(n=>n!==b.dataset.rm); cmpRender(); }});
   // deep link: #compare=A|B|C
   const h=location.hash; if(h.startsWith('#compare=')){ decodeURIComponent(h.slice(9)).split('|').forEach(cmpAdd); }
+})();
+
+/* ================= peer report ================= */
+function pctile(arr,v){ const a=arr.filter(x=>typeof x==='number').sort((p,q)=>p-q); if(!a.length||v==null) return null; const below=a.filter(x=>x<v).length; return Math.round(below/a.length*100); }
+function median(arr){ const a=arr.filter(x=>typeof x==='number').sort((p,q)=>p-q); if(!a.length) return null; return a[Math.floor(a.length/2)]; }
+function reportHtml(r){
+  const S=cmpStats(r); const peers=cmpPeers(r,'fund').slice(0,6); const PS=peers.map(cmpStats);
+  const universe=data.filter(x=>x.type===r.type&&(x.has_ltac_grants||x.jlarc)).map(cmpStats).filter(x=>x.y);
+  const j=r.jlarc&&r.jlarc.years?r.jlarc.years:{}; const yrs=Object.keys(j).sort(); const latest=yrs[yrs.length-1]; const s=latest?j[latest]:null;
+  const m=v=>v==null?'–':money(v); const pct=v=>v==null?'–':Math.round(v*100)+'%'; const num=v=>v==null?'–':v.toLocaleString();
+  const pm=k=>median(PS.map(p=>p[k])); const um=k=>median(universe.map(p=>p[k]));
+  const rank=k=>{const p=pctile(universe.map(p=>p[k]),S[k]); return p==null?'':` (${ordinal(p)} percentile of ${universe.length} ${r.type==='county'?'counties':'cities'} with data)`;};
+  function ordinal(n){ const s=['th','st','nd','rd'],v=n%100; return n+(s[(v-20)%10]||s[v]||s[0]); }
+  const cmpWord=(v,ref,hiGood=true)=>{ if(v==null||ref==null) return null; const d=(v-ref)/ref; if(Math.abs(d)<0.1) return 'in line with'; return (d>0?'above':'below'); };
+  // insights
+  const ins=[];
+  if(S.share!=null){ const ref=pm('share'); ins.push(`<li><b>${pct(S.share)} of the fund is open to outside applicants</b>${ref!=null?`, ${cmpWord(S.share,ref)} the peer median of ${pct(ref)}`:''}. ${S.share<0.3?'Most of the money is committed before applications open; applicants should know that, and the committee should say so in the guidelines.':(S.share>0.7?'This is an unusually open program; the risk is spreading money thin rather than too little competition.':'A typical split between standing contracts and a competitive round.')}</li>`); }
+  else ins.push(`<li><b>No published figure for how much of the fund reaches outside applicants.</b> Peers that publish one average ${pct(pm('share'))} open. Publishing the number with the application is the single cheapest improvement available.</li>`);
+  if(S.evshare!=null){ const ref=pm('evshare'); ins.push(`<li><b>${pct(S.evshare)} of ${latest} dollars went to events and festivals</b>, ${pct(S.mshare)} to marketing and DMO contracts, ${pct(S.fshare)} to facilities${ref!=null?`; peers put ${pct(ref)} into events`:''}. ${S.evshare<0.25?'Events are a small slice; if the council wants more measurable room nights, this is the lever.':''}</li>`); }
+  if(S.ev_median!=null){ ins.push(`<li><b>The typical event award is ${m(S.ev_median)} and the largest ${m(S.ev_max)}</b>${rank('ev_max')}. Peers: median ${m(pm('ev_median'))}, largest ${m(pm('ev_max'))}. ${S.ev_max&&pm('ev_max')&&S.ev_max<pm('ev_max')*0.6?'Awards run small; producers of larger events will apply elsewhere unless the program signals it can fund a headline event.':''}</li>`); }
+  if(S.nights!=null){ ins.push(`<li><b>Funded events reported ${num(S.nights)} paid room nights</b> at ${S.cpn!=null?'$'+Math.round(S.cpn):'–'} of event money per night${rank('nights')}. Peers: ${num(pm('nights'))} nights at $${pm('cpn')!=null?Math.round(pm('cpn')):'–'} per night.${S.shared?` ${num(S.shared)} of those nights come from recipients also funded by neighboring jurisdictions, so the regional total is lower than the sum.`:''}${S.cpn!=null&&pm('cpn')!=null&&S.cpn>pm('cpn')*1.5?' Cost per night is high; ask recipients for direct counts (ticket ZIP codes, hotel block pickup) before next cycle.':''}</li>`); }
+  if(yrs.length>=2){ const a=j[yrs[0]].total,b=j[latest].total; if(a&&b){ const g=(b-a)/a; ins.push(`<li><b>Total awards ${g>=0?'grew':'fell'} ${Math.round(Math.abs(g)*100)}% from ${yrs[0]} to ${latest}</b> (${m(a)} to ${m(b)}). ${g>0.3?'Growth that fast usually means a hotel opened or a reserve was drawn down; check that the award pace matches new collections.':(g<-0.2?'A falling total with a growing hotel base means balance is accumulating; applicants should ask what the reserve policy is.':'')}</li>`); } }
+  if(S.perCap!=null){ const ref=pm('perCap'); ins.push(`<li><b>Lodging tax equals $${S.perCap>=10?Math.round(S.perCap):S.perCap.toFixed(2)} per resident</b>${ref!=null?`, ${cmpWord(S.perCap,ref)} peers at $${Math.round(ref)}`:''}${rank('perCap')}. ${S.perCap>50?'Visitors fund this program many times over what residents could; the committee has room to back outside events without crowding out local needs.':(S.perCap<8?'The fund is small relative to the city; expect applicants to compete with city departments, and expect the council to weigh resident benefit as much as room nights.':'')}</li>`); }
+  if(s){ const top=(s.recs||[])[0]; if(top&&s.total&&top[2]/s.total>0.4) ins.push(`<li><b>${esc(top[0])} received ${pct(top[2]/s.total)} of all ${latest} dollars</b> (${m(top[2])}). One recipient at that scale should carry a written contract with deliverables and its own line in the report, separate from the competitive round.</li>`); }
+  const fpPeers=peers.filter(p=>p.for_profit==='yes').length;
+  ins.push(`<li><b>For-profit applicants: ${({yes:'eligible directly',sponsor:'eligible through a nonprofit sponsor',no:'not eligible under local rules'})[r.for_profit]||'eligibility not stated'}.</b> ${fpPeers} of ${peers.length} peers admit businesses directly. State law keys eligibility to the activity (tourism marketing, tourist-drawing events, tourism facilities), not to the applicant's tax status (RCW 67.28.1816; MRSC).</li>`);
+  ins.push(`<li><b>Process: ${r.cycle==='rolling'?'rolling applications':(r.cycle==='semiannual'?'two or more rounds a year':'one annual round')}${r.deadline?`, next deadline ${fmt(r.deadline)}`:''}${r.presentation&&r.presentation.required?', presentation required':''}.</b> ${peers.filter(p=>p.pres).length} of ${peers.length} peers require presentations; ${peers.filter(p=>p.cycle==='rolling').length} take rolling applications.${!r.deadline&&r.has_ltac_grants?' No posted next deadline is the most common reason producers skip a program; post next year\'s window with this year\'s awards.':''}</li>`);
+  // tables
+  const row=(label,get,f)=>`<tr><td>${label}</td><td class="me">${f(get(S))}</td>${PS.map(p=>`<td>${f(get(p))}</td>`).join('')}<td class="med">${f(median(PS.map(get)))}</td></tr>`;
+  const table=`<table class="cmpt rpt"><thead><tr><th></th><th class="me">${esc(r.name)}</th>${PS.map(p=>`<th><a href="#j-${slug(p.name)}">${esc(p.name)}</a></th>`).join('')}<th class="med">Peer median</th></tr></thead><tbody>
+    ${row('Population',x=>x.pop,num)}${row('Fund per resident',x=>x.perCap,v=>v==null?'–':'$'+(v>=10?Math.round(v):v.toFixed(2)))}
+    ${row('Total fund',x=>x.total,m)}${row('Open to applicants',x=>x.open,m)}${row('Share open',x=>x.share,pct)}
+    ${row('Awards (latest state year)',x=>x.awards,num)}${row('Event awards',x=>x.ev_awards,num)}${row('Event dollars',x=>x.ev_total,m)}${row('Median event award',x=>x.ev_median,m)}${row('Largest event award',x=>x.ev_max,m)}
+    ${row('Events share',x=>x.evshare,pct)}${row('Marketing / DMO share',x=>x.mshare,pct)}${row('Facilities share',x=>x.fshare,pct)}
+    ${row('Event room nights',x=>x.nights,num)}${row('Event $ per night',x=>x.cpn,v=>v==null?'–':'$'+Math.round(v))}
+    ${row('2025/26 awards on record',x=>x.lawards,num)}${row('2025/26 largest award',x=>x.lmax,m)}
+  </tbody></table>`;
+  const trend=yrs.length?`<table class="cmpt rpt"><thead><tr><th>Year</th><th>Total awarded</th><th>Awards</th><th>Events</th><th>Marketing</th><th>Facilities</th><th>Event nights</th></tr></thead><tbody>${yrs.slice().reverse().map(y=>{const t=j[y];return `<tr><td>${y}</td><td>${m(t.total)}</td><td>${t.awards}</td><td>${m(t.bytype['Event/Festival']||0)}</td><td>${m(t.bytype['Marketing']||0)}</td><td>${m(t.bytype['Facility']||0)}</td><td>${num(t.nights)}</td></tr>`;}).join('')}</tbody></table>`:'<p class="hint2">No state award rows for this jurisdiction.</p>';
+  const top5=s?(s.recs||[]).slice(0,8).map(q=>`<tr><td>${esc(q[0])}</td><td>${({E:'Event',M:'Marketing',F:'Facility'})[q[1]]||''}</td><td class="num">${m(q[2])}</td><td class="num">${q[3]!=null?q[3].toLocaleString():'–'}</td></tr>`).join(''):'';
+  const recs=[];
+  if(S.share==null||r.competitive_pool_usd==null) recs.push('Publish the fund total and the amount open to applicants with each application cycle.');
+  if(S.evshare!=null&&S.evshare<0.25) recs.push('Set a target share of the fund for events and festivals and report against it each year.');
+  if(!r.deadline&&r.has_ltac_grants) recs.push('Post next year\'s application window at the same time this year\'s awards are announced.');
+  if(r.for_profit!=='yes') recs.push('State in the guidelines that eligibility follows the activity, and name a fiscal-sponsor route for businesses if the council prefers nonprofit applicants of record.');
+  if(S.cpn!=null&&pm('cpn')!=null&&S.cpn>pm('cpn')*1.5) recs.push('Require a named counting method in every application and compare actuals to estimates before renewing an award.');
+  if(S.shared) recs.push('Coordinate with neighboring jurisdictions on shared recipients so room nights are not counted twice in regional totals.');
+  if(!(r.presentation&&r.presentation.required)) recs.push('Add a short applicant presentation; committees that hear applicants fund fewer surprises.');
+  if(!r.local_awards) recs.push('Publish the award list for the current funding year on the program page; the state series ended in 2024 and the public record otherwise goes dark.');
+  return `<div class="report">
+    <div class="rhead"><p class="eyebrow2">Lodging tax peer report · ${esc(r.county)} County · prepared ${fmt(META.asof)}</p><h2>${esc(r.name)}</h2>
+      <p class="lede2">How ${esc(r.name)}'s lodging tax program compares with ${PS.length} jurisdictions of similar fund size${PS.length?` (${PS.map(p=>esc(p.name)).join(', ')})`:''} and with all ${universe.length} Washington ${r.type==='county'?'counties':'cities'} that report award data. Sources: the jurisdiction's own program documents, council and committee records, and the annual lodging tax reports filed with JLARC (latest year ${latest||'n/a'}).</p></div>
+    <div class="rtiles">
+      <div class="rt"><b>${m(S.total)}</b><span>total fund</span></div><div class="rt"><b>${m(S.open)}</b><span>open to applicants${S.openSrc?' (est.)':''}</span></div><div class="rt"><b>${pct(S.share)}</b><span>share open</span></div>
+      <div class="rt"><b>${m(S.ev_max)}</b><span>largest event award</span></div><div class="rt"><b>${num(S.nights)}</b><span>event room nights</span></div><div class="rt"><b>${S.cpn!=null?'$'+Math.round(S.cpn):'–'}</b><span>event $ per night</span></div>
+    </div>
+    <h3>What stands out</h3><ol class="rins">${ins.join('')}</ol>
+    <h3>Against peers of similar fund size</h3><div class="tw">${table}</div>
+    <h3>Three-year trend</h3><div class="tw">${trend}</div>
+    ${top5?`<h3>Largest ${latest} recipients</h3><div class="tw"><table class="cmpt rpt"><thead><tr><th>Recipient</th><th>Type</th><th>Award</th><th>Paid nights reported</th></tr></thead><tbody>${top5}</tbody></table></div>`:''}
+    ${recs.length?`<h3>Things worth considering</h3><ul class="rrec">${recs.map(x=>`<li>${x}</li>`).join('')}</ul>`:''}
+    <p class="hint2">Room nights are recipients' own reports to the jurisdiction and are not audited. "Peers" are the programs of the same type whose fund is within 40 percent of ${esc(r.name)}'s. Figures marked est. are derived from award lists where the jurisdiction publishes no pool total. Full detail for every number is on the directory card and in the Benchmarks tab at ${location.host||'the site'}.</p>
+    <div class="rbtns noprint"><button type="button" class="btn" onclick="window.print()">Print or save as PDF</button> <button type="button" class="btn ghost2" data-cmp="${esc(r.name)}">Open in compare</button> <a class="btn ghost2" href="#j-${slug(r.name)}">Directory card</a></div>
+  </div>`;
+}
+function showReport(name){ const r=data.find(x=>x.name===name); const el=document.getElementById('reportBody'); if(!r){ el.innerHTML='<p class="empty">Jurisdiction not found.</p>'; return; } el.innerHTML=reportHtml(r); document.getElementById('rp-pick').value=name; }
+(function(){ const pick=document.getElementById('rp-pick'); if(!pick) return;
+  data.filter(r=>r.has_ltac_grants||r.jlarc).sort((a,b)=>a.name.localeCompare(b.name)).forEach(r=>{const o=document.createElement('option');o.value=r.name;o.textContent=r.name;pick.appendChild(o);});
+  pick.addEventListener('change',()=>{ if(pick.value) location.hash='#report='+encodeURIComponent(pick.value); });
 })();
