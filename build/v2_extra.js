@@ -89,7 +89,7 @@ function drawMap(){
   const proj=(STATE==='OR'?d3.geoAlbers().rotate([120.5,0]).parallels([43,45.5]):d3.geoAlbers().rotate([120,0]).parallels([46,48.5])).fitExtent([[10,10],[W-10,H-10]],counties);
   const path=d3.geoPath(proj);
   const byCounty={}; data.filter(r=>r.type==='county').forEach(r=>byCounty[r.county]=r);
-  const cities=data.filter(r=>r.type==='city' && CITY_XY[r.name]);
+  const CXY=STATE==='OR'?(META.cities_or||{}):CITY_XY; const cities=data.filter(r=>r.type==='city' && CXY[r.name]);
   const g=el('g',{}); svg.appendChild(g);
   const tip=document.getElementById('maptip'), wrap=document.querySelector('.mapwrap');
   function showTip(ev,html){ tip.innerHTML=html; tip.hidden=false; const b=wrap.getBoundingClientRect(); let x=ev.clientX-b.left+12, y=ev.clientY-b.top+12; if(x+270>b.width) x=b.width-270; tip.style.left=x+'px'; tip.style.top=y+'px'; }
@@ -104,7 +104,7 @@ function drawMap(){
   counties.features.forEach(d=>{const c=path.centroid(d); const t=el('text',{class:'lbl','text-anchor':'middle',x:c[0],y:c[1]+3}); t.textContent=d.properties.name; g.appendChild(t);});
   const cg=el('g',{}); svg.appendChild(cg);
   const circles=cities.map(r=>{
-    const xy=proj([CITY_XY[r.name][1],CITY_XY[r.name][0]]);
+    const xy=proj([CXY[r.name][1],CXY[r.name][0]]);
     const c=el('circle',{class:'city',cx:xy[0],cy:xy[1],r:5.5}); c.__r=r;
     c.addEventListener('mousemove',ev=>showTip(ev,tipFor(r))); c.addEventListener('mouseleave',hideTip); c.addEventListener('click',()=>{location.hash='#j-'+slug(r.name);});
     cg.appendChild(c); return c;
