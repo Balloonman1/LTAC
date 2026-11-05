@@ -114,7 +114,8 @@
   <div class="cmpbar"><input id="t-q" type="search" list="t-list" placeholder="Organization name, for example Tulip Festival" aria-label="Organization"><datalist id="t-list"></datalist><button class="btn" id="t-go" type="button">Look up</button></div>
   <div id="trackOut"></div>
   <h3 class="gcal-h">Most funded organizations</h3>
-  <p class="hint2">Ranked by total lodging tax awarded across every jurisdiction and year on record. Click a name for its track record.</p>
+  <div class="seg" id="trackSort" role="group" aria-label="Rank by"><button type="button" data-s="awards" aria-pressed="true">Most awards</button><button type="button" data-s="juris" aria-pressed="false">Most jurisdictions</button><button type="button" data-s="dollars" aria-pressed="false">Most dollars</button></div>
+  <p class="hint2" id="trackHint"></p>
   <div id="trackTop"></div>
 </div></div>
 <!-- ============ LIBRARY ============ -->

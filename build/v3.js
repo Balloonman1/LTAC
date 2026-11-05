@@ -37,9 +37,10 @@ function changesHtml(r){ const c=CH()[r.name]; if(!c||!c.length) return ''; retu
 /* ================= applicant track record ================= */
 const T_KEY=s=>String(s||'').toLowerCase().replace(/&/g,' and ').replace(/[^a-z0-9 ]+/g,' ').replace(/\b(inc|llc|the|co|corp|corporation|ltd|dba)\b/g,' ').replace(/\s+/g,' ').trim();
 let TGROUPS=null;
+const T_GENERIC=/^(chamber of commerce|visitor center|visitors center|visitor information center|city|county|parks and recreation|parks|tourism|marketing|chamber|downtown association|historical society|museum|fair|festival|arts council|main street)$/;
 function tGroups(){ if(TGROUPS) return TGROUPS; const g={};
-  TRACK.forEach(r=>{ const k=T_KEY(r[0]); if(!k) return; (g[k]=g[k]||{k,names:{},rows:[],total:0}); g[k].names[r[0]]=(g[k].names[r[0]]||0)+1; g[k].rows.push(r); g[k].total+=(+r[7]||0); });
-  Object.values(g).forEach(x=>{ x.name=Object.entries(x.names).sort((a,b)=>b[1]-a[1])[0][0]; x.juris=[...new Set(x.rows.map(r=>r[1]))]; x.states=[...new Set(x.rows.map(r=>r[2]))]; x.acts=[...new Set(x.rows.map(r=>r[5]).filter(Boolean))]; });
+  TRACK.forEach(r=>{ let k=T_KEY(r[0]); if(!k) return; if(T_GENERIC.test(k)) k+=' @'+T_KEY(r[1]); (g[k]=g[k]||{k,names:{},rows:[],total:0}); g[k].names[r[0]]=(g[k].names[r[0]]||0)+1; g[k].rows.push(r); g[k].total+=(+r[7]||0); });
+  Object.values(g).forEach(x=>{ x.name=Object.entries(x.names).sort((a,b)=>b[1]-a[1])[0][0]; x.juris=[...new Set(x.rows.map(r=>r[1]))]; x.states=[...new Set(x.rows.map(r=>r[2]))]; x.acts=[...new Set(x.rows.map(r=>r[5]).filter(Boolean))]; if(x.k.includes(' @')) x.name=x.name+' ('+x.juris[0]+')'; });
   return TGROUPS=g; }
 function tFind(q){ const k=T_KEY(q); if(!k) return []; const G=Object.values(tGroups());
   const exact=G.filter(x=>x.k===k); if(exact.length) return exact;
@@ -52,9 +53,18 @@ function initTrack(){
   const go=()=>{ const v=document.getElementById('t-q').value.trim(); if(v) location.hash='#track='+encodeURIComponent(v); };
   document.getElementById('t-go').addEventListener('click',go);
   document.getElementById('t-q').addEventListener('keydown',e=>{ if(e.key==='Enter'){ e.preventDefault(); go(); } });
-  const mine=G.filter(x=>x.states.includes(STATE)).slice(0,40);
-  document.getElementById('trackTop').innerHTML=mine.length?`<div class="tablewrap"><table class="bench"><thead><tr><th>Organization</th><th>Total awarded</th><th>Awards</th><th>Funders</th><th>Years</th></tr></thead><tbody>${mine.map(x=>{const ys=[...new Set(x.rows.map(r=>r[3]).filter(Boolean))].sort();return `<tr><td><a href="#track=${encodeURIComponent(x.name)}">${esc(x.name)}</a></td><td class="num">${money(Math.round(x.total))}</td><td class="num">${x.rows.length}</td><td>${esc(x.juris.slice(0,4).join(', '))}${x.juris.length>4?' +'+(x.juris.length-4):''}</td><td>${ys.length?ys[0]+(ys.length>1?'–'+ys[ys.length-1]:''):''}</td></tr>`;}).join('')}</tbody></table></div>`:'<p class="empty">No award records for this state yet.</p>';
+  drawTrackTop('awards');
+  document.getElementById('trackSort').addEventListener('click',e=>{ const b=e.target.closest('button'); if(!b) return; document.querySelectorAll('#trackSort button').forEach(x=>x.setAttribute('aria-pressed',x===b)); drawTrackTop(b.dataset.s); });
   const h=(location.hash||''); if(h.startsWith('#track=')) showTrack(decodeURIComponent(h.slice(7)));
+}
+const T_LABEL={E:'events',M:'marketing',F:'facilities',O:'other'};
+function trackKind(x){ const t={}; x.rows.forEach(r=>t[r[4]]=(t[r[4]]||0)+1); return Object.entries(t).sort((a,b)=>b[1]-a[1]).map(([k,v])=>v+' '+(T_LABEL[k]||k)).join(', '); }
+function drawTrackTop(mode){
+  const G=Object.values(tGroups()).filter(x=>x.states.includes(STATE)).map(x=>({...x,n:x.rows.filter(r=>r[2]===STATE).length,j:[...new Set(x.rows.filter(r=>r[2]===STATE).map(r=>r[1]))]}));
+  const f={awards:(a,b)=>b.n-a.n||b.total-a.total,juris:(a,b)=>b.j.length-a.j.length||b.n-a.n,dollars:(a,b)=>b.total-a.total}[mode];
+  const L=G.sort(f).slice(0,50);
+  document.getElementById('trackHint').textContent={awards:'Ranked by number of lodging tax awards on record.',juris:'Ranked by how many different cities and counties have funded the organization. These are the groups working across several areas.',dollars:'Ranked by total lodging tax awarded across every jurisdiction and year on record.'}[mode]+' Click a name for its full record.';
+  document.getElementById('trackTop').innerHTML=L.length?`<div class="tablewrap"><table class="bench"><thead><tr><th>#</th><th>Organization</th><th>Awards</th><th>Jurisdictions</th><th>Total awarded</th><th>What for</th><th>Funded by</th><th>Years</th></tr></thead><tbody>${L.map((x,i)=>{const ys=[...new Set(x.rows.map(r=>r[3]).filter(Boolean))].sort();return `<tr><td class="num">${i+1}</td><td><a href="#track=${encodeURIComponent(x.name)}">${esc(x.name)}</a></td><td class="num">${x.n}</td><td class="num">${x.j.length}</td><td class="num">${money(Math.round(x.total))}</td><td>${esc(trackKind(x))}</td><td>${esc(x.j.slice(0,6).join(', '))}${x.j.length>6?' +'+(x.j.length-6):''}</td><td>${ys.length?ys[0]+(ys.length>1?'–'+ys[ys.length-1]:''):''}</td></tr>`;}).join('')}</tbody></table></div>`:'<p class="empty">No award records for this state yet.</p>';
 }
 function showTrack(q){
   if(!trackDone) initTrack();
